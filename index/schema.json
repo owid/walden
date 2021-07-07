@@ -1,0 +1,34 @@
+{
+    "type": "object",
+    "properties": {
+        "short_name": {
+            "type": "string",
+            "description": "A short unique internal identifier for this dataset."
+        },
+        "name": {
+            "type": "string",
+            "description": "The official name of this dataset."
+        },
+        "description": {
+            "type": "string",
+            "description": "A human readable description for what this dataset is."
+        },
+        "source_name": {
+            "type": "string",
+            "description": "The organisation responsible for publishing this data."
+        },
+        "url": {"type": "string"},
+        "source_data_url": {"type": "string"},
+        "owid_data_url": {"type": "string"},
+        "publication_year": {"type": "integer"},
+        "publication_date": {"type": "date"}
+    },
+    "$eitherOf": [
+        {
+            "required": ["name", "description", "url", "source_data_url", "owid_data_url", "publication_date"]
+        },
+        {
+            "required": ["name", "description", "url", "source_data_url", "owid_data_url", "publication_year"]
+        },
+
+}
