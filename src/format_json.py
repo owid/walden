@@ -54,6 +54,10 @@ def reformat(contents: str) -> str:
     doc = json.loads(contents)
     fake_file = io.StringIO()
     json.dump(doc, fake_file, indent=2)
+
+    # editors leave a newline at the end, we'll do the same
+    print(file=fake_file)
+
     return fake_file.getvalue()
 
 
