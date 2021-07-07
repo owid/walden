@@ -20,7 +20,7 @@ This repo contains a catalog of JSON metadata, representing datasets provided as
 
 To get the data locally, you can run "make fetch" to download everything to `data/`, or programmatically read the catalog and fetch just what you need.
 
-## Working with the codebase
+## Working with the catalog
 
 ### The basics
 
@@ -36,19 +36,28 @@ Fetch all data locally with:
 
 Or simply run `make` to see available commands.
 
-### Working with DigitalOcean (OWID staff only)
-
-Ask a colleague to give you access to DigitalOcean, where you can create an access token pair for Spaces.
-
-Once you have that, install `s3cmd` globally (`pip install s3cmd`) and configure it with `s3cmd --configure`. When asked for your S3 endpoint, set it to `nyc3.digitaloceanspaces.com`. If it is working, you should be able to run `s3cmd ls s3://walden/` and see the contents of that bucket.
-
 ## Adding to the catalog
+
+WARNING: the catalog is public, so do not add private or embargoed data to the catalog at this time
 
 1. **Create a stub JSON entry.** To add a new file to the catalog, firstly decide on whether it has a `namespace`, what its `short_name` should be, and identify its `publication_date` or `publication_year`. With these as your guide, create a JSON description at `index/<namespace>/<publication_year>/<short_name>.json`, starting with these fields.
 2. **Calculate and add the checksum.** You should download your file locally, calculate its md5 checksum, and that to the metadata too (e.g. `md5 -q myfilename.xlsx`).
-3. **Upload the a copy of the file.** Finally, you should upload the file to `s3://walden/<namespace>/<publication_year>/<filename>` (e.g. `s3cmd put -P myfilename s3://walden/un_fao/2019/`), and then add the resulting public URL to the metadata as the `owid_data_url` field.
-4. **Check it's correct.** Run `make test` to check your file against the schema, and if necessary, `make format` to reformat it.
-5. **Ship it!** Commit and push.
+3. **Check it's correct.** Run `make test` to check your file against the schema, and if necessary, `make format` to reformat it.
+4. **Ship it!** Commit and push.
+
+## Caching data in DigitalOcean (OWID staff only)
+
+We prefer to keep a cached copy of any data file in DigitalOcean, in case the original publisher retracts or moves it.
+
+1. Ask a colleague to give you access to DigitalOcean, where you can create an access token pair for Spaces.
+
+2. Once you have that, install `s3cmd` globally (`pip install s3cmd`) and configure it with `s3cmd --configure`. When asked for your S3 endpoint, set it to `nyc3.digitaloceanspaces.com`. If it is working, you should be able to run `s3cmd ls s3://walden/` and see the contents of that bucket.
+
+Now, you should aim to use a similar namespace + date folder structure on spaces, e.g. `s3://walden/<namespace>/<publication_year>/<filename>`. You can upload your file there and make it public with:
+
+`s3cmd put -P myfilename s3://walden/un_fao/2019/`
+
+Then add the resulting public URL to the metadata as the `owid_data_url` field.
 
 ## TODO
 
