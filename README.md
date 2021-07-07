@@ -22,6 +22,8 @@ To get the data locally, you can run "make fetch" to download everything to `dat
 
 ## Working with the codebase
 
+### The basics
+
 You need Python 3.8+ to use this repository, with `poetry` installed (`pip install poetry`).
 
 You many then run tests with:
@@ -33,6 +35,12 @@ Fetch all data locally with:
 `make fetch`
 
 Or simply run `make` to see available commands.
+
+### Working with DigitalOcean (OWID staff only)
+
+Ask a colleague to give you access to DigitalOcean, where you can create an access token pair for Spaces.
+
+Once you have that, install `s3cmd` globally (`pip install s3cmd`) and configure it with `s3cmd --configure`. When asked for your S3 endpoint, set it to `nyc3.digitaloceanspaces.com`. If it is working, you should be able to run `s3cmd ls s3://walden/` and see the contents of that bucket.
 
 ## Adding to the catalog
 
