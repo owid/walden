@@ -70,6 +70,7 @@ First prototype
 - [ ] (Lucas) Trial using the index for FAO - food security
     - [ ] Manually add JSON files for each data file
     - [ ] Upload copies of data files to our cache
+- [ ] Run "make test" equivalent as a Github action
 - [ ] Make an interactive helper script for adding a new file to the catalog
 
 Break, share with the team. If it's good, continue:
