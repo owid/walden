@@ -26,7 +26,7 @@ clean:
 	@echo '==> Deleting all downloaded data'
 	rm -rf data
 
-test: lint check-formatting check-typing unittest
+test: check-formatting lint check-typing unittest
 
 lint:
 	@echo '==> Linting'
