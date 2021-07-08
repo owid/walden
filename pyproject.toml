@@ -5,7 +5,7 @@ description = ""
 authors = ["Lars Yencken <lars@ourworldindata.org>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 jsonschema = "^3.2.0"
 click = "^8.0.1"
 sh = "^1.14.2"
