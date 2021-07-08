@@ -1,6 +1,6 @@
 # walden
 
-A prototype catalog of data sources that OWID's datasets are built from.
+_A prototype catalog of all upstream datasets used to build Our World In Data._
 
 ## Catalog structure
 
