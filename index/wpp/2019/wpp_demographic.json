@@ -1,6 +1,6 @@
 {
   "md5": "a0dc1033f5d8952739497fb0932ff240",
-  "namespace": "un_wpp",
+  "namespace": "wpp",
   "short_name": "wpp_demographic",
   "name": "UN World Population Prospects 2019 - Total Population Both Sexes",
   "description": "Total Population - Both Sexes. De facto population in a country, area or region as of 1 July of the year indicated. Figures are presented in thousands.",
