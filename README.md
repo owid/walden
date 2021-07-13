@@ -6,7 +6,7 @@ _A prototype catalog of all upstream datasets used to build Our World In Data._
 
 This repo contains a catalog of JSON metadata, representing datasets provided as is by large institutions or by researchers. For example, suppose the UN FAO provides a file `VeryImportantData.xlsx`. Then inside the `index/un_fao/` folder there will be a file `very_important_data.json` that looks like this:
 
-```
+```json
 {
   "md5": "a0dc1033f5d8952739497fb0932ff240",
   "namespace": "un_fao",
@@ -22,17 +22,28 @@ To get the data locally, you can run "make fetch" to download everything to `dat
 
 ## Working with the catalog
 
+
+You need Python 3.8+ to use this repository, with `poetry` installed (`pip install poetry`). 
+
+Then install the environment using
+
+```
+poetry install
+```
+
 ### The basics
 
-You need Python 3.8+ to use this repository, with `poetry` installed (`pip install poetry`).
+You may then run tests with:
 
-You many then run tests with:
-
-`make test`
+```
+make test
+```
 
 Fetch all data locally with:
 
-`make fetch`
+```
+make fetch
+```
 
 Or simply run `make` to see available commands.
 
@@ -55,7 +66,9 @@ We prefer to keep a cached copy of any data file in DigitalOcean, in case the or
 
 Now, you should aim to use a similar namespace + date folder structure on spaces, e.g. `s3://walden/<namespace>/<publication_year>/<filename>`. You can upload your file there and make it public with:
 
-`s3cmd put -P myfilename s3://walden/un_fao/2019/`
+```
+s3cmd put -P myfilename s3://walden/un_fao/2019/
+```
 
 Then add the resulting public URL to the metadata as the `owid_data_url` field.
 
