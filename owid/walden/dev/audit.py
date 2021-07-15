@@ -10,11 +10,7 @@ from os import path
 import click
 import jsonschema
 
-import catalog
-
-BASE_DIR = path.join(path.dirname(__file__), "..")
-SCHEMA_FILE = path.join(BASE_DIR, "schema.json")
-INDEX_GLOB = path.join(BASE_DIR, "index", "*.json")
+from owid.walden import catalog
 
 
 @click.command()

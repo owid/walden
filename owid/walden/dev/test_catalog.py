@@ -6,7 +6,7 @@
 
 from jsonschema import Draft7Validator, validate
 
-import catalog
+from owid.walden import catalog
 
 
 def test_schema():

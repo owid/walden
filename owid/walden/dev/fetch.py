@@ -10,7 +10,8 @@ from os import path
 import click
 import sh
 
-import catalog
+from owid.walden import catalog
+from owid.walden.utils import BASE_DIR
 
 
 @click.command()
@@ -27,7 +28,7 @@ def fetch(checksum: bool = True):
     """
     for document in catalog.iter_docs():
         dest_filename = catalog.get_local_filename(document)
-        base_filename = dest_filename[len(catalog.BASE_DIR) + 1 :]
+        base_filename = dest_filename[len(BASE_DIR) + 1 :]
         if not path.exists(dest_filename):
             click.echo(click.style("FETCH   ", fg="blue") + base_filename)
             download_file(document, dest_filename)
@@ -41,7 +42,7 @@ def fetch(checksum: bool = True):
 def download_file(doc: dict, dest_filename: str):
     # prefer our cached copy, but fall back to downloading directly
     url = doc.get("owid_data_url") or doc["source_data_url"]
-
+    print(dest_filename)
     sh.mkdir("-p", path.dirname(dest_filename))
     sh.wget("-O", dest_filename, url)
 

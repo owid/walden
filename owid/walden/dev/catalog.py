@@ -10,10 +10,7 @@ from typing import Iterator
 
 import sh
 
-BASE_DIR = path.join(path.dirname(__file__), "..")
-DATA_DIR = path.join(BASE_DIR, "data")
-SCHEMA_FILE = path.join(BASE_DIR, "schema.json")
-INDEX_DIR = path.join(BASE_DIR, "index")
+from owid.walden.utils import DATA_DIR, SCHEMA_FILE, INDEX_DIR
 
 
 def load_schema() -> dict:

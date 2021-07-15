@@ -12,8 +12,8 @@ from typing import Iterator
 
 import click
 
-import catalog
-from utils import bail
+from owid.walden import catalog
+from owid.walden.utils import bail, SCHEMA_FILE, INDEX_DIR
 
 
 @click.command()
@@ -41,8 +41,8 @@ def format_json(check: bool = False) -> None:
 
 
 def iter_json() -> Iterator[str]:
-    yield catalog.SCHEMA_FILE
-    yield from catalog.iter_json(catalog.INDEX_DIR)
+    yield SCHEMA_FILE
+    yield from catalog.iter_json(INDEX_DIR)
 
 
 def read(filename: str) -> str:
