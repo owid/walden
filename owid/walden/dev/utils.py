@@ -10,7 +10,7 @@ from typing import NoReturn
 
 
 # General paths
-BASE_DIR = path.join(path.dirname(__file__), "..", "..")
+BASE_DIR = path.join(path.dirname(__file__), "..", "..", "..")
 DATA_DIR = path.join(BASE_DIR, "data")
 SCHEMA_FILE = path.join(BASE_DIR, "schema.json")
 INDEX_DIR = path.join(BASE_DIR, "index")

@@ -5,7 +5,6 @@ import json
 
 
 class Dataset:
-
     def __init__(self, metadata: dict) -> None:
         self.metadata = metadata
 
@@ -31,4 +30,3 @@ class Catalog:
 
     def list_datasets(self) -> list:
         raise NotImplementedError()
-

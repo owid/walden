@@ -12,8 +12,8 @@ from typing import Iterator
 
 import click
 
-from owid.walden import catalog
-from owid.walden.utils import bail, SCHEMA_FILE, INDEX_DIR
+from owid.walden.dev import catalog
+from owid.walden.dev.utils import bail, SCHEMA_FILE, INDEX_DIR
 
 
 @click.command()

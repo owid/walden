@@ -10,7 +10,7 @@ from typing import Iterator
 
 import sh
 
-from owid.walden.utils import DATA_DIR, SCHEMA_FILE, INDEX_DIR
+from owid.walden.dev.utils import DATA_DIR, SCHEMA_FILE, INDEX_DIR
 
 
 def load_schema() -> dict:

@@ -10,8 +10,8 @@ from os import path
 import click
 import sh
 
-from owid.walden import catalog
-from owid.walden.utils import BASE_DIR
+from owid.walden.dev import catalog
+from owid.walden.dev.utils import BASE_DIR
 
 
 @click.command()

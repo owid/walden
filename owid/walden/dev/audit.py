@@ -4,13 +4,10 @@
 #  audit.py
 #  walden
 #
-
-from os import path
-
 import click
 import jsonschema
 
-from owid.walden import catalog
+from owid.walden.dev import catalog
 
 
 @click.command()

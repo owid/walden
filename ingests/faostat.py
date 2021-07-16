@@ -19,7 +19,7 @@ DATASET_NAMES = [
 
 class FAODataset:
     namespace: str = "faostat"
-    url: str =  "http://www.fao.org/faostat/en/#data"
+    url: str = "http://www.fao.org/faostat/en/#data"
     source_name: str = "Food and Agriculture Organization of the United Nations"
     _extra_metadata = {}
 
@@ -36,11 +36,13 @@ class FAODataset:
 
     @property
     def filename(self):
-        return os.path.basename(self._dataset_metadata['FileLocation'])
+        return os.path.basename(self._dataset_metadata["FileLocation"])
 
     @property
     def publication_year(self):
-        return datetime.strptime(self._dataset_metadata['DateUpdate'], "%Y-%m-%d").strftime("%Y")
+        return datetime.strptime(
+            self._dataset_metadata["DateUpdate"], "%Y-%m-%d"
+        ).strftime("%Y")
 
     @property
     def short_name(self):
@@ -48,7 +50,7 @@ class FAODataset:
 
     @property
     def source_data_url(self):
-        return self._dataset_metadata['FileLocation']
+        return self._dataset_metadata["FileLocation"]
 
     @property
     def walden_dataset_path(self):
@@ -56,7 +58,9 @@ class FAODataset:
 
     @property
     def catalog_dataset_path(self):
-        return os.path.join(self.catalog_dir, self.namespace, self.publication_year, self.short_name)
+        return os.path.join(
+            self.catalog_dir, self.namespace, self.publication_year, self.short_name
+        )
 
     @property
     def metadata(self):
@@ -68,10 +72,10 @@ class FAODataset:
             "namespace": self.namespace,
             "short_name": f"{self.namespace}_{self._dataset_metadata['DatasetCode']}",
             "name": f"{self._dataset_metadata['DatasetName']} - FAO ({self.publication_year})",
-            "description": self._dataset_metadata['DatasetDescription'],
+            "description": self._dataset_metadata["DatasetDescription"],
             "source_name": "Food and Agriculture Organization of the United Nations",
             "publication_year": self.publication_year,
-            "publication_date": self._dataset_metadata['DateUpdate'],
+            "publication_date": self._dataset_metadata["DateUpdate"],
             "url": self.url,
             "owid_data_url": self.owid_data_url,
             "source_data_url": self.source_data_url,
@@ -87,8 +91,11 @@ class FAODataset:
             str: Complete path to dataset in the local folder.
         """
         r = requests.get(self.source_data_url)
-        click.echo(click.style("DOWNLOAD   ", fg="blue") + f"{self.source_data_url} -> {output_file}")
-        with open(output_file, 'wb') as f:
+        click.echo(
+            click.style("DOWNLOAD   ", fg="blue")
+            + f"{self.source_data_url} -> {output_file}"
+        )
+        with open(output_file, "wb") as f:
             f.write(r.content)
 
     def to_walden(self):
@@ -108,8 +115,10 @@ class FAODataset:
 
 
 def load_datasets_metadata():
-    url_datasets = "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
-    datasets = requests.get(url_datasets).json()['Datasets']['Dataset']
+    url_datasets = (
+        "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
+    )
+    datasets = requests.get(url_datasets).json()["Datasets"]["Dataset"]
     return datasets
 
 

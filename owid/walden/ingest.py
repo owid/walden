@@ -21,17 +21,20 @@ def ingest_to_walden(local_path: str, walden_path: str, public: bool = False):
     """
     path = f"http://walden.nyc3.digitaloceanspaces.com/{walden_path}"
     if public:
-        extra_args = {'ACL':'public-read'}
+        extra_args = {"ACL": "public-read"}
     else:
         extra_args = {}
-    session = boto3.Session(profile_name='default')
+    session = boto3.Session(profile_name="default")
     client = session.client(
-        service_name='s3',
-        endpoint_url='https://nyc3.digitaloceanspaces.com',
+        service_name="s3",
+        endpoint_url="https://nyc3.digitaloceanspaces.com",
     )
     try:
         _ = client.upload_file(local_path, "walden", walden_path, ExtraArgs=extra_args)
-        click.echo(click.style("FILE UPLOADED TO WALDEN   ", fg="blue") + f"{local_path} -> {path}")
+        click.echo(
+            click.style("FILE UPLOADED TO WALDEN   ", fg="blue")
+            + f"{local_path} -> {path}"
+        )
     except ClientError as e:
         logging.error(e)
         return False
@@ -59,7 +62,7 @@ def add_to_catalog(metadata: dict, local_path: str, catalog_path: str):
     """
     metadata = _add_md5_to_metadata(metadata, local_path)
     os.makedirs(os.path.dirname(catalog_path), exist_ok=True)
-    with open(catalog_path, 'w') as f:
+    with open(catalog_path, "w") as f:
         json.dump(metadata, f, indent=2)
-        f.write('\n')
+        f.write("\n")
     click.echo(click.style("METADATA ADDED TO CATALOG   ", fg="blue") + catalog_path)
