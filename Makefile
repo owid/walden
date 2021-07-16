@@ -35,6 +35,7 @@ lint:
 check-formatting:
 	@echo '==> Checking formatting'
 	@poetry run black --check -q owid/walden
+	@poetry run black --check -q ingests/
 	@poetry run python owid/walden/dev/format_json.py --check
 
 check-typing:
@@ -47,7 +48,8 @@ unittest:
 
 format:
 	@echo '==> Reformatting files'
-	@poetry run black -q owid/walden/dev
+	@poetry run black -q owid/walden/
+	@poetry run black -q ingests/
 	@poetry run python owid/walden/dev/format_json.py
 
 watch:
