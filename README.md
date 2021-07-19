@@ -62,7 +62,7 @@ We prefer to keep a cached copy of any data file in DigitalOcean, in case the or
 
 1. Ask a colleague to give you access to DigitalOcean, where you can create an access token pair for Spaces.
 
-2. Once you have that, install `s3cmd` globally (`pip install s3cmd`) and configure it with `s3cmd --configure`. When asked for your S3 endpoint, set it to `nyc3.digitaloceanspaces.com`. If it is working, you should be able to run `s3cmd ls s3://walden/` and see the contents of that bucket.
+2. Once you have that, install `s3cmd` globally (`pip install s3cmd`) and configure it with `s3cmd --configure`. When asked for your S3 endpoint, set it to `nyc3.digitaloceanspaces.com`. Set DNS to `%(bucket)s.nyc3.digitaloceanspaces.com`, then everything else can use defaults. If it is working, you should be able to run `s3cmd ls s3://walden/` and see the contents of that bucket.
 
 Now, you should aim to use a similar namespace + date folder structure on spaces, e.g. `s3://walden/<namespace>/<publication_year>/<filename>`. You can upload your file there and make it public with:
 
