@@ -36,7 +36,7 @@ check-formatting:
 	@echo '==> Checking formatting'
 	@poetry run black --check -q owid/walden
 	@poetry run black --check -q ingests/
-	@poetry run python owid/walden/dev/format_json.py --check
+	@poetry run python -m owid.walden.dev.format_json --check
 
 check-typing:
 	@echo '==> Checking types'
@@ -44,7 +44,7 @@ check-typing:
 
 unittest:
 	@echo '==> Running unit tests'
-	@poetry run pytest
+	@PYTHONPATH=. poetry run pytest
 
 format:
 	@echo '==> Reformatting files'
