@@ -59,7 +59,7 @@ class FAODataset:
     @property
     def catalog_dataset_path(self):
         return os.path.join(
-            self.catalog_dir, self.namespace, self.publication_year, self.short_name
+            self.catalog_dir, self.namespace, self.publication_year, f"{self.short_name}.json"
         )
 
     @property
