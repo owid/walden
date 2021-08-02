@@ -1,4 +1,12 @@
-"""Ingestion of FAO data to Walden & Catalog."""
+"""Ingestion of FAO data to Walden & Catalog.
+
+Example usage:
+
+```
+poetry run python -m ingests.faostat --catalog_dir ${WALDEN_LOCAL_DIRECTORY}
+```
+
+"""
 
 
 from datetime import datetime
@@ -12,8 +20,8 @@ from owid.walden.ingest import ingest_to_walden, add_to_catalog
 
 
 DATASET_NAMES = [
-    "Food Security: Suite of Food Security Indicators",
-    "Production: Crops",
+    "Food Security and Nutrition: Suite of Food Security Indicators",  # FS
+    "Production: Crops and livestock products",  # QCL
 ]
 
 
@@ -58,8 +66,9 @@ class FAODataset:
 
     @property
     def catalog_dataset_path(self):
+        filename = f"{self.short_name}.json"
         return os.path.join(
-            self.catalog_dir, self.namespace, self.publication_year, f"{self.short_name}.json"
+            self.catalog_dir, self.namespace, self.publication_year, filename
         )
 
     @property
@@ -74,7 +83,7 @@ class FAODataset:
             "name": f"{self._dataset_metadata['DatasetName']} - FAO ({self.publication_year})",
             "description": self._dataset_metadata["DatasetDescription"],
             "source_name": "Food and Agriculture Organization of the United Nations",
-            "publication_year": self.publication_year,
+            "publication_year": int(self.publication_year),
             "publication_date": self._dataset_metadata["DateUpdate"],
             "url": self.url,
             "owid_data_url": self.owid_data_url,
