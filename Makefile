@@ -15,12 +15,12 @@ default:
 audit:
 	@echo '==> Auditing JSON records'
 	@poetry install &>/dev/null
-	poetry run python src/audit.py
+	poetry run python owid/walden/dev/audit.py
 
 fetch:
 	@echo '==> Fetching the full dataset'
 	@poetry install &>/dev/null
-	@poetry run python src/fetch.py
+	@poetry run python owid/walden/dev/fetch.py
 
 clean:
 	@echo '==> Deleting all downloaded data'
@@ -34,21 +34,23 @@ lint:
 
 check-formatting:
 	@echo '==> Checking formatting'
-	@poetry run black --check -q src
-	@poetry run python src/format_json.py --check
+	@poetry run black --check -q owid/walden
+	@poetry run black --check -q ingests/
+	@poetry run python -m owid.walden.dev.format_json --check
 
 check-typing:
 	@echo '==> Checking types'
-	@poetry run mypy src
+	@poetry run mypy owid/walden/dev
 
 unittest:
 	@echo '==> Running unit tests'
-	@poetry run pytest
+	@PYTHONPATH=. poetry run pytest
 
 format:
 	@echo '==> Reformatting files'
-	@poetry run black -q src
-	@poetry run python src/format_json.py
+	@poetry run black -q owid/walden/
+	@poetry run black -q ingests/
+	@poetry run python owid/walden/dev/format_json.py
 
 watch:
 	poetry run watchmedo shell-command -c 'clear; make test' --recursive --drop .
