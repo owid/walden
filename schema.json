@@ -33,20 +33,29 @@
     "owid_data_url": {
       "type": "string"
     },
+    "file_extension": {
+      "type": "string"
+    },
     "publication_year": {
       "type": "integer"
     },
     "publication_date": {
       "type": "string",
       "format": "date"
-    }
+    },
+    "date_accessed": {
+      "type": "string",
+      "format": "date"
+    },
   },
   "required": [
     "name",
     "description",
     "url",
     "source_data_url",
-    "md5"
+    "md5",
+    "file_extension",
+    "date_accessed"
   ],
   "$eitherOf": [
     {

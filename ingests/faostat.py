@@ -114,13 +114,19 @@ class FAODataset:
         places it in the walden local project repository.
         """
         with tempfile.NamedTemporaryFile() as f:
+            # XXX use the new methods we created
+
             # Download data
             self.download(output_file=f.name)
             # Upload data to Walden
             url = ingest_to_walden(f.name, self.walden_dataset_path, public=True)
             # Create and add metadata
             self.owid_data_url = url
-            add_to_catalog(self.metadata, f.name, self.catalog_dataset_path)
+            dataset = add_to_catalog(self.metadata, f.name)
+
+            # cache.add(dataset) ???
+            # cache.download(filename, path) ???
+            # dataset.upload() ???
 
 
 def load_datasets_metadata():

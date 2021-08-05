@@ -48,7 +48,7 @@ def _add_md5_to_metadata(metadata: dict, local_path: str):
     return metadata
 
 
-def add_to_catalog(metadata: dict, local_path: str, catalog_path: str):
+def add_to_catalog(metadata: dict, filename: str, upload: bool = False):
     """Add metadata to catalog.
 
     Additionally, it computes the md5 hash of the file, which is added to the metadata file.
@@ -60,7 +60,17 @@ def add_to_catalog(metadata: dict, local_path: str, catalog_path: str):
         local_path (str): Path to local data file. Used to compute the md5 hash.
         catalog_path (str): Path to catalog directory.
     """
-    metadata = _add_md5_to_metadata(metadata, local_path)
+    # checksum happens in here, copy to cache happens here
+    dataset = Dataset.create(metadata, filename)
+
+    if upload:
+        # add it to our DigitalOcean Space and set `owid_cache_url` 
+        dataset.upload()
+
+    # save the JSON to the local index
+    dataset.save()
+    
+    metadata = _add_md5_to_metadata(metadata, filename)
     os.makedirs(os.path.dirname(catalog_path), exist_ok=True)
     with open(catalog_path, "w") as f:
         json.dump(metadata, f, indent=2)

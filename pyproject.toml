@@ -11,6 +11,8 @@ jsonschema = "^3.2.0"
 click = "^8.0.1"
 sh = "^1.14.2"
 boto3 = "^1.17.112"
+dataclasses-json = "^0.5.4"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.910"
