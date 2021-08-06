@@ -147,11 +147,14 @@ class Dataset:
         Copy the local file to our cache. If the file is public, it updates the
         `owid_data_url` field.
         """
-        if not path.exists(self.local_path):
-            raise Exception(f"expected a copy at: {self.local_path}")
+        # download the file to the local cache if we don't have it already
+        self.ensure_downloaded()
 
+        # add it to our remote cache of data files
         dest_path = f"{self.relative_base}.{self.file_extension}"
         cache_url = owid_cache.upload(self.local_path, dest_path, public=public)
+
+        # remember how to access it
         self.owid_data_url = cache_url
 
     @property
