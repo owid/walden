@@ -46,7 +46,7 @@
     "date_accessed": {
       "type": "string",
       "format": "date"
-    },
+    }
   },
   "required": [
     "name",

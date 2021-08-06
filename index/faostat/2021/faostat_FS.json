@@ -9,5 +9,7 @@
   "url": "http://www.fao.org/faostat/en/#data",
   "owid_data_url": "http://walden.nyc3.digitaloceanspaces.com/faostat/2021/Food_Security_Data_E_All_Data_(Normalized).zip",
   "source_data_url": "http://fenixservices.fao.org/faostat/static/bulkdownloads/Food_Security_Data_E_All_Data_(Normalized).zip",
-  "md5": "9f08a93743dec7b402833294bfd5810b"
+  "file_extension": "zip",
+  "md5": "9f08a93743dec7b402833294bfd5810b",
+  "date_accessed": "2021-08-06"
 }
