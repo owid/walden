@@ -28,10 +28,12 @@
       "type": "string"
     },
     "source_data_url": {
-      "type": "string"
+      "type": "string",
+      "descrption": "The original download URL provided by the upstream source."
     },
     "owid_data_url": {
-      "type": "string"
+      "type": "string",
+      "description": "A URL for a copy of the dataset cached by OWID."
     },
     "file_extension": {
       "type": "string"
