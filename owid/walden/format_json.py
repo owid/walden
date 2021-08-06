@@ -12,8 +12,7 @@ from typing import Iterator
 
 import click
 
-from owid.walden.dev import catalog
-from owid.walden.dev.utils import bail, SCHEMA_FILE, INDEX_DIR
+from owid.walden import catalog, files, ui
 
 
 @click.command()
@@ -27,11 +26,11 @@ def format_json(check: bool = False) -> None:
         try:
             expected_contents = reformat(contents)
         except json.JSONDecodeError:
-            bail(f"{basename(filename)} is not a valid JSON file")
+            ui.bail(f"{basename(filename)} is not a valid JSON file")
 
         if contents != expected_contents:
             if check:
-                bail(
+                ui.bail(
                     f"{basename(filename)} is not well formatted, please run "
                     '"make format"',
                 )
@@ -41,8 +40,8 @@ def format_json(check: bool = False) -> None:
 
 
 def iter_json() -> Iterator[str]:
-    yield SCHEMA_FILE
-    yield from catalog.iter_json(INDEX_DIR)
+    yield catalog.SCHEMA_FILE
+    yield from files.iter_json(catalog.INDEX_DIR)
 
 
 def read(filename: str) -> str:

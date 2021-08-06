@@ -1,12 +1,17 @@
-# -*- coding: utf-8 -*-
 #
 #  test_catalog.py
-#  walden
+#
+#  Unit tests for basic catalog and dataset functionality.
 #
 
 from jsonschema import Draft7Validator, validate
 
-from owid.walden.dev import catalog
+from owid.walden import catalog
+
+
+def test_catalog_loads():
+    c = catalog.get_catalog()
+    assert c
 
 
 def test_schema():

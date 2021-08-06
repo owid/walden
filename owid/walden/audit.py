@@ -7,7 +7,7 @@
 import click
 import jsonschema
 
-from owid.walden.dev import catalog
+from owid.walden import catalog
 
 
 @click.command()

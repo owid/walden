@@ -1,23 +1,28 @@
 """Prototype."""
 
 
-from os import path, makedirs
+from os import path, makedirs, unlink as delete
 from dataclasses import dataclass
 import datetime as dt
-import hashlib
-from typing import Optional
+from typing import Optional, Iterator
 import json
 import shutil
 
 from dataclasses_json import dataclass_json
-import requests
 
+from . import owid_cache, files
 
 # our local copy
 CACHE_DIR = path.expanduser("~/.owid/walden")
 
+# this repository
+BASE_DIR = path.join(path.dirname(__file__), "..", "..")
+
 # our folder of JSON documents
-INDEX_DIR = path.join(path.dirname(__file__), "..", "..", "index")
+INDEX_DIR = path.join(BASE_DIR, "index")
+
+# the JSONschema that they must match
+SCHEMA_FILE = path.join(BASE_DIR, "schema.json")
 
 
 @dataclass_json
@@ -40,7 +45,6 @@ class Dataset:
     """
 
     # how we identify the dataset
-    md5: Optional[str]
     namespace: str  # a short source name
     short_name: str  # a slug, ideally unique, camel_case, no spaces
 
@@ -49,13 +53,17 @@ class Dataset:
     description: str
     source_name: str
     url: str
-    publication_year: Optional[int]
-    publication_date: Optional[dt.date]
+    date_accessed: str
 
     # how to get the data file
     source_data_url: str
-    owid_data_url: Optional[str]
     file_extension: str
+
+    # optional fields
+    md5: Optional[str] = None
+    publication_year: Optional[int] = None
+    publication_date: Optional[dt.date] = None
+    owid_data_url: Optional[str] = None
 
     @classmethod
     def download_and_create(cls, metadata: dict) -> "Dataset":
@@ -65,7 +73,7 @@ class Dataset:
         filename = dataset.ensure_downloaded()
 
         # set the md5
-        dataset["md5"] = checksum(filename)
+        dataset.md5 = files.checksum(filename)
 
         return dataset
 
@@ -77,7 +85,7 @@ class Dataset:
         dataset = Dataset.from_dict(metadata)  # type: ignore
 
         # set the md5
-        dataset["md5"] = checksum(filename)
+        dataset.md5 = files.checksum(filename)
 
         # copy the file into the cache
         dataset.add_to_cache(filename)
@@ -93,7 +101,8 @@ class Dataset:
 
         # make the parent folder
         parent_dir = path.dirname(cache_file)
-        makedirs(parent_dir)
+        if not path.isdir(parent_dir):
+            makedirs(parent_dir)
 
         shutil.copy(filename, cache_file)
 
@@ -102,14 +111,21 @@ class Dataset:
         with open(self.index_path, "w") as ostream:
             print(json.dumps(self.to_dict(), indent=2), file=ostream)  # type: ignore
 
+    def delete(self) -> None:
+        """
+        Remove this dataset record from the local catalog. It will still remain on Github
+        unless this change is committed and pushed there. Mostly useful for testing.
+        """
+        if path.exists(self.index_path):
+            delete(self.index_path)
+
     @property
     def index_path(self) -> str:
-        return path.join(
-            INDEX_DIR,
-            self.namespace,
-            self.version,
-            f"{self.short_name}.json",
-        )
+        return path.join(INDEX_DIR, f"{self.relative_base}.json")
+
+    @property
+    def relative_base(self):
+        return path.join(self.namespace, self.version, f"{self.short_name}")
 
     # if we always want to download to a local directory
     def ensure_downloaded(self) -> str:
@@ -118,26 +134,30 @@ class Dataset:
         if not path.exists(filename):
             # make the parent folder
             parent_dir = path.dirname(filename)
-            makedirs(parent_dir)
+            if not path.isdir(parent_dir):
+                makedirs(parent_dir)
 
             # actually get it
             url = self.owid_data_url or self.source_data_url
-            download(url, filename)
+            files.download(url, filename)
 
         return filename
 
-    def upload(self) -> None:
-        "Copy the local file to our cache."
-        pass
+    def upload(self, public: bool = False) -> None:
+        """
+        Copy the local file to our cache. If the file is public, it updates the
+        `owid_data_url` field.
+        """
+        if not path.exists(self.local_path):
+            raise Exception(f"expected a copy at: {self.local_path}")
+
+        dest_path = f"{self.relative_base}.{self.file_extension}"
+        cache_url = owid_cache.upload(self.local_path, dest_path, public=public)
+        self.owid_data_url = cache_url
 
     @property
     def local_path(self) -> str:
-        return path.join(
-            CACHE_DIR,
-            self.namespace,
-            self.version,
-            f"{self.short_name}.{self.file_extension}",
-        )
+        return path.join(CACHE_DIR, f"{self.relative_base}.{self.file_extension}")
 
     @property
     def version(self) -> str:
@@ -150,6 +170,10 @@ class Dataset:
         raise ValueError("no versioning field found")
 
 
+def get_catalog():
+    pass
+
+
 class Catalog:
     base_url: str = "http://walden.nyc3.digitaloceanspaces.com/"
 
@@ -160,16 +184,10 @@ class Catalog:
         raise NotImplementedError()
 
 
-def download(url: str, filename: str) -> None:
-    "Download the file at the URL to the given local filename."
-    with requests.get(url, stream=True) as r:
-        r.raise_for_status()
-        with open(filename, "wb") as f:
-            for chunk in r.iter_content(chunk_size=2 ** 14):  # 16k
-                f.write(chunk)
+def load_schema() -> dict:
+    with open(SCHEMA_FILE) as istream:
+        return json.load(istream)
 
 
-def checksum(local_path: str):
-    with open(local_path, "rb") as f:
-        md5 = hashlib.md5(f.read()).hexdigest()
-    return md5
+def iter_docs() -> Iterator[dict]:
+    return files.iter_docs(INDEX_DIR)

@@ -1,51 +1,8 @@
 """Tools to inges to Walden and Catalog."""
 
 
-import os
-import logging
-import hashlib
-import json
-
-import boto3
-from botocore.exceptions import ClientError
-import click
-
-
-def ingest_to_walden(local_path: str, walden_path: str, public: bool = False):
-    """Upload file to Walden.
-
-    Args:
-        local_path (str): Local path to file.
-        walden_path (str): Path where to store the file in Walden.
-        public (bool): Set to True to expose the file to the public (read only). Defaults to False.
-    """
-    path = f"http://walden.nyc3.digitaloceanspaces.com/{walden_path}"
-    if public:
-        extra_args = {"ACL": "public-read"}
-    else:
-        extra_args = {}
-    session = boto3.Session(profile_name="default")
-    client = session.client(
-        service_name="s3",
-        endpoint_url="https://nyc3.digitaloceanspaces.com",
-    )
-    try:
-        _ = client.upload_file(local_path, "walden", walden_path, ExtraArgs=extra_args)
-        click.echo(
-            click.style("FILE UPLOADED TO WALDEN   ", fg="blue")
-            + f"{local_path} -> {path}"
-        )
-    except ClientError as e:
-        logging.error(e)
-        return False
-    return path
-
-
-def _add_md5_to_metadata(metadata: dict, local_path: str):
-    with open(local_path, "rb") as f:
-        md5 = hashlib.md5(f.read()).hexdigest()
-    metadata["md5"] = md5
-    return metadata
+from .catalog import Dataset
+from .ui import log
 
 
 def add_to_catalog(metadata: dict, filename: str, upload: bool = False):
@@ -58,21 +15,15 @@ def add_to_catalog(metadata: dict, filename: str, upload: bool = False):
     Args:
         metadata (dict): Dictionary with metadata.
         local_path (str): Path to local data file. Used to compute the md5 hash.
-        catalog_path (str): Path to catalog directory.
     """
     # checksum happens in here, copy to cache happens here
-    dataset = Dataset.create(metadata, filename)
+    dataset = Dataset.copy_and_create(filename, metadata)
 
     if upload:
-        # add it to our DigitalOcean Space and set `owid_cache_url` 
-        dataset.upload()
+        # add it to our DigitalOcean Space and set `owid_cache_url`
+        dataset.upload(public=True)
 
     # save the JSON to the local index
     dataset.save()
-    
-    metadata = _add_md5_to_metadata(metadata, filename)
-    os.makedirs(os.path.dirname(catalog_path), exist_ok=True)
-    with open(catalog_path, "w") as f:
-        json.dump(metadata, f, indent=2)
-        f.write("\n")
-    click.echo(click.style("METADATA ADDED TO CATALOG   ", fg="blue") + catalog_path)
+
+    log("ADDED TO CATALOG", f"{dataset.relative_base}.json")
