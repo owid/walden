@@ -6,21 +6,29 @@
 
 from os import path, walk
 import hashlib
-from typing import Iterator
+from typing import Iterator, Optional
 import json
+from shutil import move  # noqa; re-exported for convenience
 
 import requests
 
 from .ui import log
 
 
-def download(url: str, filename: str) -> None:
+def download(url: str, filename: str, expected_md5: Optional[str] = None) -> None:
     "Download the file at the URL to the given local filename."
+    tmp_file = f"{filename}.tmp"
     with requests.get(url, stream=True) as r:
         r.raise_for_status()
-        with open(filename, "wb") as f:
+        with open(tmp_file, "wb") as f:
             for chunk in r.iter_content(chunk_size=2 ** 14):  # 16k
                 f.write(chunk)
+
+    if expected_md5:
+        if checksum(tmp_file) != expected_md5:
+            raise ChecksumDoesNotMatch(f"for file downloaded from {url}")
+
+    move(tmp_file, filename)
 
     log("DOWNLOADED", f"{url} -> {filename}")
 

@@ -4,7 +4,7 @@
 from os import path, makedirs, unlink as delete
 from dataclasses import dataclass
 import datetime as dt
-from typing import Optional, Iterator
+from typing import Optional, Iterator, List
 import json
 import shutil
 
@@ -127,7 +127,6 @@ class Dataset:
     def relative_base(self):
         return path.join(self.namespace, self.version, f"{self.short_name}")
 
-    # if we always want to download to a local directory
     def ensure_downloaded(self) -> str:
         "Download it if it hasn't already been downloaded. Return the local file path."
         filename = self.local_path
@@ -139,7 +138,7 @@ class Dataset:
 
             # actually get it
             url = self.owid_data_url or self.source_data_url
-            files.download(url, filename)
+            files.download(url, filename, expected_md5=self.md5)
 
         return filename
 
@@ -170,18 +169,19 @@ class Dataset:
         raise ValueError("no versioning field found")
 
 
-def get_catalog():
-    pass
-
-
 class Catalog:
-    base_url: str = "http://walden.nyc3.digitaloceanspaces.com/"
+    def __init__(self):
+        self.datasets: List[Dataset] = []
+        self.refresh()
 
-    def find_dataset(self) -> Dataset:
-        raise NotImplementedError()
+    def refresh(self):
+        self.datasets = [Dataset.from_dict(d) for d in iter_docs()]  # type: ignore
 
-    def list_datasets(self) -> list:
-        raise NotImplementedError()
+    def __iter__(self):
+        yield from iter(self.datasets)
+
+    def __len__(self):
+        return len(self.datasets)
 
 
 def load_schema() -> dict:

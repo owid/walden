@@ -8,43 +8,22 @@
 from os import path
 
 import click
-import sh
 
-from owid.walden.dev import catalog
-from owid.walden.dev.utils import BASE_DIR
+from owid.walden import Catalog, ui
 
 
 @click.command()
-@click.option(
-    "--checksum/--no-checksum",
-    is_flag=True,
-    default=True,
-    help="Verify each file against its checksum",
-)
-def fetch(checksum: bool = True):
+def fetch():
     """
     Fetch the full dataset file by file. Previously downloaded files are considered
     cached and are not re-downloaded.
     """
-    for document in catalog.iter_docs():
-        dest_filename = catalog.get_local_filename(document)
-        base_filename = dest_filename[len(BASE_DIR) + 1 :]
-        if not path.exists(dest_filename):
-            click.echo(click.style("FETCH   ", fg="blue") + base_filename)
-            download_file(document, dest_filename)
+    for dataset in Catalog():
+        if path.exists(dataset.local_path):
+            ui.log("CACHED", dataset.local_path)
+
         else:
-            click.echo(click.style("CACHED  ", fg="green") + base_filename)
-
-        if checksum:
-            catalog.verify_md5(dest_filename, document["md5"])
-
-
-def download_file(doc: dict, dest_filename: str):
-    # prefer our cached copy, but fall back to downloading directly
-    url = doc.get("owid_data_url") or doc["source_data_url"]
-    print(dest_filename)
-    sh.mkdir("-p", path.dirname(dest_filename))
-    sh.wget("-O", dest_filename, url)
+            dataset.ensure_downloaded()
 
 
 if __name__ == "__main__":
