@@ -92,6 +92,11 @@ class Dataset:
 
         return dataset
 
+    @classmethod
+    def from_file(cls, filename: str) -> "Dataset":
+        with open(filename) as istream:
+            return cls.from_json(istream.read())  # type: ignore
+
     def add_to_cache(self, filename: str) -> None:
         """
         Copy the pre-downloaded file into the cache. This avoids having to
