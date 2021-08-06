@@ -22,8 +22,7 @@ To get the data locally, you can run "make fetch" to download everything to `dat
 
 ## Working with the catalog
 
-
-You need Python 3.8+ to use this repository, with `poetry` installed (`pip install poetry`). 
+You need Python 3.8+ to use this repository, with `poetry` installed (`pip install poetry`).
 
 Then install the environment using
 
@@ -76,24 +75,24 @@ Then add the resulting public URL to the metadata as the `owid_data_url` field.
 
 First prototype
 
-- [X] (Lars) Validate entries against the schema with one command
-- [X] (Lars) One command to fetch all the data
-- [X] (Lars) A dedicated space for our source files
+- [x] (Lars) Validate entries against the schema with one command
+- [x] (Lars) One command to fetch all the data
+- [x] (Lars) A dedicated space for our source files
 - [ ] (Lars) Access for all data team members to the dedicated space
-- [ ] (Lucas) Trial using the index for FAO - food security
-    - [ ] Manually add JSON files for each data file
-    - [ ] Upload copies of data files to our cache
-- [X] Run "make test" equivalent as a Github action
+- [x] (Lucas) Trial using the index for FAO - food security
+  - [x] Manually add JSON files for each data file
+  - [x] Upload copies of data files to our cache
+- [x] Run "make test" equivalent as a Github action
 - [ ] Make an interactive helper script for adding a new file to the catalog
 
 Break, share with the team. If it's good, continue:
 
 - [ ] (Ed/Lucas) Add our existing importers datasets to the index
-    - [ ] faostat
-    - [ ] ihme_sdg
-    - [ ] povcal
-    - [ ] un_wpp
-    - [ ] vdem
-    - [ ] who_gho
-    - [ ] worldbank
-    - [ ] worldbank_wdi
+  - [ ] faostat
+  - [ ] ihme_sdg
+  - [ ] povcal
+  - [ ] un_wpp
+  - [ ] vdem
+  - [ ] who_gho
+  - [ ] worldbank
+  - [ ] worldbank_wdi
