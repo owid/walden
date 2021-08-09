@@ -2,9 +2,15 @@
 
 _A prototype catalog of all upstream datasets used to build Our World In Data._
 
+## Goals
+
+Walden is a _source catalog_, meaning a catalog of datasets that we use to build OWID, in their raw form. Today these datasets are committed to the [importers](https://github.com/owid/importers) repo, but this cannot be done if they are too large, and is unlikely to scale well into the future. Walden aims to replace this pattern in user-friendly way, and to be the foundation stage of a highly repeatable data infrastructure.
+
 ## Catalog structure
 
-This repo contains a catalog of JSON metadata, representing datasets provided as is by large institutions or by researchers. For example, suppose the UN FAO provides a file `VeryImportantData.xlsx`. Then inside the `index/un_fao/` folder there will be a file `very_important_data.json` that looks like this:
+The catalog is meant to be both human and machine readable. It is just JSON files living in the `index/` directory, where each file tells you about a dataset and gives a URL where you can download it from.
+
+For example, suppose the UN FAO provides a file `VeryImportantData.xlsx` in 2019. Then inside the `index/un_fao/2019/` folder there will be a file `very_important_data.json` that looks like this:
 
 ```json
 {
@@ -13,7 +19,7 @@ This repo contains a catalog of JSON metadata, representing datasets provided as
   "short_name": "very_important_data",
   "description": "...",
   "publication_year": 2019,
-  "owid_data_url": "https://walden.nyc.digitalocean.com/un_fao/2019/VeryImportantData.xlsx",
+  "owid_data_url": "https://walden.nyc.digitalocean.com/un_fao/2019/very_important_data.xlsx",
   ...
 }
 ```
@@ -50,26 +56,65 @@ Or simply run `make` to see available commands.
 
 WARNING: the catalog is public, so do not add private or embargoed data to the catalog at this time
 
-1. **Create a stub JSON entry.** To add a new file to the catalog, firstly decide on whether it has a `namespace`, what its `short_name` should be, and identify its `publication_date` or `publication_year`. With these as your guide, create a JSON description at `index/<namespace>/<publication_year>/<short_name>.json`, starting with these fields.
-2. **Calculate and add the checksum.** You should download your file locally, calculate its md5 checksum, and that to the metadata too (e.g. `md5 -q myfilename.xlsx`).
-3. **Check it's correct.** Run `make test` to check your file against the schema, and if necessary, `make format` to reformat it.
-4. **Ship it!** Commit and push.
+### Via API
 
-## Caching data in DigitalOcean (OWID staff only)
+Walden provides a Python API for adding new datasets:
 
-We prefer to keep a cached copy of any data file in DigitalOcean, in case the original publisher retracts or moves it.
+```python
+from owid.walden import Dataset
 
-1. Ask a colleague to give you access to DigitalOcean, where you can create an access token pair for Spaces.
+local_file = 'some_downloaded_file.xlsx'
+metadata = {
+  'name': 'my_special_dataset',
+  'namespace': 'some_institution',
+  'publication_year': 2021,
+  ...
+}
 
-2. Once you have that, install `s3cmd` globally (`pip install s3cmd`) and configure it with `s3cmd --configure`. When asked for your S3 endpoint, set it to `nyc3.digitaloceanspaces.com`. Set DNS to `%(bucket)s.nyc3.digitaloceanspaces.com`, then everything else can use defaults. If it is working, you should be able to run `s3cmd ls s3://walden/` and see the contents of that bucket.
+# upload the local file to Walden's cache
+dataset = Dataset.copy_and_create(metadata, local_file)
 
-Now, you should aim to use a similar namespace + date folder structure on spaces, e.g. `s3://walden/<namespace>/<publication_year>/<filename>`. You can upload your file there and make it public with:
-
+# save the JSON metadata locally in the right place
+dataset.save()
 ```
-s3cmd put -P myfilename s3://walden/un_fao/2019/
+
+You have to commit and push the JSON file in the `index/` folder to make it available to others:
+
+```bash
+git add index/
+git commit -m 'Add my shiny new dataset'
+git push
 ```
 
-Then add the resulting public URL to the metadata as the `owid_data_url` field.
+### Manually
+
+You can also do all of this manually:
+
+1. **Create a JSON metadata file.** Create a JSON metadata file at `index/<namespace>/<publication_year>/<short_name>.json` and fill out as many of the fields as you can in [the schema](https://github.com/owid/walden/blob/master/schema.json).
+2. **Calculate and add the checksum.** You should download the actual data file locally, calculate its md5 checksum, and that to the metadata too (e.g. `md5 -q myfilename.xlsx`).
+3. **Upload to the remote cache.** Upload your datafile to DigitalOcean spaces, (e.g. `s3cmd put --acl-public my_filename.xlsx s3://walden/<namespace>/<publication_year>/<short_name>.xlsx`), and add the URL it gives you to your metadata file as the `owid_data_url` variable
+4. **Check it's correct.** Run `make test` to check your file against the schema, and if necessary, `make format` to reformat it.
+5. **Ship it!** Commit and push.
+
+## Using the catalog
+
+A basic Python API is available, suggestions for improvement are most welcome:
+
+```python
+from owid.walden import Catalog
+
+catalog = Catalog()  # just a list of datasets, really
+
+for dataset in catalog:
+    # all schema attributes are available directly on the object
+    print(dataset.short_name)
+
+    # fetch the data file locally to ~/.owid/walden/
+    dataset.ensure_downloaded()
+
+    # do something with the data file
+    do_something(dataset.local_path)
+```
 
 ## TODO
 
@@ -83,7 +128,7 @@ First prototype
   - [x] Manually add JSON files for each data file
   - [x] Upload copies of data files to our cache
 - [x] Run "make test" equivalent as a Github action
-- [ ] Make an interactive helper script for adding a new file to the catalog
+- [ ] ~~Make an interactive helper script for adding a new file to the catalog~~
 
 Break, share with the team. If it's good, continue:
 
