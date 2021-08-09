@@ -78,7 +78,7 @@ First prototype
 - [x] (Lars) Validate entries against the schema with one command
 - [x] (Lars) One command to fetch all the data
 - [x] (Lars) A dedicated space for our source files
-- [ ] (Lars) Access for all data team members to the dedicated space
+- [x] (Lars) Access for all data team members to the dedicated space
 - [x] (Lucas) Trial using the index for FAO - food security
   - [x] Manually add JSON files for each data file
   - [x] Upload copies of data files to our cache
