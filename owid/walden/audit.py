@@ -20,7 +20,8 @@ def audit() -> None:
     i = 0
     for document in catalog.iter_docs():
         jsonschema.validate(document, schema)
-        check_url(document["source_data_url"])
+        if "source_data_url" in document:
+            check_url(document["source_data_url"])
         if "owid_data_url" in document:
             check_url(document["owid_data_url"])
         i += 1
