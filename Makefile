@@ -50,7 +50,7 @@ format:
 	@echo '==> Reformatting files'
 	@poetry run black -q owid/walden/
 	@poetry run black -q ingests/
-	@poetry run python owid/walden/dev/format_json.py
+	@poetry run python owid/walden/format_json.py
 
 watch:
 	poetry run watchmedo shell-command -c 'clear; make test' --recursive --drop .
