@@ -24,7 +24,7 @@ fetch:
 
 clean:
 	@echo '==> Deleting all downloaded data'
-	rm -rf data
+	rm -rf ~/.owid/walden
 
 test: check-formatting lint check-typing unittest
 
