@@ -56,10 +56,10 @@ class Dataset:
     date_accessed: str
 
     # how to get the data file
-    source_data_url: str
     file_extension: str
 
     # optional fields
+    source_data_url: Optional[str] = None
     md5: Optional[str] = None
     publication_year: Optional[int] = None
     publication_date: Optional[dt.date] = None
@@ -168,11 +168,11 @@ class Dataset:
 
     @property
     def version(self) -> str:
-        if self.publication_year:
-            return str(self.publication_year)
-
-        elif self.publication_date:
+        if self.publication_date:
             return str(self.publication_date)
+
+        elif self.publication_year:
+            return str(self.publication_year)
 
         raise ValueError("no versioning field found")
 
