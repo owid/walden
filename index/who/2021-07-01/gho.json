@@ -10,5 +10,6 @@
   "md5": "e258158a79803b6b7d472432e8764078",
   "publication_year": 2021,
   "publication_date": "2021-07-01",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/who/2021-07-01/gho.zip"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/who/2021-07-01/gho.zip",
+  "license_url": "https://www.who.int/about/policies/publishing/data-policy/terms-and-conditions"
 }

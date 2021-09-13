@@ -48,6 +48,10 @@
     "date_accessed": {
       "type": "string",
       "format": "date"
+    },
+    "license_url": {
+      "type": "string",
+      "description": "A link to the license under which this data is distributed."
     }
   },
   "required": [
@@ -56,7 +60,8 @@
     "url",
     "md5",
     "file_extension",
-    "date_accessed"
+    "date_accessed",
+    "license_url"
   ],
   "$eitherOf": [
     {
