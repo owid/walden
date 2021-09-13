@@ -52,6 +52,10 @@
     "license_url": {
       "type": "string",
       "description": "A link to the license under which this data is distributed."
+    },
+    "license_name": {
+      "type": "string",
+      "description": "A short name for the license, if it is a commonly-used one."
     }
   },
   "required": [

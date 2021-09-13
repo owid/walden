@@ -11,5 +11,7 @@
   "md5": "0a731c3f89640b2377c5a32ccce26e3b",
   "publication_year": 2021,
   "publication_date": "2021-03-18",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/faostat/2021/faostat_QCL.zip"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/faostat/2021/faostat_QCL.zip",
+  "license_url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+  "license_name": "CC BY-NC-SA 3.0 IGO"
 }
