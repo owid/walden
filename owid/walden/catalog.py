@@ -143,6 +143,10 @@ class Dataset:
 
             # actually get it
             url = self.owid_data_url or self.source_data_url
+            if not url:
+                raise Exception(
+                    f"dataset {self.name} has neither source_data_url nor owid_data_url"
+                )
             files.download(url, filename, expected_md5=self.md5)
 
         return filename
