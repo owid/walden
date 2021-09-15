@@ -63,7 +63,10 @@ class FAODataset:
         return {
             "namespace": self.namespace,
             "short_name": f"{self.namespace}_{self._dataset_metadata['DatasetCode']}",
-            "name": f"{self._dataset_metadata['DatasetName']} - FAO ({self.publication_year})",
+            "name": (
+                f"{self._dataset_metadata['DatasetName']} - FAO"
+                f" ({self.publication_year})"
+            ),
             "description": self._dataset_metadata["DatasetDescription"],
             "source_name": "Food and Agriculture Organization of the United Nations",
             "publication_year": int(self.publication_year),
@@ -72,6 +75,8 @@ class FAODataset:
             "url": self.url,
             "source_data_url": self.source_data_url,
             "file_extension": "zip",
+            "license_url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+            "license_name": "CC BY-NC-SA 3.0 IGO",
         }
 
     def to_walden(self):
