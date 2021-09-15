@@ -58,12 +58,16 @@ class Dataset:
     # how to get the data file
     file_extension: str
 
+    # license
+    license_url: str
+
     # optional fields
     source_data_url: Optional[str] = None
     md5: Optional[str] = None
     publication_year: Optional[int] = None
     publication_date: Optional[dt.date] = None
     owid_data_url: Optional[str] = None
+    license_name: str = None
 
     @classmethod
     def download_and_create(cls, metadata: dict) -> "Dataset":

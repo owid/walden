@@ -7,9 +7,11 @@
   "url": "http://www.fao.org/faostat/en/#data",
   "date_accessed": "2021-09-15",
   "file_extension": "zip",
+  "license_url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
   "source_data_url": "http://fenixservices.fao.org/faostat/static/bulkdownloads/Food_Security_Data_E_All_Data_(Normalized).zip",
   "md5": "d2dfbcb4d12706c69b07ca3d5e7e9cc2",
   "publication_year": 2021,
   "publication_date": "2021-08-18",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/faostat/2021-08-18/faostat_FS.zip"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/faostat/2021-08-18/faostat_FS.zip",
+  "license_name": "CC BY-NC-SA 3.0 IGO"
 }
