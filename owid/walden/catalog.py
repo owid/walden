@@ -19,7 +19,7 @@ CACHE_DIR = path.expanduser("~/.owid/walden")
 BASE_DIR = path.join(path.dirname(__file__), "..", "..")
 
 # our folder of JSON documents
-INDEX_DIR = path.join(BASE_DIR, "index")
+INDEX_DIR = path.abspath(path.join(BASE_DIR, "index"))
 
 # the JSONschema that they must match
 SCHEMA_FILE = path.join(BASE_DIR, "schema.json")
@@ -58,12 +58,16 @@ class Dataset:
     # how to get the data file
     file_extension: str
 
+    # license
+    license_url: str
+
     # optional fields
     source_data_url: Optional[str] = None
     md5: Optional[str] = None
     publication_year: Optional[int] = None
     publication_date: Optional[dt.date] = None
     owid_data_url: Optional[str] = None
+    license_name: Optional[str] = None
 
     @classmethod
     def download_and_create(cls, metadata: dict) -> "Dataset":
@@ -105,14 +109,12 @@ class Dataset:
         cache_file = self.local_path
 
         # make the parent folder
-        parent_dir = path.dirname(cache_file)
-        if not path.isdir(parent_dir):
-            makedirs(parent_dir)
-
+        create(cache_file)
         shutil.copy(filename, cache_file)
 
     def save(self) -> None:
         "Save any changes as JSON to the catalog."
+        create(self.index_path)
         with open(self.index_path, "w") as ostream:
             print(json.dumps(self.to_dict(), indent=2), file=ostream)  # type: ignore
 
@@ -137,9 +139,7 @@ class Dataset:
         filename = self.local_path
         if not path.exists(filename):
             # make the parent folder
-            parent_dir = path.dirname(filename)
-            if not path.isdir(parent_dir):
-                makedirs(parent_dir)
+            create(filename)
 
             # actually get it
             url = self.owid_data_url or self.source_data_url
@@ -203,3 +203,12 @@ def load_schema() -> dict:
 
 def iter_docs() -> Iterator[dict]:
     return files.iter_docs(INDEX_DIR)
+
+
+def create(filename) -> None:
+    """
+    Create directory to file. E.g., for filename 'a/b/c/file.csv' it will make sure 'a/b/c' exists.
+    """
+    parent_dir = path.dirname(filename)
+    if not path.isdir(parent_dir):
+        makedirs(parent_dir)
