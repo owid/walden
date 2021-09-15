@@ -67,7 +67,7 @@ class Dataset:
     publication_year: Optional[int] = None
     publication_date: Optional[dt.date] = None
     owid_data_url: Optional[str] = None
-    license_name: str = None
+    license_name: Optional[str] = None
 
     @classmethod
     def download_and_create(cls, metadata: dict) -> "Dataset":
