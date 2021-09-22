@@ -60,3 +60,9 @@ def test_catalog_find_one_too_few():
     catalog = Catalog()
     with pytest.raises(Exception):
         catalog.find_one("highly_unlikely_namespace")
+
+
+def test_catalog_find_latest():
+    catalog = Catalog()
+    dataset = catalog.find_latest("who", "gho")
+    assert isinstance(dataset, Dataset)
