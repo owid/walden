@@ -203,11 +203,10 @@ class Catalog:
     ) -> List[Dataset]:
         results = []
         for dataset in self:
-            print(dataset.namespace, dataset.version, dataset.short_name)
             if (
                 (not namespace or dataset.namespace == namespace)
                 and (not version or dataset.version == version)
-                and (not short_name or dataset.short_name)
+                and (not short_name or dataset.short_name == short_name)
             ):
                 results.append(dataset)
 

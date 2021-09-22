@@ -5,6 +5,7 @@
 #
 
 from jsonschema import Draft7Validator, validate
+import pytest
 
 from owid.walden.catalog import Dataset, Catalog, load_schema, iter_docs
 
@@ -31,3 +32,31 @@ def test_catalog_loads():
     # everything in it is a dataset
     for dataset in catalog:
         assert isinstance(dataset, Dataset)
+
+
+def test_catalog_find():
+    catalog = Catalog()
+    matches = catalog.find(namespace="faostat")
+    assert len(matches) > 2
+    assert all(isinstance(d, Dataset) for d in matches)
+
+
+def test_catalog_find_one_success():
+    catalog = Catalog()
+    dataset = catalog.find_one("who", "2021-07-01", "gho")
+    assert isinstance(dataset, Dataset)
+
+
+def test_catalog_find_one_too_many():
+    catalog = Catalog()
+    with pytest.raises(Exception):
+        catalog.find_one()
+
+    with pytest.raises(Exception):
+        catalog.find_one("who")
+
+
+def test_catalog_find_one_too_few():
+    catalog = Catalog()
+    with pytest.raises(Exception):
+        catalog.find_one("highly_unlikely_namespace")
