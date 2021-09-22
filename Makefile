@@ -30,7 +30,7 @@ test: check-formatting lint check-typing unittest
 
 lint:
 	@echo '==> Linting'
-	@poetry run flake8
+	@poetry run flake8 owid
 
 check-formatting:
 	@echo '==> Checking formatting'
