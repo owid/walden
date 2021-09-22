@@ -228,6 +228,15 @@ class Catalog:
 
         return matches[0]
 
+    def find_latest(
+        self,
+        namespace: Optional[str] = None,
+        short_name: Optional[str] = None,
+    ) -> Dataset:
+        matches = self.find(namespace=namespace, short_name=short_name)
+        _, dataset = max((d.version, d) for d in matches)
+        return dataset
+
 
 def load_schema() -> dict:
     with open(SCHEMA_FILE) as istream:
