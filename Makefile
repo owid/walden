@@ -12,14 +12,16 @@ default:
 	@echo '  make clean     Delete any fetched data files'
 	@echo
 
-audit:
+.venv: pyproject.toml poetry.toml poetry.lock
+	poetry install
+	touch $@
+
+audit: .venv
 	@echo '==> Auditing JSON records'
-	@poetry install &>/dev/null
 	poetry run python owid/walden/audit.py
 
-fetch:
+fetch: .venv
 	@echo '==> Fetching the full dataset'
-	@poetry install &>/dev/null
 	@poetry run python owid/walden/fetch.py
 
 clean:
@@ -28,29 +30,29 @@ clean:
 
 test: check-formatting lint check-typing unittest
 
-lint:
+lint: .venv
 	@echo '==> Linting'
 	@poetry run flake8 owid
 
-check-formatting:
+check-formatting: .venv
 	@echo '==> Checking formatting'
 	@poetry run black --check owid/walden
 	@poetry run black --check ingests/
 	@poetry run python -m owid.walden.format_json --check
 
-check-typing:
+check-typing: .venv
 	@echo '==> Checking types'
 	@poetry run mypy owid/walden
 
-unittest:
+unittest: .venv
 	@echo '==> Running unit tests'
 	@PYTHONPATH=. poetry run pytest
 
-format:
+format: .venv
 	@echo '==> Reformatting files'
 	@poetry run black -q owid/walden/
 	@poetry run black -q ingests/
 	@poetry run python owid/walden/format_json.py
 
-watch:
+watch: .venv
 	poetry run watchmedo shell-command -c 'clear; make test' --recursive --drop .
