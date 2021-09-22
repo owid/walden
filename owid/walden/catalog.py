@@ -16,7 +16,7 @@ from . import owid_cache, files
 CACHE_DIR = path.expanduser("~/.owid/walden")
 
 # this repository
-BASE_DIR = path.join(path.dirname(__file__), "..", "..")
+BASE_DIR = path.dirname(__file__)
 
 # our folder of JSON documents
 INDEX_DIR = path.abspath(path.join(BASE_DIR, "index"))
