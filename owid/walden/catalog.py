@@ -195,6 +195,39 @@ class Catalog:
     def __len__(self):
         return len(self.datasets)
 
+    def find(
+        self,
+        namespace: Optional[str] = None,
+        version: Optional[str] = None,
+        short_name: Optional[str] = None,
+    ) -> List[Dataset]:
+        results = []
+        for dataset in self:
+            print(dataset.namespace, dataset.version, dataset.short_name)
+            if (
+                (not namespace or dataset.namespace == namespace)
+                and (not version or dataset.version == version)
+                and (not short_name or dataset.short_name)
+            ):
+                results.append(dataset)
+
+        return results
+
+    def find_one(
+        self,
+        namespace: Optional[str] = None,
+        version: Optional[str] = None,
+        short_name: Optional[str] = None,
+    ) -> Dataset:
+        matches = self.find(namespace=namespace, version=version, short_name=short_name)
+
+        if len(matches) > 1:
+            raise Exception("too many matches for dataset")
+        elif len(matches) == 0:
+            raise KeyError("no match for dataset")
+
+        return matches[0]
+
 
 def load_schema() -> dict:
     with open(SCHEMA_FILE) as istream:
