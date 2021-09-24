@@ -56,6 +56,10 @@
     "license_name": {
       "type": "string",
       "description": "A short name for the license, if it is a commonly-used one."
+    },
+    "access_notes": {
+      "type": "string",
+      "description": "Any additional explanation required for how the data was accessed."
     }
   },
   "required": [
