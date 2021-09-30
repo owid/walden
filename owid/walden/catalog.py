@@ -135,7 +135,7 @@ class Dataset:
     def relative_base(self):
         return path.join(self.namespace, self.version, f"{self.short_name}")
 
-    def ensure_downloaded(self) -> str:
+    def ensure_downloaded(self, quiet=False) -> str:
         "Download it if it hasn't already been downloaded. Return the local file path."
         filename = self.local_path
         if not path.exists(filename):
@@ -148,7 +148,7 @@ class Dataset:
                 raise Exception(
                     f"dataset {self.name} has neither source_data_url nor owid_data_url"
                 )
-            files.download(url, filename, expected_md5=self.md5)
+            files.download(url, filename, expected_md5=self.md5, quiet=quiet)
 
         return filename
 

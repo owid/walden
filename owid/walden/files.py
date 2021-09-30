@@ -15,7 +15,9 @@ import requests
 from .ui import log
 
 
-def download(url: str, filename: str, expected_md5: Optional[str] = None) -> None:
+def download(
+    url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False
+) -> None:
     "Download the file at the URL to the given local filename."
     tmp_file = f"{filename}.tmp"
     with requests.get(url, stream=True) as r:
@@ -30,7 +32,8 @@ def download(url: str, filename: str, expected_md5: Optional[str] = None) -> Non
 
     move(tmp_file, filename)
 
-    log("DOWNLOADED", f"{url} -> {filename}")
+    if not quiet:
+        log("DOWNLOADED", f"{url} -> {filename}")
 
 
 def checksum(local_path: str):
