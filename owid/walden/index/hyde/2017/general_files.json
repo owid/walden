@@ -1,6 +1,6 @@
 {
   "namespace": "hyde",
-  "short_name": "general",
+  "short_name": "general_files",
   "name": "Hyde 3.2 (general files)",
   "description": "Metadata for the Hyde 3.2 dataset, such as country codes.",
   "publication_year": 2017,
