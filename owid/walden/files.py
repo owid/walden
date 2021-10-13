@@ -37,9 +37,15 @@ def download(
 
 
 def checksum(local_path: str):
+    md5 = hashlib.md5()
+    chunk_size = 2 ** 20  # 1MB
     with open(local_path, "rb") as f:
-        md5 = hashlib.md5(f.read()).hexdigest()
-    return md5
+        chunk = f.read(chunk_size)
+        while chunk:
+            md5.update(chunk)
+            chunk = f.read(chunk_size)
+
+    return md5.hexdigest()
 
 
 def iter_docs(folder) -> Iterator[dict]:
