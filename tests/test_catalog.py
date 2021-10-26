@@ -37,7 +37,7 @@ def test_catalog_loads():
 def test_catalog_find():
     catalog = Catalog()
     matches = catalog.find(namespace="faostat")
-    assert len(matches) > 2
+    assert len(matches) >= 2
     assert all(isinstance(d, Dataset) for d in matches)
 
 
