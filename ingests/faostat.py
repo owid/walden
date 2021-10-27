@@ -21,6 +21,8 @@ from owid.walden import files, add_to_catalog
 INCLUDED_DATASETS = [
     "Food Security and Nutrition: Suite of Food Security Indicators",  # FS
     "Production: Crops and livestock products",  # QCL
+    "Food Balance: Food Balances (-2013, old methodology and population)",  # FBSH
+    "Food Balance: Food Balances (2014-)",  # FBS
 ]
 
 
