@@ -116,8 +116,12 @@ class Dataset:
     def save(self) -> None:
         "Save any changes as JSON to the catalog."
         create(self.index_path)
+
+        # prune any keys with empty values
+        metadata = {k: v for k, v in self.to_dict().items() if v}
+
         with open(self.index_path, "w") as ostream:
-            print(json.dumps(self.to_dict(), indent=2), file=ostream)  # type: ignore
+            print(json.dumps(metadata, indent=2), file=ostream)  # type: ignore
 
     def delete(self) -> None:
         """
@@ -244,6 +248,7 @@ def load_schema() -> dict:
 
 
 def iter_docs() -> Iterator[Tuple[str, dict]]:
+    print(11111111)
     return files.iter_docs(INDEX_DIR)
 
 
