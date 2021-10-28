@@ -248,7 +248,6 @@ def load_schema() -> dict:
 
 
 def iter_docs() -> Iterator[Tuple[str, dict]]:
-    print(11111111)
     return files.iter_docs(INDEX_DIR)
 
 
