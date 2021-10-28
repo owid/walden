@@ -6,7 +6,7 @@
 
 from os import path, walk
 import hashlib
-from typing import Iterator, Optional
+from typing import Iterator, Optional, Tuple
 import json
 from shutil import move  # noqa; re-exported for convenience
 
@@ -48,12 +48,12 @@ def checksum(local_path: str):
     return md5.hexdigest()
 
 
-def iter_docs(folder) -> Iterator[dict]:
+def iter_docs(folder) -> Iterator[Tuple[str, dict]]:
     "Iterate over the JSON documents in the catalog."
     for filename in sorted(iter_json(folder)):
         try:
             with open(filename) as istream:
-                yield json.load(istream)
+                yield filename, json.load(istream)
 
         except json.decoder.JSONDecodeError:
             raise RecordWithInvalidJSON(filename)

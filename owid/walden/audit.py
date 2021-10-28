@@ -5,6 +5,8 @@
 #  walden
 #
 
+from pathlib import Path
+
 import click
 import jsonschema
 import requests
@@ -18,8 +20,10 @@ def audit() -> None:
     schema = catalog.load_schema()
 
     i = 0
-    for document in catalog.iter_docs():
+    for filename, document in catalog.iter_docs():
+        print(Path(filename).relative_to(catalog.INDEX_DIR))
         jsonschema.validate(document, schema)
+
         if "source_data_url" in document:
             check_url(document["source_data_url"])
         if "owid_data_url" in document:

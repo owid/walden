@@ -4,10 +4,12 @@
 #  Unit tests for basic catalog and dataset functionality.
 #
 
-from jsonschema import Draft7Validator, validate
+from pathlib import Path
+
+from jsonschema import Draft7Validator, validate, ValidationError
 import pytest
 
-from owid.walden.catalog import Dataset, Catalog, load_schema, iter_docs
+from owid.walden.catalog import INDEX_DIR, Dataset, Catalog, load_schema, iter_docs
 
 
 def test_schema():
@@ -19,8 +21,12 @@ def test_schema():
 def test_catalog_entries():
     "Make sure every catalog entry matches the schema."
     schema = load_schema()
-    for doc in iter_docs():
-        validate(doc, schema)
+    for filename, doc in iter_docs():
+        try:
+            validate(doc, schema)
+        except ValidationError as e:
+            print("Error in file:", Path(filename).relative_to(INDEX_DIR))
+            raise
 
 
 def test_catalog_loads():

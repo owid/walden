@@ -4,7 +4,7 @@
 from os import path, makedirs, unlink as delete
 from dataclasses import dataclass
 import datetime as dt
-from typing import Optional, Iterator, List
+from typing import Optional, Iterator, List, Tuple
 import json
 import shutil
 
@@ -188,7 +188,7 @@ class Catalog:
         self.refresh()
 
     def refresh(self):
-        self.datasets = [Dataset.from_dict(d) for d in iter_docs()]  # type: ignore
+        self.datasets = [Dataset.from_dict(d) for _, d in iter_docs()]  # type: ignore
 
     def __iter__(self):
         yield from iter(self.datasets)
@@ -243,7 +243,7 @@ def load_schema() -> dict:
         return json.load(istream)
 
 
-def iter_docs() -> Iterator[dict]:
+def iter_docs() -> Iterator[Tuple[str, dict]]:
     return files.iter_docs(INDEX_DIR)
 
 
