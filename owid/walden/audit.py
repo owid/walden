@@ -36,7 +36,7 @@ def audit() -> None:
 def check_url(url: str) -> None:
     "Make sure the URL is still valid."
     resp = requests.head(url)
-    if resp.status_code != 200:
+    if resp.status_code not in (200, 301, 302):
         raise InvalidOrExpiredUrl(url)
 
 
