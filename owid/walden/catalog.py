@@ -4,7 +4,7 @@
 from os import path, makedirs, unlink as delete
 from dataclasses import dataclass
 import datetime as dt
-from typing import Optional, Iterator, List, Tuple
+from typing import Any, Dict, Optional, Iterator, List, Tuple
 import json
 import shutil
 
@@ -184,6 +184,9 @@ class Dataset:
             return str(self.publication_year)
 
         raise ValueError("no versioning field found")
+
+    def to_dict(self) -> Dict[str, Any]:
+        ...
 
 
 class Catalog:
