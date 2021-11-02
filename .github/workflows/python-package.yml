@@ -11,7 +11,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: [3.8, 3.9]
+        python-version: ["3.8", "3.9", "3.10"]
 
     runs-on: ubuntu-latest
 
@@ -27,6 +27,7 @@ jobs:
       run: |
         pip install poetry
         poetry --version
+        poetry config experimental.new-installer false
 
     - name: Install packages
       run: |
