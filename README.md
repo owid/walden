@@ -1,5 +1,7 @@
 # walden
 
+![build status](https://github.com/owid/walden/actions/workflows/python-package.yml/badge.svg)
+
 _A prototype catalog of all upstream datasets used to build Our World In Data._
 
 ## Goals
