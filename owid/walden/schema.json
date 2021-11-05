@@ -6,7 +6,8 @@
     },
     "short_name": {
       "type": "string",
-      "description": "A short unique internal identifier for this dataset."
+      "description": "A short unique internal identifier for this dataset in camel case.",
+      "pattern": "^[a-z0-9_]+$"
     },
     "namespace": {
       "type": "string",

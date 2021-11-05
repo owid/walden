@@ -49,7 +49,7 @@ class FAODataset:
 
     @property
     def short_name(self):
-        return f"{self.namespace}_{self._dataset_metadata['DatasetCode']}"
+        return f"{self.namespace}_{self._dataset_metadata['DatasetCode'].lower()}"
 
     @property
     def source_data_url(self):
@@ -64,7 +64,7 @@ class FAODataset:
         """
         return {
             "namespace": self.namespace,
-            "short_name": f"{self.namespace}_{self._dataset_metadata['DatasetCode']}",
+            "short_name": f"{self.namespace}_{self._dataset_metadata['DatasetCode'].lower()}",
             "name": (
                 f"{self._dataset_metadata['DatasetName']} - FAO"
                 f" ({self.publication_year})"
