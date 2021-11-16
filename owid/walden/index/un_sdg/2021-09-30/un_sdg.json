@@ -1,0 +1,15 @@
+{
+  "namespace": "un_sdg",
+  "short_name": "un_sdg",
+  "name": "United Nations Sustainable Development Goals - United Nations (2021-10)",
+  "description": "Suite of Food Security Indicators presents the core set of food security indicators. Following the recommendation of experts gathered in the Committee on World Food Security (CFS) Round Table on hunger measurement, hosted at FAO headquarters in September 2011, an initial set of indicators aiming to capture various aspects of food insecurity is presented here. The choice of the indicators has been informed by expert judgment and the availability of data with sufficient coverage to enable comparisons across regions and over time. Many of these indicators are produced and published elsewhere by FAO and other international organizations. They are reported here in a single database with the aim of building a wide food security information system. More indicators will be added to this set as more data will become available. Indicators are classified along the four dimensions of food security -- availability, access, utilization and stability. For definitions of these indicators, see Definitions and standards below (under Item).",
+  "source_name": "Food and Agriculture Organization of the United Nations",
+  "url": "https://unstats.un.org/SDGAPI/swagger/",
+  "date_accessed": "2021-10-01",
+  "file_extension": "zip",
+  "license_url": "https://www.un.org/en/about-us/terms-of-use",
+  "md5": "76aa94b5e8c4e3716b88151438624ae0",
+  "publication_year": 2021,
+  "publication_date": "2021-09-30",
+  "owid_data_url": "http://nyc3.digitaloceanspaces.com/walden/un_sdg/2021-09-30/un_sdg.zip"
+}
