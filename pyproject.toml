@@ -13,6 +13,8 @@ sh = "^1.14.2"
 boto3 = "^1.17.112"
 dataclasses-json = "^0.5.4"
 requests = "^2.26.0"
+pandas = "^1.3.4"
+openpyxl = "^3.0.9"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.910"
