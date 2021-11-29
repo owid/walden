@@ -25,6 +25,13 @@ INCLUDED_DATASETS = [
     "Food Balance: Food Balances (2014-)",  # FBS
 ]
 
+INCLUDED_DATASETS_CODES = [
+    "FS",
+    "FBS",
+    "FBSH",
+    "QCL",
+]
+
 
 class FAODataset:
     namespace: str = "faostat"
@@ -91,6 +98,7 @@ class FAODataset:
         with tempfile.NamedTemporaryFile() as f:
             # fetch the file locally
             files.download(self.source_data_url, f.name)
+            # TODO: Unzip + add metadata
 
             # add it to walden, both locally, and to our remote file cache
             add_to_catalog(self.metadata, f.name, upload=True)
@@ -109,7 +117,7 @@ def main():
     faostat_catalog = load_faostat_catalog()
     for description in faostat_catalog:
         # Build FAODataset instance
-        if description["DatasetName"] in INCLUDED_DATASETS:
+        if description["DatasetCode"] in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
             # Run download pipeline
             faostat_dataset.to_walden()
