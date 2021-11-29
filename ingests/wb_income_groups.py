@@ -34,7 +34,6 @@ def create_metadata_dict():
         "source_data_url": SOURCE_DATA_URL,
         "description": load_metadata_description(),
         "date_accessed": datetime.now().date().strftime("%Y-%m-%d"),
-        # "md5": "d42a4975fe8fc69393a67a4d64b3d450",
         "publication_year": 2021,
         "publication_date": "2021-07-01",
         "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/wb/2021-07-01/wb_income.xlsx",
