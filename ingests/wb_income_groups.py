@@ -16,6 +16,7 @@ from owid.walden import files, add_to_catalog
 
 
 SOURCE_DATA_URL = "http://databank.worldbank.org/data/download/site-content/CLASS.xlsx"
+SHORT_NAME = "wb_income"
 
 
 def load_metadata_description():
@@ -27,8 +28,8 @@ def load_metadata_description():
 def create_metadata_dict():
     return {
         "namespace": "wb",
-        "short_name": "wb_income",
-        "name": "World Bank list of economies (June 2021)",
+        "short_name": SHORT_NAME,
+        "name": "World Bank list of economies - World Bank (July 2021)",
         "source_name": "World Bank",
         "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups",
         "source_data_url": SOURCE_DATA_URL,
@@ -36,7 +37,7 @@ def create_metadata_dict():
         "date_accessed": datetime.now().date().strftime("%Y-%m-%d"),
         "publication_year": 2021,
         "publication_date": "2021-07-01",
-        "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/wb/2021-07-01/wb_income.xlsx",
+        "owid_data_url": f"https://walden.nyc3.digitaloceanspaces.com/wb/2021-07-01/{SHORT_NAME}.xlsx",
         "file_extension": "xlsx",
         "license_name": "CC BY 4.0",
         "license_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
