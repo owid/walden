@@ -4,11 +4,13 @@
 #  Helpers for downloading and dealing with files.
 #
 
-from os import path, walk
+import tempfile
 import hashlib
-from typing import Iterator, Optional, Tuple
 import json
+
+from os import path, walk
 from shutil import move  # noqa; re-exported for convenience
+from typing import Iterator, Optional, Tuple
 
 import requests
 
@@ -19,26 +21,25 @@ def download(
     url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False
 ) -> None:
     "Download the file at the URL to the given local filename."
-    tmp_file = f"{filename}.tmp"
-    with requests.get(url, stream=True) as r:
+    md5 = hashlib.md5()
+    with (
+        tempfile.NamedTemporaryFile(mode="wb", delete=False) as temp,
+        requests.get(url, stream=True) as r,
+    ):
         r.raise_for_status()
-        with open(tmp_file, "wb") as f:
-            for chunk in r.iter_content(chunk_size=2 ** 14):  # 16k
-                f.write(chunk)
-
-    if expected_md5:
-        if checksum(tmp_file) != expected_md5:
+        for chunk in r.iter_content(chunk_size=2**14):  # 16k
+            temp.write(chunk)
+            md5.update(chunk)
+        if expected_md5 and md5.hexdigest() != expected_md5:
             raise ChecksumDoesNotMatch(f"for file downloaded from {url}")
-
-    move(tmp_file, filename)
-
+        move(temp.name, filename)
     if not quiet:
         log("DOWNLOADED", f"{url} -> {filename}")
 
 
-def checksum(local_path: str):
+def checksum(local_path: str) -> str:
     md5 = hashlib.md5()
-    chunk_size = 2 ** 20  # 1MB
+    chunk_size = 2**20  # 1MB
     with open(local_path, "rb") as f:
         chunk = f.read(chunk_size)
         while chunk:
