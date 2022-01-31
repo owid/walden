@@ -27,7 +27,7 @@ def download(
         requests.get(url, stream=True) as r,
     ):
         r.raise_for_status()
-        for chunk in r.iter_content(chunk_size=2 ** 14):  # 16k
+        for chunk in r.iter_content(chunk_size=2**14):  # 16k
             temp.write(chunk)
             md5.update(chunk)
         if expected_md5 and md5.hexdigest() != expected_md5:
@@ -39,7 +39,7 @@ def download(
 
 def checksum(local_path: str) -> str:
     md5 = hashlib.md5()
-    chunk_size = 2 ** 20  # 1MB
+    chunk_size = 2**20  # 1MB
     with open(local_path, "rb") as f:
         chunk = f.read(chunk_size)
         while chunk:
