@@ -72,3 +72,11 @@ def test_catalog_find_latest():
     catalog = Catalog()
     dataset = catalog.find_latest("who", "gho")
     assert isinstance(dataset, Dataset)
+
+
+def test_metadata_pruning():
+    """Make sure we're not losing metadata keys with False values."""
+    catalog = Catalog()
+    dataset = catalog.find_one("who", "2021-07-01", "gho")
+    dataset.is_public = False
+    assert dataset.metadata['is_public'] == False
