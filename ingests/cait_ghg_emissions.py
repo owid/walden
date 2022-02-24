@@ -47,7 +47,7 @@ S3_URL = "https://nyc3.digitaloceanspaces.com"
 S3_PROFILE_NAME = "default"
 # S3 bucket name and folder where dataset file will be stored.
 S3_BUCKET_NAME = "walden"
-S3_DATA_FILE = os.path.join(INSTITUTION_NAME, DATE_TAG, DATASET_NAME + ".zip")
+S3_DATA_FILE = os.path.join(INSTITUTION_NAME, DATE_TAG, DATASET_NAME + ".json.gz")
 # True to make S3 file readable by everyone.
 S3_MAKE_FILE_PUBLIC = True
 # Publication year of the CAIT dataset.
