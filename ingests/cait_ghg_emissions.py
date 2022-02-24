@@ -137,8 +137,8 @@ def save_compressed_data_to_file(data, data_file):
         Path to output file.
 
     """
-    with gzip.open(data_file, "wt", encoding="UTF-8") as output_file_:
-        json.dump(data, output_file_)
+    with gzip.open(data_file, "wt", encoding="UTF-8") as _output_file:
+        json.dump(data, _output_file)
 
 
 def upload_file_to_s3(
@@ -191,8 +191,9 @@ def create_new_data_entry_in_walden(
     output_dir = os.path.dirname(output_data_entry_file)
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir)
-    with open(output_data_entry_file, "w") as output_file:
-        json.dump(metadata, output_file, **{"indent": 2})
+    with open(output_data_entry_file, "w") as _output_file:
+        json.dump(metadata, _output_file, **{"indent": 2})
+        _output_file.write("\n")
 
 
 def create_md5_hash_for_file(data_file):
@@ -209,8 +210,8 @@ def create_md5_hash_for_file(data_file):
         MD5 hash for file.
 
     """
-    with open(data_file, "rb") as data_file_:
-        md5_hash = hashlib.md5(data_file_.read()).hexdigest()
+    with open(data_file, "rb") as _data_file:
+        md5_hash = hashlib.md5(_data_file.read()).hexdigest()
 
     return md5_hash
 
