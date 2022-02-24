@@ -51,7 +51,7 @@ S3_DATA_FILE = os.path.join(INSTITUTION_NAME, DATE_TAG, DATASET_NAME + ".zip")
 # True to make S3 file readable by everyone.
 S3_MAKE_FILE_PUBLIC = True
 # Publication year of the CAIT dataset.
-PUBLICATION_YEAR = "2021"
+PUBLICATION_YEAR = 2021
 # Publication date can be found in the notifications area, where they have a log of all updates.
 PUBLICATION_DATE = "2021-03-11"
 METADATA = {
