@@ -33,14 +33,14 @@ API_RECORDS_PER_REQUEST = 500
 # Time to wait between consecutive api requests.
 TIME_BETWEEN_REQUESTS = 0.1
 # Name of institution.
-INSTITUTION_NAME = 'cait'
+INSTITUTION_NAME = "cait"
 DATASET_NAME = "cait_ghg_emissions"
 CURRENT_DIR = os.path.abspath(os.path.dirname(__file__))
 # Path to Walden index folder and subfolders, where metadata for this dataset will be stored.
-WALDEN_INDEX_DIR = os.path.join(CURRENT_DIR, '..', 'owid', 'walden', 'index')
+WALDEN_INDEX_DIR = os.path.join(CURRENT_DIR, "..", "owid", "walden", "index")
 DATE_TAG = datetime.now().strftime("%Y-%m-%d")
 OUTPUT_DATA_ENTRY_DIR = os.path.join(WALDEN_INDEX_DIR, INSTITUTION_NAME, DATE_TAG)
-OUTPUT_DATA_ENTRY_FILE = os.path.join(OUTPUT_DATA_ENTRY_DIR, DATASET_NAME + '.json')
+OUTPUT_DATA_ENTRY_FILE = os.path.join(OUTPUT_DATA_ENTRY_DIR, DATASET_NAME + ".json")
 # Define S3 base URL.
 S3_URL = "https://nyc3.digitaloceanspaces.com"
 # Profile name to use for S3 client (as defined in .aws/config).
@@ -59,8 +59,8 @@ METADATA = {
     "short_name": DATASET_NAME,
     "name": f"Greenhouse gas emissions by country and sector (CAIT, {PUBLICATION_YEAR})",
     "description": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based "
-                   "on 100-year global warming potential factors for non-CO₂ gases. This data is published by country "
-                   "and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal.",
+    "on 100-year global warming potential factors for non-CO₂ gases. This data is published by country "
+    "and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal.",
     "source_name": "Climate Analysis Indicators Tool",
     "publication_year": PUBLICATION_YEAR,
     "publication_date": PUBLICATION_DATE,
@@ -78,8 +78,11 @@ METADATA = {
 ########################################################################################################################
 
 
-def fetch_all_data_from_api(api_url=CAIT_API_URL, api_records_per_request=API_RECORDS_PER_REQUEST,
-                            time_between_requests=TIME_BETWEEN_REQUESTS):
+def fetch_all_data_from_api(
+    api_url=CAIT_API_URL,
+    api_records_per_request=API_RECORDS_PER_REQUEST,
+    time_between_requests=TIME_BETWEEN_REQUESTS,
+):
     """Fetch all CAIT data from Climate Watch Data API.
 
     Parameters
@@ -134,12 +137,18 @@ def save_compressed_data_to_file(data, data_file):
         Path to output file.
 
     """
-    with gzip.open(data_file, "wt", encoding='UTF-8') as output_file_:
+    with gzip.open(data_file, "wt", encoding="UTF-8") as output_file_:
         json.dump(data, output_file_)
 
 
-def upload_file_to_s3(local_file, s3_path=S3_DATA_FILE, s3_bucket_name=S3_BUCKET_NAME, s3_profile_name=S3_PROFILE_NAME,
-                      s3_url=S3_URL, public=S3_MAKE_FILE_PUBLIC):
+def upload_file_to_s3(
+    local_file,
+    s3_path=S3_DATA_FILE,
+    s3_bucket_name=S3_BUCKET_NAME,
+    s3_profile_name=S3_PROFILE_NAME,
+    s3_url=S3_URL,
+    public=S3_MAKE_FILE_PUBLIC,
+):
     """Upload a local file to S3.
 
     Parameters
@@ -161,10 +170,14 @@ def upload_file_to_s3(local_file, s3_path=S3_DATA_FILE, s3_bucket_name=S3_BUCKET
     session = boto3.Session(profile_name=s3_profile_name)
     client = session.client(service_name="s3", endpoint_url=s3_url)
     extra_args = {"ACL": "public-read"} if public else {}
-    client.upload_file(Filename=local_file, Bucket=s3_bucket_name, Key=s3_path, ExtraArgs=extra_args)
+    client.upload_file(
+        Filename=local_file, Bucket=s3_bucket_name, Key=s3_path, ExtraArgs=extra_args
+    )
 
 
-def create_new_data_entry_in_walden(metadata, output_data_entry_file=OUTPUT_DATA_ENTRY_FILE):
+def create_new_data_entry_in_walden(
+    metadata, output_data_entry_file=OUTPUT_DATA_ENTRY_FILE
+):
     """Create a new data entry in Walden index.
 
     Parameters
@@ -179,7 +192,7 @@ def create_new_data_entry_in_walden(metadata, output_data_entry_file=OUTPUT_DATA
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir)
     with open(output_data_entry_file, "w") as output_file:
-        json.dump(metadata, output_file, **{'indent': 2})
+        json.dump(metadata, output_file, **{"indent": 2})
 
 
 def create_md5_hash_for_file(data_file):
@@ -211,7 +224,7 @@ def main():
         print("Saving fetched data as a compressed temporary file.")
         save_compressed_data_to_file(data=api_data, data_file=output_file)
         print("Getting md5 hash for file.")
-        METADATA['md5'] = create_md5_hash_for_file(output_file)
+        METADATA["md5"] = create_md5_hash_for_file(output_file)
         print(f"Uploading file to S3 in: {S3_BUCKET_NAME}/{S3_DATA_FILE}")
         upload_file_to_s3(local_file=output_file)
 
@@ -222,6 +235,7 @@ def main():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Download greenhouse gas emissions data from CAIT using the Climate Watch Data API, compress and "
-                    "upload data to S3, and add metadata to Walden index.")
+        "upload data to S3, and add metadata to Walden index."
+    )
     args = parser.parse_args()
     main()
