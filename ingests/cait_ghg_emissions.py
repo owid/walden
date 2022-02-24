@@ -70,7 +70,7 @@ METADATA = {
     "file_extension": "zip",
     "license_url": "https://www.climatewatchdata.org/about/permissions",
     "license_name": "Creative Commons CC BY 4.0",
-    "access_notes": "Fetched via API using walden/ingests/cait_ghg_emissions.py",
+    "access_notes": "Fetched via API using https://github.com/owid/walden/blob/master/ingests/cait_ghg_emissions.py",
     # MD5 hash will be added later.
     "md5": "",
 }
