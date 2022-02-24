@@ -67,7 +67,7 @@ METADATA = {
     "date_accessed": DATE_TAG,
     "url": CAIT_API_URL,
     "owid_data_url": os.path.join(S3_URL, S3_BUCKET_NAME, S3_DATA_FILE),
-    "file_extension": "zip",
+    "file_extension": "json.gz",
     "license_url": "https://www.climatewatchdata.org/about/permissions",
     "license_name": "Creative Commons CC BY 4.0",
     "access_notes": "Fetched via API using https://github.com/owid/walden/blob/master/ingests/cait_ghg_emissions.py",
@@ -127,7 +127,7 @@ def fetch_all_data_from_api(
 
 
 def save_compressed_data_to_file(data, data_file):
-    """Compress data and save it as a zip file.
+    """Compress data and save it as a gzipped JSON file.
 
     Parameters
     ----------
@@ -221,7 +221,7 @@ def main():
     api_data = fetch_all_data_from_api()
 
     with tempfile.TemporaryDirectory() as temp_dir:
-        output_file = os.path.join(temp_dir, f"file.zip")
+        output_file = os.path.join(temp_dir, f"file.json.gz")
         print("Saving fetched data as a compressed temporary file.")
         save_compressed_data_to_file(data=api_data, data_file=output_file)
         print("Getting md5 hash for file.")
