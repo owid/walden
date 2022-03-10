@@ -23,7 +23,7 @@ jobs:
       - name: Commit
         run: |
           git config user.email "tech@ourworldindata.org"
-          git config user.name "GitHub Action - triggered from walden"
+          git config user.name "GitHub Action"
           git add --all
-          git commit -m "Update submodules" || echo "No changes to commit"
+          git commit -m "chore: update walden to track walden master" || echo "No changes to commit"
           git push
