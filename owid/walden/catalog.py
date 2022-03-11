@@ -69,6 +69,7 @@ class Dataset:
     owid_data_url: Optional[str] = None
     license_name: Optional[str] = None
     access_notes: Optional[str] = None
+    is_public: Optional[bool] = True
 
     @classmethod
     def download_and_create(cls, metadata: dict) -> "Dataset":
@@ -113,15 +114,16 @@ class Dataset:
         create(cache_file)
         shutil.copy(filename, cache_file)
 
+    @property
+    def metadata(self) -> Dict[str, Any]:
+        # prune any keys with empty values
+        return {k: v for k, v in self.to_dict().items() if v is not None}
+
     def save(self) -> None:
         "Save any changes as JSON to the catalog."
         create(self.index_path)
-
-        # prune any keys with empty values
-        metadata = {k: v for k, v in self.to_dict().items() if v}
-
         with open(self.index_path, "w") as ostream:
-            print(json.dumps(metadata, indent=2), file=ostream)  # type: ignore
+            print(json.dumps(self.metadata, indent=2), file=ostream)  # type: ignore
 
     def delete(self) -> None:
         """
@@ -152,14 +154,16 @@ class Dataset:
                 raise Exception(
                     f"dataset {self.name} has neither source_data_url nor owid_data_url"
                 )
-            files.download(url, filename, expected_md5=self.md5, quiet=quiet)
+            if self.is_public:
+                files.download(url, filename, expected_md5=self.md5, quiet=quiet)
+            else:
+                owid_cache.download(url, filename, expected_md5=self.md5, quiet=quiet)
 
         return filename
 
     def upload(self, public: bool = False) -> None:
         """
-        Copy the local file to our cache. If the file is public, it updates the
-        `owid_data_url` field.
+        Copy the local file to our cache. It updates the `owid_data_url` field.
         """
         # download the file to the local cache if we don't have it already
         self.ensure_downloaded()
@@ -170,6 +174,8 @@ class Dataset:
 
         # remember how to access it
         self.owid_data_url = cache_url
+
+        self.is_public = public
 
     @property
     def local_path(self) -> str:

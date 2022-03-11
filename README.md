@@ -74,10 +74,13 @@ metadata = {
 }
 
 # upload the local file to Walden's cache
-dataset = Dataset.copy_and_create(metadata, local_file)
+dataset = Dataset.copy_and_create(local_file, metadata)
 
 # save the JSON metadata locally in the right place
 dataset.save()
+
+# upload the file to S3 as either public or private
+dataset.upload(public=True)
 ```
 
 You have to commit and push the JSON file in the `index/` folder to make it available to others:
