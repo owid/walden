@@ -76,11 +76,22 @@ metadata = {
 # upload the local file to Walden's cache
 dataset = Dataset.copy_and_create(local_file, metadata)
 
+# upload the file from URL to Walden's cache, make sure
+# to set `source_data_url`
+# dataset = Dataset.download_and_create(metadata)
+
 # save the JSON metadata locally in the right place
 dataset.save()
 
 # upload the file to S3 as either public or private
 dataset.upload(public=True)
+```
+
+or simply
+
+```python
+from owid.walden import add_to_catalog
+add_to_catalog(metadata, local_file, upload=True)
 ```
 
 You have to commit and push the JSON file in the `index/` folder to make it available to others:
@@ -90,6 +101,8 @@ git add index/
 git commit -m 'Add my shiny new dataset'
 git push
 ```
+
+It is a good practice to add the script you used for uploading the file to walden to [walden/ingests](https://github.com/owid/walden/tree/master/ingests) folder.
 
 ### Manually
 
@@ -103,7 +116,19 @@ You can also do all of this manually:
 
 ## Using the catalog
 
-A basic Python API is available, suggestions for improvement are most welcome:
+A basic Python API is available, suggestions for improvement are most welcome.
+
+The most basic method to get the data from catalog is:
+
+```python
+from owid.walden import Catalog
+
+dataset = Catalog().find_one(namespace="wb", version="2021-07-01", short_name="wb_income")
+local_path = dataset.ensure_downloaded()
+df = pd.read_csv(local_path)
+```
+
+You can also iterate over all datasets in the catalog:
 
 ```python
 from owid.walden import Catalog

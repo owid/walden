@@ -1,11 +1,12 @@
 """Tools to inges to Walden and Catalog."""
 
+from typing import Union
 
 from .catalog import Dataset
 from .ui import log
 
 
-def add_to_catalog(metadata: dict, filename: str, upload: bool = False):
+def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool = False):
     """Add metadata to catalog.
 
     Additionally, it computes the md5 hash of the file, which is added to the metadata file.
