@@ -11,7 +11,7 @@ from owid.walden import Dataset
 # Since we don't know this exact date, we use the first day of the month of the publication of the paper
 # https://www.rug.nl/ggdc/historicaldevelopment/maddison/publications/wp15.pdf
 PUBLICATION_DATE = "2020-10-01"
-PUBLICATION_YEAR = "2020"
+PUBLICATION_YEAR = 2020
 # Date when data was downloaded.
 ACCESS_DATE = datetime.now().strftime("%Y-%m-%d")
 
@@ -20,8 +20,8 @@ def main() -> None:
     metadata = {
         # Institution name: The Groningen Growth and Development Centre (GGDC), from the Faculty of Economics and
         # Business of the University of Groningen.
-        "namespace": 'ggdc',
-        "short_name": 'ggdc_maddison_project_database',
+        "namespace": "ggdc",
+        "short_name": "ggdc_maddison_project_database",
         "name": f"Maddison Project Database (GGDC, {PUBLICATION_YEAR})",
         "description": DATASET_DESCRIPTION,
         "source_name": "Maddison Project Database",
