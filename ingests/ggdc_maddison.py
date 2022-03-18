@@ -21,7 +21,7 @@ def main() -> None:
         # Institution name: The Groningen Growth and Development Centre (GGDC), from the Faculty of Economics and
         # Business of the University of Groningen.
         "namespace": "ggdc",
-        "short_name": "ggdc_maddison_project_database",
+        "short_name": "ggdc_maddison",
         "name": f"Maddison Project Database (GGDC, {PUBLICATION_YEAR})",
         "description": DATASET_DESCRIPTION,
         "source_name": "Maddison Project Database",
