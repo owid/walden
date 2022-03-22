@@ -4,7 +4,7 @@
 from os import path, makedirs, unlink as delete
 from dataclasses import dataclass
 import datetime as dt
-from typing import Any, Dict, Optional, Iterator, List, Tuple
+from typing import Any, Dict, Optional, Iterator, List, Tuple, Union
 import json
 import shutil
 
@@ -45,15 +45,14 @@ class Dataset:
     """
 
     # how we identify the dataset
-    namespace: str  # a short source name
-    short_name: str  # a slug, ideally unique, camel_case, no spaces
+    namespace: str  # a short source name (usually institution name)
+    short_name: str  # a slug, ideally unique, snake_case, no spaces
 
     # fields that are meant to be shown to humans
     name: str
     description: str
     source_name: str
     url: str
-    date_accessed: str
 
     # how to get the data file
     file_extension: str
@@ -61,19 +60,31 @@ class Dataset:
     # license
     license_url: str
 
-    # optional fields
+    # today by default
+    date_accessed: str = dt.datetime.now().date().strftime("%Y-%m-%d")
+
+    # URL with file, use `download_and_create(metadata)` for uploading to walden
     source_data_url: Optional[str] = None
-    md5: Optional[str] = None
-    publication_year: Optional[int] = None
-    publication_date: Optional[dt.date] = None
-    owid_data_url: Optional[str] = None
+
     license_name: Optional[str] = None
     access_notes: Optional[str] = None
+
     is_public: Optional[bool] = True
 
+    # use either publication_year or publication_date as dataset version
+    publication_year: Optional[int] = None
+    publication_date: Optional[dt.date] = None
+
+    # fields that are not meant to be set in metadata and are computed on the fly
+    owid_data_url: Optional[str] = None
+    md5: Optional[str] = None
+
     @classmethod
-    def download_and_create(cls, metadata: dict) -> "Dataset":
-        dataset = Dataset.from_dict(metadata)  # type: ignore
+    def download_and_create(cls, metadata: Union[dict, "Dataset"]) -> "Dataset":
+        if isinstance(metadata, dict):
+            dataset = Dataset.from_dict(metadata)  # type: ignore
+        else:
+            dataset = metadata
 
         # make sure we have a local copy
         filename = dataset.ensure_downloaded()
@@ -84,11 +95,16 @@ class Dataset:
         return dataset
 
     @classmethod
-    def copy_and_create(cls, filename: str, metadata: dict) -> "Dataset":
+    def copy_and_create(
+        cls, filename: str, metadata: Union[dict, "Dataset"]
+    ) -> "Dataset":
         """
         Create a new dataset if you already have the file locally.
         """
-        dataset = Dataset.from_dict(metadata)  # type: ignore
+        if isinstance(metadata, dict):
+            dataset = Dataset.from_dict(metadata)  # type: ignore
+        else:
+            dataset = metadata
 
         # set the md5
         dataset.md5 = files.checksum(filename)
