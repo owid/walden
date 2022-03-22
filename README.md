@@ -125,7 +125,7 @@ from owid.walden import Catalog
 
 dataset = Catalog().find_one(namespace="wb", version="2021-07-01", short_name="wb_income")
 local_path = dataset.ensure_downloaded()
-df = pd.read_csv(local_path)
+df = pd.read_csv(local_path)  # assuming the file is a csv
 ```
 
 You can also iterate over all datasets in the catalog:
