@@ -1,0 +1,18 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "political_regimes_config",
+  "name": "Grapher metadata for political_regimes",
+  "description": "TODO",
+  "source_name": "TODO",
+  "url": "TODO",
+  "file_extension": "json",
+  "license_url": "TODO",
+  "date_accessed": "latest",
+  "source_data_url": "TODO",
+  "license_name": "TODO",
+  "is_public": true,
+  "publication_date": "2021-11-30",
+  "origin_md5": "a8d0e4c01338025df3f3ae20bed6c1cf",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/2021-11-30/political_regimes_config.json",
+  "md5": "f41cccbd046df06fd0709dea2f18c34d"
+}

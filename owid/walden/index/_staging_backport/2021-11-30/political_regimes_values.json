@@ -1,0 +1,18 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "political_regimes_values",
+  "name": "Political regimes - OWID based on L\u00fchrmann et al. (2018), V-Dem (v11.1)",
+  "description": "",
+  "source_name": "TODO",
+  "url": "TODO",
+  "file_extension": "feather",
+  "license_url": "TODO",
+  "date_accessed": "latest",
+  "source_data_url": "TODO",
+  "license_name": "TODO",
+  "is_public": true,
+  "publication_date": "2021-11-30",
+  "origin_md5": "18a05214ace59b6e21246e6340777ca1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/2021-11-30/political_regimes_values.feather",
+  "md5": "868ed259e1f2da54f2344153edf562ba"
+}

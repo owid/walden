@@ -10,7 +10,9 @@ import yaml
 import shutil
 from pathlib import Path
 
-from dataclasses_json import dataclass_json
+from dataclasses_json import dataclass_json, config
+from dataclasses import field
+from marshmallow import fields
 
 from . import owid_cache, files
 
@@ -76,6 +78,9 @@ class Dataset:
     # use either publication_year or publication_date as dataset version
     publication_year: Optional[int] = None
     publication_date: Optional[dt.date] = None
+
+    # md5 of the origin, can differ from `md5` attribute, used for internal purposes only
+    origin_md5: Optional[str] = None
 
     # fields that are not meant to be set in metadata and are computed on the fly
     owid_data_url: Optional[str] = None
@@ -147,7 +152,7 @@ class Dataset:
         "Save any changes as JSON to the catalog."
         create(self.index_path)
         with open(self.index_path, "w") as ostream:
-            print(json.dumps(self.metadata, indent=2), file=ostream)  # type: ignore
+            print(json.dumps(self.metadata, indent=2, default=str), file=ostream)  # type: ignore
 
     def delete(self) -> None:
         """
