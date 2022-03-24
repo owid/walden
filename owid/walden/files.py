@@ -22,10 +22,9 @@ def download(
 ) -> None:
     "Download the file at the URL to the given local filename."
     md5 = hashlib.md5()
-    with (
-        tempfile.NamedTemporaryFile(mode="wb", delete=False) as temp,
-        requests.get(url, stream=True) as r,
-    ):
+    with tempfile.NamedTemporaryFile(mode="wb", delete=False) as temp, requests.get(
+        url, stream=True
+    ) as r:
         r.raise_for_status()
         for chunk in r.iter_content(chunk_size=2**14):  # 16k
             temp.write(chunk)
