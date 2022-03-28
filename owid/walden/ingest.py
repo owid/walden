@@ -1,7 +1,6 @@
 """Tools to ingest to Walden and Catalog."""
 
 import yaml
-import datetime as dt
 from typing import Union
 from pathlib import Path
 

@@ -7,6 +7,8 @@ On the event of a new update, manually check and update all fixed inputs below. 
 
 See https://www.climatewatchdata.org/data-explorer/historical-emissions
 
+NOTE: This script could be simplified using walden helper functions for ingestion and metadata in YAML format.
+Check out ggdc_maddison.py for inspiration
 """
 
 import argparse
