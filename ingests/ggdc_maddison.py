@@ -6,13 +6,10 @@ import argparse
 from pathlib import Path
 
 from owid.walden import Dataset
-from owid.walden.ingest import load_metadata_from_yaml
 
 
 def main() -> None:
-    metadata = load_metadata_from_yaml(
-        Path(__file__).parent / "ggdc_maddison.annotation.yml"
-    )
+    metadata = Dataset.from_yaml(Path(__file__).parent / "ggdc_maddison.meta.yml")
 
     # upload the local file to Walden's cache
     dataset = Dataset.download_and_create(metadata)

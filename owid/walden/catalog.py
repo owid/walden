@@ -6,7 +6,9 @@ from dataclasses import dataclass
 import datetime as dt
 from typing import Any, Dict, Optional, Iterator, List, Tuple, Union
 import json
+import yaml
 import shutil
+from pathlib import Path
 
 from dataclasses_json import dataclass_json
 
@@ -118,6 +120,12 @@ class Dataset:
     def from_file(cls, filename: str) -> "Dataset":
         with open(filename) as istream:
             return cls.from_json(istream.read())  # type: ignore
+
+    @classmethod
+    def from_yaml(cls, filename: Union[str, Path]) -> "Dataset":
+        with open(filename) as istream:
+            meta = yaml.safe_load(istream)["metadata"]
+            return cls(**meta)
 
     def add_to_cache(self, filename: str) -> None:
         """
