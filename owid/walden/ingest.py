@@ -1,6 +1,9 @@
-"""Tools to inges to Walden and Catalog."""
+"""Tools to ingest to Walden and Catalog."""
 
+import yaml
+import datetime as dt
 from typing import Union
+from pathlib import Path
 
 from .catalog import Dataset
 from .ui import log
@@ -28,3 +31,10 @@ def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool =
     dataset.save()
 
     log("ADDED TO CATALOG", f"{dataset.relative_base}.json")
+
+
+def load_metadata_from_yaml(path: Path) -> Dataset:
+    """Load metadata from yaml file."""
+    with open(path) as istream:
+        meta = yaml.safe_load(istream)["metadata"]
+        return Dataset(**meta)
