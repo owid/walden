@@ -1,6 +1,6 @@
 {
   "namespace": "_staging_backport",
-  "short_name": "political_regimes_values",
+  "short_name": "5426_political_regimes_values",
   "name": "Political regimes - OWID based on Boix et al. (2013), V-Dem (v12), and L\u00fchrmann et al. (2018)",
   "description": "",
   "source_name": "TODO",
@@ -13,6 +13,6 @@
   "is_public": true,
   "publication_date": "2021-11-30",
   "origin_md5": "6f3a3b9bbe809fa3281433791ba56057",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/2021-11-30/political_regimes_values.feather",
-  "md5": "c173d88622ab03b0d12bb5c9dbc46a26"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/2021-11-30/5426_political_regimes_values.feather",
+  "md5": "6463fbc062b6f42a51654b385cdaacfd"
 }

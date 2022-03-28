@@ -1,0 +1,18 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "5357_wdi_world_bank_values",
+  "name": "World Development Indicators - World Bank (2021.07.30)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "TODO",
+  "url": "TODO",
+  "file_extension": "feather",
+  "license_url": "TODO",
+  "date_accessed": "latest",
+  "source_data_url": "TODO",
+  "license_name": "TODO",
+  "is_public": true,
+  "publication_date": "2021-08-09",
+  "origin_md5": "d580f520bd4099cf38a660266ddf386d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/2021-08-09/5357_wdi_world_bank_values.feather",
+  "md5": "401060c13fc17f50228c47a170d5a313"
+}

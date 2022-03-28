@@ -1,0 +1,18 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "5357_wdi_world_bank_config",
+  "name": "Grapher metadata for 5357_wdi_world_bank",
+  "description": "TODO",
+  "source_name": "TODO",
+  "url": "TODO",
+  "file_extension": "json",
+  "license_url": "TODO",
+  "date_accessed": "latest",
+  "source_data_url": "TODO",
+  "license_name": "TODO",
+  "is_public": true,
+  "publication_date": "2021-08-09",
+  "origin_md5": "6895819eea0f9dfbb0b906df086a666a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/2021-08-09/5357_wdi_world_bank_config.json",
+  "md5": "d22d16a1e91120ed98b624d54ca796a5"
+}
