@@ -1,4 +1,4 @@
-"""Tools to inges to Walden and Catalog."""
+"""Tools to ingest to Walden and Catalog."""
 
 from typing import Union
 
