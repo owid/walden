@@ -124,7 +124,7 @@ class Dataset:
     @classmethod
     def from_yaml(cls, filename: Union[str, Path]) -> "Dataset":
         with open(filename) as istream:
-            meta = yaml.safe_load(istream)["metadata"]
+            meta = yaml.safe_load(istream)
             return cls(**meta)
 
     def add_to_cache(self, filename: str) -> None:
