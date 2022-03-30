@@ -10,9 +10,7 @@ import yaml
 import shutil
 from pathlib import Path
 
-from dataclasses_json import dataclass_json, config
-from dataclasses import field
-from marshmallow import fields
+from dataclasses_json import dataclass_json
 
 from . import owid_cache, files
 
