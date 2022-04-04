@@ -4,7 +4,7 @@
 from os import path, makedirs, unlink as delete
 from dataclasses import dataclass
 import datetime as dt
-from typing import Any, Dict, Optional, Iterator, List, Tuple, Union
+from typing import Any, Dict, Optional, Iterator, List, Tuple, Union, Literal
 import json
 import yaml
 import shutil
@@ -59,15 +59,16 @@ class Dataset:
     # how to get the data file
     file_extension: str
 
-    # license
-    license_url: str
-
     # today by default
     date_accessed: str = dt.datetime.now().date().strftime("%Y-%m-%d")
 
     # URL with file, use `download_and_create(metadata)` for uploading to walden
     source_data_url: Optional[str] = None
 
+    # license
+    # NOTE: license_url should be ideally required, but we don't have it for backported datasets
+    # so we have to relax this condition
+    license_url: Optional[str] = None
     license_name: Optional[str] = None
     access_notes: Optional[str] = None
 
@@ -75,7 +76,10 @@ class Dataset:
 
     # use either publication_year or publication_date as dataset version
     publication_year: Optional[int] = None
-    publication_date: Optional[dt.date] = None
+    publication_date: Union[Optional[dt.date], Literal["latest"]] = None
+
+    # md5 of the origin, can differ from `md5` attribute, used for internal purposes only
+    origin_md5: Optional[str] = None
 
     # fields that are not meant to be set in metadata and are computed on the fly
     owid_data_url: Optional[str] = None
@@ -147,7 +151,7 @@ class Dataset:
         "Save any changes as JSON to the catalog."
         create(self.index_path)
         with open(self.index_path, "w") as ostream:
-            print(json.dumps(self.metadata, indent=2), file=ostream)  # type: ignore
+            print(json.dumps(self.metadata, indent=2, default=str), file=ostream)  # type: ignore
 
     def delete(self) -> None:
         """
