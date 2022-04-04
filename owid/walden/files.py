@@ -26,10 +26,10 @@ def _stream_to_file(
     progress_bar_min_bytes: int = 2**30,
 ) -> str:
     """Stream the response to the file, returning the checksum.
-    :param progress_bar_min_bytes: Minimum number of bytes to display a progress bar for.
+    :param progress_bar_min_bytes: Minimum number of bytes to display a progress bar for. Default is 1GB
     """
     # check header to get content length, in bytes
-    total_length = int(r.headers["content-length"])
+    total_length = int(r.headers.get("content-length", 0))
 
     md5 = hashlib.md5()
 
