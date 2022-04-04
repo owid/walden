@@ -35,7 +35,7 @@ progress = Progress(
     TransferSpeedColumn(),
     "•",
     TimeElapsedColumn(),
-    transient=True
+    transient=True,
 )
 
 
@@ -57,10 +57,7 @@ def _stream_to_file(
     display_progress = total_length > progress_bar_min_bytes
     if display_progress:
         progress.start()
-        task_id = progress.add_task(
-            "Downloading",
-            total=total_length
-        )
+        task_id = progress.add_task("Downloading", total=total_length)
 
     for chunk in streamer:  # 16k
         file.write(chunk)
