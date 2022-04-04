@@ -23,10 +23,10 @@ def _stream_to_file(
     r: requests.Response,
     file: IO[bytes],
     chunk_size: int = 2**14,
-    progress_bar_min_bytes: int = 2**30,
+    progress_bar_min_bytes: int = 2**25,
 ) -> str:
     """Stream the response to the file, returning the checksum.
-    :param progress_bar_min_bytes: Minimum number of bytes to display a progress bar for. Default is 1GB
+    :param progress_bar_min_bytes: Minimum number of bytes to display a progress bar for. Default is 32MB
     """
     # check header to get content length, in bytes
     total_length = int(r.headers.get("content-length", 0))
