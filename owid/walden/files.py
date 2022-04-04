@@ -8,15 +8,35 @@ import tempfile
 import hashlib
 import json
 
-import math
 from os import path, walk
 from shutil import move  # noqa; re-exported for convenience
 from typing import Iterator, Optional, Tuple, IO
-from rich.progress import track
+from rich.progress import (
+    BarColumn,
+    DownloadColumn,
+    Progress,
+    TimeElapsedColumn,
+    TransferSpeedColumn,
+)
 
 import requests
 
 from .ui import log
+
+# Create a fancy progress bar to use for display of download progress.
+# based on https://github.com/Textualize/rich/blob/ae1ee4efa1742e7a91ffd4870ba677aad70ff036/examples/downloader.py
+progress = Progress(
+    "[progress.description]{task.description}",
+    BarColumn(bar_width=None),
+    "[progress.percentage]{task.percentage:>3.1f}%",
+    "•",
+    DownloadColumn(),
+    "•",
+    TransferSpeedColumn(),
+    "•",
+    TimeElapsedColumn(),
+    transient=True
+)
 
 
 def _stream_to_file(
@@ -34,17 +54,22 @@ def _stream_to_file(
     md5 = hashlib.md5()
 
     streamer = r.iter_content(chunk_size=chunk_size)
-
-    if total_length > progress_bar_min_bytes:
-        streamer = track(  # type: ignore
-            streamer,
-            description="Downloading",
-            total=math.ceil(total_length / chunk_size),
+    display_progress = total_length > progress_bar_min_bytes
+    if display_progress:
+        progress.start()
+        task_id = progress.add_task(
+            "Downloading",
+            total=total_length
         )
 
     for chunk in streamer:  # 16k
         file.write(chunk)
         md5.update(chunk)
+        if display_progress:
+            progress.update(task_id, advance=len(chunk))
+
+    if display_progress:
+        progress.stop()
 
     return md5.hexdigest()
 
