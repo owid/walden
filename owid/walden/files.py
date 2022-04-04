@@ -10,26 +10,79 @@ import json
 
 from os import path, walk
 from shutil import move  # noqa; re-exported for convenience
-from typing import Iterator, Optional, Tuple
+from typing import Iterator, Optional, Tuple, IO
+from rich.progress import (
+    BarColumn,
+    DownloadColumn,
+    Progress,
+    TimeElapsedColumn,
+    TransferSpeedColumn,
+)
 
 import requests
 
 from .ui import log
+
+# Create a fancy progress bar to use for display of download progress.
+# based on https://github.com/Textualize/rich/blob/ae1ee4efa1742e7a91ffd4870ba677aad70ff036/examples/downloader.py
+progress = Progress(
+    "[progress.description]{task.description}",
+    BarColumn(bar_width=None),
+    "[progress.percentage]{task.percentage:>3.1f}%",
+    "•",
+    DownloadColumn(),
+    "•",
+    TransferSpeedColumn(),
+    "•",
+    TimeElapsedColumn(),
+    transient=True,
+)
+
+
+def _stream_to_file(
+    r: requests.Response,
+    file: IO[bytes],
+    chunk_size: int = 2**14,
+    progress_bar_min_bytes: int = 2**25,
+) -> str:
+    """Stream the response to the file, returning the checksum.
+    :param progress_bar_min_bytes: Minimum number of bytes to display a progress bar for. Default is 32MB
+    """
+    # check header to get content length, in bytes
+    total_length = int(r.headers.get("content-length", 0))
+
+    md5 = hashlib.md5()
+
+    streamer = r.iter_content(chunk_size=chunk_size)
+    display_progress = total_length > progress_bar_min_bytes
+    if display_progress:
+        progress.start()
+        task_id = progress.add_task("Downloading", total=total_length)
+
+    for chunk in streamer:  # 16k
+        file.write(chunk)
+        md5.update(chunk)
+        if display_progress:
+            progress.update(task_id, advance=len(chunk))
+
+    if display_progress:
+        progress.stop()
+
+    return md5.hexdigest()
 
 
 def download(
     url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False
 ) -> None:
     "Download the file at the URL to the given local filename."
-    md5 = hashlib.md5()
     with tempfile.NamedTemporaryFile(mode="wb", delete=False) as temp, requests.get(
         url, stream=True
     ) as r:
         r.raise_for_status()
-        for chunk in r.iter_content(chunk_size=2**14):  # 16k
-            temp.write(chunk)
-            md5.update(chunk)
-        if expected_md5 and md5.hexdigest() != expected_md5:
+
+        md5 = _stream_to_file(r, temp)
+
+        if expected_md5 and md5 != expected_md5:
             raise ChecksumDoesNotMatch(f"for file downloaded from {url}")
         move(temp.name, filename)
     if not quiet:
