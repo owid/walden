@@ -4,12 +4,11 @@
 #  Helpers for downloading and dealing with files.
 #
 
-import tempfile
+import os
 import hashlib
 import json
 
 from os import path, walk
-from shutil import move  # noqa; re-exported for convenience
 from typing import Iterator, Optional, Tuple, IO
 from rich.progress import (
     BarColumn,
@@ -75,16 +74,19 @@ def download(
     url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False
 ) -> None:
     "Download the file at the URL to the given local filename."
-    with tempfile.NamedTemporaryFile(mode="wb", delete=False) as temp, requests.get(
-        url, stream=True
-    ) as r:
+    # NOTE: we are not streaming to a NamedTemporaryFile because it was causing weird
+    # issues one some systems, it's safer to stream directly to the file and remove it
+    # if md5 don't match
+    with open(filename, "wb") as f, requests.get(url, stream=True) as r:
         r.raise_for_status()
 
-        md5 = _stream_to_file(r, temp)
+        md5 = _stream_to_file(r, f)
 
         if expected_md5 and md5 != expected_md5:
+            if os.path.exists(filename):
+                os.remove(filename)
             raise ChecksumDoesNotMatch(f"for file downloaded from {url}")
-        move(temp.name, filename)
+
     if not quiet:
         log("DOWNLOADED", f"{url} -> {filename}")
 
