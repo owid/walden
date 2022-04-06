@@ -48,7 +48,9 @@ def test_download_with_md5():
 
 
 def test_download_with_wrong_md5_raises():
-    with requests_mock.Mocker() as mocker, tempfile.NamedTemporaryFile() as destination:
+    with requests_mock.Mocker() as mocker, tempfile.NamedTemporaryFile(
+        delete=False
+    ) as destination:
         data_url = "https://very/important/data.csv"
         mocker.get(data_url, content=encoded)
         with pytest.raises(files.ChecksumDoesNotMatch):
