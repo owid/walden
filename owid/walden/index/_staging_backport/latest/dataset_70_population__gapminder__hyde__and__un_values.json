@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_70_population__gapminder__hyde__and__un_values",
+  "name": "Population (Gapminder, HYDE & UN)",
+  "description": "Code: https://github.com/owid/importers/tree/master/population",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/70",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:15.266178",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_70_population__gapminder__hyde__and__un_values.feather",
+  "md5": "29ad9a29d4093d6eaf492ec3782205cb"
+}

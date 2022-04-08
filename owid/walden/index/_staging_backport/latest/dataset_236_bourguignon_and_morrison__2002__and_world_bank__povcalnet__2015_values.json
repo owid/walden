@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_236_bourguignon_and_morrison__2002__and_world_bank__povcalnet__2015_values",
+  "name": "Bourguignon and Morrison (2002) and World Bank (PovcalNet) (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/236",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:39.855293",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_236_bourguignon_and_morrison__2002__and_world_bank__povcalnet__2015_values.feather",
+  "md5": "2e17a46fe8916a22fbedfb2aabe5a28b"
+}

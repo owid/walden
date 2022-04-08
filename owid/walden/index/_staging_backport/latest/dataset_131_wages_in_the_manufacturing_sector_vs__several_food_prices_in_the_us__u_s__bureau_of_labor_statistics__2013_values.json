@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_131_wages_in_the_manufacturing_sector_vs__several_food_prices_in_the_us__u_s__bureau_of_labor_statistics__2013_values",
+  "name": "Wages in the manufacturing sector vs. several food prices in the US \u2013 U.S. Bureau of Labor Statistics (2013)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/131",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:27.682611",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_131_wages_in_the_manufacturing_sector_vs__several_food_prices_in_the_us__u_s__bureau_of_labor_statistics__2013_values.feather",
+  "md5": "3929645d6abafa3056570c4749775b9f"
+}

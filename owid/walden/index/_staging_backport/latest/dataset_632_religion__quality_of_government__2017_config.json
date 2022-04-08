@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_632_religion__quality_of_government__2017_config",
+  "name": "Grapher metadata for dataset_632_religion__quality_of_government__2017",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/632",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:51:40.211900",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "068a6e59467193f34460350fbb3a2ff1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_632_religion__quality_of_government__2017_config.json",
+  "md5": "710ede00424c8755e9e89c2cb210f09a"
+}

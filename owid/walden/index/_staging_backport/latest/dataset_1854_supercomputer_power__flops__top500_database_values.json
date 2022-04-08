@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1854_supercomputer_power__flops__top500_database_values",
+  "name": "Supercomputer power (FLOPS) \u2013 TOP500 Database",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1854",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:52:20.045540",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1854_supercomputer_power__flops__top500_database_values.feather",
+  "md5": "a5318782c94f6bccb793e462d40e3d04"
+}

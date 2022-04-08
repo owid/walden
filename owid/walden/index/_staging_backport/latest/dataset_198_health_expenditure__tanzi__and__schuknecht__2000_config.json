@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_198_health_expenditure__tanzi__and__schuknecht__2000_config",
+  "name": "Grapher metadata for dataset_198_health_expenditure__tanzi__and__schuknecht__2000",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/198",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:56.923307",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "9e631efb044ded6bf746390e5d7a79de",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_198_health_expenditure__tanzi__and__schuknecht__2000_config.json",
+  "md5": "eea880c4f77cbbac9c54dbd1e9381651"
+}

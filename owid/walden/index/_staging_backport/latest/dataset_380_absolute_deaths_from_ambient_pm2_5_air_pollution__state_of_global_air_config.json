@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_380_absolute_deaths_from_ambient_pm2_5_air_pollution__state_of_global_air_config",
+  "name": "Grapher metadata for dataset_380_absolute_deaths_from_ambient_pm2_5_air_pollution__state_of_global_air",
+  "description": "Absolute number of deaths per year from ambient particulate matter air pollution- State of Global Air",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/380",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:38:07.825054",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "b25219261f76b4bc4a53a2f4e14bb942",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_380_absolute_deaths_from_ambient_pm2_5_air_pollution__state_of_global_air_config.json",
+  "md5": "5db9e43ed8d3a9536cc4137e094d3a10"
+}

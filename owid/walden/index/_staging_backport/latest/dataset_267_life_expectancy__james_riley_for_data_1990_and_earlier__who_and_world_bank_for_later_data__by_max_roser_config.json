@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_267_life_expectancy__james_riley_for_data_1990_and_earlier__who_and_world_bank_for_later_data__by_max_roser_config",
+  "name": "Grapher metadata for dataset_267_life_expectancy__james_riley_for_data_1990_and_earlier__who_and_world_bank_for_later_data__by_max_roser",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/267",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:07.816213",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "322a7c3032a6ace6824003f9a9b2d11c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_267_life_expectancy__james_riley_for_data_1990_and_earlier__who_and_world_bank_for_later_data__by_max_roser_config.json",
+  "md5": "516a583020b43160255f58b321c5417b"
+}

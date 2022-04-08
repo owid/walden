@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2863_male_and_female_life_expectancy_by_age_in_the_long_run__human_mortality_database__2018__and_others_values",
+  "name": "Male and female life expectancy by age in the long run (Human Mortality Database (2018) and others)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2863",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:54:14.006681",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2863_male_and_female_life_expectancy_by_age_in_the_long_run__human_mortality_database__2018__and_others_values.feather",
+  "md5": "e5d6b29a2e3b57810dac296b02e68e79"
+}

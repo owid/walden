@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_369_long_run_series_of_health_expenditure__world_bank__wdi__2017_values",
+  "name": "Long-run series of health expenditure - World Bank (WDI) (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/369",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:58.031752",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_369_long_run_series_of_health_expenditure__world_bank__wdi__2017_values.feather",
+  "md5": "dbd6a19a440623420d830249032bb1f4"
+}

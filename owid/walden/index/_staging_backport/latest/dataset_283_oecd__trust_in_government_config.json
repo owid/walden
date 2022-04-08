@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_283_oecd__trust_in_government_config",
+  "name": "Grapher metadata for dataset_283_oecd__trust_in_government",
+  "description": "https://github.com/owid/notebooks/tree/main/EdouardMathieu/oecd_trust_government",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/283",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:33.933429",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "bcaff0af48646fa279c017770edb582d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_283_oecd__trust_in_government_config.json",
+  "md5": "d06c7696e0d4b7dba2a68cef1791e129"
+}

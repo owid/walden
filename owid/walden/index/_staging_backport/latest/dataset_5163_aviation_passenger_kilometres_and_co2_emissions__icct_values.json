@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5163_aviation_passenger_kilometres_and_co2_emissions__icct_values",
+  "name": "Aviation passenger kilometres and CO2 emissions (ICCT)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5163",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:54:03.615127",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5163_aviation_passenger_kilometres_and_co2_emissions__icct_values.feather",
+  "md5": "e18171a13457c3fa925cd799dea001f4"
+}

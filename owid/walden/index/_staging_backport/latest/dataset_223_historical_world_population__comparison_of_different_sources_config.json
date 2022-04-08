@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_223_historical_world_population__comparison_of_different_sources_config",
+  "name": "Grapher metadata for dataset_223_historical_world_population__comparison_of_different_sources",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/223",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:18.789808",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "2ad284204fa8984fb02aa191fbe145a0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_223_historical_world_population__comparison_of_different_sources_config.json",
+  "md5": "5e116c500a283f46524bfdd0c08b5e2e"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_371_state_of_vaccine_confidence__larson_et_al__2016_values",
+  "name": "State of Vaccine Confidence - Larson et al (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/371",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:38:00.745113",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_371_state_of_vaccine_confidence__larson_et_al__2016_values.feather",
+  "md5": "f04ee7527403f85099827592c14073f8"
+}

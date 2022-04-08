@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_295_tax_revenue__piketty__2014_values",
+  "name": "Tax Revenue \u2013 Piketty (2014)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/295",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:42.379310",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_295_tax_revenue__piketty__2014_values.feather",
+  "md5": "d0a0952c24ed4c74ee5fef7ab6054203"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_217_fertility_rate__complete_gapminder__v12__2017_config",
+  "name": "Grapher metadata for dataset_217_fertility_rate__complete_gapminder__v12__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/217",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:12.855947",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "b12330516a9f2196e6cc1caf461536fd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_217_fertility_rate__complete_gapminder__v12__2017_config.json",
+  "md5": "00eda153e83c0991412d88d27415ea79"
+}

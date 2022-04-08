@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_362_rough_sleeping_in_england_in_the_2010s__owid_based_on_uk_national_statistics__2018_values",
+  "name": "Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/362",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:47.542001",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_362_rough_sleeping_in_england_in_the_2010s__owid_based_on_uk_national_statistics__2018_values.feather",
+  "md5": "af4de5f462c546fa9daff1edd252bced"
+}

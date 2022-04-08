@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1851_transistors_per_microprocessor__rupp__and__horowitz_config",
+  "name": "Grapher metadata for dataset_1851_transistors_per_microprocessor__rupp__and__horowitz",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1851",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:53:58.396519",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "ee0c0e17c445a448dcfe78d891f06d75",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1851_transistors_per_microprocessor__rupp__and__horowitz_config.json",
+  "md5": "be4867641fc31c14e79ea70cf3e9bc42"
+}

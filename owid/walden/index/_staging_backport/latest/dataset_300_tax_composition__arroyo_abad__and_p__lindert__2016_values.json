@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_300_tax_composition__arroyo_abad__and_p__lindert__2016_values",
+  "name": "Tax composition \u2013 \tArroyo Abad  and P. Lindert (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/300",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:50.207368",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_300_tax_composition__arroyo_abad__and_p__lindert__2016_values.feather",
+  "md5": "2568a16de6bd0a7c18d4909e29a28bdc"
+}

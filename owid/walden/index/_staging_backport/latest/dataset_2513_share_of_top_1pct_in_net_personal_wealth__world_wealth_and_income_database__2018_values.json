@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2513_share_of_top_1pct_in_net_personal_wealth__world_wealth_and_income_database__2018_values",
+  "name": "Share of Top 1% in net personal wealth \u2013 World Wealth and Income Database (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2513",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:51:22.610723",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2513_share_of_top_1pct_in_net_personal_wealth__world_wealth_and_income_database__2018_values.feather",
+  "md5": "ed77a884dc4b324ba04f334c8597a969"
+}

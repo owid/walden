@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_395_national_poverty_lines__jolliffe_and_prydz__2016_values",
+  "name": "National Poverty Lines - Jolliffe and Prydz (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/395",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:59:42.999170",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_395_national_poverty_lines__jolliffe_and_prydz__2016_values.feather",
+  "md5": "4c5a1b58b579d57bf426892d4058fc55"
+}

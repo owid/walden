@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_671_fao_2030_50_projections_of_arable_land__fao__2017_values",
+  "name": "FAO 2030-50 Projections of Arable Land - FAO (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/671",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:50:55.313395",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_671_fao_2030_50_projections_of_arable_land__fao__2017_values.feather",
+  "md5": "530efd9731bb7e3284f6511f95a9d4c9"
+}

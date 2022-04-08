@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_269_international_historical_statistics__births_per_1_000__brian_mitchell__2013_config",
+  "name": "Grapher metadata for dataset_269_international_historical_statistics__births_per_1_000__brian_mitchell__2013",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/269",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:10.405723",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "e1077bdcbf35199d6631fe5f18a767de",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_269_international_historical_statistics__births_per_1_000__brian_mitchell__2013_config.json",
+  "md5": "7ee9469a080c73b708747ea114567b13"
+}

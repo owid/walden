@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_39_population_dynamics_and_global_human_capital__iiasa__2015_config",
+  "name": "Grapher metadata for dataset_39_population_dynamics_and_global_human_capital__iiasa__2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/39",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:32:37.396327",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "a385bcb16c7d5f42c4a2b5702eb21032",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_39_population_dynamics_and_global_human_capital__iiasa__2015_config.json",
+  "md5": "a826125a13eab04b721976c469e70771"
+}

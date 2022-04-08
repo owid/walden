@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_136_intercontinental_trade__costa__palma_and_reis__2015_values",
+  "name": "Intercontinental Trade - Costa, Palma and Reis (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/136",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:35.836622",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_136_intercontinental_trade__costa__palma_and_reis__2015_values.feather",
+  "md5": "2fea740179d138fac5018ee952f5310f"
+}

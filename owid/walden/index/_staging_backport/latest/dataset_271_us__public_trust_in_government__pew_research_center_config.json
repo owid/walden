@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_271_us__public_trust_in_government__pew_research_center_config",
+  "name": "Grapher metadata for dataset_271_us__public_trust_in_government__pew_research_center",
+  "description": "Generated with https://github.com/owid/notebooks/tree/main/EdouardMathieu/us_public_trust_government_pew_research_center",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/271",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:17.818067",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "b248bd22ce1b186444e1b34f3f7696c2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_271_us__public_trust_in_government__pew_research_center_config.json",
+  "md5": "89e1c274b3367ba2b2f26b07e279043b"
+}

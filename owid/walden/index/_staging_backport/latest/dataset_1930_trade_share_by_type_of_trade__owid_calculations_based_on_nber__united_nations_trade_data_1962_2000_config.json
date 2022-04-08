@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1930_trade_share_by_type_of_trade__owid_calculations_based_on_nber__united_nations_trade_data_1962_2000_config",
+  "name": "Grapher metadata for dataset_1930_trade_share_by_type_of_trade__owid_calculations_based_on_nber__united_nations_trade_data_1962_2000",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1930",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:52:30.260216",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "6ecec37db4511c9e9da41062f7cd7cb7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1930_trade_share_by_type_of_trade__owid_calculations_based_on_nber__united_nations_trade_data_1962_2000_config.json",
+  "md5": "9acc0a0fdbf89adb4664b9cf17767d5d"
+}

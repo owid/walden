@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_240_educational_attainment__barro_lee_education_dataset__2010_config",
+  "name": "Grapher metadata for dataset_240_educational_attainment__barro_lee_education_dataset__2010",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/240",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:41.652612",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "102b5fb841139a456ae971b0518ebdf6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_240_educational_attainment__barro_lee_education_dataset__2010_config.json",
+  "md5": "801c7832d2fa594578261f42ad79ac9b"
+}

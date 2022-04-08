@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5085_google_mobility_trends__2020_config",
+  "name": "Grapher metadata for dataset_5085_google_mobility_trends__2020",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5085",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:52:05.181142",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "a0622ca0e79dff0b9497831c4962c7b0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5085_google_mobility_trends__2020_config.json",
+  "md5": "b7f81373b0baaedd4b8d20edf12066fc"
+}

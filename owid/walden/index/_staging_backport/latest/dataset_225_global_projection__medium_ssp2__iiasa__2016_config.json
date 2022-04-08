@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_225_global_projection__medium_ssp2__iiasa__2016_config",
+  "name": "Grapher metadata for dataset_225_global_projection__medium_ssp2__iiasa__2016",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/225",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:24.554526",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "6e64ec665a11e0878f69b56a3f2f32cc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_225_global_projection__medium_ssp2__iiasa__2016_config.json",
+  "md5": "4c1b58ea0978ce03eec7480b8ca17fc9"
+}

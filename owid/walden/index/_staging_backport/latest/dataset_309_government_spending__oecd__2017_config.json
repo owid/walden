@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_309_government_spending__oecd__2017_config",
+  "name": "Grapher metadata for dataset_309_government_spending__oecd__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/309",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:37:04.514168",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "d431acea303ef147a3f4ccdef70bfa1e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_309_government_spending__oecd__2017_config.json",
+  "md5": "84a4ccc7dc07508116dc6d1c719e0ac7"
+}

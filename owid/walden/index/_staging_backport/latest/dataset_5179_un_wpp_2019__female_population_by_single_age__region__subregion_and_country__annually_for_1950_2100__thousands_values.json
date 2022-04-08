@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5179_un_wpp_2019__female_population_by_single_age__region__subregion_and_country__annually_for_1950_2100__thousands_values",
+  "name": "UN WPP 2019 - Female population by single age, region, subregion and country, annually for 1950-2100 (thousands)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5179",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:58:40.696258",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5179_un_wpp_2019__female_population_by_single_age__region__subregion_and_country__annually_for_1950_2100__thousands_values.feather",
+  "md5": "a8c82381e31451f3b153df07530434a0"
+}

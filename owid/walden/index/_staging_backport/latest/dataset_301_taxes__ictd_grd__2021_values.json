@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_301_taxes__ictd_grd__2021_values",
+  "name": "Taxes \u2013 ICTD GRD (2021)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/301",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:54.237317",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_301_taxes__ictd_grd__2021_values.feather",
+  "md5": "28fb580ed35d47c0c1dd5a4c97dd8820"
+}

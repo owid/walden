@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3180_number_of_internet_users__owid_based_on_wb__and__unwpp_values",
+  "name": "Number of internet users (OWID based on WB & UNWPP)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3180",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:52:37.310753",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3180_number_of_internet_users__owid_based_on_wb__and__unwpp_values.feather",
+  "md5": "5e5c0a38bf4b3dfbfe2d0dd2ce7bcaf7"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_296_government_revenue__wallis__2000_config",
+  "name": "Grapher metadata for dataset_296_government_revenue__wallis__2000",
+  "description": "US 20th Century",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/296",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:44.247617",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "340c55d89dbbbea19615c4d7b1e39309",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_296_government_revenue__wallis__2000_config.json",
+  "md5": "33c327307e10f45e87c538583e937b07"
+}

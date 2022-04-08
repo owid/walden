@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_228_extreme_poverty_in_absolute_numbers__ravallion__2016__updated_with_world_bank__2019_values",
+  "name": "Extreme Poverty in absolute numbers - Ravallion (2016) updated with World Bank (2019)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/228",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:27.985218",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_228_extreme_poverty_in_absolute_numbers__ravallion__2016__updated_with_world_bank__2019_values.feather",
+  "md5": "90aa418e91eb28d5c9b6a278d552893d"
+}

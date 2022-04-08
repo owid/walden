@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2465_smoking_cigarette_sales__international_smoking_statistics__2017_values",
+  "name": "Smoking cigarette sales (International Smoking Statistics (2017)) ",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2465",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:52:42.070802",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2465_smoking_cigarette_sales__international_smoking_statistics__2017_values.feather",
+  "md5": "9a7c20ff8043a571aa260f5a68139d65"
+}

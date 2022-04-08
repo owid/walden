@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2479_labor_productivity_per_hour__hill__thomas__dimsdale__2016__bank_of_england_config",
+  "name": "Grapher metadata for dataset_2479_labor_productivity_per_hour__hill__thomas__dimsdale__2016__bank_of_england",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2479",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:56:15.734750",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "27e6bb81e751f3eb02e76c6a206b3d50",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2479_labor_productivity_per_hour__hill__thomas__dimsdale__2016__bank_of_england_config.json",
+  "md5": "6fa7f4a20c3c15fcee0e17950246da38"
+}

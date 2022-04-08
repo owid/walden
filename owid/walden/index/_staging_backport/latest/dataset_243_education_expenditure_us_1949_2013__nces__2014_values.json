@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_243_education_expenditure_us_1949_2013__nces__2014_values",
+  "name": "Education Expenditure US 1949-2013 - NCES (2014)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/243",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:51.555701",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_243_education_expenditure_us_1949_2013__nces__2014_values.feather",
+  "md5": "fdc32e0d814e362924ca50ec4f570e49"
+}

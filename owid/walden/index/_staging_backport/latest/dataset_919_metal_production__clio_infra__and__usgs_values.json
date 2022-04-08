@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_919_metal_production__clio_infra__and__usgs_values",
+  "name": "Metal production - Clio Infra & USGS",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/919",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:56:09.727265",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_919_metal_production__clio_infra__and__usgs_values.feather",
+  "md5": "fc35d99f87abdb50dbc5b4df6fd79c84"
+}

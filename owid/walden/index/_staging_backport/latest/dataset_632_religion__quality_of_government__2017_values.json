@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_632_religion__quality_of_government__2017_values",
+  "name": "Religion - Quality of Government (2017)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/632",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:51:44.022410",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_632_religion__quality_of_government__2017_values.feather",
+  "md5": "f491f5e7f8092d75d6e3edd0bc9613de"
+}

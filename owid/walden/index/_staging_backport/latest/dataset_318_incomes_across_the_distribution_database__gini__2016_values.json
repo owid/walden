@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_318_incomes_across_the_distribution_database__gini__2016_values",
+  "name": "Incomes across the Distribution Database, Gini (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/318",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:19.165064",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_318_incomes_across_the_distribution_database__gini__2016_values.feather",
+  "md5": "788340648abde9095ab25caeb1dc941e"
+}

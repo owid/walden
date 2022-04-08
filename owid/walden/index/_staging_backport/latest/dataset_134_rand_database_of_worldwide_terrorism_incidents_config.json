@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_134_rand_database_of_worldwide_terrorism_incidents_config",
+  "name": "Grapher metadata for dataset_134_rand_database_of_worldwide_terrorism_incidents",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/134",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:31.855782",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "da2aceb2377f46e43b82d98f178a2acd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_134_rand_database_of_worldwide_terrorism_incidents_config.json",
+  "md5": "b45be6d1a1aa1f6fe721587375790138"
+}

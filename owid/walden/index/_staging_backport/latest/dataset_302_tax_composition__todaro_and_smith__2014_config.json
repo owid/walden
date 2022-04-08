@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_302_tax_composition__todaro_and_smith__2014_config",
+  "name": "Grapher metadata for dataset_302_tax_composition__todaro_and_smith__2014",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/302",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:56.604536",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "ffc0ee4db3ce31b36c0ebec92a5c831e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_302_tax_composition__todaro_and_smith__2014_config.json",
+  "md5": "b0d2de4f83b46da68fa01077843b8ca9"
+}

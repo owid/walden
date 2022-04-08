@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_234_working_hours_data__huberman__and__minns__2007_config",
+  "name": "Grapher metadata for dataset_234_working_hours_data__huberman__and__minns__2007",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/234",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:33.005682",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "d428d8894a17e0b8585637fa60fd8c06",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_234_working_hours_data__huberman__and__minns__2007_config.json",
+  "md5": "01f887657d760cffcb32d72c6d590f02"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_374_so2_emissions_by_region__oecd__2014__and_klimont_et_al__2013_config",
+  "name": "Grapher metadata for dataset_374_so2_emissions_by_region__oecd__2014__and_klimont_et_al__2013",
+  "description": "SO2 emissions (in million tonnes SO2) production by region, 1850-2010",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/374",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:38:02.594585",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "4a24079bc9a4da2d987d79902d1b5beb",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_374_so2_emissions_by_region__oecd__2014__and_klimont_et_al__2013_config.json",
+  "md5": "821ef0c002a75e633a3982cf87155eb3"
+}

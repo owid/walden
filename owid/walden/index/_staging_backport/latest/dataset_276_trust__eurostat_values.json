@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_276_trust__eurostat_values",
+  "name": "Trust \u2013 Eurostat",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/276",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:26.796960",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_276_trust__eurostat_values.feather",
+  "md5": "c00127d5a8da38bb0cf2f3bdad0e513f"
+}

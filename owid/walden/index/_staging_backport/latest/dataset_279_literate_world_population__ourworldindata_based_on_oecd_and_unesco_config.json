@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_279_literate_world_population__ourworldindata_based_on_oecd_and_unesco_config",
+  "name": "Grapher metadata for dataset_279_literate_world_population__ourworldindata_based_on_oecd_and_unesco",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/279",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:28.635408",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "53df68efcb4a786f5fbcd61493157f73",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_279_literate_world_population__ourworldindata_based_on_oecd_and_unesco_config.json",
+  "md5": "bfa2a38fe3f3633e387e8c1b2c73831d"
+}

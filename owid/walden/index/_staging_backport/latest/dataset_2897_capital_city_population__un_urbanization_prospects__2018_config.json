@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2897_capital_city_population__un_urbanization_prospects__2018_config",
+  "name": "Grapher metadata for dataset_2897_capital_city_population__un_urbanization_prospects__2018",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2897",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:54:10.866382",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "47a17b28a2eea194826c6f68b9eed4ce",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2897_capital_city_population__un_urbanization_prospects__2018_config.json",
+  "md5": "68ff33e3a4cbf2e40b58d2e9f53dc08c"
+}

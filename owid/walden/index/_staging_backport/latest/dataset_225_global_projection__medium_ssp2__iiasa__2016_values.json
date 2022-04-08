@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_225_global_projection__medium_ssp2__iiasa__2016_values",
+  "name": "Global Projection, Medium SSP2 - IIASA (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/225",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:25.313444",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_225_global_projection__medium_ssp2__iiasa__2016_values.feather",
+  "md5": "622b764a5f61f514ee6e57de2bf465ee"
+}

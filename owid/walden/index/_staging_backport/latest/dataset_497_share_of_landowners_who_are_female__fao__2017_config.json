@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_497_share_of_landowners_who_are_female__fao__2017_config",
+  "name": "Grapher metadata for dataset_497_share_of_landowners_who_are_female__fao__2017",
+  "description": "Share of agricultural landowners who are female (%).",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/497",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:52:47.949601",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "818de8f8042eb6474e5ab35070b6d35b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_497_share_of_landowners_who_are_female__fao__2017_config.json",
+  "md5": "ad37debb6d53b3e44ae219e4f7e24015"
+}

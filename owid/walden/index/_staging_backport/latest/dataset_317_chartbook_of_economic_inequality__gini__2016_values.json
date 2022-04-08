@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_317_chartbook_of_economic_inequality__gini__2016_values",
+  "name": "Chartbook of Economic Inequality, Gini (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/317",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:16.508586",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_317_chartbook_of_economic_inequality__gini__2016_values.feather",
+  "md5": "960029198c09536fb0c0c12ff78d3da9"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3180_number_of_internet_users__owid_based_on_wb__and__unwpp_config",
+  "name": "Grapher metadata for dataset_3180_number_of_internet_users__owid_based_on_wb__and__unwpp",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3180",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:52:36.344954",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "d5fddf3293d3f431dcb48b48498d9515",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3180_number_of_internet_users__owid_based_on_wb__and__unwpp_config.json",
+  "md5": "0f692532a3e1256af62baf80333ce5d7"
+}

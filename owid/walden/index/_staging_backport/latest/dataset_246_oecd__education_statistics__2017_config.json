@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_246_oecd__education_statistics__2017_config",
+  "name": "Grapher metadata for dataset_246_oecd__education_statistics__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/246",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:01.864545",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "c0f38508ceffa8c5f5546d0f03099108",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_246_oecd__education_statistics__2017_config.json",
+  "md5": "0b9fe58d88698b8b4f9f04bc99356a59"
+}

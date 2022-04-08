@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_216_guinea_worm_cases__the_carter_center__2016_values",
+  "name": "Guinea Worm Cases - The Carter Center (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/216",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:11.100209",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_216_guinea_worm_cases__the_carter_center__2016_values.feather",
+  "md5": "eb4e4d4b3171dac7388b2ec21907e730"
+}

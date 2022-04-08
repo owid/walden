@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2593_labour__lfs_by_sex_and_age__indicators_config",
+  "name": "Grapher metadata for dataset_2593_labour__lfs_by_sex_and_age__indicators",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2593",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:46:42.895402",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "b475c26c78114e7777a8543f37b743b3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2593_labour__lfs_by_sex_and_age__indicators_config.json",
+  "md5": "4a3ed7b6e63590eb1617d5dd6080ec1a"
+}

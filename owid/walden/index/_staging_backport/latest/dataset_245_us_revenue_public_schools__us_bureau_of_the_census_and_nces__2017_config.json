@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_245_us_revenue_public_schools__us_bureau_of_the_census_and_nces__2017_config",
+  "name": "Grapher metadata for dataset_245_us_revenue_public_schools__us_bureau_of_the_census_and_nces__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/245",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:58.890715",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "bc981646fe50df9dbc8ea9554d38d6b3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_245_us_revenue_public_schools__us_bureau_of_the_census_and_nces__2017_config.json",
+  "md5": "ce7392504e46034d3b092bdb939d6665"
+}

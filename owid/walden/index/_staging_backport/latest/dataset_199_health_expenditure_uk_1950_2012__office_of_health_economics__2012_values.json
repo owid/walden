@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_199_health_expenditure_uk_1950_2012__office_of_health_economics__2012_values",
+  "name": "Health Expenditure UK 1950-2012 - Office of Health Economics (2012)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/199",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:00.348871",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_199_health_expenditure_uk_1950_2012__office_of_health_economics__2012_values.feather",
+  "md5": "a8592fa85492bbac8f622d808f9f4622"
+}

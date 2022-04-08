@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5010_food_balance__new_food_balances_values",
+  "name": "Food Balance: New Food Balances",
+  "description": "Food Balance Sheet presents a comprehensive picture of the pattern of a country's food supply during a specified reference period. The food balance sheet shows for each food item - i.e. each primary commodity and a number of processed commodities potentially available for human consumption - the sources of supply and its utilization. The total quantity of foodstuffs produced in a country added to the total quantity imported and adjusted to any change in stocks that may have occurred since the beginning of the reference period gives the supply available during that period. On the utilization side a distinction is made between the quantities exported, fed to livestock, used for seed, put to manufacture for food use and non-food uses, losses during storage and transportation, and food supplies available for human consumption. The per caput supply of each such food item available for human consumption is then obtained by dividing the respective quantity by the related data on the population actually partaking of it. Data on per caput food supplies are expressed in terms of quantity and - by applying appropriate food composition factors for all primary and processed products - also in terms of caloric value and protein and fat content.",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5010",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:59:35.347286",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5010_food_balance__new_food_balances_values.feather",
+  "md5": "5acd24ba8eb1b53048a159f1483aa578"
+}

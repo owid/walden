@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_244_government_education_expenditure_1960_2010__szirmai__2015_config",
+  "name": "Grapher metadata for dataset_244_government_education_expenditure_1960_2010__szirmai__2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/244",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:53.618619",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "127f4929cb086bac2d4b0374c97acacf",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_244_government_education_expenditure_1960_2010__szirmai__2015_config.json",
+  "md5": "d3b420e3182e9c45b33c5964af34aec6"
+}

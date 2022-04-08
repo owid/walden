@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_67_proportion_of_45_54_year_olds_with_tertiary_education_2009__oecd__2012_config",
+  "name": "Grapher metadata for dataset_67_proportion_of_45_54_year_olds_with_tertiary_education_2009__oecd__2012",
+  "description": "Education at a Glance 2012 Graph A10.4 \u2013 Labour cost ratio and attainment levels (2009 or latest available year) Labour cost ratio of tertiary-educated individuals (5/6) to below upper secondary-educated individuals (0/1/2) and attainment levels of 45",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/67",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:01.661136",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1717fa0a1b8b535b3cf409445e7ec569",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_67_proportion_of_45_54_year_olds_with_tertiary_education_2009__oecd__2012_config.json",
+  "md5": "1372487d2163b4bdf23130fac4c6a532"
+}

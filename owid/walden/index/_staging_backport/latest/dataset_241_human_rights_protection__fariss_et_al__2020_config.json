@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_241_human_rights_protection__fariss_et_al__2020_config",
+  "name": "Grapher metadata for dataset_241_human_rights_protection__fariss_et_al__2020",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/241",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:44.493094",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "c386313f0badc7512083aed426791408",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_241_human_rights_protection__fariss_et_al__2020_config.json",
+  "md5": "670cf3f080645902c05acae83ba338b0"
+}

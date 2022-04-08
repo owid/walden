@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_37_oecd_education__pisa_test_scores__pisa__2015_values",
+  "name": "OECD Education: PISA Test Scores - PISA (2015)",
+  "description": "Score is the mean average across the 3 rated categories - mathematics, reading and science - except in 2003, where problem solving was an additional category and included in the mean average.\r\n\r\nFurther notes:\r\n1. China only includes Shanghai.\r\n",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/37",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:32:35.609458",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_37_oecd_education__pisa_test_scores__pisa__2015_values.feather",
+  "md5": "8d34dca1607a7085cc09e3ba333cf050"
+}

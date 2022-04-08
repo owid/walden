@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3219_learning_adjusted_years_of_schooling__world_bank__2018_config",
+  "name": "Grapher metadata for dataset_3219_learning_adjusted_years_of_schooling__world_bank__2018",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3219",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:51:27.927553",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "83e03e78bebed70463851d9059f614d9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3219_learning_adjusted_years_of_schooling__world_bank__2018_config.json",
+  "md5": "e2906a426b40afad7c680d963b786115"
+}

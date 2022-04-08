@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2862_shark_attacks_and_fatalities__global_shark_attack_file__gsaf__2018_values",
+  "name": "Shark attacks and fatalities - Global Shark Attack File (GSAF) (2018) ",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2862",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:52:44.404091",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2862_shark_attacks_and_fatalities__global_shark_attack_file__gsaf__2018_values.feather",
+  "md5": "5f891ab2cc152d6d9e17c3b666d00d5c"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_653_crude_oil_consumption_vs__price__bp_statistics__2016_config",
+  "name": "Grapher metadata for dataset_653_crude_oil_consumption_vs__price__bp_statistics__2016",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/653",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:54:15.434718",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "8d59fd1417fa689e504006aa4ac19664",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_653_crude_oil_consumption_vs__price__bp_statistics__2016_config.json",
+  "md5": "30a72d5c4ed282e05b39c3f2dee10546"
+}

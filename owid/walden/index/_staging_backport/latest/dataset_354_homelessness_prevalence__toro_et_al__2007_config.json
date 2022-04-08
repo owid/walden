@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_354_homelessness_prevalence__toro_et_al__2007_config",
+  "name": "Grapher metadata for dataset_354_homelessness_prevalence__toro_et_al__2007",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/354",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:37:39.291407",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1c0aeaffff9e469fa58caeafd7979363",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_354_homelessness_prevalence__toro_et_al__2007_config.json",
+  "md5": "b079638990efb427bac51a45647888e5"
+}

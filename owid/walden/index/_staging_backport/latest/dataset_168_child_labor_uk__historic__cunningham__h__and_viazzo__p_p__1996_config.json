@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_168_child_labor_uk__historic__cunningham__h__and_viazzo__p_p__1996_config",
+  "name": "Grapher metadata for dataset_168_child_labor_uk__historic__cunningham__h__and_viazzo__p_p__1996",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/168",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:46.601536",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "6d04668f3450aca91bbe9a6ba07471b1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_168_child_labor_uk__historic__cunningham__h__and_viazzo__p_p__1996_config.json",
+  "md5": "3141ed28af82dbeefc2f20791390590b"
+}

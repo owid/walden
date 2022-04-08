@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5009_agri_environmental_indicators__pesticides_indicators_values",
+  "name": "Agri-Environmental Indicators: Pesticides indicators",
+  "description": "Agri-environmental indicator on the Use of pesticides per area of cropland (which is the sum of arable land and land under permanent crops) at national level for the period 1990 to 2016.",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5009",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:52:51.160945",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5009_agri_environmental_indicators__pesticides_indicators_values.feather",
+  "md5": "deffb02a2b12f052b8eea9b02b82a284"
+}

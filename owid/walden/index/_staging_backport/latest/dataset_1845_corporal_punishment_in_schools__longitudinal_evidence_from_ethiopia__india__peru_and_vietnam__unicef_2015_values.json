@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1845_corporal_punishment_in_schools__longitudinal_evidence_from_ethiopia__india__peru_and_vietnam__unicef_2015_values",
+  "name": "Corporal Punishment in Schools - Longitudinal Evidence from Ethiopia, India, Peru and Vietnam (UNICEF 2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1845",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:52:03.861454",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1845_corporal_punishment_in_schools__longitudinal_evidence_from_ethiopia__india__peru_and_vietnam__unicef_2015_values.feather",
+  "md5": "38b4bd407155b0f11134e229265e9515"
+}

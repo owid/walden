@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_53_female_lung_cancer_deaths__per_100_000__who__iarc__2016_values",
+  "name": "Female lung cancer deaths (per 100,000) - WHO (IARC) (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/53",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:32:45.552557",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_53_female_lung_cancer_deaths__per_100_000__who__iarc__2016_values.feather",
+  "md5": "a0dfda9bb192bd6da16b1268b64caa5e"
+}

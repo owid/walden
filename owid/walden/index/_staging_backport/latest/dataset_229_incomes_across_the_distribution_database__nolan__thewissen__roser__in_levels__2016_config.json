@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_229_incomes_across_the_distribution_database__nolan__thewissen__roser__in_levels__2016_config",
+  "name": "Grapher metadata for dataset_229_incomes_across_the_distribution_database__nolan__thewissen__roser__in_levels__2016",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/229",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:29.741107",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "dbb70d7a337b1191013b119b2acc431f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_229_incomes_across_the_distribution_database__nolan__thewissen__roser__in_levels__2016_config.json",
+  "md5": "e3f7f3d8cf372b430b11b3bd4f8bf25f"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_236_bourguignon_and_morrison__2002__and_world_bank__povcalnet__2015_config",
+  "name": "Grapher metadata for dataset_236_bourguignon_and_morrison__2002__and_world_bank__povcalnet__2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/236",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:39.109034",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "629cf5ad0c4bc51c133586d0fa3a8b10",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_236_bourguignon_and_morrison__2002__and_world_bank__povcalnet__2015_config.json",
+  "md5": "65dd9ad6d555e2767dccccf7bb4f48cd"
+}

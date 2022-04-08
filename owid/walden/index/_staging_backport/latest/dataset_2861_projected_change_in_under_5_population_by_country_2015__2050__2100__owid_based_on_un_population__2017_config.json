@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2861_projected_change_in_under_5_population_by_country_2015__2050__2100__owid_based_on_un_population__2017_config",
+  "name": "Grapher metadata for dataset_2861_projected_change_in_under_5_population_by_country_2015__2050__2100__owid_based_on_un_population__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2861",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:56:13.597635",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "b86070d42aa75f3c6c5e037627388547",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2861_projected_change_in_under_5_population_by_country_2015__2050__2100__owid_based_on_un_population__2017_config.json",
+  "md5": "c6f637df3810808993c8b7cd4d3b3fed"
+}

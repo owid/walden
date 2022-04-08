@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_132_food_prices_expressed_in_hourly_wages__u_s__bureau_of_labor_statistics__2015_values",
+  "name": "Food Prices expressed in hourly wages - U.S. Bureau of Labor Statistics (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/132",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:30.129756",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_132_food_prices_expressed_in_hourly_wages__u_s__bureau_of_labor_statistics__2015_values.feather",
+  "md5": "8a1a761258bcda4c40e9b9e4563f0e4a"
+}

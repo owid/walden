@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_364_poverty_headcount_at_dollar1_90_a_day__2011_ppp__high_income__world_bank__povcal__2017_values",
+  "name": "Poverty headcount at $1.90 a day (2011 PPP) - High-income - World Bank (Povcal) (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/364",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:52.509650",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_364_poverty_headcount_at_dollar1_90_a_day__2011_ppp__high_income__world_bank__povcal__2017_values.feather",
+  "md5": "cb3804282cddb3916ffb4f9779b69e6e"
+}

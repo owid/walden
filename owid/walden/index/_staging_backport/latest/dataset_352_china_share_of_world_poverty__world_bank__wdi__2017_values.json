@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_352_china_share_of_world_poverty__world_bank__wdi__2017_values",
+  "name": "China share of World Poverty - World Bank (WDI) (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/352",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:35.144216",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_352_china_share_of_world_poverty__world_bank__wdi__2017_values.feather",
+  "md5": "438be31ab164878deb95c90ce566b743"
+}

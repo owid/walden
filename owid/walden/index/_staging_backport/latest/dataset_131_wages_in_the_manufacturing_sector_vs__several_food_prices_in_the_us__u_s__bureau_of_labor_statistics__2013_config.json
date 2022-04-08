@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_131_wages_in_the_manufacturing_sector_vs__several_food_prices_in_the_us__u_s__bureau_of_labor_statistics__2013_config",
+  "name": "Grapher metadata for dataset_131_wages_in_the_manufacturing_sector_vs__several_food_prices_in_the_us__u_s__bureau_of_labor_statistics__2013",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/131",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:26.886589",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "a4558afe2c37f047365e1057eb010598",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_131_wages_in_the_manufacturing_sector_vs__several_food_prices_in_the_us__u_s__bureau_of_labor_statistics__2013_config.json",
+  "md5": "fe87d1918091340633ea71c937d0010f"
+}

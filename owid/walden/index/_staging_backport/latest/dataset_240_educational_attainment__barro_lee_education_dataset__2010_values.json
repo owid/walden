@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_240_educational_attainment__barro_lee_education_dataset__2010_values",
+  "name": "Educational Attainment - Barro Lee Education Dataset (2010) ",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/240",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:42.623725",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_240_educational_attainment__barro_lee_education_dataset__2010_values.feather",
+  "md5": "814184bee36ea6dddb2fe3d2f2dbcb9d"
+}

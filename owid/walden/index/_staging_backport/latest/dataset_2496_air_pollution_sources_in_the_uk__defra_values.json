@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2496_air_pollution_sources_in_the_uk__defra_values",
+  "name": "Air pollution sources in the UK - DEFRA",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2496",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:51:24.629211",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2496_air_pollution_sources_in_the_uk__defra_values.feather",
+  "md5": "fb2b8a815ff76567ae1fcc2d6653a1fc"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2887_urbanization_in_the_long_run__owid_based_on_the_un_world_urbanization_prospects_2018_and_others_values",
+  "name": "Urbanization in the long run - OWID based on the UN World Urbanization Prospects 2018 and others",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2887",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:51:52.601397",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2887_urbanization_in_the_long_run__owid_based_on_the_un_world_urbanization_prospects_2018_and_others_values.feather",
+  "md5": "10de558b1b6330afc13df8f7389c7c6e"
+}

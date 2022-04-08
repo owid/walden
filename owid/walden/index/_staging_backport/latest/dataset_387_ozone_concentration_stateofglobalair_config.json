@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_387_ozone_concentration_stateofglobalair_config",
+  "name": "Grapher metadata for dataset_387_ozone_concentration_stateofglobalair",
+  "description": "Population-weighted ozone (O3) concentration by country (1990-2015)- via StateofGlobalAir",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/387",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:38:15.784613",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "6253d3c0ef56cd9acb5055113b6ab759",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_387_ozone_concentration_stateofglobalair_config.json",
+  "md5": "7cfeb05b16de3448bf76664df488e99c"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_353_extreme_income_poverty_in_europe__bradshaw_and_mayhew__2011_config",
+  "name": "Grapher metadata for dataset_353_extreme_income_poverty_in_europe__bradshaw_and_mayhew__2011",
+  "description": "The authors use EU-SILC 2008 data to estimate \"World Bank type extreme poverty rates\".\r\n\r\nThey seem to estimate extreme poverty by translating the $1 and $2.15 per person per day poverty lines to European countries using PPP conversions. They do not explain",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/353",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:37:36.834259",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "13d19c5ad2a4a9f222b155beb183898b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_353_extreme_income_poverty_in_europe__bradshaw_and_mayhew__2011_config.json",
+  "md5": "1cda98f343acdd41316db3285cbf4b2b"
+}

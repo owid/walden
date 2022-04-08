@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1092_patent_and_publication_rates__owid_based_on_world_bank__and__un_config",
+  "name": "Grapher metadata for dataset_1092_patent_and_publication_rates__owid_based_on_world_bank__and__un",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1092",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:54:05.234530",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "fd42c0061441378cc705e71b11643cc0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1092_patent_and_publication_rates__owid_based_on_world_bank__and__un_config.json",
+  "md5": "3259160312f9dc25bfe2f35516ba32d9"
+}

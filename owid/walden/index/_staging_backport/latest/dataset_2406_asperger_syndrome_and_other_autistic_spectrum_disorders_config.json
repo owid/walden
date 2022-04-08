@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2406_asperger_syndrome_and_other_autistic_spectrum_disorders_config",
+  "name": "Grapher metadata for dataset_2406_asperger_syndrome_and_other_autistic_spectrum_disorders",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2406",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T14:00:11.931285",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1fb04a8d84d1bd2b8ea79b39dc7a9c95",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2406_asperger_syndrome_and_other_autistic_spectrum_disorders_config.json",
+  "md5": "ca73d0e1110336491406252c7611231b"
+}

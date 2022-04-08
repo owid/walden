@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4246_job_search_methods_us__pew_research_center__2015_values",
+  "name": "Job search methods US - Pew Research Center (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4246",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:50:41.636504",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4246_job_search_methods_us__pew_research_center__2015_values.feather",
+  "md5": "4d44a987bf2eef617b7b8946cbe04aab"
+}

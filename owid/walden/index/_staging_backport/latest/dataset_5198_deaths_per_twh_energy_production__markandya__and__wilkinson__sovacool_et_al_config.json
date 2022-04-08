@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5198_deaths_per_twh_energy_production__markandya__and__wilkinson__sovacool_et_al_config",
+  "name": "Grapher metadata for dataset_5198_deaths_per_twh_energy_production__markandya__and__wilkinson__sovacool_et_al",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5198",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:43:59.344866",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "779121529d79327a00cb4d6dd0fd237d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5198_deaths_per_twh_energy_production__markandya__and__wilkinson__sovacool_et_al_config.json",
+  "md5": "38571745a291ee8dae9bb21eea1ef11c"
+}

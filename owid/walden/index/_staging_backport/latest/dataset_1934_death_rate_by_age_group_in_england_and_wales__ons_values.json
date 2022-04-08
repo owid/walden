@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1934_death_rate_by_age_group_in_england_and_wales__ons_values",
+  "name": "Death rate by age group in England and Wales - ONS",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1934",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:44:14.246522",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1934_death_rate_by_age_group_in_england_and_wales__ons_values.feather",
+  "md5": "dbb7ed0b6768ae9e777b632ee501298d"
+}

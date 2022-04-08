@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5568_fossil_fuel_production_bp__and__shift__2022_values",
+  "name": "Fossil fuel production BP & Shift (2022)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5568",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T14:00:08.461025",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5568_fossil_fuel_production_bp__and__shift__2022_values.feather",
+  "md5": "14e176928718a6f79a1ec602d4ef4729"
+}

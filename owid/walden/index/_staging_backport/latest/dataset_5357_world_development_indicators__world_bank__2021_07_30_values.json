@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5357_world_development_indicators__world_bank__2021_07_30_values",
+  "name": "World Development Indicators - World Bank (2021.07.30)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5357",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:18:16.244439",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5357_world_development_indicators__world_bank__2021_07_30_values.feather",
+  "md5": "401060c13fc17f50228c47a170d5a313"
+}

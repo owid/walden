@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_384_public_expenditure_on_health_in_the_long_run__lindert__1994__oecd__who_values",
+  "name": "Public expenditure on health in the long run - Lindert (1994), OECD, WHO",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/384",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:38:11.267565",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_384_public_expenditure_on_health_in_the_long_run__lindert__1994__oecd__who_values.feather",
+  "md5": "232a6bdcd5008f62f3b4a1cee312373c"
+}

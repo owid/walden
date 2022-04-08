@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_20_age_adjusted_female_suicide_rates__1950_2005__who__2005_values",
+  "name": "Age-adjusted female suicide rates, 1950-2005 - WHO (2005)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/20",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:34:54.450292",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_20_age_adjusted_female_suicide_rates__1950_2005__who__2005_values.feather",
+  "md5": "e604b0a9636b2ef41483e5ad1c2859ac"
+}

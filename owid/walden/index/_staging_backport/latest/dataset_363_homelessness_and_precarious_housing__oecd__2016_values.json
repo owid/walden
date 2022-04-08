@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_363_homelessness_and_precarious_housing__oecd__2016_values",
+  "name": "Homelessness and Precarious Housing - OECD (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/363",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:49.969228",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_363_homelessness_and_precarious_housing__oecd__2016_values.feather",
+  "md5": "b63977a1885bc28ff6d8bd86fcd8a463"
+}

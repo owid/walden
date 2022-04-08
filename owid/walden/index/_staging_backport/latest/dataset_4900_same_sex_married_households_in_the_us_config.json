@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4900_same_sex_married_households_in_the_us_config",
+  "name": "Grapher metadata for dataset_4900_same_sex_married_households_in_the_us",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4900",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:50:42.828426",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "06976b8c886fac77616673cecb8c589e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4900_same_sex_married_households_in_the_us_config.json",
+  "md5": "1cef28c99fbe2f99ed0d9b344a4bb9aa"
+}

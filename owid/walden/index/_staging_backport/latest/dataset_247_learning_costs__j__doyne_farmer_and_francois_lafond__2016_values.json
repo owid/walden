@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_247_learning_costs__j__doyne_farmer_and_francois_lafond__2016_values",
+  "name": "Learning costs, J. Doyne Farmer and Fran\u00e7ois Lafond (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/247",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:05.733869",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_247_learning_costs__j__doyne_farmer_and_francois_lafond__2016_values.feather",
+  "md5": "debefa92d6f09fbb411b0b2626904577"
+}

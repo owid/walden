@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_21_age_adjusted_male_suicide_rates__1950_2005__who__2005_values",
+  "name": "Age-adjusted male suicide rates, 1950-2005 - WHO (2005)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/21",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:34:57.038313",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_21_age_adjusted_male_suicide_rates__1950_2005__who__2005_values.feather",
+  "md5": "3d1df4400ef1c0d290b5cf9281b2b64a"
+}

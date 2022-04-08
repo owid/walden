@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_43_percentage_of_individuals_using_the_internet__ict__itu__2015_values",
+  "name": "Percentage of Individuals using the Internet (ICT) - ITU (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/43",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:32:42.524584",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_43_percentage_of_individuals_using_the_internet__ict__itu__2015_values.feather",
+  "md5": "d8dfc037044645cae510f617f72aad12"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2406_asperger_syndrome_and_other_autistic_spectrum_disorders_values",
+  "name": "Asperger syndrome and other autistic spectrum disorders",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2406",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T14:00:50.064955",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2406_asperger_syndrome_and_other_autistic_spectrum_disorders_values.feather",
+  "md5": "8b33879f4cd5c9f11e7580d1c26611f7"
+}

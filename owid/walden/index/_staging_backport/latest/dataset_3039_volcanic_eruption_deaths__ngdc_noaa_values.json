@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3039_volcanic_eruption_deaths__ngdc_noaa_values",
+  "name": "Volcanic eruption deaths (NGDC/NOAA)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3039",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:44:03.254255",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3039_volcanic_eruption_deaths__ngdc_noaa_values.feather",
+  "md5": "8a6bc7cd0995ee5d3f1f966f06ea242f"
+}

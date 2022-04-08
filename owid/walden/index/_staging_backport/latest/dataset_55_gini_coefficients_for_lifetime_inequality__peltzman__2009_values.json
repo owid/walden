@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_55_gini_coefficients_for_lifetime_inequality__peltzman__2009_values",
+  "name": "Gini coefficients for lifetime inequality - Peltzman (2009)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/55",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:31:32.415443",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_55_gini_coefficients_for_lifetime_inequality__peltzman__2009_values.feather",
+  "md5": "9b211122a7da77d07a666a84478ff1ae"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_486_energy_imports__pct_energy_use__world_bank__2014_config",
+  "name": "Grapher metadata for dataset_486_energy_imports__pct_energy_use__world_bank__2014",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/486",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:44:06.529984",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "b98a45ae93b7a7f70f9ef47dd957fd0b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_486_energy_imports__pct_energy_use__world_bank__2014_config.json",
+  "md5": "ea34508ac24ac725ab7d1709a38362de"
+}

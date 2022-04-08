@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1851_transistors_per_microprocessor__rupp__and__horowitz_values",
+  "name": "Transistors per microprocessor - Rupp & Horowitz",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1851",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:53:59.150011",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1851_transistors_per_microprocessor__rupp__and__horowitz_values.feather",
+  "md5": "274632337b805a22a5295d09c08df65e"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_270_international_historical_statistics__deaths_per_1_000__brian_mitchell__2013_config",
+  "name": "Grapher metadata for dataset_270_international_historical_statistics__deaths_per_1_000__brian_mitchell__2013",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/270",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:14.371490",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "145c41f71b073876405088e2f78c9012",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_270_international_historical_statistics__deaths_per_1_000__brian_mitchell__2013_config.json",
+  "md5": "2227c97cb6a3c16fc2c0634112f57834"
+}

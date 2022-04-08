@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_132_food_prices_expressed_in_hourly_wages__u_s__bureau_of_labor_statistics__2015_config",
+  "name": "Grapher metadata for dataset_132_food_prices_expressed_in_hourly_wages__u_s__bureau_of_labor_statistics__2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/132",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:29.381898",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "c304c5955562e0fddcbea982e635ccf1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_132_food_prices_expressed_in_hourly_wages__u_s__bureau_of_labor_statistics__2015_config.json",
+  "md5": "aefdbbcd7662c5e784186f397216c5de"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1068_world_bank_global_findex__2011_variables_values",
+  "name": "World Bank Global Findex - 2011 Variables",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1068",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:47:11.258682",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1068_world_bank_global_findex__2011_variables_values.feather",
+  "md5": "a7e467b7066262348a11899fa11e2d77"
+}

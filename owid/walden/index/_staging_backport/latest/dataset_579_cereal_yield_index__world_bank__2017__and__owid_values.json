@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_579_cereal_yield_index__world_bank__2017__and__owid_values",
+  "name": "Cereal yield index - (World Bank (2017) & OWID)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/579",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:44:11.940478",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_579_cereal_yield_index__world_bank__2017__and__owid_values.feather",
+  "md5": "a549ddd80a88da678350a115657c7be2"
+}

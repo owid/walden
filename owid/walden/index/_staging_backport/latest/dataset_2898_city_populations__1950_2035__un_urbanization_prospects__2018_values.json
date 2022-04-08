@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2898_city_populations__1950_2035__un_urbanization_prospects__2018_values",
+  "name": "City populations (1950-2035) - UN Urbanization Prospects (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2898",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:47:02.870251",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2898_city_populations__1950_2035__un_urbanization_prospects__2018_values.feather",
+  "md5": "54b3b35cb6542e2cccaf311e8097d051"
+}

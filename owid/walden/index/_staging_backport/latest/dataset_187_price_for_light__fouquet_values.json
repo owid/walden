@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_187_price_for_light__fouquet_values",
+  "name": "Price for Light \u2013 Fouquet",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/187",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:55.147118",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_187_price_for_light__fouquet_values.feather",
+  "md5": "fe69e4371e4c3312232d818ba465294c"
+}

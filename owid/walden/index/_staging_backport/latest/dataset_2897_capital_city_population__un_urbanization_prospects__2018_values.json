@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2897_capital_city_population__un_urbanization_prospects__2018_values",
+  "name": "Capital city population - UN Urbanization Prospects (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2897",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:54:11.657048",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2897_capital_city_population__un_urbanization_prospects__2018_values.feather",
+  "md5": "8093bbded29109329514d74282fec24e"
+}

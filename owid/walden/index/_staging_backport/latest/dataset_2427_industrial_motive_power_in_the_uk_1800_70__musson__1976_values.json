@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2427_industrial_motive_power_in_the_uk_1800_70__musson__1976_values",
+  "name": "Industrial motive power in the UK 1800-70 (Musson (1976))",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2427",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:51:57.558678",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2427_industrial_motive_power_in_the_uk_1800_70__musson__1976_values.feather",
+  "md5": "364756d099f26ab66b527f59c1d74107"
+}

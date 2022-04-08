@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4906_lgbt_marital_status_in_the_us__gallup_2017_config",
+  "name": "Grapher metadata for dataset_4906_lgbt_marital_status_in_the_us__gallup_2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4906",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:54:00.500756",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "63e141043887ae0ce044cd229c68c86d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4906_lgbt_marital_status_in_the_us__gallup_2017_config.json",
+  "md5": "e272717cad4ffb51c5093c9449d8f3b9"
+}

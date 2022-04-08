@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_53_female_lung_cancer_deaths__per_100_000__who__iarc__2016_config",
+  "name": "Grapher metadata for dataset_53_female_lung_cancer_deaths__per_100_000__who__iarc__2016",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/53",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:32:44.574788",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1cd59a98a81a7436e76ce0880fe536b0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_53_female_lung_cancer_deaths__per_100_000__who__iarc__2016_config.json",
+  "md5": "4796635b76272bf1bde2d826a9551275"
+}

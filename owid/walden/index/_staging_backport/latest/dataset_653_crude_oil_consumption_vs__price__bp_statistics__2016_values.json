@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_653_crude_oil_consumption_vs__price__bp_statistics__2016_values",
+  "name": "Crude Oil Consumption vs. Price - BP Statistics (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/653",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:54:16.209822",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_653_crude_oil_consumption_vs__price__bp_statistics__2016_values.feather",
+  "md5": "68cdd59a993d210d106cc86930eac9f8"
+}

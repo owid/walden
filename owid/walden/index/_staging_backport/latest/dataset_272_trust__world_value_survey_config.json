@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_272_trust__world_value_survey_config",
+  "name": "Grapher metadata for dataset_272_trust__world_value_survey",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/272",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:20.308704",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "463c534ee222bfc893c04d5dec2033dd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_272_trust__world_value_survey_config.json",
+  "md5": "7c4d0754d9ef6ce26dc6e7c593787062"
+}

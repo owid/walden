@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2501_literacy_by_years_of_schooling_us_1947__oecd__2014_config",
+  "name": "Grapher metadata for dataset_2501_literacy_by_years_of_schooling_us_1947__oecd__2014",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2501",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:44:04.587171",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "dfe2d14134e825f207c7bb06fe182f3f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2501_literacy_by_years_of_schooling_us_1947__oecd__2014_config.json",
+  "md5": "77da6a60b4fb3375bb3843ac27fa209d"
+}

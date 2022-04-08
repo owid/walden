@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_243_education_expenditure_us_1949_2013__nces__2014_config",
+  "name": "Grapher metadata for dataset_243_education_expenditure_us_1949_2013__nces__2014",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/243",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:50.831860",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "df43f4d62354b5ff1bb4d1e220c7fb20",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_243_education_expenditure_us_1949_2013__nces__2014_config.json",
+  "md5": "8a7dc7a0d8b7dc648dcabe94b62457c8"
+}

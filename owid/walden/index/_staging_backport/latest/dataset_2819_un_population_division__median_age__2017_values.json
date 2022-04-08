@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2819_un_population_division__median_age__2017_values",
+  "name": "UN Population Division (Median Age) (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2819",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T14:02:08.176409",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2819_un_population_division__median_age__2017_values.feather",
+  "md5": "7987d90cb96056398e24a2dffd84dfc2"
+}

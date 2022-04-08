@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_965_number_of_parties_to_multilateral_environmental_agreements__unctad_config",
+  "name": "Grapher metadata for dataset_965_number_of_parties_to_multilateral_environmental_agreements__unctad",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/965",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:59:44.370006",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1dddb3d55cb97d624f4694175471e7f1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_965_number_of_parties_to_multilateral_environmental_agreements__unctad_config.json",
+  "md5": "3f0d2a971840b960a7dbb1f7c9ad1fa6"
+}

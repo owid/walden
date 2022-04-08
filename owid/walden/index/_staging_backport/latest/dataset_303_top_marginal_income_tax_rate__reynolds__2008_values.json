@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_303_top_marginal_income_tax_rate__reynolds__2008_values",
+  "name": "Top marginal income tax rate \u2013 Reynolds (2008)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/303",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:59.884461",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_303_top_marginal_income_tax_rate__reynolds__2008_values.feather",
+  "md5": "e821d81b1295f6430b9a202ab6cf9504"
+}

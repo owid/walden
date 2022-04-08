@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2861_projected_change_in_under_5_population_by_country_2015__2050__2100__owid_based_on_un_population__2017_values",
+  "name": "Projected change in under-5 population by country 2015, 2050, 2100 - OWID based on UN Population (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2861",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:56:14.447052",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2861_projected_change_in_under_5_population_by_country_2015__2050__2100__owid_based_on_un_population__2017_values.feather",
+  "md5": "0c5c1f78af1d0250219e043607618cb7"
+}

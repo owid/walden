@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_152_press_freedom__freedom_house__2017_values",
+  "name": "Press freedom - Freedom House (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/152",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:42.129001",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_152_press_freedom__freedom_house__2017_values.feather",
+  "md5": "131195e75e5905dea4600b7c0896e160"
+}

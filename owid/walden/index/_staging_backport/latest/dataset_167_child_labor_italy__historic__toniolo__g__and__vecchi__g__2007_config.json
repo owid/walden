@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_167_child_labor_italy__historic__toniolo__g__and__vecchi__g__2007_config",
+  "name": "Grapher metadata for dataset_167_child_labor_italy__historic__toniolo__g__and__vecchi__g__2007",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/167",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:43.979096",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "e13b68998c9e7a1117b99be024080174",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_167_child_labor_italy__historic__toniolo__g__and__vecchi__g__2007_config.json",
+  "md5": "f37384ba615a4e8164fb6af02b3573e7"
+}

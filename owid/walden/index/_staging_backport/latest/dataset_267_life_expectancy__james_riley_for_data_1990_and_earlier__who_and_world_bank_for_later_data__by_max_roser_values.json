@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_267_life_expectancy__james_riley_for_data_1990_and_earlier__who_and_world_bank_for_later_data__by_max_roser_values",
+  "name": "Life expectancy \u2013 James Riley for data 1990 and earlier; WHO and World Bank for later data (by Max Roser)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/267",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:08.598973",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_267_life_expectancy__james_riley_for_data_1990_and_earlier__who_and_world_bank_for_later_data__by_max_roser_values.feather",
+  "md5": "96ee8f0227945dd11cf26f4865e8703f"
+}

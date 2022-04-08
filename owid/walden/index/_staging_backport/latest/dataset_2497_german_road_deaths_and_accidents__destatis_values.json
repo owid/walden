@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2497_german_road_deaths_and_accidents__destatis_values",
+  "name": "German road deaths and accidents - destatis",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2497",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:51:55.489445",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2497_german_road_deaths_and_accidents__destatis_values.feather",
+  "md5": "a7f12c4f327f56ff924080029029e1dd"
+}

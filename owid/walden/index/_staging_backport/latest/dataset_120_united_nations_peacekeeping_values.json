@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_120_united_nations_peacekeeping_values",
+  "name": "United Nations Peacekeeping",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/120",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:22.466783",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_120_united_nations_peacekeeping_values.feather",
+  "md5": "eef123585d90c0d6c7aaacfa726d1560"
+}

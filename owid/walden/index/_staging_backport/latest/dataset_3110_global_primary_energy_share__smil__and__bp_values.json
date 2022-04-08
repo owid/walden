@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3110_global_primary_energy_share__smil__and__bp_values",
+  "name": "Global primary energy share (Smil & BP)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3110",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T14:02:03.259940",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3110_global_primary_energy_share__smil__and__bp_values.feather",
+  "md5": "7ee1e040a471c27ca7774802ca4971ca"
+}

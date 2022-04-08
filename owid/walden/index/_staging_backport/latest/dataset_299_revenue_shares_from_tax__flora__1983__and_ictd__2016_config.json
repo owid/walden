@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_299_revenue_shares_from_tax__flora__1983__and_ictd__2016_config",
+  "name": "Grapher metadata for dataset_299_revenue_shares_from_tax__flora__1983__and_ictd__2016",
+  "description": "Europe",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/299",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:36:46.680962",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "680ceacd25a7f5d350793c369323f1e0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_299_revenue_shares_from_tax__flora__1983__and_ictd__2016_config.json",
+  "md5": "e0393ab820f5c825ae985729fc97042a"
+}

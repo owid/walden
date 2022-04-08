@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5071_covid_2019__ecdc__2020_values",
+  "name": "COVID-2019 - ECDC (2020)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5071",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:55:54.768708",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5071_covid_2019__ecdc__2020_values.feather",
+  "md5": "d50a10fe757272ce80fba9d8961a8382"
+}

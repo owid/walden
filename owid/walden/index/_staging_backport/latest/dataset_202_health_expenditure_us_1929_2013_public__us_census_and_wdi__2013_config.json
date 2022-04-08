@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_202_health_expenditure_us_1929_2013_public__us_census_and_wdi__2013_config",
+  "name": "Grapher metadata for dataset_202_health_expenditure_us_1929_2013_public__us_census_and_wdi__2013",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/202",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:35:02.361757",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "46308c5328158003137bd7d17c22ec3a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_202_health_expenditure_us_1929_2013_public__us_census_and_wdi__2013_config.json",
+  "md5": "126170319921437989aa65ac1ffd9ed2"
+}

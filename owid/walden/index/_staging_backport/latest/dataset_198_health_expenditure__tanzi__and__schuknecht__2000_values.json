@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_198_health_expenditure__tanzi__and__schuknecht__2000_values",
+  "name": "Health Expenditure - Tanzi & Schuknecht (2000)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/198",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:57.766314",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_198_health_expenditure__tanzi__and__schuknecht__2000_values.feather",
+  "md5": "d63dc61f693ea89f3e3344bb98cd9575"
+}

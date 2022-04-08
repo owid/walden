@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_625_quality_of_government__quality_of_government_dataset_config",
+  "name": "Grapher metadata for dataset_625_quality_of_government__quality_of_government_dataset",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/625",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:59:46.739892",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "7cc5a768625dc3573c4cb092e8f90760",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_625_quality_of_government__quality_of_government_dataset_config.json",
+  "md5": "1c7cac88cd4e7bf29af616992c0a38d6"
+}

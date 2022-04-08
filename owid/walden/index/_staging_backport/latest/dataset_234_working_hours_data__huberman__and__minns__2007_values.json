@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_234_working_hours_data__huberman__and__minns__2007_values",
+  "name": "Working Hours Data - Huberman & Minns (2007)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/234",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:33.844018",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_234_working_hours_data__huberman__and__minns__2007_values.feather",
+  "md5": "3d8e7a31826ecb7df67c58bf0137dece"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4906_lgbt_marital_status_in_the_us__gallup_2017_values",
+  "name": "LGBT Marital Status in the US (Gallup 2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4906",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:54:01.256255",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4906_lgbt_marital_status_in_the_us__gallup_2017_values.feather",
+  "md5": "126a73c6f44ebb92d5df0b19cd04feb5"
+}

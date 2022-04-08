@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_202_health_expenditure_us_1929_2013_public__us_census_and_wdi__2013_values",
+  "name": "Health Expenditure US 1929-2013 Public - US Census and WDI (2013)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/202",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:03.127369",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_202_health_expenditure_us_1929_2013_public__us_census_and_wdi__2013_values.feather",
+  "md5": "87f0e6eede5ad5ae78219102043213e4"
+}

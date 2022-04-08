@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5193_air_travel_trips_per_capita__airbus__2019_config",
+  "name": "Grapher metadata for dataset_5193_air_travel_trips_per_capita__airbus__2019",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5193",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:51:30.016386",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "9daf254c31346fdefbdcc37a60f63487",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5193_air_travel_trips_per_capita__airbus__2019_config.json",
+  "md5": "85d8a6be5fc186569a5e06a74f735104"
+}

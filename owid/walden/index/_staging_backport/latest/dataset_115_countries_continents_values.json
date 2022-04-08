@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_115_countries_continents_values",
+  "name": "Countries Continents",
+  "description": "Continents each country belongs to. Good one.",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/115",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:45:39.233492",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_115_countries_continents_values.feather",
+  "md5": "6753eea66bc209a9c2f720bd6ab5310f"
+}

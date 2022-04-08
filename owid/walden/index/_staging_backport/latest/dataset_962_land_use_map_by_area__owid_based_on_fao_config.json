@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_962_land_use_map_by_area__owid_based_on_fao_config",
+  "name": "Grapher metadata for dataset_962_land_use_map_by_area__owid_based_on_fao",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/962",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T14:00:01.663160",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "69cd598441f41b00810dd941fb6c0aaf",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_962_land_use_map_by_area__owid_based_on_fao_config.json",
+  "md5": "b4ec5758b88c9c8b6be07162c4b5fd17"
+}

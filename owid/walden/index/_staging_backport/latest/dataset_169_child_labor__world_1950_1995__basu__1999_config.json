@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_169_child_labor__world_1950_1995__basu__1999_config",
+  "name": "Grapher metadata for dataset_169_child_labor__world_1950_1995__basu__1999",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/169",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:49.117668",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "70995666f385e208112ab5d392ab8d71",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_169_child_labor__world_1950_1995__basu__1999_config.json",
+  "md5": "17b0959da6fdc72188d60de3dd516a48"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_27_human_height__university_of_tuebingen__2015_config",
+  "name": "Grapher metadata for dataset_27_human_height__university_of_tuebingen__2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/27",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:32:29.230916",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "dbcf807d788e6c79e8944bbf9cfa10d7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_27_human_height__university_of_tuebingen__2015_config.json",
+  "md5": "46b31849b898085d07ac7ec50525d313"
+}

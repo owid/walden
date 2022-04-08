@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_375_so2_emissions__china_and_india__klimont_et_al__2013_config",
+  "name": "Grapher metadata for dataset_375_so2_emissions__china_and_india__klimont_et_al__2013",
+  "description": "SO2 emissions (2000-2011) in China and India",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/375",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:38:05.293334",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "3eb4445aab23e0c131b5996365a847fa",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_375_so2_emissions__china_and_india__klimont_et_al__2013_config.json",
+  "md5": "7a61a207ff9be73b613db36ee973da69"
+}

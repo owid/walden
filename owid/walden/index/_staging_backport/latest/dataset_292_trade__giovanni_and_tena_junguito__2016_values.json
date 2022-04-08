@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_292_trade__giovanni_and_tena_junguito__2016_values",
+  "name": "Trade \u2013 Giovanni and Tena-Junguito (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/292",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:37.239999",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_292_trade__giovanni_and_tena_junguito__2016_values.feather",
+  "md5": "fa59781895ee546f7232714e73f1a59a"
+}

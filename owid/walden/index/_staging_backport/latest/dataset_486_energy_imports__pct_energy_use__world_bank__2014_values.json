@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_486_energy_imports__pct_energy_use__world_bank__2014_values",
+  "name": "Energy imports (% energy use) - World Bank (2014)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/486",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:44:08.048294",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_486_energy_imports__pct_energy_use__world_bank__2014_values.feather",
+  "md5": "713f23bef4b5aec82bfd9b84f4f8a29b"
+}

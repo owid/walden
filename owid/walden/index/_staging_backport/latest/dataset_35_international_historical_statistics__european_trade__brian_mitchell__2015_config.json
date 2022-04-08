@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_35_international_historical_statistics__european_trade__brian_mitchell__2015_config",
+  "name": "Grapher metadata for dataset_35_international_historical_statistics__european_trade__brian_mitchell__2015",
+  "description": "Ratio of exports and imports to GDP in current values for the seven largest European economies. Data is from International Historical Statistics by Brian Mitchell. \r\n\r\nNotes: Germany uses NNP as a measure of output instead of GDP until 1945. Post-1945 Wes",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/35",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:32:31.939437",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "fbe20a72c01b03416a4e8f14487edefb",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_35_international_historical_statistics__european_trade__brian_mitchell__2015_config.json",
+  "md5": "2fbb8a75bbde8751ed334d061dbfc061"
+}

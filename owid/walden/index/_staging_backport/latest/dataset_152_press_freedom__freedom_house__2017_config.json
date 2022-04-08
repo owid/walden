@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_152_press_freedom__freedom_house__2017_config",
+  "name": "Grapher metadata for dataset_152_press_freedom__freedom_house__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/152",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:34:41.051285",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "d3b7337213f2735e8c3916da8d4d42cc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_152_press_freedom__freedom_house__2017_config.json",
+  "md5": "82ba2899e8f7a45c4ac17aa3e974db62"
+}

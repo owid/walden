@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_43_percentage_of_individuals_using_the_internet__ict__itu__2015_config",
+  "name": "Grapher metadata for dataset_43_percentage_of_individuals_using_the_internet__ict__itu__2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/43",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T12:32:41.530155",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "f991402b33df91a2816d3743e6640d77",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_43_percentage_of_individuals_using_the_internet__ict__itu__2015_config.json",
+  "md5": "72acd4f325111e01494a18d2012db107"
+}

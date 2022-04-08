@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_305_corruption_perception_index__transparency_international__2018_values",
+  "name": "Corruption Perception Index - Transparency International (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/305",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:37:02.643454",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_305_corruption_perception_index__transparency_international__2018_values.feather",
+  "md5": "7ea80844c125e2a003547c8e6996b23b"
+}

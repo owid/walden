@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_829_food_security__suite_of_food_security_indicators__fao__2017_config",
+  "name": "Grapher metadata for dataset_829_food_security__suite_of_food_security_indicators__fao__2017",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/829",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:53:42.344783",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "50b03eb5fa5c16a035e58a62c44c6bc5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_829_food_security__suite_of_food_security_indicators__fao__2017_config.json",
+  "md5": "1c7a6840b3afc4299aca0648c0bffa79"
+}

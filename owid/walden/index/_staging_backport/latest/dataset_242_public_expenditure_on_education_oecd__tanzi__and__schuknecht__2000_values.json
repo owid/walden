@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_242_public_expenditure_on_education_oecd__tanzi__and__schuknecht__2000_values",
+  "name": "Public Expenditure on Education OECD - Tanzi & Schuknecht (2000)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/242",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:35:48.969232",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_242_public_expenditure_on_education_oecd__tanzi__and__schuknecht__2000_values.feather",
+  "md5": "23fe51f213d902b60b3db8736d4a09f5"
+}

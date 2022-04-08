@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_965_number_of_parties_to_multilateral_environmental_agreements__unctad_values",
+  "name": "Number of parties to multilateral environmental agreements - UNCTAD",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/965",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:59:45.308645",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_965_number_of_parties_to_multilateral_environmental_agreements__unctad_values.feather",
+  "md5": "7475880ce9fdbbb02df99f69bf2761af"
+}

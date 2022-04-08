@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_169_child_labor__world_1950_1995__basu__1999_values",
+  "name": "Child Labor (World 1950-1995) - Basu (1999)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/169",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:49.863313",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_169_child_labor__world_1950_1995__basu__1999_values.feather",
+  "md5": "14db78199ecea75c1e172f0bf0844527"
+}

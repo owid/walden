@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5312_affordability_of_diets__sofi__2021_values",
+  "name": "Affordability of diets (SOFI, 2021)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5312",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:47:14.240744",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5312_affordability_of_diets__sofi__2021_values.feather",
+  "md5": "d61a79799eb5ea2a7361f06084c75f90"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2501_literacy_by_years_of_schooling_us_1947__oecd__2014_values",
+  "name": "Literacy by years of schooling US 1947 \u2013 OECD (2014) ",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2501",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:44:05.327352",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2501_literacy_by_years_of_schooling_us_1947__oecd__2014_values.feather",
+  "md5": "71fb8136bd34e76894251fbeacc65145"
+}

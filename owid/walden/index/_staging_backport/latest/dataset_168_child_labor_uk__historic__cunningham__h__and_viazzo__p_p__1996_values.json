@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_168_child_labor_uk__historic__cunningham__h__and_viazzo__p_p__1996_values",
+  "name": "Child Labor UK (historic) - Cunningham, H. and Viazzo, P.P. (1996)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/168",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:34:47.341626",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_168_child_labor_uk__historic__cunningham__h__and_viazzo__p_p__1996_values.feather",
+  "md5": "f66dbd503345f4d0706af22174784c9d"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_61_iq_data__pietschnig_and_voracek__2015_values",
+  "name": "IQ Data - Pietschnig and Voracek (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/61",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:33:54.729388",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_61_iq_data__pietschnig_and_voracek__2015_values.feather",
+  "md5": "1c3a2087a0f2770df41e0c975e19e0ce"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_246_oecd__education_statistics__2017_values",
+  "name": "OECD: Education Statistics (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/246",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T12:36:02.728558",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_246_oecd__education_statistics__2017_values.feather",
+  "md5": "df25ccd51cf31a7fd5fe055a169fc744"
+}

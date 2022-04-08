@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5357_world_development_indicators__world_bank__2021_07_30_config",
+  "name": "Grapher metadata for dataset_5357_world_development_indicators__world_bank__2021_07_30",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5357",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:14:24.194129",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "073663d7ce62917fd43c9d163d890edb",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5357_world_development_indicators__world_bank__2021_07_30_config.json",
+  "md5": "dcdac03b052969a955a17a43676cf15c"
+}

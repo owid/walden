@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_654_dietary_macronutrient_compositions__fao__2017_values",
+  "name": "Dietary macronutrient compositions - FAO (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/654",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-08T13:53:55.873925",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_654_dietary_macronutrient_compositions__fao__2017_values.feather",
+  "md5": "581a0c9c10612d6a68502ae47316eb06"
+}

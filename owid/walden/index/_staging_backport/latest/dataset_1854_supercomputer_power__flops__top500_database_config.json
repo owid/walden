@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1854_supercomputer_power__flops__top500_database_config",
+  "name": "Grapher metadata for dataset_1854_supercomputer_power__flops__top500_database",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1854",
+  "file_extension": "json",
+  "date_accessed": "2022-04-08T13:52:19.292748",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "8fd15c83116378ec34ed2493d0131681",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1854_supercomputer_power__flops__top500_database_config.json",
+  "md5": "4216bc9a0d79e44ad8c59e0867e99749"
+}
