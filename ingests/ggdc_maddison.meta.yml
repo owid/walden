@@ -3,7 +3,7 @@
 namespace: ggdc
 short_name: ggdc_maddison
 name: Maddison Project Database (GGDC, 2020)
-source_name: Maddison Project Database 2020 (Bolt and van Zanden (2020))
+source_name: Maddison Project Database 2020 (Bolt and van Zanden, 2020)
 publication_year: 2020
 # Date of publication of the dataset.
 # Since we don't know this exact date, we use the first day of the month of the publication of the paper
