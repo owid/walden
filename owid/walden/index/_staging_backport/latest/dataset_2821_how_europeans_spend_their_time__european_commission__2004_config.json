@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2821_how_europeans_spend_their_time__european_commission__2004_config",
+  "name": "Grapher metadata for dataset_2821_how_europeans_spend_their_time__european_commission__2004",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2821",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:53:16.202417",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "bc51d89b626e1d2538c968e591a31716",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2821_how_europeans_spend_their_time__european_commission__2004_config.json",
+  "md5": "2f5315c07050d3171506accd47380a5b"
+}

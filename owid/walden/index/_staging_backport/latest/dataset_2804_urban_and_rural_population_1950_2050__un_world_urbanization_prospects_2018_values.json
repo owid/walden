@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2804_urban_and_rural_population_1950_2050__un_world_urbanization_prospects_2018_values",
+  "name": "Urban and rural population 1950-2050 - UN World Urbanization Prospects 2018",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2804",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:03:27.488034",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2804_urban_and_rural_population_1950_2050__un_world_urbanization_prospects_2018_values.feather",
+  "md5": "6b4aef3671bec2261590f84c1ca58628"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3036_significant_earthquake_events__ngdc_nasa_values",
+  "name": "Significant earthquake events (NGDC-NASA)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3036",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:49:56.371858",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3036_significant_earthquake_events__ngdc_nasa_values.feather",
+  "md5": "74dca8b8b7c3b39081a70160609c642c"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_554_world_development_indicators__environment_config",
+  "name": "Grapher metadata for dataset_554_world_development_indicators__environment",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/554",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T13:08:59.510051",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "960f97506a8c50729c2fa547622973c2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_554_world_development_indicators__environment_config.json",
+  "md5": "c8504b641ab9642a986dc05077ee6ee7"
+}

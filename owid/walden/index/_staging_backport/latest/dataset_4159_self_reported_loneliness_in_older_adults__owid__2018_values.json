@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4159_self_reported_loneliness_in_older_adults__owid__2018_values",
+  "name": "Self-reported loneliness in older adults - OWID (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4159",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:54:12.841059",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4159_self_reported_loneliness_in_older_adults__owid__2018_values.feather",
+  "md5": "ff006b9e8e85152af076b3250bc0e998"
+}

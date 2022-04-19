@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5006_agri_environmental_indicators__land_use_indicators_config",
+  "name": "Grapher metadata for dataset_5006_agri_environmental_indicators__land_use_indicators",
+  "description": "The Agri-environmental Indicators\u0097Land Use domain provides information on the distribution of agricultural and forest land, and their sub-components, including irrigated areas and areas under organic agriculture, at national, regional and global levels.",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5006",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:59:52.337399",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "4cc2ea7f1c4499888fe33840ffd18bf3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5006_agri_environmental_indicators__land_use_indicators_config.json",
+  "md5": "901487ca35a18d7cf7a8d6eef1a736fe"
+}

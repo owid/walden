@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4999_food_balance__food_supply__crops_primary_equivalent_config",
+  "name": "Grapher metadata for dataset_4999_food_balance__food_supply__crops_primary_equivalent",
+  "description": "Food supply data is some of the most important data in FAOSTAT. In fact, this data is for the basis for estimation of global and national undernourishment assessment, when it is combined with parameters and other data sets. This data has been the foundation of food balance sheets ever since they were first constructed. The data is accessed by both business and governments for economic analysis and policy setting, as well as being used by the academic community.",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4999",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:03:29.176312",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "62d74f4b015dc5bd261e4ec7142bf31a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4999_food_balance__food_supply__crops_primary_equivalent_config.json",
+  "md5": "7e326e1c8b1549c3686668b1c65f59ec"
+}

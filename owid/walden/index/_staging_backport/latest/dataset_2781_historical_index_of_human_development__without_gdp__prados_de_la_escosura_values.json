@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2781_historical_index_of_human_development__without_gdp__prados_de_la_escosura_values",
+  "name": "Historical Index of Human Development (without GDP) - Prados de la Escosura",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2781",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:18.363096",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2781_historical_index_of_human_development__without_gdp__prados_de_la_escosura_values.feather",
+  "md5": "21f6b5f52a641dfb395013c6324ff302"
+}

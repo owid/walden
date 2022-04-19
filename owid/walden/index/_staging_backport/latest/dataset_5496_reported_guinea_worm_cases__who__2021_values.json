@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5496_reported_guinea_worm_cases__who__2021_values",
+  "name": "Reported guinea worm cases - WHO (2021)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5496",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:03:24.825037",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5496_reported_guinea_worm_cases__who__2021_values.feather",
+  "md5": "f9a58133fe4bb4ea13e10d84709a2794"
+}

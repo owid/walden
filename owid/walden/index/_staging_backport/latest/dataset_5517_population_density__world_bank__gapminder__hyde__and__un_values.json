@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5517_population_density__world_bank__gapminder__hyde__and__un_values",
+  "name": "Population density (World Bank, Gapminder, HYDE & UN)",
+  "description": "Code: https://github.com/owid/notebooks/tree/main/EdouardMathieu/omm_population_density",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5517",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:43.936908",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5517_population_density__world_bank__gapminder__hyde__and__un_values.feather",
+  "md5": "29389b6c05283553d2d048b43e2fe13b"
+}

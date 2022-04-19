@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2956_extreme_precipitation_in_us__noaa_values",
+  "name": "Extreme precipitation in US (NOAA)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2956",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:01:02.551301",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2956_extreme_precipitation_in_us__noaa_values.feather",
+  "md5": "9fc3ce8784615f52289dde297bd387e9"
+}

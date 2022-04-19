@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1070_statistical_capacity_indicator__sci__world_bank_data_on_statistical_capacity_values",
+  "name": "Statistical Capacity Indicator (SCI) - World Bank Data on Statistical Capacity",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1070",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T13:05:37.183018",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1070_statistical_capacity_indicator__sci__world_bank_data_on_statistical_capacity_values.feather",
+  "md5": "2f3aeceaf26e0565796491e7d5536283"
+}

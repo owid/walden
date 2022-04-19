@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4119_hurricane_forecasting_error__nhc__2019_config",
+  "name": "Grapher metadata for dataset_4119_hurricane_forecasting_error__nhc__2019",
+  "description": "Extracted from PDFs using Tabula",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4119",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:49:24.735480",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "ee782e4885f3aa583a6707d3192b8431",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4119_hurricane_forecasting_error__nhc__2019_config.json",
+  "md5": "24d435f60fd29f9859dbd8f764e56ff5"
+}

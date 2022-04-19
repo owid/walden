@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4120_human_height__ncd_risc__2017_values",
+  "name": "Human Height - NCD RisC (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4120",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:00:34.509772",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4120_human_height__ncd_risc__2017_values.feather",
+  "md5": "de7f1b033997b2a3ab1334cabe3f463e"
+}

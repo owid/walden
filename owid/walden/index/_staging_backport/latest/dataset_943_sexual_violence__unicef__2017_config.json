@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_943_sexual_violence__unicef__2017_config",
+  "name": "Grapher metadata for dataset_943_sexual_violence__unicef__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/943",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T13:09:22.744143",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "580a4b45285209100e05db46f1886df5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_943_sexual_violence__unicef__2017_config.json",
+  "md5": "9a831b35d205b4056fe32c4b6129f2a7"
+}

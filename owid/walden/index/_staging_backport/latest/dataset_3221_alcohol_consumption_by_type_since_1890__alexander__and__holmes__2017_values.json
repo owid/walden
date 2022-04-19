@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3221_alcohol_consumption_by_type_since_1890__alexander__and__holmes__2017_values",
+  "name": "Alcohol consumption by type since 1890 (Alexander & Holmes, 2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3221",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:53:54.989139",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3221_alcohol_consumption_by_type_since_1890__alexander__and__holmes__2017_values.feather",
+  "md5": "c5cf4b02b014a5fa06383e188a06987f"
+}

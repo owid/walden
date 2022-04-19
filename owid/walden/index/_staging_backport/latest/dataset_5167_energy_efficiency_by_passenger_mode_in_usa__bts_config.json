@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5167_energy_efficiency_by_passenger_mode_in_usa__bts_config",
+  "name": "Grapher metadata for dataset_5167_energy_efficiency_by_passenger_mode_in_usa__bts",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5167",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:51:13.587381",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "4394b81f59081cf0481e58947349c182",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5167_energy_efficiency_by_passenger_mode_in_usa__bts_config.json",
+  "md5": "474f6326ab6d67388ea01114c6e7d67d"
+}

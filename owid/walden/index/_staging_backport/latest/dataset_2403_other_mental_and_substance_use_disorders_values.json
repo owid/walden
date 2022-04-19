@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2403_other_mental_and_substance_use_disorders_values",
+  "name": "Other mental and substance use disorders",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2403",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:01:44.080504",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2403_other_mental_and_substance_use_disorders_values.feather",
+  "md5": "e3c69eda767d9645988b45c9955a2f89"
+}

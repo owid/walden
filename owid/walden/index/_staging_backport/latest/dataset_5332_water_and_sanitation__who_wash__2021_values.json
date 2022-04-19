@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5332_water_and_sanitation__who_wash__2021_values",
+  "name": "Water and Sanitation (WHO WASH, 2021)",
+  "description": "Data cleaned using this script: https://github.com/owid/notebooks/blob/main/FionaSpooner/WASH/cleaning_who_wash_data.Rmd\n\nScript removes erroneous negative values and rounds data to appropriate number of decimal places, 0 for integer, 2 otherwise. ",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5332",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T13:07:14.142552",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5332_water_and_sanitation__who_wash__2021_values.feather",
+  "md5": "40257d19493ab14645c786363afe0ea4"
+}

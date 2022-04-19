@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_555_world_development_indicators__economic_policy__and__debt_values",
+  "name": "World Development Indicators - Economic Policy & Debt",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/555",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T13:06:19.622016",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_555_world_development_indicators__economic_policy__and__debt_values.feather",
+  "md5": "b644027b531272cdefd5c74f37f0b448"
+}

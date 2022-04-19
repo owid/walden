@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2675_gender_inequality_index__human_development_report__2015_values",
+  "name": "Gender Inequality Index - Human Development Report (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2675",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:33.989888",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2675_gender_inequality_index__human_development_report__2015_values.feather",
+  "md5": "7d6c2ccf8a9e5c53eb821fe995db2478"
+}

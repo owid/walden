@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5060_calories_lost_by_food_group_and_region__wri__2013_config",
+  "name": "Grapher metadata for dataset_5060_calories_lost_by_food_group_and_region__wri__2013",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5060",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:57:46.707788",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "b03acebc1a5c67faa172c0671e7c4379",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5060_calories_lost_by_food_group_and_region__wri__2013_config.json",
+  "md5": "39fb2d3b3ec41716c6e4ed65ae957a6d"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1886_minimum_reading_and_maths_proficiency__gem_report__2017_8_values",
+  "name": "Minimum reading and maths proficiency (GEM Report (2017/8))",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1886",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T13:06:45.861012",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1886_minimum_reading_and_maths_proficiency__gem_report__2017_8_values.feather",
+  "md5": "faed9b1c7a4f834838af310d1155bb58"
+}

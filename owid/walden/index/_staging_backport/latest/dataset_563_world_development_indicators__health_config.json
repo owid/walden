@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_563_world_development_indicators__health_config",
+  "name": "Grapher metadata for dataset_563_world_development_indicators__health",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/563",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:04:43.821927",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "d87b12fef7b5c3f2fb41940668c953dc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_563_world_development_indicators__health_config.json",
+  "md5": "1fb868557fc52d4eb00862807d48c90c"
+}

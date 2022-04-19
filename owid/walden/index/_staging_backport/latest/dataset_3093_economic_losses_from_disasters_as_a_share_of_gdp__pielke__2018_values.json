@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3093_economic_losses_from_disasters_as_a_share_of_gdp__pielke__2018_values",
+  "name": "Economic losses from disasters as a share of GDP (Pielke, 2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3093",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:49:53.557632",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3093_economic_losses_from_disasters_as_a_share_of_gdp__pielke__2018_values.feather",
+  "md5": "eb2e4c4e8e2ea862ee4c1ea47e101f23"
+}

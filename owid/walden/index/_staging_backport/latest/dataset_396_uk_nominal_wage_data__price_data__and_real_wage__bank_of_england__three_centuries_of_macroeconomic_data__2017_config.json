@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_396_uk_nominal_wage_data__price_data__and_real_wage__bank_of_england__three_centuries_of_macroeconomic_data__2017_config",
+  "name": "Grapher metadata for dataset_396_uk_nominal_wage_data__price_data__and_real_wage__bank_of_england__three_centuries_of_macroeconomic_data__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/396",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:48:24.865990",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "35d5e587a6dee35c4b33161ef04f0bd8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_396_uk_nominal_wage_data__price_data__and_real_wage__bank_of_england__three_centuries_of_macroeconomic_data__2017_config.json",
+  "md5": "00a4c6312e263a0b37dd9ab38a097756"
+}

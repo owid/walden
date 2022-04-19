@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1857_employment_values",
+  "name": "Employment",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1857",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:54:08.622770",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1857_employment_values.feather",
+  "md5": "5347a9343ef8f26e4f525e50859ddf4b"
+}

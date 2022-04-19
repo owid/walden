@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5164_global_airline_traffic_and_capacity__icao__2020_config",
+  "name": "Grapher metadata for dataset_5164_global_airline_traffic_and_capacity__icao__2020",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5164",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:00:04.200745",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "dbb86a4faf1eab5ec9e69294d065d3a8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5164_global_airline_traffic_and_capacity__icao__2020_config.json",
+  "md5": "bb41186e1fd8676cce1cf043dbb7b147"
+}

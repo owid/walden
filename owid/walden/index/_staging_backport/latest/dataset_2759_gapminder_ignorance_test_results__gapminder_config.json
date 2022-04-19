@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2759_gapminder_ignorance_test_results__gapminder_config",
+  "name": "Grapher metadata for dataset_2759_gapminder_ignorance_test_results__gapminder",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2759",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:00:47.918259",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "3086956a61c6dd7ad1fbf4ccd8edc0d2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2759_gapminder_ignorance_test_results__gapminder_config.json",
+  "md5": "23c7fc2944f0019dc8d1c202a5fb75b8"
+}

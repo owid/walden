@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_844_consumer_expenditure_on_food__usda__2017_values",
+  "name": "Consumer expenditure on food - USDA (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/844",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:48:02.653606",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_844_consumer_expenditure_on_food__usda__2017_values.feather",
+  "md5": "a3e8f7b7c3f1933a43b47e8feca26ce5"
+}

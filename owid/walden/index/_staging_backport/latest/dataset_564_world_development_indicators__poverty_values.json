@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_564_world_development_indicators__poverty_values",
+  "name": "World Development Indicators - Poverty",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/564",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T13:03:14.215468",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_564_world_development_indicators__poverty_values.feather",
+  "md5": "e2ab9cb8c1a7e3478e2c26c1523f2200"
+}

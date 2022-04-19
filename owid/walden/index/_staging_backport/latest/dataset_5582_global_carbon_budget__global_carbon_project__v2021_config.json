@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5582_global_carbon_budget__global_carbon_project__v2021_config",
+  "name": "Grapher metadata for dataset_5582_global_carbon_budget__global_carbon_project__v2021",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5582",
+  "file_extension": "json",
+  "date_accessed": "2022-04-19T09:55:16.937127",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "65bb73fae1d63647fff17edf990e5470",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5582_global_carbon_budget__global_carbon_project__v2021_config.json",
+  "md5": "7a23e0a2ffc6d7bc07182bbf3a0e3973"
+}

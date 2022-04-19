@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_998_unadjusted_female_male_hourly_wage_ratios_by_percentile__blau__kahn__2017_values",
+  "name": "Unadjusted female-male hourly wage ratios by percentile \u2013 Blau, Kahn (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/998",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:53:51.028785",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_998_unadjusted_female_male_hourly_wage_ratios_by_percentile__blau__kahn__2017_values.feather",
+  "md5": "550eafe64a35d7a12298a13999ae7716"
+}

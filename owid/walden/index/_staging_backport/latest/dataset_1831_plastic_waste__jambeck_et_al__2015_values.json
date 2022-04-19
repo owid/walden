@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1831_plastic_waste__jambeck_et_al__2015_values",
+  "name": "Plastic Waste - Jambeck et al. (2015)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1831",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:12.971753",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1831_plastic_waste__jambeck_et_al__2015_values.feather",
+  "md5": "6605c6aecf5db5f0b3f185d70895c5c3"
+}

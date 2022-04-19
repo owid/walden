@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4194_whale_populations__pershing_et_al__2010_values",
+  "name": "Whale populations (Pershing et al. 2010)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4194",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:03:14.719444",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4194_whale_populations__pershing_et_al__2010_values.feather",
+  "md5": "006d81d61f1deedb14bfe00d58b37312"
+}

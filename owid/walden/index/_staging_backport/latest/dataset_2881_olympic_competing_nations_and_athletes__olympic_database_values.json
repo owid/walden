@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2881_olympic_competing_nations_and_athletes__olympic_database_values",
+  "name": "Olympic competing nations and athletes (Olympic Database)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2881",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:24.373825",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2881_olympic_competing_nations_and_athletes__olympic_database_values.feather",
+  "md5": "dd3d049bab80be9b9dcc347a65492fc7"
+}

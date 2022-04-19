@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4242_mean_bmi__ncd_risc__2017_values",
+  "name": "Mean BMI - NCD RisC (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4242",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:54:15.261770",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4242_mean_bmi__ncd_risc__2017_values.feather",
+  "md5": "6aecb0661a5c87899e0df803caac2bc3"
+}

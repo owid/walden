@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3266_sex_ratio_at_birth_by_birth_order_in_s_korea__and__china__jiang_et_al__2017__and__nso_korea_config",
+  "name": "Grapher metadata for dataset_3266_sex_ratio_at_birth_by_birth_order_in_s_korea__and__china__jiang_et_al__2017__and__nso_korea",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3266",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:54:10.324481",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "54c1212f1a7101396081657f08ce3b04",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3266_sex_ratio_at_birth_by_birth_order_in_s_korea__and__china__jiang_et_al__2017__and__nso_korea_config.json",
+  "md5": "e9258a808b4c1fb03a846f7389a1a91f"
+}

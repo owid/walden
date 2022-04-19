@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4117_child_deaths_by_life_stage__owid_based_on_un_igme_values",
+  "name": "Child deaths by life stage (OWID based on UN IGME)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4117",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:57:49.767270",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4117_child_deaths_by_life_stage__owid_based_on_un_igme_values.feather",
+  "md5": "e5792d066bc82e7b47590553dc8ab971"
+}

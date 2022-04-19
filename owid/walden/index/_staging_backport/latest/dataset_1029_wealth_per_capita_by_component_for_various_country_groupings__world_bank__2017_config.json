@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1029_wealth_per_capita_by_component_for_various_country_groupings__world_bank__2017_config",
+  "name": "Grapher metadata for dataset_1029_wealth_per_capita_by_component_for_various_country_groupings__world_bank__2017",
+  "description": "Wealth is the value of an economy's capital stocks. GDP is seen as the return on wealth. The World Bank calculates wealth as the sum of produced capital, natural capital, human capital, net foreign assets.",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1029",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:48:07.411496",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1d090536c8bb7b80b6b97827b8fbde91",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1029_wealth_per_capita_by_component_for_various_country_groupings__world_bank__2017_config.json",
+  "md5": "5cab90c60f819e6ddda02f4baa9305d4"
+}

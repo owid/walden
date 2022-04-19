@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1018_basic_reading_and_maths_skills__world_development_report__2018_values",
+  "name": "Basic reading and maths skills - World Development Report (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1018",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:01.696744",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1018_basic_reading_and_maths_skills__world_development_report__2018_values.feather",
+  "md5": "d2de00be36d470f00e05f2d48b7f1d19"
+}

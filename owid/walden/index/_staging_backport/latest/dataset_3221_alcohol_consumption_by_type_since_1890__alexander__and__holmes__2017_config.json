@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3221_alcohol_consumption_by_type_since_1890__alexander__and__holmes__2017_config",
+  "name": "Grapher metadata for dataset_3221_alcohol_consumption_by_type_since_1890__alexander__and__holmes__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3221",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:53:54.307099",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "7f3c7f73c8d04c71d3d3bf941011a40e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3221_alcohol_consumption_by_type_since_1890__alexander__and__holmes__2017_config.json",
+  "md5": "7646c31d6e826d2a9f8b975e5f684a7b"
+}

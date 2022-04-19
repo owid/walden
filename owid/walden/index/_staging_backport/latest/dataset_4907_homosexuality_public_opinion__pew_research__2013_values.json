@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4907_homosexuality_public_opinion__pew_research__2013_values",
+  "name": "Homosexuality public opinion \u2013 Pew Research (2013)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4907",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:53:32.285254",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4907_homosexuality_public_opinion__pew_research__2013_values.feather",
+  "md5": "d1e8e66a03074f4670479b643ce40c98"
+}

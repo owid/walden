@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_843_food_balance__food_balance_sheets__fao__2017_config",
+  "name": "Grapher metadata for dataset_843_food_balance__food_balance_sheets__fao__2017",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/843",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:55:03.103171",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "4cdf7c7d81e09c42b814422783272293",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_843_food_balance__food_balance_sheets__fao__2017_config.json",
+  "md5": "ee04a8905d8953ea4985a9fb2d210b87"
+}

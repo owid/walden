@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2452_price_of_nails_since_1695__daniel_sichels__2017_values",
+  "name": "Price of nails since 1695 (Daniel Sichels (2017))",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2452",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:22.410803",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2452_price_of_nails_since_1695__daniel_sichels__2017_values.feather",
+  "md5": "ff64dcd810f9e3c944537fe91167477e"
+}

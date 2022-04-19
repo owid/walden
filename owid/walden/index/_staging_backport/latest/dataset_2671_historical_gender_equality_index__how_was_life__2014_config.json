@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2671_historical_gender_equality_index__how_was_life__2014_config",
+  "name": "Grapher metadata for dataset_2671_historical_gender_equality_index__how_was_life__2014",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2671",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:50:02.830039",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "f0c397a6050a598f47ea8ec768f60ecc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2671_historical_gender_equality_index__how_was_life__2014_config.json",
+  "md5": "34e2d06e63fb4e450883e9ef52ee8eec"
+}

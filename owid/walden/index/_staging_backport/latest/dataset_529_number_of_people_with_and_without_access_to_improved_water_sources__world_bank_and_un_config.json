@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_529_number_of_people_with_and_without_access_to_improved_water_sources__world_bank_and_un_config",
+  "name": "Grapher metadata for dataset_529_number_of_people_with_and_without_access_to_improved_water_sources__world_bank_and_un",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/529",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:48:09.542246",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "99ea011d4032554363cbaaaf9efb1144",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_529_number_of_people_with_and_without_access_to_improved_water_sources__world_bank_and_un_config.json",
+  "md5": "7b53b5fb22e508af0ccefc37cf3d8018"
+}

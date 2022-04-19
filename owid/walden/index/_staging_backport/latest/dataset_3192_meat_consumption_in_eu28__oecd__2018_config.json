@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3192_meat_consumption_in_eu28__oecd__2018_config",
+  "name": "Grapher metadata for dataset_3192_meat_consumption_in_eu28__oecd__2018",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3192",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:00:58.452233",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "2cec1f8afc788c236f69a814e860e02f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3192_meat_consumption_in_eu28__oecd__2018_config.json",
+  "md5": "05a1a38a92c859144a1efbe4a0dcf1a1"
+}

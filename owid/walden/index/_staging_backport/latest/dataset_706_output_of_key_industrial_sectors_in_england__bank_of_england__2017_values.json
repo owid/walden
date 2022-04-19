@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_706_output_of_key_industrial_sectors_in_england__bank_of_england__2017_values",
+  "name": "Output of key industrial sectors in England - Bank of England (2017)",
+  "description": "This data consists the measures of output in key industrial sectors in England (1270-1870).",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/706",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:05.584376",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_706_output_of_key_industrial_sectors_in_england__bank_of_england__2017_values.feather",
+  "md5": "292f378067a06b9373c42759293442a7"
+}

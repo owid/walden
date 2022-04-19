@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5493_ihme__global_burden_of_disease__child_mortality__institute_for_health_metrics_and_evaluation__2022_02_values",
+  "name": "IHME - Global Burden of Disease - Child Mortality - Institute for Health Metrics and Evaluation  (2022-02)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5493",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:52:51.920892",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5493_ihme__global_burden_of_disease__child_mortality__institute_for_health_metrics_and_evaluation__2022_02_values.feather",
+  "md5": "319a76f0f4419ecf719993a551b3814f"
+}

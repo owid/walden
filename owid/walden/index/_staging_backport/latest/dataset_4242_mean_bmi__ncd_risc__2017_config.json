@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4242_mean_bmi__ncd_risc__2017_config",
+  "name": "Grapher metadata for dataset_4242_mean_bmi__ncd_risc__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4242",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:54:14.025016",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "40abaf592ac6bf3dfac02ca740004db3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4242_mean_bmi__ncd_risc__2017_config.json",
+  "md5": "95cd454718bcecef68addd35279bae4e"
+}

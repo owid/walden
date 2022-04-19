@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4884_co2_mitigation_curves_for_1_5c__andrews__and__gcp__2019_values",
+  "name": "CO2 mitigation curves for 1.5C (Andrews & GCP, 2019)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4884",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:01.531189",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4884_co2_mitigation_curves_for_1_5c__andrews__and__gcp__2019_values.feather",
+  "md5": "8bfc6114f2845758c436778386b93a5c"
+}

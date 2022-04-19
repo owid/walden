@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2555_productivity__productivity_and_ulc_by_main_economic_activity__isic_rev_4_values",
+  "name": "Productivity - Productivity and ULC by main economic activity (ISIC Rev.4)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2555",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:11.902956",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2555_productivity__productivity_and_ulc_by_main_economic_activity__isic_rev_4_values.feather",
+  "md5": "2b2137e155640ff03367f4b8e5f2c54d"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2885_number_of_countries_with_minimum_urban_population_threshold__un__2018_config",
+  "name": "Grapher metadata for dataset_2885_number_of_countries_with_minimum_urban_population_threshold__un__2018",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2885",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:01:14.742229",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "7d499efdd080b5c8e0adc42112a71e47",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2885_number_of_countries_with_minimum_urban_population_threshold__un__2018_config.json",
+  "md5": "ef61e94d77f97efaabb8dba0f958ea08"
+}

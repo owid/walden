@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_857_potash_fertilizers__fao__2017_values",
+  "name": "Potash fertilizers - FAO (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/857",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:56.467212",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_857_potash_fertilizers__fao__2017_values.feather",
+  "md5": "d76424da9ad8a0f268f76a20fd3fee2d"
+}

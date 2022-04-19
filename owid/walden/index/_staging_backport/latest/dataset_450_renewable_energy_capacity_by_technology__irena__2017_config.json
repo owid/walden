@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_450_renewable_energy_capacity_by_technology__irena__2017_config",
+  "name": "Grapher metadata for dataset_450_renewable_energy_capacity_by_technology__irena__2017",
+  "description": "Renewable Energy Capacity by Energy Technology- IRENA",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/450",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:49:57.561747",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1b4a6ba166dcef4119b7377027c9980a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_450_renewable_energy_capacity_by_technology__irena__2017_config.json",
+  "md5": "bce6770fad7b7e56f470f3d13e28aec3"
+}

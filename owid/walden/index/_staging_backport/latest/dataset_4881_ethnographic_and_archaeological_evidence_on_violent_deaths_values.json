@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4881_ethnographic_and_archaeological_evidence_on_violent_deaths_values",
+  "name": "Ethnographic and Archaeological Evidence on Violent Deaths",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4881",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:48:04.642880",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4881_ethnographic_and_archaeological_evidence_on_violent_deaths_values.feather",
+  "md5": "acf9a39656d79af7f2cc1063bd20966d"
+}

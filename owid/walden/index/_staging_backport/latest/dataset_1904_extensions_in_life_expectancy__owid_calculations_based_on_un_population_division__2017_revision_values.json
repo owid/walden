@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1904_extensions_in_life_expectancy__owid_calculations_based_on_un_population_division__2017_revision_values",
+  "name": "Extensions in life expectancy (OWID calculations based on UN Population Division (2017 Revision))",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1904",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:53:18.935147",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1904_extensions_in_life_expectancy__owid_calculations_based_on_un_population_division__2017_revision_values.feather",
+  "md5": "2da4c36e685494ecf6d3f44774da50e4"
+}

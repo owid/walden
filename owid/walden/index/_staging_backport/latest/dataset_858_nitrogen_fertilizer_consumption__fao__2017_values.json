@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_858_nitrogen_fertilizer_consumption__fao__2017_values",
+  "name": "Nitrogen fertilizer consumption - FAO (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/858",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:00:42.334756",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_858_nitrogen_fertilizer_consumption__fao__2017_values.feather",
+  "md5": "9b8288b30d950c4683e2537fce812bc0"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2765_depression_prevalence_by_education__oecd_values",
+  "name": "Depression prevalence by education - OECD",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2765",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:53:23.172902",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2765_depression_prevalence_by_education__oecd_values.feather",
+  "md5": "120a4b0b59702fe35651bbf724e6fd7d"
+}

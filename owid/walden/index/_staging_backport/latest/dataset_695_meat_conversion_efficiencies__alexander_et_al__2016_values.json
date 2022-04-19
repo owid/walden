@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_695_meat_conversion_efficiencies__alexander_et_al__2016_values",
+  "name": "Meat conversion efficiencies - Alexander et al. (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/695",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:51:16.004800",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_695_meat_conversion_efficiencies__alexander_et_al__2016_values.feather",
+  "md5": "6706f88ba8b9761aee7d4679a774f061"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4117_child_deaths_by_life_stage__owid_based_on_un_igme_config",
+  "name": "Grapher metadata for dataset_4117_child_deaths_by_life_stage__owid_based_on_un_igme",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4117",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:57:48.619429",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "f7239e6f1468d84cb28dfd5131d6aa87",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4117_child_deaths_by_life_stage__owid_based_on_un_igme_config.json",
+  "md5": "0ea04e1bfdd5fe1c2683aeab602cd072"
+}

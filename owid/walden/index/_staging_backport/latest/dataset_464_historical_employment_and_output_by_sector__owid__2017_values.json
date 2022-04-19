@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_464_historical_employment_and_output_by_sector__owid__2017_values",
+  "name": "Historical employment and output by sector \u2013 OWID (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/464",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:20.317995",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_464_historical_employment_and_output_by_sector__owid__2017_values.feather",
+  "md5": "96b4c9d2cde32dc9ee06f296aa3de34c"
+}

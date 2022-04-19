@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_554_world_development_indicators__environment_values",
+  "name": "World Development Indicators - Environment",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/554",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T13:09:11.014705",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_554_world_development_indicators__environment_values.feather",
+  "md5": "6f74109c7f187f84c46578e48e7d1e06"
+}

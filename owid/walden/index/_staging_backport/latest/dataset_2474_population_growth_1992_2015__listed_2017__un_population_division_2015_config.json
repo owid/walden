@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2474_population_growth_1992_2015__listed_2017__un_population_division_2015_config",
+  "name": "Grapher metadata for dataset_2474_population_growth_1992_2015__listed_2017__un_population_division_2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2474",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:03:18.326950",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "c77487ddea09eaa47979cfeef8368204",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2474_population_growth_1992_2015__listed_2017__un_population_division_2015_config.json",
+  "md5": "b580126e46e75f587b1a96c97c4b3978"
+}

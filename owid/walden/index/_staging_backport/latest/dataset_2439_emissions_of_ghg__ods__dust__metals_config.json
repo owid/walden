@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2439_emissions_of_ghg__ods__dust__metals_config",
+  "name": "Grapher metadata for dataset_2439_emissions_of_ghg__ods__dust__metals",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2439",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:54:58.312147",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "5c33d236bff990e8b1d5fb563e8019fd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2439_emissions_of_ghg__ods__dust__metals_config.json",
+  "md5": "e2ed6b23f0103ed7eb4807c15e1667dc"
+}

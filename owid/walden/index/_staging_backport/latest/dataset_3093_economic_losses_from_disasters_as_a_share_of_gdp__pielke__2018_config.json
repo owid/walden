@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_3093_economic_losses_from_disasters_as_a_share_of_gdp__pielke__2018_config",
+  "name": "Grapher metadata for dataset_3093_economic_losses_from_disasters_as_a_share_of_gdp__pielke__2018",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/3093",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:49:52.776810",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "35d0e215f34908e7df6d935fa87685ac",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_3093_economic_losses_from_disasters_as_a_share_of_gdp__pielke__2018_config.json",
+  "md5": "89645f02814f0ee8c4bc81a9eb9807ca"
+}

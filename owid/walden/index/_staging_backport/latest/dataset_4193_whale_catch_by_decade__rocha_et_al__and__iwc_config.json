@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4193_whale_catch_by_decade__rocha_et_al__and__iwc_config",
+  "name": "Grapher metadata for dataset_4193_whale_catch_by_decade__rocha_et_al__and__iwc",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4193",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:53:56.019931",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "591e1e36107e2bb7e5bacb84c825d9b8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4193_whale_catch_by_decade__rocha_et_al__and__iwc_config.json",
+  "md5": "a475bfdb78d1af261d1da1284f7b4be5"
+}

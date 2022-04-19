@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2796_adult_literacy_proficiency__world_bank_edstats_and_step_skills_measurement_program_values",
+  "name": "Adult literacy proficiency - World Bank EdStats and STEP Skills Measurement Program",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2796",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:00:46.858798",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2796_adult_literacy_proficiency__world_bank_edstats_and_step_skills_measurement_program_values.feather",
+  "md5": "c77dc38fcb1720c430cbada5656f99ce"
+}

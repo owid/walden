@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_657_diet_compositions_by_specific_food_commodities__fao__2017_config",
+  "name": "Grapher metadata for dataset_657_diet_compositions_by_specific_food_commodities__fao__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/657",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:53:44.991696",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "4d9eb0d2837e07f298c9e334fbe42338",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_657_diet_compositions_by_specific_food_commodities__fao__2017_config.json",
+  "md5": "579f26da599fbcc7dbc532f14809f835"
+}

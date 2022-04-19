@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5167_energy_efficiency_by_passenger_mode_in_usa__bts_values",
+  "name": "Energy efficiency by passenger mode in USA (BTS)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5167",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:51:14.316699",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5167_energy_efficiency_by_passenger_mode_in_usa__bts_values.feather",
+  "md5": "b65899d280650a8b31b136fe4247c4af"
+}

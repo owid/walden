@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_560_world_development_indicators__social_protection__and__labor_values",
+  "name": "World Development Indicators - Social Protection & Labor",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/560",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T13:07:04.983938",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_560_world_development_indicators__social_protection__and__labor_values.feather",
+  "md5": "27f17405f89cf43490be78c194ab2b96"
+}

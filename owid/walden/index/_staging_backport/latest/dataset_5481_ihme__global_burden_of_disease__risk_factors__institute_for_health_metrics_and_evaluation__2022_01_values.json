@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5481_ihme__global_burden_of_disease__risk_factors__institute_for_health_metrics_and_evaluation__2022_01_values",
+  "name": "IHME - Global Burden of Disease - Risk Factors - Institute for Health Metrics and Evaluation  (2022-01)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5481",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:57.693928",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5481_ihme__global_burden_of_disease__risk_factors__institute_for_health_metrics_and_evaluation__2022_01_values.feather",
+  "md5": "841006bb09139e890588b01906d778bc"
+}

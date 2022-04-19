@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_663_long_term_energy_transitions__energy_history__harvard__2016_values",
+  "name": "Long-term energy transitions - Energy History, Harvard (2016)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/663",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:26.365808",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_663_long_term_energy_transitions__energy_history__harvard__2016_values.feather",
+  "md5": "2baedeb2f7a88f680f55db80d3b8013e"
+}

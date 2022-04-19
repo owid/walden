@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5362_world_bank_edstats_2020_values",
+  "name": "World Bank EdStats 2020",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5362",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T17:31:31.513819",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5362_world_bank_edstats_2020_values.feather",
+  "md5": "f3f199969cf9b8a6b7fa959bb712779f"
+}

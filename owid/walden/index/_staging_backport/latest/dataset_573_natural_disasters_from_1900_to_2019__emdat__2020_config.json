@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_573_natural_disasters_from_1900_to_2019__emdat__2020_config",
+  "name": "Grapher metadata for dataset_573_natural_disasters_from_1900_to_2019__emdat__2020",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/573",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:59:45.389362",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "07014b07f056b3909ddf24d9a50e0de7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_573_natural_disasters_from_1900_to_2019__emdat__2020_config.json",
+  "md5": "52268c2a756b7bec8fc4bf56102e978b"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5168_household_expenditure_on_housing__water__electricity__gas_and_other_fuels_as_a_share_of_gdp__un_config",
+  "name": "Grapher metadata for dataset_5168_household_expenditure_on_housing__water__electricity__gas_and_other_fuels_as_a_share_of_gdp__un",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5168",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:03:21.967185",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "c7036a1ddb581aefd4a0343e77fbd4bb",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5168_household_expenditure_on_housing__water__electricity__gas_and_other_fuels_as_a_share_of_gdp__un_config.json",
+  "md5": "1ce72ff19202064ca6ebec4aef6a2777"
+}

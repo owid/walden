@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4142_child_mortality_rates__complete_gapminder__v10__2017_values",
+  "name": "Child Mortality Rates (Complete Gapminder, v10) (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4142",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:51:10.381623",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4142_child_mortality_rates__complete_gapminder__v10__2017_values.feather",
+  "md5": "e6044752b350de172960bb4e5b322f40"
+}

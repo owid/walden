@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2893_long_run_time_use_in_norway__by_sex__norway_statistics_config",
+  "name": "Grapher metadata for dataset_2893_long_run_time_use_in_norway__by_sex__norway_statistics",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2893",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:57:44.931897",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "1984c7ebb20f4d373a3ff86f32dd6b73",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2893_long_run_time_use_in_norway__by_sex__norway_statistics_config.json",
+  "md5": "3c5dabf9cdde0dde49dc150b1d1d512e"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2751_global_battle_related_and_one_sided_violence_deaths_since_1946__prio_ucdp_config",
+  "name": "Grapher metadata for dataset_2751_global_battle_related_and_one_sided_violence_deaths_since_1946__prio_ucdp",
+  "description": "Conjunction of PRIO Battle Deaths Dataset 3.1, and UCDP Battle-Related Deaths Dataset, UCDP Non-State Conflict Dataset, UCDP One-sided Violence Dataset (all v17.2)",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2751",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:02:19.591943",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "06d7de171311fc3e124569aadf592e40",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2751_global_battle_related_and_one_sided_violence_deaths_since_1946__prio_ucdp_config.json",
+  "md5": "26efc73d1f3cd1b134fa9c894078ffe6"
+}

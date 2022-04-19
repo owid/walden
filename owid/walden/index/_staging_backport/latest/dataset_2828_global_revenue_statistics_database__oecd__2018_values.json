@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2828_global_revenue_statistics_database__oecd__2018_values",
+  "name": "Global Revenue Statistics Database - OECD (2018)",
+  "description": "2021 vintage (22-04-21) available at: https://stats.oecd.org/Index.aspx?DataSetCode=REV#",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2828",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:03:07.196511",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2828_global_revenue_statistics_database__oecd__2018_values.feather",
+  "md5": "f4f970ea690c4739e2ada56a609ad16a"
+}

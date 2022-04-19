@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2957_global_precipitation_anomaly__noaa_config",
+  "name": "Grapher metadata for dataset_2957_global_precipitation_anomaly__noaa",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2957",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:01:12.825980",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "e1a753079a024b697dd127c6e110313b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2957_global_precipitation_anomaly__noaa_config.json",
+  "md5": "7f02e4359ea4f90ff126e07e08e3418c"
+}

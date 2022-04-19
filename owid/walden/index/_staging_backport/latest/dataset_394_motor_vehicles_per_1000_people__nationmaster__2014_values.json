@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_394_motor_vehicles_per_1000_people__nationmaster__2014_values",
+  "name": "Motor vehicles per 1000 people - NationMaster (2014)",
+  "description": "Number of private motor vehicles per 1000 people in 2014- NationMaster",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/394",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:52:03.313895",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_394_motor_vehicles_per_1000_people__nationmaster__2014_values.feather",
+  "md5": "65f40eec765379d67db532de530f35ec"
+}

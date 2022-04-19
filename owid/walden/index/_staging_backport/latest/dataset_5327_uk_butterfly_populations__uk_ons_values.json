@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5327_uk_butterfly_populations__uk_ons_values",
+  "name": "UK Butterfly Populations (UK ONS)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5327",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:01:54.814469",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5327_uk_butterfly_populations__uk_ons_values.feather",
+  "md5": "c8f7389f6d58a34ab5503f157e6f65df"
+}

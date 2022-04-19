@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2733_ozone_depletion_impacts_on_skin_cancer_incidence__slaper_et_al_config",
+  "name": "Grapher metadata for dataset_2733_ozone_depletion_impacts_on_skin_cancer_incidence__slaper_et_al",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2733",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:00:49.961602",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "fa17251d0472f39d2da90d6989ef1123",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2733_ozone_depletion_impacts_on_skin_cancer_incidence__slaper_et_al_config.json",
+  "md5": "3e61cb8eb594f857bd4a336aaf92dc0d"
+}

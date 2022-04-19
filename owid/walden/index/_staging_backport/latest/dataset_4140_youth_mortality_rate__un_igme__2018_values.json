@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4140_youth_mortality_rate__un_igme__2018_values",
+  "name": "Youth Mortality Rate - UN IGME (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4140",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:48:31.859701",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4140_youth_mortality_rate__un_igme__2018_values.feather",
+  "md5": "dfc2f098ad8af43f27ec4d96b63768f8"
+}

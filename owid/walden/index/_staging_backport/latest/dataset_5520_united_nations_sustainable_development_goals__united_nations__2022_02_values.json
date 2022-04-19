@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5520_united_nations_sustainable_development_goals__united_nations__2022_02_values",
+  "name": "United Nations Sustainable Development Goals - United Nations (2022-02)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5520",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T20:39:43.590616",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5520_united_nations_sustainable_development_goals__united_nations__2022_02_values.feather",
+  "md5": "abc5b78a16b41e81e9e99e71e0f45637"
+}

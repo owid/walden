@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2890_co2_emissions_by_city__c40_cities__2018_values",
+  "name": "CO2 emissions by city - C40 Cities (2018)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2890",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:49:59.923900",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2890_co2_emissions_by_city__c40_cities__2018_values.feather",
+  "md5": "58790477403022f2dadc42dd2b7afc9d"
+}

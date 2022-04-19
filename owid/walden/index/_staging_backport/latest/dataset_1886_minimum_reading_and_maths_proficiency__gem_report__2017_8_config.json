@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1886_minimum_reading_and_maths_proficiency__gem_report__2017_8_config",
+  "name": "Grapher metadata for dataset_1886_minimum_reading_and_maths_proficiency__gem_report__2017_8",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1886",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T13:06:45.092338",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "02f713196c426b7c7be3ad55b4907d19",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1886_minimum_reading_and_maths_proficiency__gem_report__2017_8_config.json",
+  "md5": "5b81b7ed0b31dd9aa749a69cda9f42ca"
+}

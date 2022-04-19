@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1031_genuine_saving_estimates_by_various_measures__blum__ducoing__mclaughlin__2017_values",
+  "name": "Genuine saving estimates by various measures - Blum, Ducoing, McLaughlin (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1031",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:01:04.628405",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1031_genuine_saving_estimates_by_various_measures__blum__ducoing__mclaughlin__2017_values.feather",
+  "md5": "aec142ff99061761e117c54b9e111ca5"
+}

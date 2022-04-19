@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2761_alcohol_consumption_in_usa_since_1850__niaaa_values",
+  "name": "Alcohol consumption in USA since 1850 \u2014 NIAAA",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2761",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:49:30.940263",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2761_alcohol_consumption_in_usa_since_1850__niaaa_values.feather",
+  "md5": "8cea717f338f355a597bd27e21ccbd54"
+}

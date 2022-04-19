@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_966_food_waste_in_the_supply_chain__t__wrap__2015__and__europa__2015_config",
+  "name": "Grapher metadata for dataset_966_food_waste_in_the_supply_chain__t__wrap__2015__and__europa__2015",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/966",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:02:47.480041",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "d3eb7b606446d7af29aafe481932943e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_966_food_waste_in_the_supply_chain__t__wrap__2015__and__europa__2015_config.json",
+  "md5": "f4a3f6b2c6ed1c5e77b9696e13024555"
+}

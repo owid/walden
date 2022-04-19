@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_4153_attitudes_to_vaccines__wellcome_trust__2019_config",
+  "name": "Grapher metadata for dataset_4153_attitudes_to_vaccines__wellcome_trust__2019",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/4153",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:48:22.999718",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "3678e40c83baff024fca4c3683d7bf6d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_4153_attitudes_to_vaccines__wellcome_trust__2019_config.json",
+  "md5": "f1a422113488dc42a7a12b04830583e6"
+}

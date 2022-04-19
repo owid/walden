@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_588_prevalence_of_weight_categories_in_females__ncdrisc__2017_values",
+  "name": "Prevalence of weight categories in females - NCDRisC (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/588",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:50:08.176834",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_588_prevalence_of_weight_categories_in_females__ncdrisc__2017_values.feather",
+  "md5": "e2925dcf690e03de31b927c2c3459469"
+}

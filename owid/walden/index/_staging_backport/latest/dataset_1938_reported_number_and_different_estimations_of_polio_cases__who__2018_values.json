@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_1938_reported_number_and_different_estimations_of_polio_cases__who__2018_values",
+  "name": "Reported number and different estimations of polio cases (WHO, 2018)",
+  "description": "Using Tebbens et al.'s algorithm to reproduce estimations of actual polio numbers.",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/1938",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:49:51.672472",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_1938_reported_number_and_different_estimations_of_polio_cases__who__2018_values.feather",
+  "md5": "df1e60c60ccc9a1204b86a8ba2dd135f"
+}

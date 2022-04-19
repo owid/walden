@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_567_non_commercial_flight_distance_records__wikipedia_config",
+  "name": "Grapher metadata for dataset_567_non_commercial_flight_distance_records__wikipedia",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/567",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:51:11.936113",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "d4854e43e4b4323ccb275b32457a40a9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_567_non_commercial_flight_distance_records__wikipedia_config.json",
+  "md5": "1b81023cfb404407018b1bce85437cbc"
+}

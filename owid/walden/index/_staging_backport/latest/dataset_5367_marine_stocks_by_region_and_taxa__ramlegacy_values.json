@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_5367_marine_stocks_by_region_and_taxa__ramlegacy_values",
+  "name": "Marine stocks by region and taxa (ramlegacy)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/5367",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T11:59:50.744682",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_5367_marine_stocks_by_region_and_taxa__ramlegacy_values.feather",
+  "md5": "35e4f6688668e74f9fc0c15f95be1005"
+}

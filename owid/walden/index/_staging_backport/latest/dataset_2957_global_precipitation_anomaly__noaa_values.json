@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2957_global_precipitation_anomaly__noaa_values",
+  "name": "Global precipitation anomaly (NOAA)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2957",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:01:13.578165",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2957_global_precipitation_anomaly__noaa_values.feather",
+  "md5": "11ae18ebc60b220db12a5e2fa808f325"
+}

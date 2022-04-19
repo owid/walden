@@ -1,0 +1,14 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2870_female_and_male_life_expectancy_at_birth__owid_based_on_un_population_division__2017_values",
+  "name": "Female and male life expectancy at birth - OWID based on UN Population Division (2017)",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2870",
+  "file_extension": "feather",
+  "date_accessed": "2022-04-14T12:02:36.580180",
+  "is_public": true,
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2870_female_and_male_life_expectancy_at_birth__owid_based_on_un_population_division__2017_values.feather",
+  "md5": "c02a78fa63e2c5127c759dba97832de0"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2452_price_of_nails_since_1695__daniel_sichels__2017_config",
+  "name": "Grapher metadata for dataset_2452_price_of_nails_since_1695__daniel_sichels__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2452",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:50:21.426901",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "0761f7b34f34e294f88a0a9372dae609",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2452_price_of_nails_since_1695__daniel_sichels__2017_config.json",
+  "md5": "b8b75b7777358dfb52a4643055241741"
+}

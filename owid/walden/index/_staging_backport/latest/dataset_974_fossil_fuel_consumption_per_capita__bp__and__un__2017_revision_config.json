@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_974_fossil_fuel_consumption_per_capita__bp__and__un__2017_revision_config",
+  "name": "Grapher metadata for dataset_974_fossil_fuel_consumption_per_capita__bp__and__un__2017_revision",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/974",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:48:11.283767",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "8954d922eaba16f0be2b1b49c49f35e3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_974_fossil_fuel_consumption_per_capita__bp__and__un__2017_revision_config.json",
+  "md5": "7ddd829660715ae69ac00fc292fb41af"
+}

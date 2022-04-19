@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_2555_productivity__productivity_and_ulc_by_main_economic_activity__isic_rev_4_config",
+  "name": "Grapher metadata for dataset_2555_productivity__productivity_and_ulc_by_main_economic_activity__isic_rev_4",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/2555",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:50:10.080714",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "946c935a826d594e92818e0a74d04e06",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_2555_productivity__productivity_and_ulc_by_main_economic_activity__isic_rev_4_config.json",
+  "md5": "54c4545285a71be8f240d428c6e47424"
+}

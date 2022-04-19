@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_464_historical_employment_and_output_by_sector__owid__2017_config",
+  "name": "Grapher metadata for dataset_464_historical_employment_and_output_by_sector__owid__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/464",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T11:50:19.258816",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "3cd6d0b21ae7ea7178716a16927dfaac",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_464_historical_employment_and_output_by_sector__owid__2017_config.json",
+  "md5": "3fe74e1e8a3f75ac103290e658b51b44"
+}

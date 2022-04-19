@@ -1,0 +1,15 @@
+{
+  "namespace": "_staging_backport",
+  "short_name": "dataset_858_nitrogen_fertilizer_consumption__fao__2017_config",
+  "name": "Grapher metadata for dataset_858_nitrogen_fertilizer_consumption__fao__2017",
+  "description": "",
+  "source_name": "Our World in Data",
+  "url": "https://owid.cloud/admin/datasets/858",
+  "file_extension": "json",
+  "date_accessed": "2022-04-14T12:00:41.283878",
+  "is_public": true,
+  "publication_date": "latest",
+  "origin_md5": "a29d4d58900b7e512a4d16dccf438e99",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/_staging_backport/latest/dataset_858_nitrogen_fertilizer_consumption__fao__2017_config.json",
+  "md5": "78437aeece08552f8a80eb4c741ec25a"
+}
