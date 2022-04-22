@@ -54,7 +54,9 @@ class FAODataset:
 
     @property
     def publication_date(self):
-        return dt.datetime.fromisoformat(self._dataset_metadata['DateUpdate']).strftime("%Y-%m-%d")
+        return dt.datetime.fromisoformat(self._dataset_metadata["DateUpdate"]).strftime(
+            "%Y-%m-%d"
+        )
 
     @property
     def short_name(self):
