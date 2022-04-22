@@ -11,6 +11,8 @@ poetry run python -m ingests.faostat
 
 import datetime as dt
 import tempfile
+from dateutil import parser
+from typing import cast
 
 import requests
 import click
@@ -39,24 +41,30 @@ class FAODataset:
     source_name: str = "Food and Agriculture Organization of the United Nations"
     _extra_metadata = {}
 
-    def __init__(self, dataset_metadata: dict):
+    def __init__(self, dataset_metadata: dict, dataset_server_metadata: dict):
         """[summary]
 
         Args:
             dataset_metadata (dict): Dataset raw metadata.
-            catalog_dir (str): walden project local directory (clone project from https://github.com/owid/walden).
+            dataset_server_metadata (dict): Metadata of the dataset file in the server (which contains additional
+                metadata like last modification date).
         """
         self._dataset_metadata = dataset_metadata
+        self._dataset_server_metadata = dataset_server_metadata
 
     @property
     def publication_year(self):
-        return str(dt.datetime.fromisoformat(self._dataset_metadata["DateUpdate"]).year)
+        return self.publication_date.year
 
     @property
-    def publication_date(self):
-        return dt.datetime.fromisoformat(self._dataset_metadata["DateUpdate"]).strftime(
-            "%Y-%m-%d"
-        )
+    def publication_date(self) -> dt.date:
+        return dt.datetime.fromisoformat(self._dataset_metadata["DateUpdate"]).date()
+
+    @property
+    def modification_date(self) -> dt.date:
+        last_update_date_str = self._dataset_server_metadata["Last-modified"]
+        last_update_date = parser.parse(last_update_date_str)
+        return last_update_date
 
     @property
     def short_name(self):
@@ -82,8 +90,9 @@ class FAODataset:
             ),
             "description": self._dataset_metadata["DatasetDescription"],
             "source_name": "Food and Agriculture Organization of the United Nations",
-            "publication_year": int(self.publication_year),
-            "publication_date": self.publication_date,
+            "publication_year": self.publication_year,
+            "publication_date": str(self.publication_date),
+            "modification_date": str(self.modification_date),
             "date_accessed": str(dt.date.today()),
             "url": self.url,
             "source_data_url": self.source_data_url,
@@ -115,13 +124,26 @@ def load_faostat_catalog():
     return datasets
 
 
+def load_dataset_server_metadata(dataset_url: str) -> dict:
+    # Fetch only header of the dataset file on the server, which contains additional metadata.
+    head_request = requests.head(dataset_url)
+    dataset_header = head_request.headers
+    return cast(dict, dataset_header)
+
+
 @click.command()
 def main():
     faostat_catalog = load_faostat_catalog()
     for description in faostat_catalog:
         # Build FAODataset instance
         if description["DatasetCode"] in INCLUDED_DATASETS_CODES:
-            faostat_dataset = FAODataset(description)
+            # Fetch metadata of the dataset file in the server.
+            dataset_server_metadata = load_dataset_server_metadata(
+                dataset_url=description["FileLocation"]
+            )
+            faostat_dataset = FAODataset(
+                description, dataset_server_metadata=dataset_server_metadata
+            )
             # Run download pipeline
             faostat_dataset.to_walden()
 
