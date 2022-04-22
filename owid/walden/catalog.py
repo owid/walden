@@ -74,9 +74,10 @@ class Dataset:
 
     is_public: Optional[bool] = True
 
-    # use either publication_year or publication_date as dataset version
+    # use either publication_year or publication_date or modification_date as dataset version
     publication_year: Optional[int] = None
     publication_date: Union[Optional[dt.date], Literal["latest"]] = None
+    modification_date: Union[Optional[dt.date], Literal["latest"]] = None
 
     # md5 of the origin, can differ from `md5` attribute, used for internal purposes only
     origin_md5: Optional[str] = None
@@ -211,6 +212,9 @@ class Dataset:
 
     @property
     def version(self) -> str:
+        if self.modification_date:
+            return str(self.modification_date)
+
         if self.publication_date:
             return str(self.publication_date)
 
