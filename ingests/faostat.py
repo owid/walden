@@ -50,9 +50,11 @@ class FAODataset:
 
     @property
     def publication_year(self):
-        return dt.datetime.strptime(
-            self._dataset_metadata["DateUpdate"], "%Y-%m-%d"
-        ).strftime("%Y")
+        return str(dt.datetime.fromisoformat(self._dataset_metadata["DateUpdate"]).year)
+
+    @property
+    def publication_date(self):
+        return dt.datetime.fromisoformat(self._dataset_metadata['DateUpdate']).strftime("%Y-%m-%d")
 
     @property
     def short_name(self):
@@ -79,7 +81,7 @@ class FAODataset:
             "description": self._dataset_metadata["DatasetDescription"],
             "source_name": "Food and Agriculture Organization of the United Nations",
             "publication_year": int(self.publication_year),
-            "publication_date": self._dataset_metadata["DateUpdate"],
+            "publication_date": self.publication_date,
             "date_accessed": str(dt.date.today()),
             "url": self.url,
             "source_data_url": self.source_data_url,
@@ -98,7 +100,6 @@ class FAODataset:
         with tempfile.NamedTemporaryFile() as f:
             # fetch the file locally
             files.download(self.source_data_url, f.name)
-            # TODO: Unzip + add metadata
 
             # add it to walden, both locally, and to our remote file cache
             add_to_catalog(self.metadata, f.name, upload=True)
