@@ -41,16 +41,21 @@ class FAODataset:
     source_name: str = "Food and Agriculture Organization of the United Nations"
     _extra_metadata = {}
 
-    def __init__(self, dataset_metadata: dict, dataset_server_metadata: dict):
+    def __init__(self, dataset_metadata: dict):
         """[summary]
 
         Args:
             dataset_metadata (dict): Dataset raw metadata.
-            dataset_server_metadata (dict): Metadata of the dataset file in the server (which contains additional
-                metadata like last modification date).
         """
         self._dataset_metadata = dataset_metadata
-        self._dataset_server_metadata = dataset_server_metadata
+        self._dataset_server_metadata = self._load_dataset_server_metadata()
+
+    def _load_dataset_server_metadata(self) -> dict:
+        # Fetch only header of the dataset file on the server, which contains additional metadata, like last
+        # modification date.
+        head_request = requests.head(self.source_data_url)
+        dataset_header = head_request.headers
+        return cast(dict, dataset_header)
 
     @property
     def publication_year(self):
@@ -124,26 +129,13 @@ def load_faostat_catalog():
     return datasets
 
 
-def load_dataset_server_metadata(dataset_url: str) -> dict:
-    # Fetch only header of the dataset file on the server, which contains additional metadata.
-    head_request = requests.head(dataset_url)
-    dataset_header = head_request.headers
-    return cast(dict, dataset_header)
-
-
 @click.command()
 def main():
     faostat_catalog = load_faostat_catalog()
     for description in faostat_catalog:
         # Build FAODataset instance
         if description["DatasetCode"] in INCLUDED_DATASETS_CODES:
-            # Fetch metadata of the dataset file in the server.
-            dataset_server_metadata = load_dataset_server_metadata(
-                dataset_url=description["FileLocation"]
-            )
-            faostat_dataset = FAODataset(
-                description, dataset_server_metadata=dataset_server_metadata
-            )
+            faostat_dataset = FAODataset(description)
             # Run download pipeline
             faostat_dataset.to_walden()
 
