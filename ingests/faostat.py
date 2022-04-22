@@ -63,7 +63,7 @@ class FAODataset:
     @property
     def modification_date(self) -> dt.date:
         last_update_date_str = self._dataset_server_metadata["Last-modified"]
-        last_update_date = parser.parse(last_update_date_str)
+        last_update_date = parser.parse(last_update_date_str).date()
         return last_update_date
 
     @property
