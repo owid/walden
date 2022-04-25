@@ -74,9 +74,13 @@ class Dataset:
 
     is_public: Optional[bool] = True
 
-    # use either publication_year or publication_date as dataset version
+    # use either publication_year or publication_date or modification_date as dataset version
     publication_year: Optional[int] = None
     publication_date: Union[Optional[dt.date], Literal["latest"]] = None
+    modification_date: Union[Optional[dt.date], Literal["latest"]] = None
+
+    # dataset version can also be manually set
+    _version = None
 
     # md5 of the origin, can differ from `md5` attribute, used for internal purposes only
     origin_md5: Optional[str] = None
@@ -92,6 +96,8 @@ class Dataset:
         else:
             dataset = metadata
 
+        # TODO: 'version' may also need to be an optional argument of this function, in analogy to copy_and_create.
+
         # make sure we have a local copy
         filename = dataset.ensure_downloaded()
 
@@ -102,7 +108,7 @@ class Dataset:
 
     @classmethod
     def copy_and_create(
-        cls, filename: str, metadata: Union[dict, "Dataset"]
+        cls, filename: str, metadata: Union[dict, "Dataset"], version: Optional[str] = None
     ) -> "Dataset":
         """
         Create a new dataset if you already have the file locally.
@@ -111,6 +117,9 @@ class Dataset:
             dataset = Dataset.from_dict(metadata)  # type: ignore
         else:
             dataset = metadata
+
+        if version:
+            dataset.version = version
 
         # set the md5
         dataset.md5 = files.checksum(filename)
@@ -211,13 +220,23 @@ class Dataset:
 
     @property
     def version(self) -> str:
+        if self._version is not None:
+            return self._version
+
+        if self.modification_date:
+            return str(self.modification_date)
+
         if self.publication_date:
             return str(self.publication_date)
 
         elif self.publication_year:
             return str(self.publication_year)
 
-        raise ValueError("no versioning field found")
+        raise ValueError("version not defined and no versioning field found")
+
+    @version.setter
+    def version(self, version_value):
+        self._version = version_value
 
     def to_dict(self) -> Dict[str, Any]:
         ...

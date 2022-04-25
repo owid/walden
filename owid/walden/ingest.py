@@ -1,12 +1,12 @@
 """Tools to ingest to Walden and Catalog."""
 
-from typing import Union
+from typing import Optional, Union
 
 from .catalog import Dataset
 from .ui import log
 
 
-def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool = False):
+def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool = False, version: Optional[str] = None):
     """Add metadata to catalog.
 
     Additionally, it computes the md5 hash of the file, which is added to the metadata file.
@@ -15,10 +15,12 @@ def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool =
 
     Args:
         metadata (dict): Dictionary with metadata.
-        local_path (str): Path to local data file. Used to compute the md5 hash.
+        filename (str): Path to local data file. Used to compute the md5 hash.
+        upload (bool): True to upload to DigitalOcean.
+        version (str): Version to assign to dataset (if not given, it will be set based on dataset metadata).
     """
     # checksum happens in here, copy to cache happens here
-    dataset = Dataset.copy_and_create(filename, metadata)
+    dataset = Dataset.copy_and_create(filename, metadata, version)
 
     if upload:
         # add it to our DigitalOcean Space and set `owid_cache_url`
