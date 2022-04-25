@@ -11,25 +11,23 @@ poetry run python -m ingests.faostat
 import datetime as dt
 import tempfile
 from dateutil import parser
+from pathlib import Path
 from typing import cast
 
 import requests
 import click
 
 from owid.walden import files, add_to_catalog
-
-
-INCLUDED_DATASETS = [
-    "Food Security and Nutrition: Suite of Food Security Indicators",  # FS
-    "Production: Crops and livestock products",  # QCL
-    "Food Balance: Food Balances (-2013, old methodology and population)",  # FBSH
-    "Food Balance: Food Balances (2014-)",  # FBS
-]
+from owid.walden.ingest import is_metadata_in_index
 
 INCLUDED_DATASETS_CODES = [
+    # Food Security and Nutrition: Suite of Food Security Indicators
     "FS",
+    # Food Balance: Food Balances (2014-)
     "FBS",
+    # Food Balance: Food Balances (-2013, old methodology and population)
     "FBSH",
+    # Production: Crops and livestock products
     "QCL",
 ]
 
@@ -140,8 +138,19 @@ def main():
         # Build FAODataset instance
         if description["DatasetCode"] in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
-            # Run download pipeline
-            faostat_dataset.to_walden()
+            # Skip dataset if it already exists in index.
+            partial_metadata = {
+                "source_data_url": faostat_dataset.metadata["source_data_url"],
+                "publication_date": faostat_dataset.metadata["publication_date"],
+                "modification_date": faostat_dataset.metadata["modification_date"],
+            }
+            if is_metadata_in_index(
+                namespace=faostat_dataset.namespace, partial_metadata=partial_metadata
+            ):
+                continue
+            else:
+                # Run download pipeline
+                faostat_dataset.to_walden()
 
 
 if __name__ == "__main__":
