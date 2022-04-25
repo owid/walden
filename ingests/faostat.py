@@ -18,7 +18,10 @@ import requests
 import click
 
 from owid.walden import files, add_to_catalog
-from owid.walden.ingest import is_metadata_in_index
+from owid.walden.catalog import INDEX_DIR
+from owid.walden.files import iter_docs
+from owid.walden.ui import log
+
 
 INCLUDED_DATASETS_CODES = [
     # Food Security and Nutrition: Suite of Food Security Indicators
@@ -31,9 +34,12 @@ INCLUDED_DATASETS_CODES = [
     "QCL",
 ]
 
+VERSION = str(dt.date.today())
+NAMESPACE = "faostat"
+
 
 class FAODataset:
-    namespace: str = "faostat"
+    namespace: str = NAMESPACE
     url: str = "http://www.fao.org/faostat/en/#data"
     source_name: str = "Food and Agriculture Organization of the United Nations"
     _extra_metadata = {}
@@ -94,8 +100,7 @@ class FAODataset:
             "source_name": "Food and Agriculture Organization of the United Nations",
             "publication_year": self.publication_year,
             "publication_date": str(self.publication_date),
-            "modification_date": str(self.modification_date),
-            "date_accessed": str(dt.date.today()),
+            "date_accessed": VERSION,
             "url": self.url,
             "source_data_url": self.source_data_url,
             "file_extension": "zip",
@@ -131,6 +136,31 @@ def load_faostat_catalog():
     return datasets
 
 
+def is_dataset_already_up_to_date(source_data_url, source_modification_date):
+    """Check if a dataset is already up-to-date in the walden index.
+
+    Iterate over all files in walden index and check if:
+    * The URL of the source data coincides with the one of the current dataset.
+    * The last time the source data was accessed was more recently than the source's last modification date.
+
+    If those conditions are fulfilled, we consider that the current dataset does not need to be updated.
+
+    Args:
+        source_data_url (str): URL of the source data.
+        source_modification_date (date): Last modification date of the source dataset.
+    """
+    index_dir = Path(INDEX_DIR) / NAMESPACE
+    dataset_up_to_date = False
+    for filename, index_file in iter_docs(index_dir):
+        index_file_source_data_url = index_file.get('source_data_url')
+        index_file_date_accessed = dt.datetime.strptime(index_file.get('date_accessed'), "%Y-%m-%d").date()
+        if (index_file_source_data_url == source_data_url) and (index_file_date_accessed > source_modification_date):
+            log("INFO", f"Dataset is already up-to-date (index file: {filename}).")
+            dataset_up_to_date = True
+
+    return dataset_up_to_date
+
+
 @click.command()
 def main():
     faostat_catalog = load_faostat_catalog()
@@ -138,15 +168,9 @@ def main():
         # Build FAODataset instance
         if description["DatasetCode"] in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
-            # Skip dataset if it already exists in index.
-            partial_metadata = {
-                "source_data_url": faostat_dataset.metadata["source_data_url"],
-                "publication_date": faostat_dataset.metadata["publication_date"],
-                "modification_date": faostat_dataset.metadata["modification_date"],
-            }
-            if is_metadata_in_index(
-                namespace=faostat_dataset.namespace, partial_metadata=partial_metadata
-            ):
+            # Skip dataset if it already is up-to-date in index.
+            if is_dataset_already_up_to_date(source_data_url=faostat_dataset.source_data_url,
+                                             source_modification_date=faostat_dataset.modification_date):
                 continue
             else:
                 # Run download pipeline
