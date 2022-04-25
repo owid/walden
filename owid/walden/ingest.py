@@ -6,7 +6,12 @@ from .catalog import Dataset
 from .ui import log
 
 
-def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool = False, version: Optional[str] = None):
+def add_to_catalog(
+    metadata: Union[dict, Dataset],
+    filename: str,
+    upload: bool = False,
+    version: Optional[str] = None,
+):
     """Add metadata to catalog.
 
     Additionally, it computes the md5 hash of the file, which is added to the metadata file.

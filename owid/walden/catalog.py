@@ -108,7 +108,10 @@ class Dataset:
 
     @classmethod
     def copy_and_create(
-        cls, filename: str, metadata: Union[dict, "Dataset"], version: Optional[str] = None
+        cls,
+        filename: str,
+        metadata: Union[dict, "Dataset"],
+        version: Optional[str] = None,
     ) -> "Dataset":
         """
         Create a new dataset if you already have the file locally.
