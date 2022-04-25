@@ -74,10 +74,9 @@ class Dataset:
 
     is_public: Optional[bool] = True
 
-    # use either publication_year or publication_date or modification_date as dataset version
+    # use either publication_year or publication_date as dataset version
     publication_year: Optional[int] = None
     publication_date: Union[Optional[dt.date], Literal["latest"]] = None
-    modification_date: Union[Optional[dt.date], Literal["latest"]] = None
 
     # dataset version can also be manually set
     _version = None
@@ -225,9 +224,6 @@ class Dataset:
     def version(self) -> str:
         if self._version is not None:
             return self._version
-
-        if self.modification_date:
-            return str(self.modification_date)
 
         if self.publication_date:
             return str(self.publication_date)
