@@ -8,9 +8,10 @@ poetry run python -m ingests.faostat
 
 """
 
-
 import datetime as dt
 import tempfile
+from dateutil import parser
+from typing import cast
 
 import requests
 import click
@@ -44,15 +45,30 @@ class FAODataset:
 
         Args:
             dataset_metadata (dict): Dataset raw metadata.
-            catalog_dir (str): walden project local directory (clone project from https://github.com/owid/walden).
         """
         self._dataset_metadata = dataset_metadata
+        self._dataset_server_metadata = self._load_dataset_server_metadata()
+
+    def _load_dataset_server_metadata(self) -> dict:
+        # Fetch only header of the dataset file on the server, which contains additional metadata, like last
+        # modification date.
+        head_request = requests.head(self.source_data_url)
+        dataset_header = head_request.headers
+        return cast(dict, dataset_header)
 
     @property
     def publication_year(self):
-        return dt.datetime.strptime(
-            self._dataset_metadata["DateUpdate"], "%Y-%m-%d"
-        ).strftime("%Y")
+        return self.publication_date.year
+
+    @property
+    def publication_date(self) -> dt.date:
+        return dt.datetime.fromisoformat(self._dataset_metadata["DateUpdate"]).date()
+
+    @property
+    def modification_date(self) -> dt.date:
+        last_update_date_str = self._dataset_server_metadata["Last-modified"]
+        last_update_date = parser.parse(last_update_date_str).date()
+        return last_update_date
 
     @property
     def short_name(self):
@@ -78,8 +94,9 @@ class FAODataset:
             ),
             "description": self._dataset_metadata["DatasetDescription"],
             "source_name": "Food and Agriculture Organization of the United Nations",
-            "publication_year": int(self.publication_year),
-            "publication_date": self._dataset_metadata["DateUpdate"],
+            "publication_year": self.publication_year,
+            "publication_date": str(self.publication_date),
+            "modification_date": str(self.modification_date),
             "date_accessed": str(dt.date.today()),
             "url": self.url,
             "source_data_url": self.source_data_url,
@@ -98,10 +115,14 @@ class FAODataset:
         with tempfile.NamedTemporaryFile() as f:
             # fetch the file locally
             files.download(self.source_data_url, f.name)
-            # TODO: Unzip + add metadata
 
             # add it to walden, both locally, and to our remote file cache
-            add_to_catalog(self.metadata, f.name, upload=True)
+            add_to_catalog(
+                self.metadata,
+                f.name,
+                upload=True,
+                version=self.metadata["date_accessed"],
+            )
 
 
 def load_faostat_catalog():
