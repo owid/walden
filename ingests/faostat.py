@@ -148,9 +148,13 @@ def is_dataset_already_up_to_date(source_data_url, source_modification_date):
     index_dir = Path(INDEX_DIR) / NAMESPACE
     dataset_up_to_date = False
     for filename, index_file in iter_docs(index_dir):
-        index_file_source_data_url = index_file.get('source_data_url')
-        index_file_date_accessed = dt.datetime.strptime(index_file.get('date_accessed'), "%Y-%m-%d").date()
-        if (index_file_source_data_url == source_data_url) and (index_file_date_accessed > source_modification_date):
+        index_file_source_data_url = index_file.get("source_data_url")
+        index_file_date_accessed = dt.datetime.strptime(
+            index_file.get("date_accessed"), "%Y-%m-%d"
+        ).date()
+        if (index_file_source_data_url == source_data_url) and (
+            index_file_date_accessed > source_modification_date
+        ):
             log("INFO", f"Dataset is already up-to-date (index file: {filename}).")
             dataset_up_to_date = True
 
@@ -165,8 +169,10 @@ def main():
         if description["DatasetCode"].lower() in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
             # Skip dataset if it already is up-to-date in index.
-            if is_dataset_already_up_to_date(source_data_url=faostat_dataset.source_data_url,
-                                             source_modification_date=faostat_dataset.modification_date):
+            if is_dataset_already_up_to_date(
+                source_data_url=faostat_dataset.source_data_url,
+                source_modification_date=faostat_dataset.modification_date,
+            ):
                 continue
             else:
                 # Run download pipeline
