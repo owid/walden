@@ -8,33 +8,38 @@ poetry run python -m ingests.faostat
 
 """
 
-
 import datetime as dt
 import tempfile
+from dateutil import parser
+from pathlib import Path
+from typing import cast
 
 import requests
 import click
 
 from owid.walden import files, add_to_catalog
+from owid.walden.catalog import INDEX_DIR
+from owid.walden.files import iter_docs
+from owid.walden.ui import log
 
-
-INCLUDED_DATASETS = [
-    "Food Security and Nutrition: Suite of Food Security Indicators",  # FS
-    "Production: Crops and livestock products",  # QCL
-    "Food Balance: Food Balances (-2013, old methodology and population)",  # FBSH
-    "Food Balance: Food Balances (2014-)",  # FBS
-]
 
 INCLUDED_DATASETS_CODES = [
+    # Food Security and Nutrition: Suite of Food Security Indicators
     "FS",
+    # Food Balance: Food Balances (2014-)
     "FBS",
+    # Food Balance: Food Balances (-2013, old methodology and population)
     "FBSH",
+    # Production: Crops and livestock products
     "QCL",
 ]
 
+VERSION = str(dt.date.today())
+NAMESPACE = "faostat"
+
 
 class FAODataset:
-    namespace: str = "faostat"
+    namespace: str = NAMESPACE
     url: str = "http://www.fao.org/faostat/en/#data"
     source_name: str = "Food and Agriculture Organization of the United Nations"
     _extra_metadata = {}
@@ -44,15 +49,30 @@ class FAODataset:
 
         Args:
             dataset_metadata (dict): Dataset raw metadata.
-            catalog_dir (str): walden project local directory (clone project from https://github.com/owid/walden).
         """
         self._dataset_metadata = dataset_metadata
+        self._dataset_server_metadata = self._load_dataset_server_metadata()
+
+    def _load_dataset_server_metadata(self) -> dict:
+        # Fetch only header of the dataset file on the server, which contains additional metadata, like last
+        # modification date.
+        head_request = requests.head(self.source_data_url)
+        dataset_header = head_request.headers
+        return cast(dict, dataset_header)
 
     @property
     def publication_year(self):
-        return dt.datetime.strptime(
-            self._dataset_metadata["DateUpdate"], "%Y-%m-%d"
-        ).strftime("%Y")
+        return self.publication_date.year
+
+    @property
+    def publication_date(self) -> dt.date:
+        return dt.datetime.fromisoformat(self._dataset_metadata["DateUpdate"]).date()
+
+    @property
+    def modification_date(self) -> dt.date:
+        last_update_date_str = self._dataset_server_metadata["Last-modified"]
+        last_update_date = parser.parse(last_update_date_str).date()
+        return last_update_date
 
     @property
     def short_name(self):
@@ -78,9 +98,10 @@ class FAODataset:
             ),
             "description": self._dataset_metadata["DatasetDescription"],
             "source_name": "Food and Agriculture Organization of the United Nations",
-            "publication_year": int(self.publication_year),
-            "publication_date": self._dataset_metadata["DateUpdate"],
-            "date_accessed": str(dt.date.today()),
+            "publication_year": self.publication_year,
+            "publication_date": str(self.publication_date),
+            "date_accessed": VERSION,
+            "version": VERSION,
             "url": self.url,
             "source_data_url": self.source_data_url,
             "file_extension": "zip",
@@ -98,7 +119,6 @@ class FAODataset:
         with tempfile.NamedTemporaryFile() as f:
             # fetch the file locally
             files.download(self.source_data_url, f.name)
-            # TODO: Unzip + add metadata
 
             # add it to walden, both locally, and to our remote file cache
             add_to_catalog(self.metadata, f.name, upload=True)
@@ -112,6 +132,31 @@ def load_faostat_catalog():
     return datasets
 
 
+def is_dataset_already_up_to_date(source_data_url, source_modification_date):
+    """Check if a dataset is already up-to-date in the walden index.
+
+    Iterate over all files in walden index and check if:
+    * The URL of the source data coincides with the one of the current dataset.
+    * The last time the source data was accessed was more recently than the source's last modification date.
+
+    If those conditions are fulfilled, we consider that the current dataset does not need to be updated.
+
+    Args:
+        source_data_url (str): URL of the source data.
+        source_modification_date (date): Last modification date of the source dataset.
+    """
+    index_dir = Path(INDEX_DIR) / NAMESPACE
+    dataset_up_to_date = False
+    for filename, index_file in iter_docs(index_dir):
+        index_file_source_data_url = index_file.get('source_data_url')
+        index_file_date_accessed = dt.datetime.strptime(index_file.get('date_accessed'), "%Y-%m-%d").date()
+        if (index_file_source_data_url == source_data_url) and (index_file_date_accessed > source_modification_date):
+            log("INFO", f"Dataset is already up-to-date (index file: {filename}).")
+            dataset_up_to_date = True
+
+    return dataset_up_to_date
+
+
 @click.command()
 def main():
     faostat_catalog = load_faostat_catalog()
@@ -119,8 +164,13 @@ def main():
         # Build FAODataset instance
         if description["DatasetCode"] in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
-            # Run download pipeline
-            faostat_dataset.to_walden()
+            # Skip dataset if it already is up-to-date in index.
+            if is_dataset_already_up_to_date(source_data_url=faostat_dataset.source_data_url,
+                                             source_modification_date=faostat_dataset.modification_date):
+                continue
+            else:
+                # Run download pipeline
+                faostat_dataset.to_walden()
 
 
 if __name__ == "__main__":
