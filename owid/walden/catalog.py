@@ -74,7 +74,8 @@ class Dataset:
 
     is_public: Optional[bool] = True
 
-    # use either publication_year or publication_date as dataset version
+    # use either publication_year or publication_date as dataset version if not given explicitly
+    version: Optional[str] = None
     publication_year: Optional[int] = None
     publication_date: Union[Optional[dt.date], Literal["latest"]] = None
 
@@ -84,6 +85,15 @@ class Dataset:
     # fields that are not meant to be set in metadata and are computed on the fly
     owid_data_url: Optional[str] = None
     md5: Optional[str] = None
+
+    def __post_init__(self) -> None:
+        if self.version is None:
+            if self.publication_date:
+                self.version = str(self.publication_date)
+            elif self.publication_year:
+                self.version = str(self.publication_year)
+            else:
+                raise ValueError("no versioning field found")
 
     @classmethod
     def download_and_create(cls, metadata: Union[dict, "Dataset"]) -> "Dataset":
@@ -208,16 +218,6 @@ class Dataset:
     @property
     def local_path(self) -> str:
         return path.join(CACHE_DIR, f"{self.relative_base}.{self.file_extension}")
-
-    @property
-    def version(self) -> str:
-        if self.publication_date:
-            return str(self.publication_date)
-
-        elif self.publication_year:
-            return str(self.publication_year)
-
-        raise ValueError("no versioning field found")
 
     def to_dict(self) -> Dict[str, Any]:
         ...
