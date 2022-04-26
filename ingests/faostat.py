@@ -25,13 +25,13 @@ from owid.walden.ui import log
 
 INCLUDED_DATASETS_CODES = [
     # Food Security and Nutrition: Suite of Food Security Indicators
-    "FS",
+    "fs",
     # Food Balance: Food Balances (2014-)
-    "FBS",
+    "fbs",
     # Food Balance: Food Balances (-2013, old methodology and population)
-    "FBSH",
+    "fbsh",
     # Production: Crops and livestock products
-    "QCL",
+    "qcl",
 ]
 
 VERSION = str(dt.date.today())
@@ -76,7 +76,7 @@ class FAODataset:
 
     @property
     def short_name(self):
-        return f"{self.namespace}_{self._dataset_metadata['DatasetCode']}"
+        return f"{self.namespace}_{self._dataset_metadata['DatasetCode'].lower()}"
 
     @property
     def source_data_url(self):
@@ -91,7 +91,7 @@ class FAODataset:
         """
         return {
             "namespace": self.namespace,
-            "short_name": f"{self.namespace}_{self._dataset_metadata['DatasetCode']}",
+            "short_name": self.short_name,
             "name": (
                 f"{self._dataset_metadata['DatasetName']} - FAO"
                 f" ({self.publication_year})"
@@ -162,7 +162,7 @@ def main():
     faostat_catalog = load_faostat_catalog()
     for description in faostat_catalog:
         # Build FAODataset instance
-        if description["DatasetCode"] in INCLUDED_DATASETS_CODES:
+        if description["DatasetCode"].lower() in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
             # Skip dataset if it already is up-to-date in index.
             if is_dataset_already_up_to_date(source_data_url=faostat_dataset.source_data_url,
