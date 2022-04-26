@@ -5,6 +5,7 @@
 #
 
 from pathlib import Path
+import datetime as dt
 
 from jsonschema import Draft7Validator, validate, ValidationError
 import pytest
@@ -79,4 +80,29 @@ def test_metadata_pruning():
     catalog = Catalog()
     dataset = catalog.find_one("who", "2021-07-01", "gho")
     dataset.is_public = False
-    assert dataset.metadata['is_public'] == False
+    assert dataset.metadata["is_public"] == False
+
+
+def test_default_dataset_version():
+    """Use publication_date as version if not given in metadata."""
+    kwargs = dict(
+        name="test",
+        namespace="test",
+        short_name="test",
+        description="test",
+        source_name="test",
+        url="test",
+        file_extension="gzip",
+    )
+    ds = Dataset(
+        publication_date=dt.date(2022, 1, 1),
+        **kwargs
+    )
+    assert ds.version == '2022-01-01'
+
+    ds = Dataset(
+        version='2023-01-01',
+        publication_date=dt.date(2022, 1, 1),
+        **kwargs
+    )
+    assert ds.version == '2023-01-01'
