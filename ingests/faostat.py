@@ -44,14 +44,21 @@ INCLUDED_DATASETS_CODES = [
     "rl",
 ]
 # URL for dataset codes in FAO catalog.
-FAO_CATALOG_URL = "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
+FAO_CATALOG_URL = (
+    "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
+)
 # Base URL of API, used to take a snapshot of various categories used in FAO datasets.
 API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/domain/{domain}/{category}?output_type=objects"
 # Codes of datasets whose metadata should be fetched using the API.
 METADATA_TO_FETCH_FROM_API = {
-    'QCL': ['itemsgroup', 'area', 'element', 'unit'],  # note "itemsgroup" just for this domain
-    'FBS': ['itemgroup', 'area', 'element', 'unit'],
-    'FBSH': ['itemgroup', 'area', 'element', 'unit'],
+    "QCL": [
+        "itemsgroup",
+        "area",
+        "element",
+        "unit",
+    ],  # note "itemsgroup" just for this domain
+    "FBS": ["itemgroup", "area", "element", "unit"],
+    "FBSH": ["itemgroup", "area", "element", "unit"],
 }
 GIT_URL_TO_WALDEN = "https://github.com/owid/walden/"
 GIT_URL_TO_THIS_FILE = f"{GIT_URL_TO_WALDEN}blob/master/ingests/faostat.py"
@@ -207,13 +214,15 @@ class FAOAdditionalMetadata:
             log("INFO", f"Fetching additional metadata for domain {domain}.")
             domain_meta = {}
             for category in categories:
-                resp = requests.get(API_BASE_URL.format(domain=domain, category=category))
+                resp = requests.get(
+                    API_BASE_URL.format(domain=domain, category=category)
+                )
                 domain_meta[category] = resp.json()
 
             metadata_combined[domain] = domain_meta
 
         # Save additional metadata to temporary local file.
-        with open(output_filename, 'w') as _output_filename:
+        with open(output_filename, "w") as _output_filename:
             json.dump(metadata_combined, _output_filename, indent=2, sort_keys=True)
 
         return metadata_combined
@@ -253,7 +262,10 @@ def main():
         # Fetch additional metadata from FAO API, upload file to walden bucket and add metadata file to walden index.
         additional_metadata.to_walden()
     else:
-        log("INFO", f"No need to fetch additional metadata, since all datasets are up-to-date.")
+        log(
+            "INFO",
+            f"No need to fetch additional metadata, since all datasets are up-to-date.",
+        )
 
 
 if __name__ == "__main__":
