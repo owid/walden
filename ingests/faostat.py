@@ -32,6 +32,8 @@ INCLUDED_DATASETS_CODES = [
     "fbsh",
     # Production: Crops and livestock products
     "qcl",
+    # Land, Inputs and Sustainability: Land Use
+    "rl",
 ]
 
 VERSION = str(dt.date.today())
