@@ -59,6 +59,7 @@ METADATA_TO_FETCH_FROM_API = {
     ],  # note "itemsgroup" just for this domain
     "FBS": ["itemgroup", "area", "element", "unit"],
     "FBSH": ["itemgroup", "area", "element", "unit"],
+    "RL": ["itemgroup", "area", "element", "unit"],
 }
 GIT_URL_TO_WALDEN = "https://github.com/owid/walden/"
 GIT_URL_TO_THIS_FILE = f"{GIT_URL_TO_WALDEN}blob/master/ingests/faostat.py"
