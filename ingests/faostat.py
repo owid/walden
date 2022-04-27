@@ -51,12 +51,8 @@ FAO_CATALOG_URL = (
 API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/domain/{domain}/{category}?output_type=objects"
 # Codes of datasets whose metadata should be fetched using the API.
 METADATA_TO_FETCH_FROM_API = {
-    "QCL": [
-        "itemsgroup",
-        "area",
-        "element",
-        "unit",
-    ],  # note "itemsgroup" just for this domain
+    # NOTE: For QCL the first record is called "itemsgroup" instead of "itemgroup", like in the other domains.
+    "QCL": ["itemsgroup", "area", "element", "unit"],
     "FBS": ["itemgroup", "area", "element", "unit"],
     "FBSH": ["itemgroup", "area", "element", "unit"],
     "RL": ["itemgroup", "area", "element", "unit"],
