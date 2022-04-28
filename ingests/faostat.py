@@ -19,7 +19,7 @@ import requests
 import click
 
 from owid.walden import files, add_to_catalog
-from owid.walden.catalog import INDEX_DIR
+from owid.walden.catalog import Dataset, INDEX_DIR
 from owid.walden.files import iter_docs
 from owid.walden.ui import log
 
@@ -181,27 +181,27 @@ def is_dataset_already_up_to_date(source_data_url, source_modification_date):
 class FAOAdditionalMetadata:
     def __init__(self):
         # Assign current date to additional metadata.
-        self.publication_date = str(dt.datetime.today().date())
-        self.publication_year = dt.datetime.today().date().year
+        self.publication_date = dt.datetime.today().date()
+        self.publication_year = self.publication_date.year
 
     @property
-    def metadata(self):
-        return {
-            "namespace": NAMESPACE,
-            "short_name": f"{NAMESPACE}_metadata",
-            "name": f"Metadata and identifiers - FAO ({self.publication_year})",
-            "description": "Metadata and identifiers used in FAO datasets",
-            "source_name": SOURCE_NAME,
-            "url": FAO_DATA_URL,
-            "date_accessed": VERSION,
-            "version": VERSION,
-            "file_extension": "json",
-            "license_url": LICENSE_URL,
-            "license_name": LICENSE_NAME,
-            "publication_year": self.publication_year,
-            "publication_date": self.publication_date,
-            "source_notes": f"API snapshot captured by script at {GIT_URL_TO_THIS_FILE}",
-        }
+    def create_metadata(self):
+        return Dataset(
+            namespace=NAMESPACE,
+            short_name=f"{NAMESPACE}_metadata",
+            name=f"Metadata and identifiers - FAO ({self.publication_year})",
+            source_name=SOURCE_NAME,
+            url=FAO_DATA_URL,
+            description="Metadata and identifiers used in FAO datasets",
+            date_accessed=VERSION,
+            version=VERSION,
+            publication_year=self.publication_year,
+            publication_date=self.publication_date,
+            file_extension="json",
+            license_name=LICENSE_NAME,
+            license_url=LICENSE_URL,
+            access_notes=f"API snapshot captured by script at {GIT_URL_TO_THIS_FILE}",
+        )
 
     @staticmethod
     def _fetch_additional_metadata(output_filename):
@@ -230,7 +230,7 @@ class FAOAdditionalMetadata:
             self._fetch_additional_metadata(f.name)
 
             # add it to walden, both locally, and to our remote file cache
-            add_to_catalog(self.metadata, f.name, upload=True)
+            add_to_catalog(self.create_metadata, f.name, upload=True)
 
 
 @click.command()
