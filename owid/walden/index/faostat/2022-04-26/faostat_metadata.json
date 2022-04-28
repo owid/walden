@@ -9,6 +9,7 @@
   "date_accessed": "2022-04-26",
   "license_url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
   "license_name": "CC BY-NC-SA 3.0 IGO",
+  "access_notes": "API snapshot captured by script at https://github.com/owid/walden/blob/master/ingests/faostat.py",
   "is_public": true,
   "version": "2022-04-26",
   "publication_year": 2022,
