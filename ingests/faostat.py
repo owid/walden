@@ -52,10 +52,10 @@ API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/doma
 # Codes of datasets whose metadata should be fetched using the API.
 METADATA_TO_FETCH_FROM_API = {
     # NOTE: For QCL the first record is called "itemsgroup" instead of "itemgroup", like in the other domains.
-    "QCL": ["itemsgroup", "area", "element", "unit"],
-    "FBS": ["itemgroup", "area", "element", "unit"],
-    "FBSH": ["itemgroup", "area", "element", "unit"],
-    "RL": ["itemgroup", "area", "element", "unit"],
+    "QCL": ["itemsgroup", "area", "element", "unit", "flag"],
+    "FBS": ["itemgroup", "area", "element", "unit", "flag"],
+    "FBSH": ["itemgroup", "area", "element", "unit", "flag"],
+    "RL": ["itemgroup", "area", "element", "unit", "flag"],
 }
 GIT_URL_TO_WALDEN = "https://github.com/owid/walden/"
 GIT_URL_TO_THIS_FILE = f"{GIT_URL_TO_WALDEN}blob/master/ingests/faostat.py"
