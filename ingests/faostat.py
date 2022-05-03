@@ -32,16 +32,56 @@ LICENSE_URL = "http://www.fao.org/contact-us/terms/db-terms-of-use/en"
 LICENSE_NAME = "CC BY-NC-SA 3.0 IGO"
 # Codes of datasets to download from FAO and upload to walden bucket.
 INCLUDED_DATASETS_CODES = [
-    # Food Security and Nutrition: Suite of Food Security Indicators
-    "fs",
-    # Food Balance: Food Balances (2014-)
+    # ASTI R&D Indicators: ASTI-Expenditures
+    "ae",
+    # ASTI R&D Indicators: ASTI-Researchers
+    "af",
+    # Agri-Environmental Indicators: Fertilizers indicators
+    "ef",
+    # Agri-Environmental Indicators: Emissions intensities
+    "ei",
+    # Agri-Environmental Indicators: Livestock Manure
+    "emn",
+    # Agri-Environmental Indicators: Pesticides indicators
+    "ep",
+    # Food Balance: New Food Balances
     "fbs",
-    # Food Balance: Food Balances (-2013, old methodology and population)
+    # Food Balance: Food Balances (old methodology and population)
     "fbsh",
+    # Forestry: Forestry Production and Trade
+    "fo",
+    # Food Security: Suite of Food Security Indicators
+    "fs",
+    # Agri-Environmental Indicators: Land Cover
+    "lc",
+    # Inputs: Employment Indicators
+    "oe",
+    # Production: Live Animals
+    "qa",
+    # Production: Crops
+    "qc",
     # Production: Crops and livestock products
     "qcl",
-    # Land, Inputs and Sustainability: Land Use
+    # Production: Crops processed
+    "qd",
+    # Production: Production Indices
+    "qi",
+    # Production: Livestock Primary
+    "ql",
+    # Production: Livestock Processed
+    "qp",
+    # Production: Value of Agricultural Production
+    "qv",
+    # Inputs: Fertilizers by Product
+    "rfb",
+    # Inputs: Fertilizers by Nutrient
+    "rfn",
+    # Inputs: Land Use
     "rl",
+    # Inputs: Pesticides Use
+    "rp",
+    # Inputs: Pesticides Trade
+    "rt",
 ]
 # URL for dataset codes in FAO catalog.
 FAO_CATALOG_URL = (
@@ -49,14 +89,8 @@ FAO_CATALOG_URL = (
 )
 # Base URL of API, used to take a snapshot of various categories used in FAO datasets.
 API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/domain/{domain}/{category}?output_type=objects"
-# Codes of datasets whose metadata should be fetched using the API.
-METADATA_TO_FETCH_FROM_API = {
-    # NOTE: For QCL the first record is called "itemsgroup" instead of "itemgroup", like in the other domains.
-    "QCL": ["itemsgroup", "area", "element", "unit", "flag"],
-    "FBS": ["itemgroup", "area", "element", "unit", "flag"],
-    "FBSH": ["itemgroup", "area", "element", "unit", "flag"],
-    "RL": ["itemgroup", "area", "element", "unit", "flag"],
-}
+# Categories to be fetched using the API for each domain (not all of the categories will be available for each domain).
+CATEGORIES = ["itemgroup", "itemsgroup", "area", "element", "unit", "flag"]
 GIT_URL_TO_WALDEN = "https://github.com/owid/walden/"
 GIT_URL_TO_THIS_FILE = f"{GIT_URL_TO_WALDEN}blob/master/ingests/faostat.py"
 
@@ -207,14 +241,15 @@ class FAOAdditionalMetadata:
     def _fetch_additional_metadata(output_filename):
         metadata_combined = {}
         # Fetch additional metadata for each domain and category using API.
-        for domain, categories in METADATA_TO_FETCH_FROM_API.items():
+        for domain in INCLUDED_DATASETS_CODES:
             log("INFO", f"Fetching additional metadata for domain {domain}.")
             domain_meta = {}
-            for category in categories:
+            for category in CATEGORIES:
                 resp = requests.get(
                     API_BASE_URL.format(domain=domain, category=category)
                 )
-                domain_meta[category] = resp.json()
+                if resp.ok:
+                    domain_meta[category] = resp.json()
 
             metadata_combined[domain] = domain_meta
 
