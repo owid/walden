@@ -8,6 +8,7 @@ poetry run python -m ingests.faostat
 
 """
 
+import argparse
 import json
 import datetime as dt
 import tempfile
@@ -32,56 +33,60 @@ LICENSE_URL = "http://www.fao.org/contact-us/terms/db-terms-of-use/en"
 LICENSE_NAME = "CC BY-NC-SA 3.0 IGO"
 # Codes of datasets to download from FAO and upload to walden bucket.
 INCLUDED_DATASETS_CODES = [
-    # ASTI R&D Indicators: ASTI-Expenditures
-    "ae",
-    # ASTI R&D Indicators: ASTI-Researchers
-    "af",
-    # Agri-Environmental Indicators: Fertilizers indicators
-    "ef",
-    # Agri-Environmental Indicators: Emissions intensities
-    "ei",
-    # Agri-Environmental Indicators: Livestock Manure
-    "emn",
-    # Agri-Environmental Indicators: Pesticides indicators
-    "ep",
-    # Food Balance: New Food Balances
-    "fbs",
-    # Food Balance: Food Balances (old methodology and population)
-    "fbsh",
-    # Forestry: Forestry Production and Trade
-    "fo",
-    # Food Security: Suite of Food Security Indicators
-    "fs",
-    # Agri-Environmental Indicators: Land Cover
-    "lc",
-    # Inputs: Employment Indicators
-    "oe",
-    # Production: Live Animals
-    "qa",
-    # Production: Crops
-    "qc",
-    # Production: Crops and livestock products
-    "qcl",
-    # Production: Crops processed
-    "qd",
-    # Production: Production Indices
-    "qi",
-    # Production: Livestock Primary
-    "ql",
-    # Production: Livestock Processed
-    "qp",
-    # Production: Value of Agricultural Production
-    "qv",
-    # Inputs: Fertilizers by Product
-    "rfb",
-    # Inputs: Fertilizers by Nutrient
-    "rfn",
-    # Inputs: Land Use
-    "rl",
-    # Inputs: Pesticides Use
-    "rp",
-    # Inputs: Pesticides Trade
-    "rt",
+    # Land, Inputs and Sustainability: Fertilizers indicators.
+    'ef',
+    # Climate Change: Emissions intensities.
+    'ei',
+    # Land, Inputs and Sustainability: Livestock Patterns.
+    'ek',
+    # Land, Inputs and Sustainability: Land use indicators.
+    'el',
+    # Land, Inputs and Sustainability: Livestock Manure.
+    'emn',
+    # Land, Inputs and Sustainability: Pesticides indicators.
+    'ep',
+    # Land, Inputs and Sustainability: Soil nutrient budget.
+    'esb',
+    # Climate Change: Temperature change.
+    'et',
+    # Discontinued archives and data series: Food Aid Shipments (WFP).
+    'fa',
+    # Food Balances: Food Balances (2010-).
+    'fbs',
+    # Food Balances: Food Balances (-2013, old methodology and population).
+    'fbsh',
+    # Forestry: Forestry Production and Trade.
+    'fo',
+    # Food Security and Nutrition: Suite of Food Security Indicators.
+    'fs',
+    # Forestry: Forestry Trade Flows.
+    'ft',
+    # Land, Inputs and Sustainability: Land Cover.
+    'lc',
+    # Production: Crops and livestock products.
+    'qcl',
+    # Production: Production Indices.
+    'qi',
+    # Production: Value of Agricultural Production.
+    'qv',
+    # Land, Inputs and Sustainability: Fertilizers by Product.
+    'rfb',
+    # Land, Inputs and Sustainability: Fertilizers by Nutrient.
+    'rfn',
+    # Land, Inputs and Sustainability: Land Use.
+    'rl',
+    # Land, Inputs and Sustainability: Pesticides Use.
+    'rp',
+    # Land, Inputs and Sustainability: Pesticides Trade.
+    'rt',
+    # Food Balances: Supply Utilization Accounts.
+    'scl',
+    # SDG Indicators: SDG Indicators.
+    'sdgb',
+    # Trade: Crops and livestock products.
+    'tcl',
+    # Trade: Trade Indices.
+    'ti',
 ]
 # URL for dataset codes in FAO catalog.
 FAO_CATALOG_URL = (
@@ -143,6 +148,10 @@ class FAODataset:
 
         Required by the dataset index catalog (more info at {GIT_URL_TO_WALDEN}).
         """
+        if self._dataset_metadata["DatasetDescription"] is None:
+            # Description is sometimes missing (e.g. in faostat_esb), but a description is required in index.
+            self._dataset_metadata["DatasetDescription"] = ""
+            print(f"WARNING: Description for dataset {self.short_name} is missing. Type one manually.")
         return {
             "namespace": self.namespace,
             "short_name": self.short_name,
@@ -301,4 +310,5 @@ def main():
 
 
 if __name__ == "__main__":
+    argument_parser = argparse.ArgumentParser(description=__doc__)
     main()
