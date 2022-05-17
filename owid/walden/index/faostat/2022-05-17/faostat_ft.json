@@ -1,0 +1,19 @@
+{
+  "namespace": "faostat",
+  "short_name": "faostat_ft",
+  "name": "Forestry: Forestry Trade Flows - FAO (2020)",
+  "description": "The database contains data on the bilateral trade flows in roundwood, primary wood and paper products for all countries and territories in the world. The main types of primary forest products included in are: roundwood, sawnwood, wood-based panels, pulp, and paper and paperboard. These products are detailed further. The definitions are available. More detailed information on wood products, including definitions, can be found at: http://www.fao.org/forestry/statistics/80572/en/",
+  "source_name": "Food and Agriculture Organization of the United Nations",
+  "url": "http://www.fao.org/faostat/en/#data",
+  "file_extension": "zip",
+  "date_accessed": "2022-05-17",
+  "source_data_url": "https://fenixservices.fao.org/faostat/static/bulkdownloads/Forestry_Trade_Flows_E_All_Data_(Normalized).zip",
+  "license_url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+  "license_name": "CC BY-NC-SA 3.0 IGO",
+  "is_public": true,
+  "version": "2022-05-17",
+  "publication_year": 2020,
+  "publication_date": "2020-11-04",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/faostat/2022-05-17/faostat_ft.zip",
+  "md5": "3c99098d36712a10762f0a3362770655"
+}
