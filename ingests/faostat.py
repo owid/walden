@@ -34,59 +34,59 @@ LICENSE_NAME = "CC BY-NC-SA 3.0 IGO"
 # Codes of datasets to download from FAO and upload to walden bucket.
 INCLUDED_DATASETS_CODES = [
     # Land, Inputs and Sustainability: Fertilizers indicators.
-    'ef',
+    "ef",
     # Climate Change: Emissions intensities.
-    'ei',
+    "ei",
     # Land, Inputs and Sustainability: Livestock Patterns.
-    'ek',
+    "ek",
     # Land, Inputs and Sustainability: Land use indicators.
-    'el',
+    "el",
     # Land, Inputs and Sustainability: Livestock Manure.
-    'emn',
+    "emn",
     # Land, Inputs and Sustainability: Pesticides indicators.
-    'ep',
+    "ep",
     # Land, Inputs and Sustainability: Soil nutrient budget.
-    'esb',
+    "esb",
     # Climate Change: Temperature change.
-    'et',
+    "et",
     # Discontinued archives and data series: Food Aid Shipments (WFP).
-    'fa',
+    "fa",
     # Food Balances: Food Balances (2010-).
-    'fbs',
+    "fbs",
     # Food Balances: Food Balances (-2013, old methodology and population).
-    'fbsh',
+    "fbsh",
     # Forestry: Forestry Production and Trade.
-    'fo',
+    "fo",
     # Food Security and Nutrition: Suite of Food Security Indicators.
-    'fs',
+    "fs",
     # Forestry: Forestry Trade Flows.
-    'ft',
+    "ft",
     # Land, Inputs and Sustainability: Land Cover.
-    'lc',
+    "lc",
     # Production: Crops and livestock products.
-    'qcl',
+    "qcl",
     # Production: Production Indices.
-    'qi',
+    "qi",
     # Production: Value of Agricultural Production.
-    'qv',
+    "qv",
     # Land, Inputs and Sustainability: Fertilizers by Product.
-    'rfb',
+    "rfb",
     # Land, Inputs and Sustainability: Fertilizers by Nutrient.
-    'rfn',
+    "rfn",
     # Land, Inputs and Sustainability: Land Use.
-    'rl',
+    "rl",
     # Land, Inputs and Sustainability: Pesticides Use.
-    'rp',
+    "rp",
     # Land, Inputs and Sustainability: Pesticides Trade.
-    'rt',
+    "rt",
     # Food Balances: Supply Utilization Accounts.
-    'scl',
+    "scl",
     # SDG Indicators: SDG Indicators.
-    'sdgb',
+    "sdgb",
     # Trade: Crops and livestock products.
-    'tcl',
+    "tcl",
     # Trade: Trade Indices.
-    'ti',
+    "ti",
 ]
 # URL for dataset codes in FAO catalog.
 FAO_CATALOG_URL = (
@@ -151,7 +151,9 @@ class FAODataset:
         if self._dataset_metadata["DatasetDescription"] is None:
             # Description is sometimes missing (e.g. in faostat_esb), but a description is required in index.
             self._dataset_metadata["DatasetDescription"] = ""
-            print(f"WARNING: Description for dataset {self.short_name} is missing. Type one manually.")
+            print(
+                f"WARNING: Description for dataset {self.short_name} is missing. Type one manually."
+            )
         return {
             "namespace": self.namespace,
             "short_name": self.short_name,
