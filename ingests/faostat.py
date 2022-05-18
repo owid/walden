@@ -47,8 +47,6 @@ INCLUDED_DATASETS_CODES = [
     "ep",
     # Land, Inputs and Sustainability: Soil nutrient budget.
     "esb",
-    # Climate Change: Temperature change.
-    "et",
     # Discontinued archives and data series: Food Aid Shipments (WFP).
     "fa",
     # Food Balances: Food Balances (2010-).
@@ -59,8 +57,6 @@ INCLUDED_DATASETS_CODES = [
     "fo",
     # Food Security and Nutrition: Suite of Food Security Indicators.
     "fs",
-    # Forestry: Forestry Trade Flows.
-    "ft",
     # Land, Inputs and Sustainability: Land Cover.
     "lc",
     # Production: Crops and livestock products.
