@@ -6,14 +6,14 @@
   "source_name": "Food and Agriculture Organization of the United Nations",
   "url": "http://www.fao.org/faostat/en/#data",
   "file_extension": "zip",
-  "date_accessed": "2022-04-26",
+  "date_accessed": "2022-05-17",
   "source_data_url": "https://fenixservices.fao.org/faostat/static/bulkdownloads/FoodBalanceSheetsHistoric_E_All_Data_(Normalized).zip",
   "license_url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
   "license_name": "CC BY-NC-SA 3.0 IGO",
   "is_public": true,
-  "version": "2022-04-26",
+  "version": "2022-05-17",
   "publication_year": 2021,
   "publication_date": "2021-12-03",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/faostat/2022-04-26/faostat_fbsh.zip",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/faostat/2022-05-17/faostat_fbsh.zip",
   "md5": "f3a247f9b9c130e92ecfc2072fbbcdd6"
 }
