@@ -89,9 +89,7 @@ FAO_CATALOG_URL = (
     "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
 )
 # Base URL of API, used to take a snapshot of various categories used in FAO datasets.
-API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/domain/{domain}/{category}?output_type=objects"
-# Categories to be fetched using the API for each domain (not all of the categories will be available for each domain).
-CATEGORIES = ["itemgroup", "itemsgroup", "area", "element", "unit", "flag"]
+API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/domain"
 GIT_URL_TO_WALDEN = "https://github.com/owid/walden/"
 GIT_URL_TO_THIS_FILE = f"{GIT_URL_TO_WALDEN}blob/master/ingests/faostat.py"
 
@@ -251,10 +249,12 @@ class FAOAdditionalMetadata:
         for domain in INCLUDED_DATASETS_CODES:
             log("INFO", f"Fetching additional metadata for domain {domain}.")
             domain_meta = {}
-            for category in CATEGORIES:
-                resp = requests.get(
-                    API_BASE_URL.format(domain=domain, category=category)
-                )
+            # Get list of categories (e.g. "items", "element", etc.) for this dataset.
+            response = requests.get(f"{API_BASE_URL}/{domain}")
+            assert response.ok, f"Failed to fetch API data for dataset {domain}."
+            categories = [field["code"] for field in json.loads(response.content)["data"]]
+            for category in categories:
+                resp = requests.get(f"{API_BASE_URL}/{domain}/{category}")
                 if resp.ok:
                     domain_meta[category] = resp.json()
 
