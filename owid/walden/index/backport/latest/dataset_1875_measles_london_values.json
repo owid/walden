@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1875_measles_london_values",
+  "name": "Measles London",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1875",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:21:48.394180",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1875_measles_london_values.feather",
+  "md5": "dac92c16028a2e6cdc0b0e430f903da5"
+}

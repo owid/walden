@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1033_antibiotic_use_in_livestock__european_commission__and__van_boeckel_et_al_values",
+  "name": "Antibiotic use in livestock - European Commission & Van Boeckel et al.",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1033",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:30:19.014269",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1033_antibiotic_use_in_livestock__european_commission__and__van_boeckel_et_al_values.feather",
+  "md5": "6a95852629272bffbfa1931d664c9117"
+}

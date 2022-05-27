@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_496_access_to_financial_account_or_services__pct__world_bank__2014_config",
+  "name": "Grapher metadata for dataset_496_access_to_financial_account_or_services__pct__world_bank__2014",
+  "description": "Proportion of the population with access to an account or financial service, either in the form of a financial institution or mobile money-service provider",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/496",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:16:37.510715",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "bb6001b4259031b8d6386d99eb66eaaf",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_496_access_to_financial_account_or_services__pct__world_bank__2014_config.json",
+  "md5": "a3d7661ee5bca951efeed99d3d2ef7d3"
+}

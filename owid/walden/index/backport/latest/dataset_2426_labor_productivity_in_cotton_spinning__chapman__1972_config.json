@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2426_labor_productivity_in_cotton_spinning__chapman__1972_config",
+  "name": "Grapher metadata for dataset_2426_labor_productivity_in_cotton_spinning__chapman__1972",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2426",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:27:15.112589",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2f6327124b2e17f37e53e0624cd85b05",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2426_labor_productivity_in_cotton_spinning__chapman__1972_config.json",
+  "md5": "9c84ee666b888848fcd7f110a3a42acb"
+}

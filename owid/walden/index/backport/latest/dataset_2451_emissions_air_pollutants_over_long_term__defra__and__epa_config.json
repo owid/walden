@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2451_emissions_air_pollutants_over_long_term__defra__and__epa_config",
+  "name": "Grapher metadata for dataset_2451_emissions_air_pollutants_over_long_term__defra__and__epa",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2451",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:48.853574",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "efdc15f6f0f1d767cc6f90a91d68505b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2451_emissions_air_pollutants_over_long_term__defra__and__epa_config.json",
+  "md5": "90893d764c2cbe5d3c61b55508a4830f"
+}

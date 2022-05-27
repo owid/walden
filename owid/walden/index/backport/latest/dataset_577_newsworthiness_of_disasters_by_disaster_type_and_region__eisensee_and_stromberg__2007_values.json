@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_577_newsworthiness_of_disasters_by_disaster_type_and_region__eisensee_and_stromberg__2007_values",
+  "name": "Newsworthiness of disasters by disaster type and region - Eisensee and Str\u00f6mberg (2007)",
+  "description": "This data is derived by considering ~5,000 natural disasters occurring between 1968 and 2002 and corresponding news coverage in major US networks. Here, it is controlled for the number killed and affected, country, year, and month.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/577",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:25:16.482671",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_577_newsworthiness_of_disasters_by_disaster_type_and_region__eisensee_and_stromberg__2007_values.feather",
+  "md5": "e38e37f75ff34ccab7c5841b9a0984d8"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2892_urbanization_share__european_commission__atlas_of_the_human_planet_values",
+  "name": "Urbanization share (European Commission, Atlas of the Human Planet)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2892",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:14:42.768892",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2892_urbanization_share__european_commission__atlas_of_the_human_planet_values.feather",
+  "md5": "0c7c3717e909a8279ae6727abd53c534"
+}

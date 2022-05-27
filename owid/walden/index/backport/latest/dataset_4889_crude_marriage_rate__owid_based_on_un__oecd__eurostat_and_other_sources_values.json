@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4889_crude_marriage_rate__owid_based_on_un__oecd__eurostat_and_other_sources_values",
+  "name": "Crude marriage rate (OWID based on UN, OECD, Eurostat and other sources)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4889",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:33:19.081488",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4889_crude_marriage_rate__owid_based_on_un__oecd__eurostat_and_other_sources_values.feather",
+  "md5": "b0faa1044ec8a6efdd6c8a386b7b4a64"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_949_lighting_efficiency_in_uk__owid_based_on_fouquet__and__pearson__2007_values",
+  "name": "Lighting efficiency in UK - OWID based on Fouquet & Pearson (2007)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/949",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:30:25.328610",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_949_lighting_efficiency_in_uk__owid_based_on_fouquet__and__pearson__2007_values.feather",
+  "md5": "45a3d33ea892451847221f1f4903cb77"
+}

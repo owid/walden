@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2512_top_income_shares__world_wealth_and_income_database__2018_config",
+  "name": "Grapher metadata for dataset_2512_top_income_shares__world_wealth_and_income_database__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2512",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:56.556154",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9e7be82008ff29fcc71a21a5efe30f95",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2512_top_income_shares__world_wealth_and_income_database__2018_config.json",
+  "md5": "3373c2c39f1ea1da36e06e06c6a0b8e2"
+}

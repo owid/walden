@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2782_median_un_population_projections__global_vs_africa__owid_based_on_un_values",
+  "name": "Median UN Population Projections - Global vs Africa (OWID based on UN)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2782",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:18.668541",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2782_median_un_population_projections__global_vs_africa__owid_based_on_un_values.feather",
+  "md5": "80fc08d60ea20958449be027c62e57a4"
+}

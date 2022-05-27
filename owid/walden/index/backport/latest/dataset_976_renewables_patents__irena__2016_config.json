@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_976_renewables_patents__irena__2016_config",
+  "name": "Grapher metadata for dataset_976_renewables_patents__irena__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/976",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:32:29.656043",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6a4ef6ee6a343baf55ae9518e181d25c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_976_renewables_patents__irena__2016_config.json",
+  "md5": "af22aa42c86628daff196390f73e9bf7"
+}

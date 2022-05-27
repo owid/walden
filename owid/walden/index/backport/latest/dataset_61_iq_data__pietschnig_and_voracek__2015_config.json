@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_61_iq_data__pietschnig_and_voracek__2015_config",
+  "name": "Grapher metadata for dataset_61_iq_data__pietschnig_and_voracek__2015",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/61",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:33:02.050383",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "95cb02c4c672c60379f60f538752661c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_61_iq_data__pietschnig_and_voracek__2015_config.json",
+  "md5": "c4a7cf7bc7ccfdc41c161dadb0262644"
+}

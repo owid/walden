@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_460_hypothetical_global_co2_emissions__cdiac__2014_config",
+  "name": "Grapher metadata for dataset_460_hypothetical_global_co2_emissions__cdiac__2014",
+  "description": "Hypothetical global CO2 emissions if everyone had the average per capita footprint of a given country in 2014",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/460",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:37.308317",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "588ac97c4ae21b0173ae4e31af2cbfef",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_460_hypothetical_global_co2_emissions__cdiac__2014_config.json",
+  "md5": "a943efda6cc5a90d536493ea92630426"
+}

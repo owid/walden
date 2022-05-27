@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2457_air_pollutant_emissions__oecd_config",
+  "name": "Grapher metadata for dataset_2457_air_pollutant_emissions__oecd",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2457",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:23.308644",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0507b01ba49a45231701fb4823862903",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2457_air_pollutant_emissions__oecd_config.json",
+  "md5": "c3861f8c7ab254f3d09d305aed1409f5"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_959_gistemp_temperature_anomaly_config",
+  "name": "Grapher metadata for dataset_959_gistemp_temperature_anomaly",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/959",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:06.946401",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "267f554716086f9382e19b35baab8e19",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_959_gistemp_temperature_anomaly_config.json",
+  "md5": "905c0e90a79ae538f00a07b4c9534238"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2498_fishery_catch_breakdown__pauly_and_zeller__2016_config",
+  "name": "Grapher metadata for dataset_2498_fishery_catch_breakdown__pauly_and_zeller__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2498",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:56.233764",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ddd5af95fc0df16dcf1e33ec1f9c7415",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2498_fishery_catch_breakdown__pauly_and_zeller__2016_config.json",
+  "md5": "8d54f49574658f1c0350303110c5a41d"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_943_sexual_violence__unicef__2017_values",
+  "name": "Sexual Violence \u2013 UNICEF (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/943",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:09.899468",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_943_sexual_violence__unicef__2017_values.feather",
+  "md5": "165fac6af862524ad10e546aca7de18c"
+}

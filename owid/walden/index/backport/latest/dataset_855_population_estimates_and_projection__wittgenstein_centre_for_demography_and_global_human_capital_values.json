@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_855_population_estimates_and_projection__wittgenstein_centre_for_demography_and_global_human_capital_values",
+  "name": "Population Estimates and Projection - Wittgenstein Centre for Demography and Global Human Capital",
+  "description": "Medium SSP2, by world region and age",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/855",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:29.092349",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_855_population_estimates_and_projection__wittgenstein_centre_for_demography_and_global_human_capital_values.feather",
+  "md5": "4e20fcb052c1ba5054b2ede5984263f2"
+}

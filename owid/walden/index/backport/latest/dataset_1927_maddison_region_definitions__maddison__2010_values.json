@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1927_maddison_region_definitions__maddison__2010_values",
+  "name": "Maddison region definitions (Maddison (2010))",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1927",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:27:13.749869",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1927_maddison_region_definitions__maddison__2010_values.feather",
+  "md5": "5c2b97f696807e453dcbf3478be95057"
+}

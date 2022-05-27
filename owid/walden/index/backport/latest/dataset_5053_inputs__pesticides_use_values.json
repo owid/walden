@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5053_inputs__pesticides_use_values",
+  "name": "Inputs: Pesticides Use",
+  "description": "The Pesticides Use database includes data on the use of major pesticide groups (Insecticides, Herbicides, Fungicides, Plant growth regulators and Rodenticides) and of relevant chemical families. Data report the quantities (in tonnes of active ingredients) of pesticides used in or sold to the agricultural sector for crops and seeds. Information on quantities applied to single crops is not available.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5053",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:24:59.533211",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5053_inputs__pesticides_use_values.feather",
+  "md5": "68de3b91363e3f3ee78eaafc75101414"
+}

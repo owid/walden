@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2457_air_pollutant_emissions__oecd_values",
+  "name": "Air Pollutant Emissions - OECD",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2457",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:15:23.754788",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2457_air_pollutant_emissions__oecd_values.feather",
+  "md5": "71bf8aac5994252d8d4859b81651449a"
+}

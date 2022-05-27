@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_575_public_support_and_opposition_to_nuclear_energy__ipsos_mori__2011_values",
+  "name": "Public support and opposition to nuclear energy- Ipsos MORI (2011)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/575",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:30:11.587411",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_575_public_support_and_opposition_to_nuclear_energy__ipsos_mori__2011_values.feather",
+  "md5": "e7cd98c39277e604fa2cb5bb0f06cbc0"
+}

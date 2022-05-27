@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3106_consumption_vs__production_based_co2_emissions_shares__based_on_gcp__and__un_values",
+  "name": "Consumption vs. production-based CO\u2082 emissions shares (based on GCP & UN)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3106",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:33.446071",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3106_consumption_vs__production_based_co2_emissions_shares__based_on_gcp__and__un_values.feather",
+  "md5": "c22b66672f7bb74bfb92221c53d1abd8"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1020_global_freshwater_use_since_1900__igb_values",
+  "name": "Global freshwater use since 1900 - IGB",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1020",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:27:04.579599",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1020_global_freshwater_use_since_1900__igb_values.feather",
+  "md5": "eeace1b5a2108a9c433c0f59b3afdc57"
+}

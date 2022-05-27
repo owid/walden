@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_972_gas_production__etemad__and__luciana_values",
+  "name": "Gas production - Etemad & Luciana",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/972",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:29.995035",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_972_gas_production__etemad__and__luciana_values.feather",
+  "md5": "5c1be39f7d7db300f6f27a1cdbe1098b"
+}

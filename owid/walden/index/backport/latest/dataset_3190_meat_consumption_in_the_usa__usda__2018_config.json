@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3190_meat_consumption_in_the_usa__usda__2018_config",
+  "name": "Grapher metadata for dataset_3190_meat_consumption_in_the_usa__usda__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3190",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:25:07.788119",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a06f6e79778b252258340715eacd255a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3190_meat_consumption_in_the_usa__usda__2018_config.json",
+  "md5": "3a99551746478e1e8f71e0112ab65ccd"
+}

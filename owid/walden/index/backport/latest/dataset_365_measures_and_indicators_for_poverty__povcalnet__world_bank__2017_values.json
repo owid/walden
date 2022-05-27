@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_365_measures_and_indicators_for_poverty__povcalnet__world_bank__2017_values",
+  "name": "Measures and indicators for Poverty - PovcalNet (World Bank) (2017)",
+  "description": "Includes previous dataset:\r\n\r\n- Cost of filling the poverty gap in int-$ 2011 - Povcal created on the 8th March 2017\r\n- New Poverty headcount absolute number, by regions - Povcal\r\n- Share of World Population living in Absolute Poverty 1981-2030 - PovcalNe",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/365",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:19:41.909752",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_365_measures_and_indicators_for_poverty__povcalnet__world_bank__2017_values.feather",
+  "md5": "c8dc643d1d2b0ae9069b1c58eeefd896"
+}

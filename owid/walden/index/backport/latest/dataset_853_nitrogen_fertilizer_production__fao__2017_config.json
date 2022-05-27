@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_853_nitrogen_fertilizer_production__fao__2017_config",
+  "name": "Grapher metadata for dataset_853_nitrogen_fertilizer_production__fao__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/853",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:13:21.830467",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f58184f87404af17a73c5bfd7f80caa3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_853_nitrogen_fertilizer_production__fao__2017_config.json",
+  "md5": "3dd2e803bde63b0cdf6e74d6c32df22f"
+}

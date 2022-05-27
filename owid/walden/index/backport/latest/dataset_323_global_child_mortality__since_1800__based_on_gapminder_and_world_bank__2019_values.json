@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_323_global_child_mortality__since_1800__based_on_gapminder_and_world_bank__2019_values",
+  "name": "Global child mortality (since 1800) - based on Gapminder and World Bank (2019)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/323",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:23:12.333448",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_323_global_child_mortality__since_1800__based_on_gapminder_and_world_bank__2019_values.feather",
+  "md5": "bcd5cf46f129fa613d6fef4f244a1f44"
+}

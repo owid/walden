@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2403_other_mental_and_substance_use_disorders_config",
+  "name": "Grapher metadata for dataset_2403_other_mental_and_substance_use_disorders",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2403",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:27:05.910697",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "91a05103f24a7ea1c24ba4fe76a7a2bc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2403_other_mental_and_substance_use_disorders_config.json",
+  "md5": "e7c0e6b9cd96f67b4c70db9f530788f3"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_852_opioid_deaths_due_to_overuse_in_the_us__cdc_wonder__2017_values",
+  "name": "Opioid deaths due to overuse in the US - CDC WONDER (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/852",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:38.155596",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_852_opioid_deaths_due_to_overuse_in_the_us__cdc_wonder__2017_values.feather",
+  "md5": "c54257a5aa538afa64ed46357e015614"
+}

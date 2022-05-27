@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2662_number_of_published_titles__simons__2001_values",
+  "name": "Number of published titles - Simons (2001)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2662",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:15:59.663856",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2662_number_of_published_titles__simons__2001_values.feather",
+  "md5": "ec459be9d5d817912973506321c37855"
+}

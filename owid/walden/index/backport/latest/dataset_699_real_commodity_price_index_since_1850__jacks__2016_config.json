@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_699_real_commodity_price_index_since_1850__jacks__2016_config",
+  "name": "Grapher metadata for dataset_699_real_commodity_price_index_since_1850__jacks__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/699",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:32:11.406392",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "157803d330ced90846c97e5395f8424f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_699_real_commodity_price_index_since_1850__jacks__2016_config.json",
+  "md5": "7687f580205260dc094c8f198ce553ae"
+}

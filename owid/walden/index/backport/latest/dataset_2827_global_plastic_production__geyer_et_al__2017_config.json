@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2827_global_plastic_production__geyer_et_al__2017_config",
+  "name": "Grapher metadata for dataset_2827_global_plastic_production__geyer_et_al__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2827",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:14:28.403754",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f912646d2027febc5caacc0e78187c62",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2827_global_plastic_production__geyer_et_al__2017_config.json",
+  "md5": "2e70d341aad3c779713504df54880a48"
+}

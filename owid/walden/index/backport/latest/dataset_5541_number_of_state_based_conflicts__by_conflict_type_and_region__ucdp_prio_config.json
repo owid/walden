@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5541_number_of_state_based_conflicts__by_conflict_type_and_region__ucdp_prio_config",
+  "name": "Grapher metadata for dataset_5541_number_of_state_based_conflicts__by_conflict_type_and_region__ucdp_prio",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5541",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:19.769549",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "96a7794021291b1ad3c283235d170a5c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5541_number_of_state_based_conflicts__by_conflict_type_and_region__ucdp_prio_config.json",
+  "md5": "d41cd7f745c1a119580aa640f94939e4"
+}

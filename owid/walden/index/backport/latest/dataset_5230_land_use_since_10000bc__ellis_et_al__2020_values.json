@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5230_land_use_since_10000bc__ellis_et_al__2020_values",
+  "name": "Land use since 10000BC (Ellis et al. (2020))",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5230",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:26.127139",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5230_land_use_since_10000bc__ellis_et_al__2020_values.feather",
+  "md5": "96362fc254d3c06756ea8711a359bd2f"
+}

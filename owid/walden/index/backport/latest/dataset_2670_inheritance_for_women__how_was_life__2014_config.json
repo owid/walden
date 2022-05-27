@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2670_inheritance_for_women__how_was_life__2014_config",
+  "name": "Grapher metadata for dataset_2670_inheritance_for_women__how_was_life__2014",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2670",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:26.678412",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9b2be5d0376dc021a1450065d158582a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2670_inheritance_for_women__how_was_life__2014_config.json",
+  "md5": "6e109d1e40485290906baf39f5418aea"
+}

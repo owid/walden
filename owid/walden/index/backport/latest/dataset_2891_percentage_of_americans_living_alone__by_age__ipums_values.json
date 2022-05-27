@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2891_percentage_of_americans_living_alone__by_age__ipums_values",
+  "name": "Percentage of Americans living alone, by age - IPUMS",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2891",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:15:31.155326",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2891_percentage_of_americans_living_alone__by_age__ipums_values.feather",
+  "md5": "156ff5cf4aa1ff4ea663960b346a9382"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_245_us_revenue_public_schools__us_bureau_of_the_census_and_nces__2017_values",
+  "name": "US Revenue Public Schools - US Bureau of the Census and NCES (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/245",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:33:48.828134",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_245_us_revenue_public_schools__us_bureau_of_the_census_and_nces__2017_values.feather",
+  "md5": "2c9a2cf6224cc96ee11d0e40b7fc9edf"
+}

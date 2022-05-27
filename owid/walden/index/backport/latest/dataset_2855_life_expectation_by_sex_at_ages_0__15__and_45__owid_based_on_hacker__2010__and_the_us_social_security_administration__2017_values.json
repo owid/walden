@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2855_life_expectation_by_sex_at_ages_0__15__and_45__owid_based_on_hacker__2010__and_the_us_social_security_administration__2017_values",
+  "name": "Life expectation by sex at ages 0, 15, and 45 - OWID based on Hacker (2010) and the US Social Security Administration (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2855",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:23.823781",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2855_life_expectation_by_sex_at_ages_0__15__and_45__owid_based_on_hacker__2010__and_the_us_social_security_administration__2017_values.feather",
+  "md5": "85777e54aaee3cbad0e792d90431ad07"
+}

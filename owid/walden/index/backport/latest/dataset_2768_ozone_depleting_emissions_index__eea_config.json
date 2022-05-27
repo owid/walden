@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2768_ozone_depleting_emissions_index__eea_config",
+  "name": "Grapher metadata for dataset_2768_ozone_depleting_emissions_index__eea",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2768",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:18:15.951867",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e3917ddd918ba81c37a01abd9e1e6c3a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2768_ozone_depleting_emissions_index__eea_config.json",
+  "md5": "eb297b915e5dd1859b5444ab4ff145f8"
+}

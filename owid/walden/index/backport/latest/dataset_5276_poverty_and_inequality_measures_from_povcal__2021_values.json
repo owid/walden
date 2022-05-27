@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5276_poverty_and_inequality_measures_from_povcal__2021_values",
+  "name": "Poverty and inequality measures from PovCal (2021)",
+  "description": "Povcal is a website in which the World Bank\u2019s data on poverty is made available.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5276",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:19.964065",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5276_poverty_and_inequality_measures_from_povcal__2021_values.feather",
+  "md5": "23c7980ff807187f40f840feb2a64dc8"
+}

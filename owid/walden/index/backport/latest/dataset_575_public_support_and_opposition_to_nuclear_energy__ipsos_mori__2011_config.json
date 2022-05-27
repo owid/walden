@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_575_public_support_and_opposition_to_nuclear_energy__ipsos_mori__2011_config",
+  "name": "Grapher metadata for dataset_575_public_support_and_opposition_to_nuclear_energy__ipsos_mori__2011",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/575",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:11.116958",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f2506fa079fc29abb9f4a69fac67e7c8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_575_public_support_and_opposition_to_nuclear_energy__ipsos_mori__2011_config.json",
+  "md5": "a0c895be3bf90c5b9947b86bbc7c2f43"
+}

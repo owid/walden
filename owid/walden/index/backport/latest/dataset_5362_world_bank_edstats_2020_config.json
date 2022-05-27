@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5362_world_bank_edstats_2020_config",
+  "name": "Grapher metadata for dataset_5362_world_bank_edstats_2020",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5362",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:25:17.671873",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b5d8892afa493f0b72359ab13a0abbd7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5362_world_bank_edstats_2020_config.json",
+  "md5": "f34b2dafd312de878e1c5188e78ce4ed"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2706_prevalence_of_alcohol_drinking_in_the_usa__cdc_config",
+  "name": "Grapher metadata for dataset_2706_prevalence_of_alcohol_drinking_in_the_usa__cdc",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2706",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:23:59.256504",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e39b4eb3cd263f32bc33b4d6ea755fa2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2706_prevalence_of_alcohol_drinking_in_the_usa__cdc_config.json",
+  "md5": "9e2bcbb37d82ce2b9c4c6f006db02b02"
+}

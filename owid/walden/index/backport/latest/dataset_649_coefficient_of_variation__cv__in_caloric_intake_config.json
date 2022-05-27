@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_649_coefficient_of_variation__cv__in_caloric_intake_config",
+  "name": "Grapher metadata for dataset_649_coefficient_of_variation__cv__in_caloric_intake",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/649",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:14:20.910299",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8c06b27bcadf5219d4f50df9472bdf13",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_649_coefficient_of_variation__cv__in_caloric_intake_config.json",
+  "md5": "7ceca14ad62a6d3eb8b229e2fd8aaeb3"
+}

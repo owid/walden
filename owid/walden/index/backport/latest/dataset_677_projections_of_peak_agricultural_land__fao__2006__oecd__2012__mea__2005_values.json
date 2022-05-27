@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_677_projections_of_peak_agricultural_land__fao__2006__oecd__2012__mea__2005_values",
+  "name": "Projections of peak agricultural land - FAO (2006), OECD (2012), MEA (2005)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/677",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:27:37.221496",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_677_projections_of_peak_agricultural_land__fao__2006__oecd__2012__mea__2005_values.feather",
+  "md5": "1d32dc453a899025ee1462cd019921c6"
+}

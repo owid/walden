@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5125_cumulative_share_of_marriages_ending_in_divorce__england_and_wales__uk_ons_values",
+  "name": "Cumulative share of marriages ending in divorce (England and Wales, UK ONS)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5125",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:12:43.918182",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5125_cumulative_share_of_marriages_ending_in_divorce__england_and_wales__uk_ons_values.feather",
+  "md5": "ad24e2515f4f7e04a185564da4423032"
+}

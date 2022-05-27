@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2707_split_of_exports_to_different_country_groups__owid_calculations_based_on_fouquin_and_hugot__cepii_2016__dyadic_data_values",
+  "name": "Split of exports to different country groups - OWID calculations based on Fouquin and Hugot (CEPII 2016) dyadic data",
+  "description": "This dataset uses CEPII dyadic trade data.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2707",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:15:56.460325",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2707_split_of_exports_to_different_country_groups__owid_calculations_based_on_fouquin_and_hugot__cepii_2016__dyadic_data_values.feather",
+  "md5": "cfb7aca7ed856edc0dda23c8353e29ed"
+}

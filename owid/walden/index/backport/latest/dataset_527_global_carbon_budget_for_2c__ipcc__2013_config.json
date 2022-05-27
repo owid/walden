@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_527_global_carbon_budget_for_2c__ipcc__2013_config",
+  "name": "Grapher metadata for dataset_527_global_carbon_budget_for_2c__ipcc__2013",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/527",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:49.111991",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d6f9f2943ea15580f373450d9ab7fa65",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_527_global_carbon_budget_for_2c__ipcc__2013_config.json",
+  "md5": "57ce3e54d0b402cd1837056db6326b6e"
+}

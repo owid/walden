@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_385_health_coverage__ilo__2014_values",
+  "name": "Health Coverage \u2013 ILO (2014)",
+  "description": "WARNING: Variable \"Total health care coverage (ILO and OECD selected years)\" is only meaningful in one specific chart",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/385",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:30:30.081654",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_385_health_coverage__ilo__2014_values.feather",
+  "md5": "04969e5c04fb7828ca1bdc05c24f0539"
+}

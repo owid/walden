@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5491_agricultural_total_factor_productivity__usda_config",
+  "name": "Grapher metadata for dataset_5491_agricultural_total_factor_productivity__usda",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5491",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:10.683270",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9eb48fd9d863698f52e4804ed22fec9b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5491_agricultural_total_factor_productivity__usda_config.json",
+  "md5": "f86b57c43f4178b114fd61ee3541ad75"
+}

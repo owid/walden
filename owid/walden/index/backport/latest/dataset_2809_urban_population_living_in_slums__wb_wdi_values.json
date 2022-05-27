@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2809_urban_population_living_in_slums__wb_wdi_values",
+  "name": "Urban population living in slums (WB WDI)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2809",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:13:06.011110",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2809_urban_population_living_in_slums__wb_wdi_values.feather",
+  "md5": "2d1552f634d5c91b2bbaa61f85e00800"
+}

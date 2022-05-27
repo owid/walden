@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_980_child_marriage__unicef__2017_values",
+  "name": "Child Marriage \u2013 UNICEF (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/980",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:53.631623",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_980_child_marriage__unicef__2017_values.feather",
+  "md5": "b602342a478c00265ffedf9e0f7198c3"
+}

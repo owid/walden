@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5491_agricultural_total_factor_productivity__usda_values",
+  "name": "Agricultural total factor productivity (USDA)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5491",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:22:13.176129",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5491_agricultural_total_factor_productivity__usda_values.feather",
+  "md5": "4ca8a64280c563dfa7abab1cfbe8439a"
+}

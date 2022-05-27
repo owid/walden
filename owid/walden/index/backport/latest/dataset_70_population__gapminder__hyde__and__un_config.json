@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_70_population__gapminder__hyde__and__un_config",
+  "name": "Grapher metadata for dataset_70_population__gapminder__hyde__and__un",
+  "description": "Code: https://github.com/owid/importers/tree/master/population",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/70",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:23:56.086425",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "969e3f253606d23825c3381a2240e0f5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_70_population__gapminder__hyde__and__un_config.json",
+  "md5": "cef83e97eef58ca922ea3f505f0a67b8"
+}

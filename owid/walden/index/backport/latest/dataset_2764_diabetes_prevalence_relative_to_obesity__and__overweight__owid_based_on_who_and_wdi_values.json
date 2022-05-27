@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2764_diabetes_prevalence_relative_to_obesity__and__overweight__owid_based_on_who_and_wdi_values",
+  "name": "Diabetes prevalence relative to obesity & overweight - OWID based on WHO and WDI",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2764",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:14:27.892132",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2764_diabetes_prevalence_relative_to_obesity__and__overweight__owid_based_on_who_and_wdi_values.feather",
+  "md5": "089408711a2d9a9ed838b3758a50ac3b"
+}

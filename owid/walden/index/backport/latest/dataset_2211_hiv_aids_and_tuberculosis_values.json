@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2211_hiv_aids_and_tuberculosis_values",
+  "name": "HIV/AIDS and tuberculosis",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2211",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:30:40.041029",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2211_hiv_aids_and_tuberculosis_values.feather",
+  "md5": "89b2d72a8d7ccc0b7eebd50156188dca"
+}

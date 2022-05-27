@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_173_child_labor__world_ilo__ilo__2017_config",
+  "name": "Grapher metadata for dataset_173_child_labor__world_ilo__ilo__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/173",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:40.110162",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6c2f4bd8fd0bb3dce44e3f618056e5d8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_173_child_labor__world_ilo__ilo__2017_config.json",
+  "md5": "b302c1d3cb324be3531be50995abd050"
+}

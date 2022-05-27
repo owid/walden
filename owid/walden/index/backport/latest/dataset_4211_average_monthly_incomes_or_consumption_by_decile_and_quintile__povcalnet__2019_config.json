@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4211_average_monthly_incomes_or_consumption_by_decile_and_quintile__povcalnet__2019_config",
+  "name": "Grapher metadata for dataset_4211_average_monthly_incomes_or_consumption_by_decile_and_quintile__povcalnet__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4211",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:16:31.453106",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8d338d378ce11548ec0207c74b98884a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4211_average_monthly_incomes_or_consumption_by_decile_and_quintile__povcalnet__2019_config.json",
+  "md5": "49dc9aef8c8e366bad6919728f3f241b"
+}

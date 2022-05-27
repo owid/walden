@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_269_international_historical_statistics__births_per_1_000__brian_mitchell__2013_values",
+  "name": "International Historical Statistics (Births per 1,000) - Brian Mitchell (2013)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/269",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:22:59.636774",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_269_international_historical_statistics__births_per_1_000__brian_mitchell__2013_values.feather",
+  "md5": "0115ff47560628fd66592b644d5943a7"
+}

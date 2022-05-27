@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1906_number_of_deaths_due_to_tetanus_config",
+  "name": "Grapher metadata for dataset_1906_number_of_deaths_due_to_tetanus",
+  "description": "This is the GBD 2016 dataset with world regions added to the dataset as entities.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1906",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:32.578798",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "72e531d4b2d0ee2d63d2228dafe606d9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1906_number_of_deaths_due_to_tetanus_config.json",
+  "md5": "6db4c6f4e51f860d0e496cc23c6212e3"
+}

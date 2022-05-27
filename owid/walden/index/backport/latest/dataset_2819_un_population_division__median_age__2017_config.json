@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2819_un_population_division__median_age__2017_config",
+  "name": "Grapher metadata for dataset_2819_un_population_division__median_age__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2819",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:26:15.129801",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4cda671a86c208463dbb47736646d56e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2819_un_population_division__median_age__2017_config.json",
+  "md5": "018d0cc4e15c5b28b7723f237c06bc9a"
+}

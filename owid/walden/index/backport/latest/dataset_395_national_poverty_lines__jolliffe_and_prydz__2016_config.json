@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_395_national_poverty_lines__jolliffe_and_prydz__2016_config",
+  "name": "Grapher metadata for dataset_395_national_poverty_lines__jolliffe_and_prydz__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/395",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:20:11.487347",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ac9e32b25552487b56bd83a73285aab8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_395_national_poverty_lines__jolliffe_and_prydz__2016_config.json",
+  "md5": "5519e657c9efd2038afdda4ab454f3ec"
+}

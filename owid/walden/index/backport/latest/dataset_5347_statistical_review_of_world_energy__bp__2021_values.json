@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5347_statistical_review_of_world_energy__bp__2021_values",
+  "name": "Statistical Review of World Energy - BP (2021)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5347",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:24:15.385475",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5347_statistical_review_of_world_energy__bp__2021_values.feather",
+  "md5": "11843e49aa823d98ffaa1de1435e31c4"
+}

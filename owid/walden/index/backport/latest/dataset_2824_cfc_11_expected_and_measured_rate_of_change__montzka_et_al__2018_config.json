@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2824_cfc_11_expected_and_measured_rate_of_change__montzka_et_al__2018_config",
+  "name": "Grapher metadata for dataset_2824_cfc_11_expected_and_measured_rate_of_change__montzka_et_al__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2824",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:26.654142",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0f8137369bc9f0cab5091285d356f531",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2824_cfc_11_expected_and_measured_rate_of_change__montzka_et_al__2018_config.json",
+  "md5": "322f585e7525451be3becf353be724d0"
+}

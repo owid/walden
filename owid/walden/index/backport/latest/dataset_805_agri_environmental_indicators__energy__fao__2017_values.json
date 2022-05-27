@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_805_agri_environmental_indicators__energy__fao__2017_values",
+  "name": "Agri-Environmental Indicators: Energy - FAO (2017)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/805",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:22:01.718777",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_805_agri_environmental_indicators__energy__fao__2017_values.feather",
+  "md5": "8621bf8e2c8c8b5817dd1140e0aea040"
+}

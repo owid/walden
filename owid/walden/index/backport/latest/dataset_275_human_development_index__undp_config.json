@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_275_human_development_index__undp_config",
+  "name": "Grapher metadata for dataset_275_human_development_index__undp",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/275",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:30.940597",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "701a574a1ed0efecbcb63f2bde9973ec",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_275_human_development_index__undp_config.json",
+  "md5": "3299acc27674b1d12778d026f5351275"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1895_world_poverty_clock_config",
+  "name": "Grapher metadata for dataset_1895_world_poverty_clock",
+  "description": "World Data Lab (Vienna, Austria)",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1895",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:19:38.859153",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "77df4c46568fffeeb6db04fa556623e7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1895_world_poverty_clock_config.json",
+  "md5": "6127e3b76793be157d3a22f1bb6838cb"
+}

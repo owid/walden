@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1846_teacher_absenteeism__bold_et_al__2017_config",
+  "name": "Grapher metadata for dataset_1846_teacher_absenteeism__bold_et_al__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1846",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:26.053861",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c7ad9c035ad469ca8447d11d7124676a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1846_teacher_absenteeism__bold_et_al__2017_config.json",
+  "md5": "240515707e61ba7676dbaef5547edaac"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5181_un_wpp_2019__interpolated_demographic_indicators_by_region__subregion_and_country__annually_for_1950_2099_config",
+  "name": "Grapher metadata for dataset_5181_un_wpp_2019__interpolated_demographic_indicators_by_region__subregion_and_country__annually_for_1950_2099",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5181",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:17.913914",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4f8bf34209c6ebcf5bdbedac78458c65",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5181_un_wpp_2019__interpolated_demographic_indicators_by_region__subregion_and_country__annually_for_1950_2099_config.json",
+  "md5": "7702a0c6438ff60aa4a6a1d25263f57f"
+}

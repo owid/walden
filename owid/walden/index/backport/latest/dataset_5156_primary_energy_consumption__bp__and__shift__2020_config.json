@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5156_primary_energy_consumption__bp__and__shift__2020_config",
+  "name": "Grapher metadata for dataset_5156_primary_energy_consumption__bp__and__shift__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5156",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:27:32.057745",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "80687dc031012d8de4ff555749483801",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5156_primary_energy_consumption__bp__and__shift__2020_config.json",
+  "md5": "1cbfbd610064368be51ed0da6185c66d"
+}

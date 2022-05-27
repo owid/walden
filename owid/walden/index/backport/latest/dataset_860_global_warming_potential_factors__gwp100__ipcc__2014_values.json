@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_860_global_warming_potential_factors__gwp100__ipcc__2014_values",
+  "name": "Global warming potential factors (GWP100) - IPCC (2014)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/860",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:30:32.533664",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_860_global_warming_potential_factors__gwp100__ipcc__2014_values.feather",
+  "md5": "87b1effb613f3b42a5e0d1a354d9a3b9"
+}

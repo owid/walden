@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_283_oecd__trust_in_government_values",
+  "name": "OECD - Trust in government",
+  "description": "https://github.com/owid/notebooks/tree/main/EdouardMathieu/oecd_trust_government",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/283",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:44.243628",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_283_oecd__trust_in_government_values.feather",
+  "md5": "1dc7ef189803fdfc2902236eeebc9be9"
+}

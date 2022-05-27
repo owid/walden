@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5525_co2_emissions_by_sector__cait__2021_config",
+  "name": "Grapher metadata for dataset_5525_co2_emissions_by_sector__cait__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5525",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:14:37.361736",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "eef2a4fe6d4cd98a87bf0f1a3949ea7a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5525_co2_emissions_by_sector__cait__2021_config.json",
+  "md5": "1976b434a89816e93041841fff24b20f"
+}

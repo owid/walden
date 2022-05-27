@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3220_alcohol_consumption_since_1890__alexander__and__holmes__2017_values",
+  "name": "Alcohol consumption since 1890 (Alexander & Holmes, 2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3220",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:24:51.616623",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3220_alcohol_consumption_since_1890__alexander__and__holmes__2017_values.feather",
+  "md5": "25aebe9843f4394dd95138ed4578a738"
+}

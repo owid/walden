@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5199_who_americans_spend_time_with__american_time_use_survey__2009_2019_config",
+  "name": "Grapher metadata for dataset_5199_who_americans_spend_time_with__american_time_use_survey__2009_2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5199",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:25:05.708639",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6f0b65da7d74fa046dbe520a850fb44d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5199_who_americans_spend_time_with__american_time_use_survey__2009_2019_config.json",
+  "md5": "d9c7ff603630e6a1b9a3d49bec44ed3f"
+}

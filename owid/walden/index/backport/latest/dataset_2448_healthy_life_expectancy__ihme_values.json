@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2448_healthy_life_expectancy__ihme_values",
+  "name": "Healthy Life Expectancy - IHME",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2448",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:30:51.845589",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2448_healthy_life_expectancy__ihme_values.feather",
+  "md5": "a56d091f9b069caf6e75b7c0e2588787"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2909_required_rate_of_maternal_mortality_decline_for_sdg__based_on_world_bank__2018_config",
+  "name": "Grapher metadata for dataset_2909_required_rate_of_maternal_mortality_decline_for_sdg__based_on_world_bank__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2909",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:32:25.807375",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "81c8ae704d469ff689dfb64aaeaef5a6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2909_required_rate_of_maternal_mortality_decline_for_sdg__based_on_world_bank__2018_config.json",
+  "md5": "ee78409d3b7304d7280e0af334655de1"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_860_global_warming_potential_factors__gwp100__ipcc__2014_config",
+  "name": "Grapher metadata for dataset_860_global_warming_potential_factors__gwp100__ipcc__2014",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/860",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:31.530601",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "45014ba9befafdbe73b629c91d0931ba",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_860_global_warming_potential_factors__gwp100__ipcc__2014_config.json",
+  "md5": "83c94c0cec5e05e1266884e195dfe8c5"
+}

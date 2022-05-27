@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2956_extreme_precipitation_in_us__noaa_config",
+  "name": "Grapher metadata for dataset_2956_extreme_precipitation_in_us__noaa",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2956",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:41.891077",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "97e267fac1617ead38aa59ed844acaf4",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2956_extreme_precipitation_in_us__noaa_config.json",
+  "md5": "599dcc1d90df316ab46e93f46d88e42d"
+}

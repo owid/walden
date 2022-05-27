@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_187_price_for_light__fouquet_config",
+  "name": "Grapher metadata for dataset_187_price_for_light__fouquet",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/187",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:23:05.229543",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ca209c411da8581cbaf5b67cf27c52aa",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_187_price_for_light__fouquet_config.json",
+  "md5": "2b684bf4856f142af8163b9ec4e84517"
+}

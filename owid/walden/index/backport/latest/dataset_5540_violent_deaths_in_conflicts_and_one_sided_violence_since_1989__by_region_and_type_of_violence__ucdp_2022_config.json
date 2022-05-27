@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5540_violent_deaths_in_conflicts_and_one_sided_violence_since_1989__by_region_and_type_of_violence__ucdp_2022_config",
+  "name": "Grapher metadata for dataset_5540_violent_deaths_in_conflicts_and_one_sided_violence_since_1989__by_region_and_type_of_violence__ucdp_2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5540",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:21.554685",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "1d86fc876a536c196e055f6176246164",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5540_violent_deaths_in_conflicts_and_one_sided_violence_since_1989__by_region_and_type_of_violence__ucdp_2022_config.json",
+  "md5": "220c007dd45d0e22aa79cf736f2dbdf5"
+}

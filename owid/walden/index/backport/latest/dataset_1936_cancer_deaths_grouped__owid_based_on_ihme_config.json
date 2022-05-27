@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1936_cancer_deaths_grouped__owid_based_on_ihme_config",
+  "name": "Grapher metadata for dataset_1936_cancer_deaths_grouped__owid_based_on_ihme",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1936",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:24.285990",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b22e04c880193ee076fd6a127deb4202",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1936_cancer_deaths_grouped__owid_based_on_ihme_config.json",
+  "md5": "bda5e793fb8a9a73feb959b0d93fd111"
+}

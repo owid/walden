@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2910_maternal_deaths_to_2030__bau_vs__sdg_target__based_on_world_bank__and__un__2018_values",
+  "name": "Maternal deaths to 2030 (BAU vs. SDG Target) - based on World Bank & UN (2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2910",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:23:08.415256",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2910_maternal_deaths_to_2030__bau_vs__sdg_target__based_on_world_bank__and__un__2018_values.feather",
+  "md5": "de8eec29759e8fd74d5b5794574ec11b"
+}

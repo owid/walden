@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_364_poverty_headcount_at_dollar1_90_a_day__2011_ppp__high_income__world_bank__povcal__2017_config",
+  "name": "Grapher metadata for dataset_364_poverty_headcount_at_dollar1_90_a_day__2011_ppp__high_income__world_bank__povcal__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/364",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:42.568122",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6863c6090e99f8b78125aa9fe73120af",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_364_poverty_headcount_at_dollar1_90_a_day__2011_ppp__high_income__world_bank__povcal__2017_config.json",
+  "md5": "81a0d430314d4352ca3cdbb32150aeca"
+}

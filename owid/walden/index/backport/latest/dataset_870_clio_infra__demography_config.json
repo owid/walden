@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_870_clio_infra__demography_config",
+  "name": "Grapher metadata for dataset_870_clio_infra__demography",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/870",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:17.295400",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5ea5325073e93a1b1282e006e6141cae",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_870_clio_infra__demography_config.json",
+  "md5": "2f3d66406c793d95b9622b1a209ffa4f"
+}

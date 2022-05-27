@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2518_poverty_rate__lt_50pct_of_median__lis_key_figures__2018_config",
+  "name": "Grapher metadata for dataset_2518_poverty_rate__lt_50pct_of_median__lis_key_figures__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2518",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:36.370737",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "325cab29843dc35a898ea5c2c2b1ee2d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2518_poverty_rate__lt_50pct_of_median__lis_key_figures__2018_config.json",
+  "md5": "c54c565c990d9ed64a5e2621d98f10b1"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_977_marine_energy__irena_config",
+  "name": "Grapher metadata for dataset_977_marine_energy__irena",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/977",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:26:52.711606",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "84651a048e490f314b50e3eaf416ee54",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_977_marine_energy__irena_config.json",
+  "md5": "9462705f7878ad979efcf8515f4f9847"
+}

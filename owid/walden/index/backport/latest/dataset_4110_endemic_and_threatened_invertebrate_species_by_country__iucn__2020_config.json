@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4110_endemic_and_threatened_invertebrate_species_by_country__iucn__2020_config",
+  "name": "Grapher metadata for dataset_4110_endemic_and_threatened_invertebrate_species_by_country__iucn__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4110",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:23:06.093627",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b1a3f940c73614f5d74d9dcc7ab38784",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4110_endemic_and_threatened_invertebrate_species_by_country__iucn__2020_config.json",
+  "md5": "934423bf819a7ad6f5343d192836bd26"
+}

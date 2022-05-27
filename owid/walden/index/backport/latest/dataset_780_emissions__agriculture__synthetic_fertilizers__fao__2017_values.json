@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_780_emissions__agriculture__synthetic_fertilizers__fao__2017_values",
+  "name": "Emissions - Agriculture: Synthetic Fertilizers - FAO (2017)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/780",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:33:50.455774",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_780_emissions__agriculture__synthetic_fertilizers__fao__2017_values.feather",
+  "md5": "1f98f65ecdff10d765b26b82f021ec8f"
+}

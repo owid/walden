@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1935_number_of_deaths_in_england_and_wales_by_age__ons_config",
+  "name": "Grapher metadata for dataset_1935_number_of_deaths_in_england_and_wales_by_age__ons",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1935",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:28:35.822540",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f0e5263e2c5c04db3d5f5a371b694a16",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1935_number_of_deaths_in_england_and_wales_by_age__ons_config.json",
+  "md5": "0a65c067c3e38a2723b2bd758dcf5fd7"
+}

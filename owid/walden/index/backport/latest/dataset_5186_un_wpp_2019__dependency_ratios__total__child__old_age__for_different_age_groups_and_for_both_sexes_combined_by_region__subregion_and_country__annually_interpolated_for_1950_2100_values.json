@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5186_un_wpp_2019__dependency_ratios__total__child__old_age__for_different_age_groups_and_for_both_sexes_combined_by_region__subregion_and_country__annually_interpolated_for_1950_2100_values",
+  "name": "UN WPP 2019 - Dependency ratios (total, child, old-age) for different age groups and for both sexes combined by region, subregion and country, annually interpolated for 1950-2100",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5186",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:22:51.611571",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5186_un_wpp_2019__dependency_ratios__total__child__old_age__for_different_age_groups_and_for_both_sexes_combined_by_region__subregion_and_country__annually_interpolated_for_1950_2100_values.feather",
+  "md5": "cd56f02189c8bc8c1e7b4d72e51f2860"
+}

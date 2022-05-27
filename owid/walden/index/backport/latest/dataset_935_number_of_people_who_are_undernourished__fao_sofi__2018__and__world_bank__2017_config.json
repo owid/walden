@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_935_number_of_people_who_are_undernourished__fao_sofi__2018__and__world_bank__2017_config",
+  "name": "Grapher metadata for dataset_935_number_of_people_who_are_undernourished__fao_sofi__2018__and__world_bank__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/935",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:18:03.371109",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "122ec215610bd0c20f012565c952e6e2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_935_number_of_people_who_are_undernourished__fao_sofi__2018__and__world_bank__2017_config.json",
+  "md5": "74c9f03c795ff4cc147f609249164704"
+}

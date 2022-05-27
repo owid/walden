@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_471_child_labor_in_us__economic_history_association__2017_config",
+  "name": "Grapher metadata for dataset_471_child_labor_in_us__economic_history_association__2017",
+  "description": "Incidence of child labor in US - Economic History Association",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/471",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:16.468424",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "aabcc950b9167922262e4d13c7aaedea",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_471_child_labor_in_us__economic_history_association__2017_config.json",
+  "md5": "b5b8f6faede09103f42fe8ec358c65da"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5225_deforestation_in_trade__pendrill_config",
+  "name": "Grapher metadata for dataset_5225_deforestation_in_trade__pendrill",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5225",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:31:11.780287",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "163274d4c084ee1a4c3272792e26323a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5225_deforestation_in_trade__pendrill_config.json",
+  "md5": "4217cbb49a553e737586f236e4cd1246"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_933_usa_polio_cases_and_deaths_1910_2010__owid_based_on_us_public_health_service__1910_1951__us_center_for_disease_control__1960_2010__and_who__2011_config",
+  "name": "Grapher metadata for dataset_933_usa_polio_cases_and_deaths_1910_2010__owid_based_on_us_public_health_service__1910_1951__us_center_for_disease_control__1960_2010__and_who__2011",
+  "description": "This dataset includes the total number of cases and deaths due to polio as well as the case and death rates (per 100,000 population).",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/933",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:12:46.139325",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fbcec9cdb6d4256fd81ee84b9b8d06e5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_933_usa_polio_cases_and_deaths_1910_2010__owid_based_on_us_public_health_service__1910_1951__us_center_for_disease_control__1960_2010__and_who__2011_config.json",
+  "md5": "0ada481d30c0516ccf4f12609152a0aa"
+}

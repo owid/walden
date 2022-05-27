@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_944_income_classification__world_bank__2017_config",
+  "name": "Grapher metadata for dataset_944_income_classification__world_bank__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/944",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:23:27.525657",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "56899ea0a0f159a9c3ca2d9edc06f78b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_944_income_classification__world_bank__2017_config.json",
+  "md5": "129dcff085f1a378c6036decf024b37d"
+}

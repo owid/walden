@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2755_armed_forces_personnel_as_a_share_of_the_total_population__owid_based_on_world_bank_config",
+  "name": "Grapher metadata for dataset_2755_armed_forces_personnel_as_a_share_of_the_total_population__owid_based_on_world_bank",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2755",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:57.947298",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c9f8c43618dd9d690e5cadb0b4f59385",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2755_armed_forces_personnel_as_a_share_of_the_total_population__owid_based_on_world_bank_config.json",
+  "md5": "f8ada54c776e3b430a3fe180a3ffac37"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5426_political_regimes__owid_based_on_boix_et_al__2013__v_dem__v12__and_luhrmann_et_al__2018_values",
+  "name": "Political regimes - OWID based on Boix et al. (2013), V-Dem (v12), and L\u00fchrmann et al. (2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5426",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:32.625056",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5426_political_regimes__owid_based_on_boix_et_al__2013__v_dem__v12__and_luhrmann_et_al__2018_values.feather",
+  "md5": "d0e883734cbb5320e5caa7ba94b98798"
+}

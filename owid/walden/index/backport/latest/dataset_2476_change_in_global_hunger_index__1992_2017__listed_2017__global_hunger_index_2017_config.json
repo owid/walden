@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2476_change_in_global_hunger_index__1992_2017__listed_2017__global_hunger_index_2017_config",
+  "name": "Grapher metadata for dataset_2476_change_in_global_hunger_index__1992_2017__listed_2017__global_hunger_index_2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2476",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:28:34.909703",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "60d3c7575ef3b5bd35cd12ec8ae75b8e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2476_change_in_global_hunger_index__1992_2017__listed_2017__global_hunger_index_2017_config.json",
+  "md5": "38553ebdc90803e6a4f22c24a7c2684b"
+}

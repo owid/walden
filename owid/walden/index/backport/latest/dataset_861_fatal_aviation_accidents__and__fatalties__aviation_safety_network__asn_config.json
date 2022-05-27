@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_861_fatal_aviation_accidents__and__fatalties__aviation_safety_network__asn_config",
+  "name": "Grapher metadata for dataset_861_fatal_aviation_accidents__and__fatalties__aviation_safety_network__asn",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/861",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:45.049530",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3ea4eae933eea48f8a568379753341e4",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_861_fatal_aviation_accidents__and__fatalties__aviation_safety_network__asn_config.json",
+  "md5": "4910886e5ff7e069665a43c3716b7fbd"
+}

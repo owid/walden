@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_554_world_development_indicators__environment_config",
+  "name": "Grapher metadata for dataset_554_world_development_indicators__environment",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/554",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:56.566143",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "960f97506a8c50729c2fa547622973c2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_554_world_development_indicators__environment_config.json",
+  "md5": "779a90a911ee0ef3504a7c5270ce7d92"
+}

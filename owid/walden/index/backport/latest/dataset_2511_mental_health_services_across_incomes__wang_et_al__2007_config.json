@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2511_mental_health_services_across_incomes__wang_et_al__2007_config",
+  "name": "Grapher metadata for dataset_2511_mental_health_services_across_incomes__wang_et_al__2007",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2511",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:11.310194",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "058aafe22174ab4f329549e5d3d7a965",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2511_mental_health_services_across_incomes__wang_et_al__2007_config.json",
+  "md5": "9bf8c865828a558052a5a77ab1b9a2a4"
+}

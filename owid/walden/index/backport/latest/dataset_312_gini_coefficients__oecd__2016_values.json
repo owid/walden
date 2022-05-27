@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_312_gini_coefficients__oecd__2016_values",
+  "name": "Gini Coefficients \u2013 OECD (2016)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/312",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:40.987117",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_312_gini_coefficients__oecd__2016_values.feather",
+  "md5": "285795a810d1ae89a71751fe00fd4ae7"
+}

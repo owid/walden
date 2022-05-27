@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3224_government_expenditure_and_learning_outcomes_config",
+  "name": "Grapher metadata for dataset_3224_government_expenditure_and_learning_outcomes",
+  "description": "Learning outcomes data has been discontinued as Angrist et al favour the HLO database maintained at the World Bank, can be found at: https://datacatalog.worldbank.org/dataset/harmonized-learning-outcomes-hlo-database",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3224",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:26:53.614563",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "67b7759baa894f6bd9de68e9eebbd095",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3224_government_expenditure_and_learning_outcomes_config.json",
+  "md5": "2c02efc609c87813656c6cb76b06558f"
+}

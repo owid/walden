@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5509_electricity_mix_from_bp__and__ember__2022_config",
+  "name": "Grapher metadata for dataset_5509_electricity_mix_from_bp__and__ember__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5509",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:18:36.428884",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f85f98b22c000027fb6561f6b5fb7e71",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5509_electricity_mix_from_bp__and__ember__2022_config.json",
+  "md5": "11baef7aec42a37fba7cd6e18ea39286"
+}

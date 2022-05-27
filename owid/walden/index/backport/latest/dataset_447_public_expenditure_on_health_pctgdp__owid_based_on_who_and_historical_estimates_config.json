@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_447_public_expenditure_on_health_pctgdp__owid_based_on_who_and_historical_estimates_config",
+  "name": "Grapher metadata for dataset_447_public_expenditure_on_health_pctgdp__owid_based_on_who_and_historical_estimates",
+  "description": "The dataset has been assembled by Marco Molteni following Esteban's guidance. It uses World Health Organisation data and extrapolating backwards using OECD.stat and OECD 1993.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/447",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:23:00.258466",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "01f33fa057488f45e18c99a535610a59",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_447_public_expenditure_on_health_pctgdp__owid_based_on_who_and_historical_estimates_config.json",
+  "md5": "4940690bef30cc27b0d18db796613aba"
+}

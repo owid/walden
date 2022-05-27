@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1087_world_bank_se4all_database__energy_efficiency_values",
+  "name": "World Bank SE4ALL database - Energy efficiency",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1087",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:22:22.774457",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1087_world_bank_se4all_database__energy_efficiency_values.feather",
+  "md5": "8a1c4794fcbd58dbb7ce80f34c0bffe3"
+}

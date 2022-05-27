@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2884_urban_definition__population_threshold__un__2018_config",
+  "name": "Grapher metadata for dataset_2884_urban_definition__population_threshold__un__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2884",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:09.716495",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "18418e96db9c5eaaa78672e3c36dc17f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2884_urban_definition__population_threshold__un__2018_config.json",
+  "md5": "e546915975d3ce2385bf105e009a245c"
+}

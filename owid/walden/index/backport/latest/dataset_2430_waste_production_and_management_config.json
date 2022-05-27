@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2430_waste_production_and_management_config",
+  "name": "Grapher metadata for dataset_2430_waste_production_and_management",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2430",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:13:23.746639",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0afdeb73fd5a58e0685a2f1e76cbe0d9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2430_waste_production_and_management_config.json",
+  "md5": "2a0bf256166099a50c61a1f3b8bdc6b9"
+}

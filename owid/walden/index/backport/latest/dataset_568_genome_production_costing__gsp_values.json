@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_568_genome_production_costing__gsp_values",
+  "name": "Genome Production Costing - GSP",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/568",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:23:35.889248",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_568_genome_production_costing__gsp_values.feather",
+  "md5": "1dd007783ad50ae8f34de172af74fc69"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2732_military_expenditure_as_a_share_of_gdp__owid_based_on_cow__and__sipri__2017_config",
+  "name": "Grapher metadata for dataset_2732_military_expenditure_as_a_share_of_gdp__owid_based_on_cow__and__sipri__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2732",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:20:02.130977",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "753b82586c17c105b700c8faa3ea1ffc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2732_military_expenditure_as_a_share_of_gdp__owid_based_on_cow__and__sipri__2017_config.json",
+  "md5": "6b3032d8e1cc9c6e75b916e33c78aeaf"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_469_incidence_of_child_labor__england__italy__us__world__cunningham_and_viazzo__1996__and_others_values",
+  "name": "Incidence of child labor (England, Italy, US, World) - Cunningham and Viazzo (1996) and others",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/469",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:21:34.868922",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_469_incidence_of_child_labor__england__italy__us__world__cunningham_and_viazzo__1996__and_others_values.feather",
+  "md5": "1216862af2c522ca27d0a1d6db840b3d"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_671_fao_2030_50_projections_of_arable_land__fao__2017_config",
+  "name": "Grapher metadata for dataset_671_fao_2030_50_projections_of_arable_land__fao__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/671",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:38.089878",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8ff393859b0185cda0987f27a78ffe4e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_671_fao_2030_50_projections_of_arable_land__fao__2017_config.json",
+  "md5": "4fe192093c7d31d1addeaa4ff94355e0"
+}

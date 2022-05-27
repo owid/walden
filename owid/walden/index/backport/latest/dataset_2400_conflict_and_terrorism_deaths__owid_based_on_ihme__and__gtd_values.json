@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2400_conflict_and_terrorism_deaths__owid_based_on_ihme__and__gtd_values",
+  "name": "Conflict and Terrorism deaths - OWID based on IHME & GTD",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2400",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:16.164948",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2400_conflict_and_terrorism_deaths__owid_based_on_ihme__and__gtd_values.feather",
+  "md5": "44700ba18025865d0da251a96d54272c"
+}

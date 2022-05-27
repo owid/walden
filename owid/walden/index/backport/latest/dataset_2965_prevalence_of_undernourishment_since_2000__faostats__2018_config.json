@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2965_prevalence_of_undernourishment_since_2000__faostats__2018_config",
+  "name": "Grapher metadata for dataset_2965_prevalence_of_undernourishment_since_2000__faostats__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2965",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:32:21.704776",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7087b0f1f0afc58fe85b9f772d3f0cb2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2965_prevalence_of_undernourishment_since_2000__faostats__2018_config.json",
+  "md5": "76621389c5d348af2852d86f978d263e"
+}

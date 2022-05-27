@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2672_emissions_intensity__and__value_added_by_sector__linus_et_al_config",
+  "name": "Grapher metadata for dataset_2672_emissions_intensity__and__value_added_by_sector__linus_et_al",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2672",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:16:30.551949",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "07fa4a8aa3b8e817685f704b1dbb462d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2672_emissions_intensity__and__value_added_by_sector__linus_et_al_config.json",
+  "md5": "9ff4d74b74b996266e1d576f46183b7c"
+}

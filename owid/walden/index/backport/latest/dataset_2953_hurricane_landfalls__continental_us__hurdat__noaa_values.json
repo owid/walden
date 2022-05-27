@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2953_hurricane_landfalls__continental_us__hurdat__noaa_values",
+  "name": "Hurricane Landfalls, Continental US (HURDAT, NOAA)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2953",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:21:20.402977",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2953_hurricane_landfalls__continental_us__hurdat__noaa_values.feather",
+  "md5": "8eeffc103ea3790c0bea3bd1c6f2c8de"
+}

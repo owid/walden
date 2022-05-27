@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5174_global_carbon_budget__gcp__2021_config",
+  "name": "Grapher metadata for dataset_5174_global_carbon_budget__gcp__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5174",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:20:13.512326",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "38b160f296e50d0d8c3d8ba503a20947",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5174_global_carbon_budget__gcp__2021_config.json",
+  "md5": "a17e71f779af06af00f90e0011b7ba63"
+}

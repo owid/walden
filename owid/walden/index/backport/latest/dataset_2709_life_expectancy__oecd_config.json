@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2709_life_expectancy__oecd_config",
+  "name": "Grapher metadata for dataset_2709_life_expectancy__oecd",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2709",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:29:19.007211",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "212b802c981db90993accd2d4bc2dbce",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2709_life_expectancy__oecd_config.json",
+  "md5": "6739c5d85abfaa17bbbf68a9b519ef10"
+}

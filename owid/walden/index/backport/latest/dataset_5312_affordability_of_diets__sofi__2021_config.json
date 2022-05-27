@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5312_affordability_of_diets__sofi__2021_config",
+  "name": "Grapher metadata for dataset_5312_affordability_of_diets__sofi__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5312",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:50.138485",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "1f1876f0ccf074e6c9eb447bacd03142",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5312_affordability_of_diets__sofi__2021_config.json",
+  "md5": "61972a500101a05745a2471644a700b5"
+}

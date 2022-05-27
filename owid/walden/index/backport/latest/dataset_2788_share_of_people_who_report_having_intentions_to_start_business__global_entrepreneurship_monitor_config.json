@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2788_share_of_people_who_report_having_intentions_to_start_business__global_entrepreneurship_monitor_config",
+  "name": "Grapher metadata for dataset_2788_share_of_people_who_report_having_intentions_to_start_business__global_entrepreneurship_monitor",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2788",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:38.436277",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b68bc97432a61422989d08170b6411c4",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2788_share_of_people_who_report_having_intentions_to_start_business__global_entrepreneurship_monitor_config.json",
+  "md5": "b6eaf003f0e064d833e7cd187b40ada4"
+}

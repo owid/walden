@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4903_same_sex_marriage_law__pew_research_center__cfr_values",
+  "name": "Same sex marriage law (Pew Research Center, CFR)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4903",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:15:48.268686",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4903_same_sex_marriage_law__pew_research_center__cfr_values.feather",
+  "md5": "073c0a4f02cfa116a6d7d7cac90ccb47"
+}

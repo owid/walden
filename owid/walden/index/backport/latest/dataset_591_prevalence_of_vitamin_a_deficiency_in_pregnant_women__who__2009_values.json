@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_591_prevalence_of_vitamin_a_deficiency_in_pregnant_women__who__2009_values",
+  "name": "Prevalence of vitamin-A deficiency in pregnant women - WHO (2009)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/591",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:24:58.093999",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_591_prevalence_of_vitamin_a_deficiency_in_pregnant_women__who__2009_values.feather",
+  "md5": "919b61b2a1c45f6e09e5fe725275dceb"
+}

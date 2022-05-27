@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1901_agricultural_policy_support__agrimonitor__2017_config",
+  "name": "Grapher metadata for dataset_1901_agricultural_policy_support__agrimonitor__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1901",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:31:06.845598",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "544ac5b826c2f2a736a15a5eb862320d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1901_agricultural_policy_support__agrimonitor__2017_config.json",
+  "md5": "a01e99934a57f6bc849ab0fee780b5b0"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_980_child_marriage__unicef__2017_config",
+  "name": "Grapher metadata for dataset_980_child_marriage__unicef__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/980",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:53.250804",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ebe0f9ef23c61adc2e934a8bd525b7fc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_980_child_marriage__unicef__2017_config.json",
+  "md5": "153e625e9c9a264128d4fcdc6b9c7c05"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5075_covid_testing_time_series_data_config",
+  "name": "Grapher metadata for dataset_5075_covid_testing_time_series_data",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5075",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:32.467029",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7ec53409b9a9fdf83b3e89b427850a78",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5075_covid_testing_time_series_data_config.json",
+  "md5": "4faee8ac164487008e9049966481d529"
+}

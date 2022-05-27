@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2573_environment__municipal_waste__generation_and_treatment_config",
+  "name": "Grapher metadata for dataset_2573_environment__municipal_waste__generation_and_treatment",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2573",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:28:20.305307",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "be4b059e54a336cb5ae43e7a584810bc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2573_environment__municipal_waste__generation_and_treatment_config.json",
+  "md5": "ca103bb12fcd5f4663e2827d3b82dedc"
+}

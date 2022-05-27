@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2520_number_and_percentage_of_current_smokers__by_sex__american_lung_association__2011_config",
+  "name": "Grapher metadata for dataset_2520_number_and_percentage_of_current_smokers__by_sex__american_lung_association__2011",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2520",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:32:08.596940",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ef9e3e64772c9723f589ad024170af51",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2520_number_and_percentage_of_current_smokers__by_sex__american_lung_association__2011_config.json",
+  "md5": "2019fffc3dc737565d2fc8228e5d7e8e"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1071_world_bank_poverty_and_equity_database__poverty__income_distribution_config",
+  "name": "Grapher metadata for dataset_1071_world_bank_poverty_and_equity_database__poverty__income_distribution",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1071",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:18:43.481404",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2e0ab3d0db5893790e9f2d37f33488de",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1071_world_bank_poverty_and_equity_database__poverty__income_distribution_config.json",
+  "md5": "b4b2fba21e48a6eb5656b151f1e264dd"
+}

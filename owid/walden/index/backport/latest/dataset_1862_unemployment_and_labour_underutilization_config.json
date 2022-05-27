@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1862_unemployment_and_labour_underutilization_config",
+  "name": "Grapher metadata for dataset_1862_unemployment_and_labour_underutilization",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1862",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:33.722933",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c28ed144ddc7f9cef70186188144757e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1862_unemployment_and_labour_underutilization_config.json",
+  "md5": "2385f6c2deefef04993f5d6d5f907202"
+}

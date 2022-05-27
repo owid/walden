@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2752_hypothetical_meat_consumption__owid_based_on_fao__and__un_config",
+  "name": "Grapher metadata for dataset_2752_hypothetical_meat_consumption__owid_based_on_fao__and__un",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2752",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:37.265960",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "360ea9468e66ba5ee8119a2a9c4296cc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2752_hypothetical_meat_consumption__owid_based_on_fao__and__un_config.json",
+  "md5": "090fb36f66ce103758b43d736965b890"
+}

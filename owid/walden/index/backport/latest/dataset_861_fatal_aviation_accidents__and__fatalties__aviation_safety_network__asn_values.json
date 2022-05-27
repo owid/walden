@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_861_fatal_aviation_accidents__and__fatalties__aviation_safety_network__asn_values",
+  "name": "Fatal aviation accidents & fatalties - Aviation Safety Network (ASN)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/861",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:15:45.486133",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_861_fatal_aviation_accidents__and__fatalties__aviation_safety_network__asn_values.feather",
+  "md5": "d301375d7e9d09e049416d1804dcc942"
+}

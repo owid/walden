@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_516_air_pollution_by_city__fouquet_and_dpcc__2011_config",
+  "name": "Grapher metadata for dataset_516_air_pollution_by_city__fouquet_and_dpcc__2011",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/516",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:09.432447",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "29992b1f49a5c307ec8c237c15411653",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_516_air_pollution_by_city__fouquet_and_dpcc__2011_config.json",
+  "md5": "92fd42d63be42ac118a4b164558209ea"
+}

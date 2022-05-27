@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2855_life_expectation_by_sex_at_ages_0__15__and_45__owid_based_on_hacker__2010__and_the_us_social_security_administration__2017_config",
+  "name": "Grapher metadata for dataset_2855_life_expectation_by_sex_at_ages_0__15__and_45__owid_based_on_hacker__2010__and_the_us_social_security_administration__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2855",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:28:23.289282",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a801d75ac5821de4f5c86097ac3ab24c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2855_life_expectation_by_sex_at_ages_0__15__and_45__owid_based_on_hacker__2010__and_the_us_social_security_administration__2017_config.json",
+  "md5": "ccd597ec3984e614a2df74386b97c4a3"
+}

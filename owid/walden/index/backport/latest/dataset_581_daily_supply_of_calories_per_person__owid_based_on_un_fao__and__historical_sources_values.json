@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_581_daily_supply_of_calories_per_person__owid_based_on_un_fao__and__historical_sources_values",
+  "name": "Daily supply of calories per person (OWID based on UN FAO & historical sources)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/581",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:22:21.246731",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_581_daily_supply_of_calories_per_person__owid_based_on_un_fao__and__historical_sources_values.feather",
+  "md5": "f3efb4ac491d65103f8b06ebf2a7a0e6"
+}

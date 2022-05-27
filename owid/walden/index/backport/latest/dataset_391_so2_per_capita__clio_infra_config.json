@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_391_so2_per_capita__clio_infra_config",
+  "name": "Grapher metadata for dataset_391_so2_per_capita__clio_infra",
+  "description": "SO2 emissions per capita (tonnes per year).",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/391",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:19:06.943880",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4d5ae1b4fcdd2e045c3b4eb2517df66b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_391_so2_per_capita__clio_infra_config.json",
+  "md5": "d62ac615feaf56a3672f6ad8a98ac729"
+}

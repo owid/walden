@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1927_maddison_region_definitions__maddison__2010_config",
+  "name": "Grapher metadata for dataset_1927_maddison_region_definitions__maddison__2010",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1927",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:27:13.335570",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f5a3d20d0288c7aaebf2201f4d8c4f5f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1927_maddison_region_definitions__maddison__2010_config.json",
+  "md5": "60ba70bfc89361ca0ecf6f1ab3369782"
+}

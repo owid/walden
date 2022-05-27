@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2077_guinea_worm_who_certification_status__who_2018_config",
+  "name": "Grapher metadata for dataset_2077_guinea_worm_who_certification_status__who_2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2077",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:14:26.549908",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "925fa88358d007748421629d6faa43fa",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2077_guinea_worm_who_certification_status__who_2018_config.json",
+  "md5": "05ecd46c12a5e00673b7d1f065e750f7"
+}

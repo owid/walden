@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2895_largest_cities_by_population_density__un_habitat__2014_values",
+  "name": "Largest cities by population density - UN Habitat (2014)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2895",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:33:18.026621",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2895_largest_cities_by_population_density__un_habitat__2014_values.feather",
+  "md5": "dac1655beab60972848fac51275cb78b"
+}

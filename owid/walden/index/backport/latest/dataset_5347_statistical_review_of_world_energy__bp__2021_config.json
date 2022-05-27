@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5347_statistical_review_of_world_energy__bp__2021_config",
+  "name": "Grapher metadata for dataset_5347_statistical_review_of_world_energy__bp__2021",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5347",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:13.084861",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e45cdce4f24f7f28aa469d5e28b65b18",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5347_statistical_review_of_world_energy__bp__2021_config.json",
+  "md5": "6dbfedd8d88c752db3bf5b10de21ad15"
+}

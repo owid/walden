@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4200_children_that_died_before_5_years_of_age_per_woman__gapminder__2017_config",
+  "name": "Grapher metadata for dataset_4200_children_that_died_before_5_years_of_age_per_woman__gapminder__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4200",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:16:04.857707",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "83971491b3045ce3e843626f356a5929",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4200_children_that_died_before_5_years_of_age_per_woman__gapminder__2017_config.json",
+  "md5": "ea427cbeee931a340bb88cb8e6b2a04d"
+}

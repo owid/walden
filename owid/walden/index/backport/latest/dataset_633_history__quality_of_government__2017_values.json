@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_633_history__quality_of_government__2017_values",
+  "name": "History - Quality of Government (2017)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/633",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:16:28.189034",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_633_history__quality_of_government__2017_values.feather",
+  "md5": "f843809535bad83d1ce618021686b55a"
+}

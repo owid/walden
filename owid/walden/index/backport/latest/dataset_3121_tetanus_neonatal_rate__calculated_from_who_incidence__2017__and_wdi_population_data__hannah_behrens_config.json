@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3121_tetanus_neonatal_rate__calculated_from_who_incidence__2017__and_wdi_population_data__hannah_behrens_config",
+  "name": "Grapher metadata for dataset_3121_tetanus_neonatal_rate__calculated_from_who_incidence__2017__and_wdi_population_data__hannah_behrens",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3121",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:28:46.078655",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "69e3374ee016946068121b638a57bf82",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3121_tetanus_neonatal_rate__calculated_from_who_incidence__2017__and_wdi_population_data__hannah_behrens_config.json",
+  "md5": "9b64293627e4b25ef4b8d4d6a46d5915"
+}

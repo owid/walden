@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2850_plastic_importers_to_china__brooks_et_al__2018_config",
+  "name": "Grapher metadata for dataset_2850_plastic_importers_to_china__brooks_et_al__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2850",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:11.142564",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "af0b9e2f5642eeb48a22de5de2bee891",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2850_plastic_importers_to_china__brooks_et_al__2018_config.json",
+  "md5": "907d6307f0b5fddfc688ad6f531cceea"
+}

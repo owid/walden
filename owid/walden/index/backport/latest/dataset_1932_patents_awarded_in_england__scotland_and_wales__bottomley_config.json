@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1932_patents_awarded_in_england__scotland_and_wales__bottomley_config",
+  "name": "Grapher metadata for dataset_1932_patents_awarded_in_england__scotland_and_wales__bottomley",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1932",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:45.631116",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "cc98f1349486887ecef9659192220e85",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1932_patents_awarded_in_england__scotland_and_wales__bottomley_config.json",
+  "md5": "e0e4ee8d29cb2e561a0fbb0b1e427b87"
+}

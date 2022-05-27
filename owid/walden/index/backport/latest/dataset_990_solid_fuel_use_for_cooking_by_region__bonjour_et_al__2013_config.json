@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_990_solid_fuel_use_for_cooking_by_region__bonjour_et_al__2013_config",
+  "name": "Grapher metadata for dataset_990_solid_fuel_use_for_cooking_by_region__bonjour_et_al__2013",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/990",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:17:59.079823",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b53ce5cb66fa47bb1a254a3308b2bcba",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_990_solid_fuel_use_for_cooking_by_region__bonjour_et_al__2013_config.json",
+  "md5": "b587c1f1bad75d5fb6d204cab2cb3198"
+}

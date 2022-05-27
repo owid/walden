@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_991_households_using_solid_fuels_for_cooking__urban_vs__rural__un_values",
+  "name": "Households using solid fuels for cooking (Urban vs. Rural) - UN",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/991",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:39.786681",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_991_households_using_solid_fuels_for_cooking__urban_vs__rural__un_values.feather",
+  "md5": "f36b2f081c3e1fa5357b9678edf83b02"
+}

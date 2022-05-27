@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_583_daily_fat_supply__fao__2017_values",
+  "name": "Daily fat supply- FAO (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/583",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:04.955853",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_583_daily_fat_supply__fao__2017_values.feather",
+  "md5": "05d1d9045b6d38a102cbeda22784c13d"
+}

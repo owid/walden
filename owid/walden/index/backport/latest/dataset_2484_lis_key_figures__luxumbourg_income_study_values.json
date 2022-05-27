@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2484_lis_key_figures__luxumbourg_income_study_values",
+  "name": "LIS Key Figures \u2013 Luxumbourg Income Study",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2484",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:22.838169",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2484_lis_key_figures__luxumbourg_income_study_values.feather",
+  "md5": "71b18887c6da72eb88e62cfe23af1bf6"
+}

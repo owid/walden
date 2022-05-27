@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2500_population__clio_infra__2016__with_island_of_ireland__rep__plus_northern_config",
+  "name": "Grapher metadata for dataset_2500_population__clio_infra__2016__with_island_of_ireland__rep__plus_northern",
+  "description": "The Clio-infra (2016) data with population figures listed under (Ireland) referring to the Island of Ireland after 1921 (partition of Ireland), not just the Rep. of Ireland ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2500",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:45.375857",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6c72a87b9ac20afd27c5d0f601b213e3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2500_population__clio_infra__2016__with_island_of_ireland__rep__plus_northern_config.json",
+  "md5": "c9e6201dea9eae857eba379914dd8bc0"
+}

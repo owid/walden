@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1469_diarrhea__lower_respiratory__and_other_common_infectious_diseases_config",
+  "name": "Grapher metadata for dataset_1469_diarrhea__lower_respiratory__and_other_common_infectious_diseases",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1469",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:12.287190",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "64a5e3e989c63f9fbc2267b6a2f3288b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1469_diarrhea__lower_respiratory__and_other_common_infectious_diseases_config.json",
+  "md5": "9e1435cb71a11a81eb8064fe53877521"
+}

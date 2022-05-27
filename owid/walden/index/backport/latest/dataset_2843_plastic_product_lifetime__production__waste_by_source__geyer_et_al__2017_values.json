@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2843_plastic_product_lifetime__production__waste_by_source__geyer_et_al__2017_values",
+  "name": "Plastic product lifetime, production, waste by source - Geyer et al. (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2843",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:16:25.632134",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2843_plastic_product_lifetime__production__waste_by_source__geyer_et_al__2017_values.feather",
+  "md5": "183d9b1cb46feca92b9514e3e0b03b5d"
+}

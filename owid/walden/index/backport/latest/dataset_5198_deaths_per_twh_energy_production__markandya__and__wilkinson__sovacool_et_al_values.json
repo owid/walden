@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5198_deaths_per_twh_energy_production__markandya__and__wilkinson__sovacool_et_al_values",
+  "name": "Deaths per TWh energy production (Markandya & Wilkinson; Sovacool et al.)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5198",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:24:12.634958",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5198_deaths_per_twh_energy_production__markandya__and__wilkinson__sovacool_et_al_values.feather",
+  "md5": "6a1bc8b60464c15fffacfd30101894e6"
+}

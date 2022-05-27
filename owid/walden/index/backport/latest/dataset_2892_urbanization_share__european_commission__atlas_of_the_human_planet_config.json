@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2892_urbanization_share__european_commission__atlas_of_the_human_planet_config",
+  "name": "Grapher metadata for dataset_2892_urbanization_share__european_commission__atlas_of_the_human_planet",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2892",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:14:42.344973",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4c29ccd19c3f46acdfbbb14f1d267982",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2892_urbanization_share__european_commission__atlas_of_the_human_planet_config.json",
+  "md5": "f5b6b8f7c93b5395c47bbcca1234996d"
+}

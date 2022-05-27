@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2076_male_to_female_ratio_high_school_courses_in_usa__goldin_et_al_values",
+  "name": "Male-to-female ratio high school courses in USA - Goldin et al.",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2076",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:23:10.502216",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2076_male_to_female_ratio_high_school_courses_in_usa__goldin_et_al_values.feather",
+  "md5": "4bb9ecc5c1ba869d69b1d07abff7cbfe"
+}

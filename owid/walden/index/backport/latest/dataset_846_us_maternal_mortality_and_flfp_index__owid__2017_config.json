@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_846_us_maternal_mortality_and_flfp_index__owid__2017_config",
+  "name": "Grapher metadata for dataset_846_us_maternal_mortality_and_flfp_index__owid__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/846",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:19:04.994606",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e8439acad4e9baca60fd0e4c5ad98841",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_846_us_maternal_mortality_and_flfp_index__owid__2017_config.json",
+  "md5": "b1be2923a01513eb3a12f5afa43cb600"
+}

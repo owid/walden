@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_950_market_share_of_iodized_salt_in_european_countries__european_commission__2006_config",
+  "name": "Grapher metadata for dataset_950_market_share_of_iodized_salt_in_european_countries__european_commission__2006",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/950",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:16:29.692402",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6cd60ae6aceaa7d707fd4ac198520ceb",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_950_market_share_of_iodized_salt_in_european_countries__european_commission__2006_config.json",
+  "md5": "635376c2041bcbb77df078fd8de57cf3"
+}

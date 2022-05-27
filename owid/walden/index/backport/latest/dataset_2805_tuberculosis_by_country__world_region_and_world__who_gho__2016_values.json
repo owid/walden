@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2805_tuberculosis_by_country__world_region_and_world__who_gho__2016_values",
+  "name": "Tuberculosis by country, world region and world - WHO GHO (2016)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2805",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:28.921402",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2805_tuberculosis_by_country__world_region_and_world__who_gho__2016_values.feather",
+  "md5": "6d7695b956b32c31f8aa3bfd4dc735dd"
+}

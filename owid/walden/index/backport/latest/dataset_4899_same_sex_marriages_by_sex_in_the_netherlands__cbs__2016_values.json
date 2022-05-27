@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4899_same_sex_marriages_by_sex_in_the_netherlands__cbs__2016_values",
+  "name": "Same-sex marriages by sex in the Netherlands \u2013 CBS (2016)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4899",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:18:10.692028",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4899_same_sex_marriages_by_sex_in_the_netherlands__cbs__2016_values.feather",
+  "md5": "7768ad2f36f2ab03633a5fdec6a25b12"
+}

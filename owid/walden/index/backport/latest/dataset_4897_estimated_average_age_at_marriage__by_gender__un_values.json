@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4897_estimated_average_age_at_marriage__by_gender__un_values",
+  "name": "Estimated average age at marriage, by gender (UN)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4897",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:03.873569",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4897_estimated_average_age_at_marriage__by_gender__un_values.feather",
+  "md5": "41ec44e43640d003d46c91d0592af6a5"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_678_polcalnet_global_poverty__2017_config",
+  "name": "Grapher metadata for dataset_678_polcalnet_global_poverty__2017",
+  "description": "Mean and Median monthly per capita consumption/income expenditures from country level household surveys in 2011 PPP international dollars. ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/678",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:15.523304",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "68a54026bb3bf65e4c012ca35abfe9e0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_678_polcalnet_global_poverty__2017_config.json",
+  "md5": "8974b0d073b41eead51ffd8298182525"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5206_forest_transition_phase__pendrill_et_al__2019_config",
+  "name": "Grapher metadata for dataset_5206_forest_transition_phase__pendrill_et_al__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5206",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:18:11.974809",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7796ece6d4531c9915f40eae30e95720",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5206_forest_transition_phase__pendrill_et_al__2019_config.json",
+  "md5": "5ddc1da467587bc382998fcf18e7ed10"
+}

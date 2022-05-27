@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4868_suicides_from_pesticides__mew_et_al__2017_config",
+  "name": "Grapher metadata for dataset_4868_suicides_from_pesticides__mew_et_al__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4868",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:16.349940",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "11aea2153ee2e8bb0ebcd0ead144686c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4868_suicides_from_pesticides__mew_et_al__2017_config.json",
+  "md5": "790e30b7b8fc9277937f4cfdc7d8b014"
+}

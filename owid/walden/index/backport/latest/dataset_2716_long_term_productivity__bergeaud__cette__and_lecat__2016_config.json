@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2716_long_term_productivity__bergeaud__cette__and_lecat__2016_config",
+  "name": "Grapher metadata for dataset_2716_long_term_productivity__bergeaud__cette__and_lecat__2016",
+  "description": "The Long-Term Productivity database was created as a project at the Bank of France in 2013 by Antonin Bergeaud, Gilbert Cette and Remy Lecat. This database covers productivity relevant statistics, at least for the period 1890 to present, and includes 17 countries in the latest version (2016).",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2716",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:00.943297",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "cd5ef2d7d8e16d996d27698ccff65fd6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2716_long_term_productivity__bergeaud__cette__and_lecat__2016_config.json",
+  "md5": "567b4ecc1544170910a648b00f8e8c44"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1053_world_bank_gender_statistics__2014_variables_config",
+  "name": "Grapher metadata for dataset_1053_world_bank_gender_statistics__2014_variables",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1053",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:49.817595",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a0f9a8e968d1e50316d88a5ca18fa0b6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1053_world_bank_gender_statistics__2014_variables_config.json",
+  "md5": "427cf00e8a34c15a89622a94e0b7e114"
+}

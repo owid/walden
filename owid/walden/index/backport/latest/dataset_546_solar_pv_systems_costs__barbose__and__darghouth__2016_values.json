@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_546_solar_pv_systems_costs__barbose__and__darghouth__2016_values",
+  "name": "Solar PV Systems Costs - Barbose & Darghouth (2016)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/546",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:15:14.557176",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_546_solar_pv_systems_costs__barbose__and__darghouth__2016_values.feather",
+  "md5": "54008370def92d0f388948dd3dfc6ebb"
+}

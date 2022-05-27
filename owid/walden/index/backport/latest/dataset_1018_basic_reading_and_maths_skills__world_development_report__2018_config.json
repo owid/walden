@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1018_basic_reading_and_maths_skills__world_development_report__2018_config",
+  "name": "Grapher metadata for dataset_1018_basic_reading_and_maths_skills__world_development_report__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1018",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:33:16.661265",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b3c639ce5d3f5b69d2662cb76fa0aba0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1018_basic_reading_and_maths_skills__world_development_report__2018_config.json",
+  "md5": "f2d3cf4a39435660efb63310dc483ee4"
+}

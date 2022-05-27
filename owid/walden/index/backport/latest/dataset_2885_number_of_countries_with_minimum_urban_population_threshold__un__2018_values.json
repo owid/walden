@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2885_number_of_countries_with_minimum_urban_population_threshold__un__2018_values",
+  "name": "Number of countries with minimum urban population threshold (UN;2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2885",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:20:10.952017",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2885_number_of_countries_with_minimum_urban_population_threshold__un__2018_values.feather",
+  "md5": "4bb88f95cfca8ffbae235c5dabd55993"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2430_waste_production_and_management_values",
+  "name": "Waste Production and Management",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2430",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:13:24.174854",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2430_waste_production_and_management_values.feather",
+  "md5": "828c9d1cc5e2a3f73f010b070041c2fa"
+}

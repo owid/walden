@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2480_the_worlds_number_and_share_of_vaccinated_one_year_olds_config",
+  "name": "Grapher metadata for dataset_2480_the_worlds_number_and_share_of_vaccinated_one_year_olds",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2480",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:28:47.338607",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c0e0e8b89dba39923e9bd5df8a1f5cdd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2480_the_worlds_number_and_share_of_vaccinated_one_year_olds_config.json",
+  "md5": "c1b816bf4c4d00b7b0dbb65cd59f1bf2"
+}

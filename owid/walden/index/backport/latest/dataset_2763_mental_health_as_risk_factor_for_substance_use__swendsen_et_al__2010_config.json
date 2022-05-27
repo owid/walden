@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2763_mental_health_as_risk_factor_for_substance_use__swendsen_et_al__2010_config",
+  "name": "Grapher metadata for dataset_2763_mental_health_as_risk_factor_for_substance_use__swendsen_et_al__2010",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2763",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:05.073876",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c7e094effb4f46cd8b38a280dd70cc15",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2763_mental_health_as_risk_factor_for_substance_use__swendsen_et_al__2010_config.json",
+  "md5": "4cb26e484030582cb95fdc7e12da257c"
+}

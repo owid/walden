@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5390_natural_disasters__emdat__decadal_values",
+  "name": "Natural disasters (EMDAT \u2013 decadal)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5390",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:14:31.938964",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5390_natural_disasters__emdat__decadal_values.feather",
+  "md5": "e6b5c84e4e54f7cc0517218676df1add"
+}

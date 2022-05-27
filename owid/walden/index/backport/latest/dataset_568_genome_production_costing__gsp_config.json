@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_568_genome_production_costing__gsp_config",
+  "name": "Grapher metadata for dataset_568_genome_production_costing__gsp",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/568",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:23:35.477444",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "580ded6aead35c3f8d5b29f958d0fd33",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_568_genome_production_costing__gsp_config.json",
+  "md5": "1e05393710b088d3e0004eb4efdb5596"
+}

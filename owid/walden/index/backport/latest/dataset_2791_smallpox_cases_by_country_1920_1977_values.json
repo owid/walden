@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2791_smallpox_cases_by_country_1920_1977_values",
+  "name": "Smallpox cases by country 1920-1977",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2791",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:16:22.442709",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2791_smallpox_cases_by_country_1920_1977_values.feather",
+  "md5": "9f877f7db1b8002c118e2a1815fb3cb5"
+}

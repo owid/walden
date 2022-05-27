@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1937__20th_century_deaths_in_us__cdc_config",
+  "name": "Grapher metadata for dataset_1937__20th_century_deaths_in_us__cdc",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1937",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:20:12.416963",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "07cd3c403ae42e0aa1deb73b27d1de38",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1937__20th_century_deaths_in_us__cdc_config.json",
+  "md5": "582c02ce50a85666472b6c23cfe56990"
+}

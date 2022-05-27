@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2659_food_expenditure_in_the_usa__usda_values",
+  "name": "Food expenditure in the USA - USDA",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2659",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:21:43.458253",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2659_food_expenditure_in_the_usa__usda_values.feather",
+  "md5": "c8b30af9f725c2e2a9550399115428b0"
+}

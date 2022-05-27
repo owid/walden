@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5187_un_wpp_2019__interpolated_female_population_by_broad_age_group__region__subregion_and_country__annually_for_1950_2100__thousands_config",
+  "name": "Grapher metadata for dataset_5187_un_wpp_2019__interpolated_female_population_by_broad_age_group__region__subregion_and_country__annually_for_1950_2100__thousands",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5187",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:27:42.630107",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "aabb263394f3a8bbb92e210d38460078",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5187_un_wpp_2019__interpolated_female_population_by_broad_age_group__region__subregion_and_country__annually_for_1950_2100__thousands_config.json",
+  "md5": "a127645f42db06e65a6acc597e0039a4"
+}

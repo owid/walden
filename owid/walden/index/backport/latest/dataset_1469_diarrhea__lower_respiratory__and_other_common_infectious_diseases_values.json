@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1469_diarrhea__lower_respiratory__and_other_common_infectious_diseases_values",
+  "name": "Diarrhea, lower respiratory, and other common infectious diseases",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1469",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:14.371964",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1469_diarrhea__lower_respiratory__and_other_common_infectious_diseases_values.feather",
+  "md5": "627f64415529ec5016278f935c69ba07"
+}

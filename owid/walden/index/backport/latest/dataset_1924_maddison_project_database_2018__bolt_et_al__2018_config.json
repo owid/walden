@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1924_maddison_project_database_2018__bolt_et_al__2018_config",
+  "name": "Grapher metadata for dataset_1924_maddison_project_database_2018__bolt_et_al__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1924",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:27:16.926671",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "225689e772c0eb402041129c88c3b292",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1924_maddison_project_database_2018__bolt_et_al__2018_config.json",
+  "md5": "9c9be0973ca2e978859354b1148a0b3f"
+}

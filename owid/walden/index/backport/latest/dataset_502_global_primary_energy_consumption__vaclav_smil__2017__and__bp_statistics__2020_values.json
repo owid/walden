@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_502_global_primary_energy_consumption__vaclav_smil__2017__and__bp_statistics__2020_values",
+  "name": "Global Primary Energy Consumption - Vaclav Smil (2017) & BP Statistics (2020)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/502",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:26:06.008380",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_502_global_primary_energy_consumption__vaclav_smil__2017__and__bp_statistics__2020_values.feather",
+  "md5": "f294d1d3bd54abac90658706e8112ed0"
+}

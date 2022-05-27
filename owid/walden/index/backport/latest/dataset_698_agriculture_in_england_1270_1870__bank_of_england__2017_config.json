@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_698_agriculture_in_england_1270_1870__bank_of_england__2017_config",
+  "name": "Grapher metadata for dataset_698_agriculture_in_england_1270_1870__bank_of_england__2017",
+  "description": "Provides data on agricultural production (both food and livestock) in England from 1270 to 1870. ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/698",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:25:00.343135",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6e127081645eb4acdb3f6f4978339a84",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_698_agriculture_in_england_1270_1870__bank_of_england__2017_config.json",
+  "md5": "7fb07e90fa29fae3fc17214b6af7dfec"
+}

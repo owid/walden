@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2660_value_of_global_merchandise_imports_and_exports__fouquin_and_hugot__cepii_2016__national_data_config",
+  "name": "Grapher metadata for dataset_2660_value_of_global_merchandise_imports_and_exports__fouquin_and_hugot__cepii_2016__national_data",
+  "description": "This dataset uses Fouquin and Hugot (CEPII 2016) national trade data.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2660",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:26:38.101263",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9c5ecf695b50f3e21eef36e937f5ff3d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2660_value_of_global_merchandise_imports_and_exports__fouquin_and_hugot__cepii_2016__national_data_config.json",
+  "md5": "d5b052ac43d9b9a37e96d0e4da047cfb"
+}

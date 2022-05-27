@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1933_cancer_death_rates_in_the_us_over_the_long_term__american_cancer_society_values",
+  "name": "Cancer death rates in the US over the long-term - American Cancer Society",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1933",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:22:57.490793",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1933_cancer_death_rates_in_the_us_over_the_long_term__american_cancer_society_values.feather",
+  "md5": "1417c3303b9723385c043e48c5760c97"
+}

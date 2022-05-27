@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5158_fossil_fuel_production__bp__and__shift__2020_config",
+  "name": "Grapher metadata for dataset_5158_fossil_fuel_production__bp__and__shift__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5158",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:47.462245",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "540e64bbcd7b1f5308bb3a0b78356995",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5158_fossil_fuel_production__bp__and__shift__2020_config.json",
+  "md5": "f2cb187f1a091220564f89533a9bc2ec"
+}

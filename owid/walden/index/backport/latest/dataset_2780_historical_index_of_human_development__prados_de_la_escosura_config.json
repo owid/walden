@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2780_historical_index_of_human_development__prados_de_la_escosura_config",
+  "name": "Grapher metadata for dataset_2780_historical_index_of_human_development__prados_de_la_escosura",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2780",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:45.371153",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b832321f35d847f737168bfd90dba6bc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2780_historical_index_of_human_development__prados_de_la_escosura_config.json",
+  "md5": "3a614a627a5b18c946194781c1963405"
+}

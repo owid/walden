@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2448_healthy_life_expectancy__ihme_config",
+  "name": "Grapher metadata for dataset_2448_healthy_life_expectancy__ihme",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2448",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:51.238816",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c79e33d4eefa7e32ccc0312e6d8c415d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2448_healthy_life_expectancy__ihme_config.json",
+  "md5": "8b116566d4733e9a3c005daf5f20e958"
+}

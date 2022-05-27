@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2720_postage_rates__united_states_postal_service__2018_config",
+  "name": "Grapher metadata for dataset_2720_postage_rates__united_states_postal_service__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2720",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:11:35.266389",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "83162b3a7013d423affdf85332f2f7f1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2720_postage_rates__united_states_postal_service__2018_config.json",
+  "md5": "7a2788011dde8f2fb7b72dc393b05a2a"
+}

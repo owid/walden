@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2451_emissions_air_pollutants_over_long_term__defra__and__epa_values",
+  "name": "Emissions air pollutants over long-term (DEFRA & EPA)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2451",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:21:49.240749",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2451_emissions_air_pollutants_over_long_term__defra__and__epa_values.feather",
+  "md5": "891a312d6d154fcf20a28765ceaffa97"
+}

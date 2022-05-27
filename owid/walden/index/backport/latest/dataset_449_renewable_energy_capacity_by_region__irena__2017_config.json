@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_449_renewable_energy_capacity_by_region__irena__2017_config",
+  "name": "Grapher metadata for dataset_449_renewable_energy_capacity_by_region__irena__2017",
+  "description": "Renewable Energy Installed Capacity (MW) by region- IRENA",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/449",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:21:35.318709",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fcd23dc2e5491c3908826076385985ea",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_449_renewable_energy_capacity_by_region__irena__2017_config.json",
+  "md5": "903849aca2eb0294224e136b5537c22c"
+}

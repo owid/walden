@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_633_history__quality_of_government__2017_config",
+  "name": "Grapher metadata for dataset_633_history__quality_of_government__2017",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/633",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:16:27.093110",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8d700f95991a32fc92a41f1289aee235",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_633_history__quality_of_government__2017_config.json",
+  "md5": "9d04c3c3373ae68891623fde8dd0e028"
+}

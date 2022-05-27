@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5050_inputs__fertilizers_by_nutrient_values",
+  "name": "Inputs: Fertilizers by Nutrient",
+  "description": "The Fertilizers by Nutrient dataset contains information on the totals in nutrients for Production, Trade, Agriculture Use and Other Uses of chemical and mineral fertilizers, over the time series 2002-present. The fertilizer statistics data are validated in terms of summary totals of Production, Import, Export, non-Fertilizer Use and Agricultural Use, separately for the three main plant nutrients: nitrogen (N), phosphate (P2O5), potash (K2O). Both straight and compound fertilizers are included.     Detailed information on Fertilizers by Nutrient Methodology at: http://fenixservices.fao.org/faostat/static/documents/RFN/RFN_EN_README.pdf",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5050",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:34.528092",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5050_inputs__fertilizers_by_nutrient_values.feather",
+  "md5": "23f96a06e23ad9be253490fde701b888"
+}

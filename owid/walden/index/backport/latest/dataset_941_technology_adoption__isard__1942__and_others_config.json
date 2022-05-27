@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_941_technology_adoption__isard__1942__and_others_config",
+  "name": "Grapher metadata for dataset_941_technology_adoption__isard__1942__and_others",
+  "description": "Describes the diffusion of technologies across the US. ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/941",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:18:59.575510",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f606d4b37171df7d176a89d46f0c1193",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_941_technology_adoption__isard__1942__and_others_config.json",
+  "md5": "9b6e070e873a784e1d3750f3936c08c5"
+}

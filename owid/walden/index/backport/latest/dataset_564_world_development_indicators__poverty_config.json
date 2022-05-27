@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_564_world_development_indicators__poverty_config",
+  "name": "Grapher metadata for dataset_564_world_development_indicators__poverty",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/564",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:13:04.063822",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f639d05ed7efe8a2ec9f175267cd52f0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_564_world_development_indicators__poverty_config.json",
+  "md5": "103fa74634b5f279fb6971333640724c"
+}

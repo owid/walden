@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2823_cfc_11_expected_and_measured_concentrations__montzka_et_al__2018_config",
+  "name": "Grapher metadata for dataset_2823_cfc_11_expected_and_measured_concentrations__montzka_et_al__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2823",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:32:07.666150",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6cb73de8bd2541af9e3cfb707933075d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2823_cfc_11_expected_and_measured_concentrations__montzka_et_al__2018_config.json",
+  "md5": "6f578264a417082a97fd639f021548d2"
+}

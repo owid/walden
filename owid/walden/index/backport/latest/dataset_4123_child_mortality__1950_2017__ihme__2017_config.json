@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4123_child_mortality__1950_2017__ihme__2017_config",
+  "name": "Grapher metadata for dataset_4123_child_mortality__1950_2017__ihme__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4123",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:19:05.984724",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "872c1ad28eb3be781b2f091a9ee91f56",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4123_child_mortality__1950_2017__ihme__2017_config.json",
+  "md5": "d4df585cad341f390593b08063cfe165"
+}

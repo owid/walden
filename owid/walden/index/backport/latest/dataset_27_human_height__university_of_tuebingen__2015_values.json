@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_27_human_height__university_of_tuebingen__2015_values",
+  "name": "Human Height - University of Tuebingen (2015)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/27",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:25:53.493902",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_27_human_height__university_of_tuebingen__2015_values.feather",
+  "md5": "f353edfffea9125bc44dd9f3e237711b"
+}

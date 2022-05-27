@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5174_global_carbon_budget__gcp__2021_values",
+  "name": "Global Carbon Budget (GCP, 2021)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5174",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:20:13.943681",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5174_global_carbon_budget__gcp__2021_values.feather",
+  "md5": "da1bc8f03e13edd5132ced73e2d422a1"
+}

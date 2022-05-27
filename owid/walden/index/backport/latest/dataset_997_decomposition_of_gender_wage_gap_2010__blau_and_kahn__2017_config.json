@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_997_decomposition_of_gender_wage_gap_2010__blau_and_kahn__2017_config",
+  "name": "Grapher metadata for dataset_997_decomposition_of_gender_wage_gap_2010__blau_and_kahn__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/997",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:44.520267",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b4384477d18690d1637b552c44b8ede3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_997_decomposition_of_gender_wage_gap_2010__blau_and_kahn__2017_config.json",
+  "md5": "06d8e2eadcb0478e72e0fb5df18907c0"
+}

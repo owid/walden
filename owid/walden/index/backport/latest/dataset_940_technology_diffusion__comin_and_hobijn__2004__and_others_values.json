@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_940_technology_diffusion__comin_and_hobijn__2004__and_others_values",
+  "name": "Technology Diffusion - Comin and Hobijn (2004) and others",
+  "description": "Describes the percentage of American households with access to, or own, certain technologies. ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/940",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:16:36.971913",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_940_technology_diffusion__comin_and_hobijn__2004__and_others_values.feather",
+  "md5": "8c61119ed910fedb530880488190cfe3"
+}

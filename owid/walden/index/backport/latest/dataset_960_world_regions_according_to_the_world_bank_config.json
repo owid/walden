@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_960_world_regions_according_to_the_world_bank_config",
+  "name": "Grapher metadata for dataset_960_world_regions_according_to_the_world_bank",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/960",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:18:56.398712",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d91338febf6fd13ff36657ebbf701e8b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_960_world_regions_according_to_the_world_bank_config.json",
+  "md5": "783e378c1741d99872e55cd67550d1d6"
+}

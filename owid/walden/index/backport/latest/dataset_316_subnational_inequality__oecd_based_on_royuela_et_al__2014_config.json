@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_316_subnational_inequality__oecd_based_on_royuela_et_al__2014_config",
+  "name": "Grapher metadata for dataset_316_subnational_inequality__oecd_based_on_royuela_et_al__2014",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/316",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:12:57.024600",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8ed80be49a5be818a8ef1f3b1d0a83dd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_316_subnational_inequality__oecd_based_on_royuela_et_al__2014_config.json",
+  "md5": "f41a2963f9db70acce6fe6ca5947be32"
+}

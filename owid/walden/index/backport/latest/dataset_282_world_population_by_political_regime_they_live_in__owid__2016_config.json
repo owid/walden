@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_282_world_population_by_political_regime_they_live_in__owid__2016_config",
+  "name": "Grapher metadata for dataset_282_world_population_by_political_regime_they_live_in__owid__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/282",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:13:24.695059",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0cf0650ce7aefdda808c713bfc3bb5bc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_282_world_population_by_political_regime_they_live_in__owid__2016_config.json",
+  "md5": "ce285bbff2ef54e9da389336b18fd146"
+}

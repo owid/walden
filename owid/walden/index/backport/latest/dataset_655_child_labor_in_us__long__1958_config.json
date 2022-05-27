@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_655_child_labor_in_us__long__1958_config",
+  "name": "Grapher metadata for dataset_655_child_labor_in_us__long__1958",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/655",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:33:00.245044",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d7e3573d802f39cc6fe457bd49203947",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_655_child_labor_in_us__long__1958_config.json",
+  "md5": "38c4b9cf764e35e6cf5e0fce3519d900"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2715_gender_wage_gap__assigning_zeros_for_no_work_values",
+  "name": "Gender wage gap (assigning zeros for no work)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2715",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:21:34.013375",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2715_gender_wage_gap__assigning_zeros_for_no_work_values.feather",
+  "md5": "02155f6a70bcf2dc51782ff9ce970af7"
+}

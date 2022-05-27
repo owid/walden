@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5041_production__live_animals_config",
+  "name": "Grapher metadata for dataset_5041_production__live_animals",
+  "description": "The dataset contains the following commodities and commodity aggregates thereof : Animals live n.e.s.; Asses; Beehives; Buffaloes; Camelids, other; Camels; Cattle; Chickens; Ducks; Geese and guinea fowls; Goats; Horses; Mules; Pigeons, other birds; Pigs; Rabbits and hares; Rodents, other; Sheep; Turkeys.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5041",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:23.511583",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c15632c8007c416154e9dcd8d29d46a8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5041_production__live_animals_config.json",
+  "md5": "27649dda30a2f77e3b8907a453cf78b3"
+}

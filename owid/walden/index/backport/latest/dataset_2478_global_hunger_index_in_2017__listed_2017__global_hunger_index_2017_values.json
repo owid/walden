@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2478_global_hunger_index_in_2017__listed_2017__global_hunger_index_2017_values",
+  "name": "Global Hunger Index in 2017 (listed 2017) (Global Hunger Index 2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2478",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:33:20.047282",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2478_global_hunger_index_in_2017__listed_2017__global_hunger_index_2017_values.feather",
+  "md5": "b0a02d53dd005a0ee444388ce75b1105"
+}

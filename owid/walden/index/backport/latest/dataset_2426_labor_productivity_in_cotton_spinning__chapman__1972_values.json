@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2426_labor_productivity_in_cotton_spinning__chapman__1972_values",
+  "name": "Labor productivity in cotton spinning (Chapman (1972))",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2426",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:27:15.491198",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2426_labor_productivity_in_cotton_spinning__chapman__1972_values.feather",
+  "md5": "c7244c867597e61d60623ff8b5d6affa"
+}

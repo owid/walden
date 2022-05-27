@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_917_year_of_smallpox_eradication_by_country__who__1988_values",
+  "name": "Year of smallpox eradication by country - WHO (1988)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/917",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:18:54.073393",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_917_year_of_smallpox_eradication_by_country__who__1988_values.feather",
+  "md5": "20b719c3612a5e27e2363467a74285ea"
+}

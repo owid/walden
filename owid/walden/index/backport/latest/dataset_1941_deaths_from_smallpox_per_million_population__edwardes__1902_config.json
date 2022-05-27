@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1941_deaths_from_smallpox_per_million_population__edwardes__1902_config",
+  "name": "Grapher metadata for dataset_1941_deaths_from_smallpox_per_million_population__edwardes__1902",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1941",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:50.141599",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "90dda9a934d1dbaaed0fba5d42680049",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1941_deaths_from_smallpox_per_million_population__edwardes__1902_config.json",
+  "md5": "862b4620d43d36bc17ecb10980612f94"
+}

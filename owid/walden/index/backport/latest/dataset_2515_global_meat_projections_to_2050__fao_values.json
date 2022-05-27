@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2515_global_meat_projections_to_2050__fao_values",
+  "name": "Global meat projections to 2050 - FAO",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2515",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:16:42.133601",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2515_global_meat_projections_to_2050__fao_values.feather",
+  "md5": "90cc54d299e1290822eda076e9f1f5de"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_569_oil_and_gas_employment_and_rig_count__us_bureau_of_labor_statistics__2017_config",
+  "name": "Grapher metadata for dataset_569_oil_and_gas_employment_and_rig_count__us_bureau_of_labor_statistics__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/569",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:16:03.878710",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f8bc6da1574bc16f187e050ca335a2fe",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_569_oil_and_gas_employment_and_rig_count__us_bureau_of_labor_statistics__2017_config.json",
+  "md5": "5c277dbe9a3017927e42a2d855796606"
+}

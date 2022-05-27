@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4223_environmental_impacts_of_food__poore__and__nemecek__2018_values",
+  "name": "Environmental impacts of food (Poore & Nemecek, 2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4223",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:24:02.560848",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4223_environmental_impacts_of_food__poore__and__nemecek__2018_values.feather",
+  "md5": "1f90ecf1b775c3bb4bdd4eee59ba4cc3"
+}

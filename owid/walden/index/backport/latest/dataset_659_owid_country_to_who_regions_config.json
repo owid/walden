@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_659_owid_country_to_who_regions_config",
+  "name": "Grapher metadata for dataset_659_owid_country_to_who_regions",
+  "description": "WHO groups countries in different regions, and provides information on various variables according to this classification. This dataset changes country names to OWID names and matches them to WHO regions. ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/659",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:24:46.394172",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a8ff9a1fc25cd38066e1ffcb36faf19b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_659_owid_country_to_who_regions_config.json",
+  "md5": "57c5522da88dc3ade9c93c627bbbf2b3"
+}

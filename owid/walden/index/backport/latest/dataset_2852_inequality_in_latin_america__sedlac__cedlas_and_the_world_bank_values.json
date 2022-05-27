@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2852_inequality_in_latin_america__sedlac__cedlas_and_the_world_bank_values",
+  "name": "Inequality in Latin America - SEDLAC (CEDLAS and the World Bank)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2852",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:33:20.900688",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2852_inequality_in_latin_america__sedlac__cedlas_and_the_world_bank_values.feather",
+  "md5": "b2de7257b59e37d363cbc148f4da9f8e"
+}

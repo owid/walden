@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5047_production__value_of_agricultural_production_values",
+  "name": "Production: Value of Agricultural Production",
+  "description": "The data set includes data on gross and net production values, in constant international US$, and gross production values, in constant and current US$ and Local Currency Units, for various food and agriculture commodities and aggregates thereof, expressed in both total value and value per capita.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5047",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:33:45.498119",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5047_production__value_of_agricultural_production_values.feather",
+  "md5": "148b9b61c7e853118e33c2981ac11978"
+}

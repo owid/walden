@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_300_tax_composition__arroyo_abad__and_p__lindert__2016_config",
+  "name": "Grapher metadata for dataset_300_tax_composition__arroyo_abad__and_p__lindert__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/300",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:29:19.985020",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "463bd40056da70e827329153a7c23ba0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_300_tax_composition__arroyo_abad__and_p__lindert__2016_config.json",
+  "md5": "e01bf948593aa39d1e4698b9ab2671d1"
+}

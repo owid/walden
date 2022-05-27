@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3225_public_and_private_education_expenditure__unesco__2019_config",
+  "name": "Grapher metadata for dataset_3225_public_and_private_education_expenditure__unesco__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3225",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:19:34.077264",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "815dbcae2eafce9d4c67d5fcd5c5538f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3225_public_and_private_education_expenditure__unesco__2019_config.json",
+  "md5": "739057013a0237502f825371c7a2d19c"
+}

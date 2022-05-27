@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_458_happiness_predictors__world_happiness_report__2017_config",
+  "name": "Grapher metadata for dataset_458_happiness_predictors__world_happiness_report__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/458",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:25:01.557575",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8ad3723571a50e7f8fa32836a4c63aa0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_458_happiness_predictors__world_happiness_report__2017_config.json",
+  "md5": "3d68ff7fe69946020b4f099187eaa38c"
+}

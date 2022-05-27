@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3181_energy_mix_in_the_uk__dukes__2018_values",
+  "name": "Energy mix in the UK (DUKES, 2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3181",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:12:43.088185",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3181_energy_mix_in_the_uk__dukes__2018_values.feather",
+  "md5": "402d6d5c1dd9b2d21b3771c4eee129fa"
+}

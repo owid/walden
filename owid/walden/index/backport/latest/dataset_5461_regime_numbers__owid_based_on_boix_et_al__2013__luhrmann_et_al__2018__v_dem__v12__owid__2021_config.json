@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5461_regime_numbers__owid_based_on_boix_et_al__2013__luhrmann_et_al__2018__v_dem__v12__owid__2021_config",
+  "name": "Grapher metadata for dataset_5461_regime_numbers__owid_based_on_boix_et_al__2013__luhrmann_et_al__2018__v_dem__v12__owid__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5461",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:33.943270",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ca858290e2fd2f08a26c343b19669837",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5461_regime_numbers__owid_based_on_boix_et_al__2013__luhrmann_et_al__2018__v_dem__v12__owid__2021_config.json",
+  "md5": "644aebce9d709e9d76020a6b8844f1db"
+}

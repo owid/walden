@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_656_female_labor_force_participation_rate__owid__2017_config",
+  "name": "Grapher metadata for dataset_656_female_labor_force_participation_rate__owid__2017",
+  "description": "This dataset combines historical data with recent series from OECD.stats",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/656",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:15:26.330861",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "bf6868e7c1b9e4f96eb8a13f335fd6a6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_656_female_labor_force_participation_rate__owid__2017_config.json",
+  "md5": "0d89a028840e20566617c829bbbc3f8a"
+}

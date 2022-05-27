@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_705_output_of_key_industries_in_england__using_bank_of_england__2017_config",
+  "name": "Grapher metadata for dataset_705_output_of_key_industries_in_england__using_bank_of_england__2017",
+  "description": "This data produces output figures of key industries in England (1270-1870).",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/705",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:30:53.399609",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f63ad0aa36561b9442d9bf3662700b2a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_705_output_of_key_industries_in_england__using_bank_of_england__2017_config.json",
+  "md5": "ce93387fb57893e4953d6cd058aff451"
+}

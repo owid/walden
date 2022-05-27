@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2827_global_plastic_production__geyer_et_al__2017_values",
+  "name": "Global plastic production - Geyer et al. (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2827",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:14:28.782528",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2827_global_plastic_production__geyer_et_al__2017_values.feather",
+  "md5": "793613972c3d6dfd5ffb9fcabdc51431"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2807_gdp_per_capita_indexed_at_1950__maddison_project_data__2018_values",
+  "name": "GDP per capita indexed at 1950 - Maddison Project Data (2018)",
+  "description": "This was uploaded for Nicholas Lippolis's RAPID project website.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2807",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:11:25.179783",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2807_gdp_per_capita_indexed_at_1950__maddison_project_data__2018_values.feather",
+  "md5": "5e91945dc6d59cf314d1222ba2530a1b"
+}

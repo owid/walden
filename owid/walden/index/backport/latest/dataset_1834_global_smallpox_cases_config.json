@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1834_global_smallpox_cases_config",
+  "name": "Grapher metadata for dataset_1834_global_smallpox_cases",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1834",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:12:45.318316",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "98fa8dce7dcafaa089a35742343919d6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1834_global_smallpox_cases_config.json",
+  "md5": "45eb2b9ca762f39179e95208d6416577"
+}

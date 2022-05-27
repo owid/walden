@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_915_total_cases_of_poliomyelitis_virus_by_country_and_year_from_1980_onwards__who__2020_values",
+  "name": "Total cases of poliomyelitis virus by country and year from 1980 onwards - WHO (2020)",
+  "description": "These figures include the wild and VAPP types of polio, both indigenous and imported from other countries. ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/915",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:27:40.241142",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_915_total_cases_of_poliomyelitis_virus_by_country_and_year_from_1980_onwards__who__2020_values.feather",
+  "md5": "09d75a13566631a7a1cf6c936ae7b013"
+}

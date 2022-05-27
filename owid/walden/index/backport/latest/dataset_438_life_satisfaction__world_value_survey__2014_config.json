@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_438_life_satisfaction__world_value_survey__2014_config",
+  "name": "Grapher metadata for dataset_438_life_satisfaction__world_value_survey__2014",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/438",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:22:40.204108",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a6c7d57c591fe784519ae34ca2c7f45a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_438_life_satisfaction__world_value_survey__2014_config.json",
+  "md5": "baaf0203a01f26bbaed47288cbe7fa2e"
+}

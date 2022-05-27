@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2954_north_atlantic_hurricanes__hudrat__noaa_values",
+  "name": "North Atlantic Hurricanes (HUDRAT, NOAA)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2954",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:23:34.015737",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2954_north_atlantic_hurricanes__hudrat__noaa_values.feather",
+  "md5": "a2f36d4c2fe6eb2b9454239313b5defe"
+}

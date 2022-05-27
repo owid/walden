@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_500_investment_in_renewables_by_technology__irena__2017_values",
+  "name": "Investment in renewables by technology - IRENA (2017)",
+  "description": "Investment in renewable energy by technology (measured in billions USD per year)",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/500",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:28:42.020323",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_500_investment_in_renewables_by_technology__irena__2017_values.feather",
+  "md5": "ff96c8e6d1ab7aeadefaa6b9bd65caac"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2854_decomposition_times_of_marine_debris_values",
+  "name": "Decomposition times of marine debris",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2854",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:19:37.461746",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2854_decomposition_times_of_marine_debris_values.feather",
+  "md5": "31ac323014544ae56bb28244777ff2dc"
+}

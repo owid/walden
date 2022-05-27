@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_139_life_expectancy_at_age_10__1750_2100__united_nations_population_division_and_human_mortality_database__2015_values",
+  "name": "Life expectancy at age 10, 1750-2100 - United Nations Population Division and Human Mortality Database (2015)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/139",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:27:36.207273",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_139_life_expectancy_at_age_10__1750_2100__united_nations_population_division_and_human_mortality_database__2015_values.feather",
+  "md5": "f9841a1c469e8212ae1f2a1331490dc1"
+}

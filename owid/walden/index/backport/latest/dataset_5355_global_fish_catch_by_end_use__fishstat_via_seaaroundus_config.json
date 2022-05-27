@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5355_global_fish_catch_by_end_use__fishstat_via_seaaroundus_config",
+  "name": "Grapher metadata for dataset_5355_global_fish_catch_by_end_use__fishstat_via_seaaroundus",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5355",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:14:21.804389",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0170c071b19f3047e4e717db9ae1021c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5355_global_fish_catch_by_end_use__fishstat_via_seaaroundus_config.json",
+  "md5": "b35d2a197848ce010ebb395c22ba9b43"
+}

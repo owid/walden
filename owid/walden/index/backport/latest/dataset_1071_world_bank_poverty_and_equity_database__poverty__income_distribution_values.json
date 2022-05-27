@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1071_world_bank_poverty_and_equity_database__poverty__income_distribution_values",
+  "name": "World Bank Poverty and Equity database - Poverty: Income distribution",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1071",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:18:44.147693",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1071_world_bank_poverty_and_equity_database__poverty__income_distribution_values.feather",
+  "md5": "13a4d0a0e1d23be562677a7fa59bfa61"
+}

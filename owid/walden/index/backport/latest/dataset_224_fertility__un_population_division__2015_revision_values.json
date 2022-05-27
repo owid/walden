@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_224_fertility__un_population_division__2015_revision_values",
+  "name": "Fertility - UN Population Division (2015 revision)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/224",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:32:33.021750",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_224_fertility__un_population_division__2015_revision_values.feather",
+  "md5": "b990f4668513fe6e1cee86e86c8bd8e1"
+}
