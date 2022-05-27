@@ -252,7 +252,9 @@ class FAOAdditionalMetadata:
             # Get list of categories (e.g. "items", "element", etc.) for this dataset.
             response = requests.get(f"{API_BASE_URL}/{domain}")
             assert response.ok, f"Failed to fetch API data for dataset {domain}."
-            categories = [field["code"] for field in json.loads(response.content)["data"]]
+            categories = [
+                field["code"] for field in json.loads(response.content)["data"]
+            ]
             for category in categories:
                 resp = requests.get(f"{API_BASE_URL}/{domain}/{category}")
                 if resp.ok:
