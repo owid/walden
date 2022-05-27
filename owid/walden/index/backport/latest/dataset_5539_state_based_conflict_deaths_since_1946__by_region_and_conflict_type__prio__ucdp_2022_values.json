@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5539_state_based_conflict_deaths_since_1946__by_region_and_conflict_type__prio__ucdp_2022_values",
+  "name": "State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5539",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:05:32.704827",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5539_state_based_conflict_deaths_since_1946__by_region_and_conflict_type__prio__ucdp_2022_values.feather",
+  "md5": "083642afd14252ec2419168e7e0d2e7b"
+}

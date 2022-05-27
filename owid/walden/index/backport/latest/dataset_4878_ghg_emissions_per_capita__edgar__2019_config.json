@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4878_ghg_emissions_per_capita__edgar__2019_config",
+  "name": "Grapher metadata for dataset_4878_ghg_emissions_per_capita__edgar__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4878",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:05:47.508512",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "49ce0d9d39f06c568b59571db69c5253",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4878_ghg_emissions_per_capita__edgar__2019_config.json",
+  "md5": "7176a5723926180b7684bbb097c201b3"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2427_industrial_motive_power_in_the_uk_1800_70__musson__1976_config",
+  "name": "Grapher metadata for dataset_2427_industrial_motive_power_in_the_uk_1800_70__musson__1976",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2427",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:05:48.700774",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b7023d21be6a86dfc3521aed12217d8b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2427_industrial_motive_power_in_the_uk_1800_70__musson__1976_config.json",
+  "md5": "b8d37e51971e5b5c957f4eb7c1549534"
+}
