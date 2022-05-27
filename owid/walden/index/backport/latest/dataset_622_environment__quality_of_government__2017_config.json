@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_622_environment__quality_of_government__2017_config",
+  "name": "Grapher metadata for dataset_622_environment__quality_of_government__2017",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/622",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:01.359197",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5951790fcb8d45f3a002f5b052fe26b8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_622_environment__quality_of_government__2017_config.json",
+  "md5": "bb3cb4dc06d23a2e6f7d6fa44583890f"
+}

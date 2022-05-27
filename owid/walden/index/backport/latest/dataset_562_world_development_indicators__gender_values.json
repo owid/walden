@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_562_world_development_indicators__gender_values",
+  "name": "World Development Indicators - Gender",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/562",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:01:15.644093",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_562_world_development_indicators__gender_values.feather",
+  "md5": "e8504cce51f56068ff5dda5b17214dba"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5148_excess_mortality_data__owid__2022_config",
+  "name": "Grapher metadata for dataset_5148_excess_mortality_data__owid__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5148",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:29.223587",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b64b2e544241c13876ef23888270ea90",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5148_excess_mortality_data__owid__2022_config.json",
+  "md5": "c02475e8b8e7462e100f3d455797b370"
+}

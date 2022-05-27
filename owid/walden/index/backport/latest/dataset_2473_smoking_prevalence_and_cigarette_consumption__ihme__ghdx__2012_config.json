@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2473_smoking_prevalence_and_cigarette_consumption__ihme__ghdx__2012_config",
+  "name": "Grapher metadata for dataset_2473_smoking_prevalence_and_cigarette_consumption__ihme__ghdx__2012",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2473",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:01:19.569146",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9704e5b81efafa52cbe6cc03e15c755a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2473_smoking_prevalence_and_cigarette_consumption__ihme__ghdx__2012_config.json",
+  "md5": "6669d306555150d26b839fc2adce11b1"
+}

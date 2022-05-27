@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1866_ilo_modelled_estimates_config",
+  "name": "Grapher metadata for dataset_1866_ilo_modelled_estimates",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1866",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:45.475695",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9468f25a89fbee4c36853d39dfe58356",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1866_ilo_modelled_estimates_config.json",
+  "md5": "9fca271ce6e7122756ba67b2e9b3d996"
+}

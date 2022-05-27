@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_675_forestry_area__fao__2017_values",
+  "name": "Forestry area - FAO (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/675",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:00:26.877014",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_675_forestry_area__fao__2017_values.feather",
+  "md5": "214a62db09042f53ac9ec719aede5564"
+}

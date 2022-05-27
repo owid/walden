@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2783_consumption_shares_in_selected_non_essential_products__world_bank_global_consumption_database_values",
+  "name": "Consumption shares in selected non-essential products - World Bank Global Consumption Database",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2783",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:01:24.328416",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2783_consumption_shares_in_selected_non_essential_products__world_bank_global_consumption_database_values.feather",
+  "md5": "5341ae580f19410f9477e4a10a9faecc"
+}

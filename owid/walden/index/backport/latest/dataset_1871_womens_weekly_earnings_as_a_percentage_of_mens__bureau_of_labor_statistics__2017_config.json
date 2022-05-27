@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1871_womens_weekly_earnings_as_a_percentage_of_mens__bureau_of_labor_statistics__2017_config",
+  "name": "Grapher metadata for dataset_1871_womens_weekly_earnings_as_a_percentage_of_mens__bureau_of_labor_statistics__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1871",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:57.419563",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "31f192b005be2f6c25607f59b011b9d3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1871_womens_weekly_earnings_as_a_percentage_of_mens__bureau_of_labor_statistics__2017_config.json",
+  "md5": "0c268376064618c18b8e2d97b03dcc0a"
+}

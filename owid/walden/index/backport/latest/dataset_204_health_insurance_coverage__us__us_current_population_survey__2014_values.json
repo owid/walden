@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_204_health_insurance_coverage__us__us_current_population_survey__2014_values",
+  "name": "Health Insurance Coverage (US) - US Current Population Survey (2014)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/204",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:00:38.746946",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_204_health_insurance_coverage__us__us_current_population_survey__2014_values.feather",
+  "md5": "5f001f0302790292a03864c5ce76e618"
+}

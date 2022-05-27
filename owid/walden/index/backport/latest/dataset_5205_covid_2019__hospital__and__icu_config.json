@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5205_covid_2019__hospital__and__icu_config",
+  "name": "Grapher metadata for dataset_5205_covid_2019__hospital__and__icu",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5205",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:05:11.089280",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "59347efadde207c677110304df309933",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5205_covid_2019__hospital__and__icu_config.json",
+  "md5": "c91f66a129a901d4f88f4542e0e11088"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5350_books__buringh_and_van_zanden__2009_config",
+  "name": "Grapher metadata for dataset_5350_books__buringh_and_van_zanden__2009",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5350",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:05:16.090240",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "633f69b69f47c33ace5c72b7d1f13c74",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5350_books__buringh_and_van_zanden__2009_config.json",
+  "md5": "aed8273f41bc094b04ae3957cd0624de"
+}

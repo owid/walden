@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2831_mdg_final_evaluation__un_mdg_report_config",
+  "name": "Grapher metadata for dataset_2831_mdg_final_evaluation__un_mdg_report",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2831",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:37.407839",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "81ba5268c10e134efd1480f55933937c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2831_mdg_final_evaluation__un_mdg_report_config.json",
+  "md5": "68b41bf2f4838a4c0b5b5d8bedcfd8ab"
+}

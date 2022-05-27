@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_973_global_year_of_last_polio_case_plus_certification_status__gpei__2017_config",
+  "name": "Grapher metadata for dataset_973_global_year_of_last_polio_case_plus_certification_status__gpei__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/973",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:01:47.922737",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5d8d754f199182e96ef367d8da8db4c6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_973_global_year_of_last_polio_case_plus_certification_status__gpei__2017_config.json",
+  "md5": "35c6918633f965d7decace2983c7ee21"
+}

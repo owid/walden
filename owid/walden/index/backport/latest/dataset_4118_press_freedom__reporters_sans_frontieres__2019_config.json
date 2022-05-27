@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4118_press_freedom__reporters_sans_frontieres__2019_config",
+  "name": "Grapher metadata for dataset_4118_press_freedom__reporters_sans_frontieres__2019",
+  "description": "Freedom House data only go up to 2017, whereas this goes to 2019. If Freedom House publish new data, use that instead of this.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4118",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:00:18.363125",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "53f1b8c6c1c55f225931264a310a861c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4118_press_freedom__reporters_sans_frontieres__2019_config.json",
+  "md5": "d0805b08fce3aaf9e9f0e93d5244a873"
+}

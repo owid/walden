@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3075_year_of_last_rinderpest_case__oie__2018_config",
+  "name": "Grapher metadata for dataset_3075_year_of_last_rinderpest_case__oie__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3075",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:01:00.024152",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c303837c72ed21235d13926c3d8a6144",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3075_year_of_last_rinderpest_case__oie__2018_config.json",
+  "md5": "2edcaef7370e3a95468d9b8677aad920"
+}

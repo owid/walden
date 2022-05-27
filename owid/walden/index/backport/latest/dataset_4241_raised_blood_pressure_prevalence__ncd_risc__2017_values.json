@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4241_raised_blood_pressure_prevalence__ncd_risc__2017_values",
+  "name": "Raised Blood Pressure Prevalence - NCD RisC (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4241",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T07:59:50.102292",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4241_raised_blood_pressure_prevalence__ncd_risc__2017_values.feather",
+  "md5": "429f12fd0233e633abcdd056e5448187"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2790_homicide_rates_in_europe_over_long_term__eisner__and__ihme_config",
+  "name": "Grapher metadata for dataset_2790_homicide_rates_in_europe_over_long_term__eisner__and__ihme",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2790",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:09.736742",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3c171f2b17e01c67da3d450820780517",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2790_homicide_rates_in_europe_over_long_term__eisner__and__ihme_config.json",
+  "md5": "c71938c7e488eac96a068cc9fa465d9c"
+}

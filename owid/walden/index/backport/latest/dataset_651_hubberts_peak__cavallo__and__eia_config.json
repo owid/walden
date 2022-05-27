@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_651_hubberts_peak__cavallo__and__eia_config",
+  "name": "Grapher metadata for dataset_651_hubberts_peak__cavallo__and__eia",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/651",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:01:14.215028",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7a63d3fe15ff24fd40e4b444f4639cd7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_651_hubberts_peak__cavallo__and__eia_config.json",
+  "md5": "ca64ead9e2030a2f68286ca4ff15974b"
+}

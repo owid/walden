@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_694_land_use_data__hyde__2017_values",
+  "name": "Land Use Data - HYDE (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/694",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:00:23.817541",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_694_land_use_data__hyde__2017_values.feather",
+  "md5": "70336a47fb75c9d4d644bae11d10d991"
+}

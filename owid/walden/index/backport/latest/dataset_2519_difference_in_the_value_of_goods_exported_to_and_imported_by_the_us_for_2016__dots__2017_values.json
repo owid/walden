@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2519_difference_in_the_value_of_goods_exported_to_and_imported_by_the_us_for_2016__dots__2017_values",
+  "name": "Difference in the value of goods exported to and imported by the US for 2016 (DOTS (2017))",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2519",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:01:04.683864",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2519_difference_in_the_value_of_goods_exported_to_and_imported_by_the_us_for_2016__dots__2017_values.feather",
+  "md5": "a302cedab1f5d50f1e93c728199ed971"
+}

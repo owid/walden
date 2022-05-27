@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2851_plastic_imports_by_china__and__impact_of_ban__brooks_et_al__2018_config",
+  "name": "Grapher metadata for dataset_2851_plastic_imports_by_china__and__impact_of_ban__brooks_et_al__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2851",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:41.703290",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "70a3ae0188ecd5c9d993c487db8c0cdf",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2851_plastic_imports_by_china__and__impact_of_ban__brooks_et_al__2018_config.json",
+  "md5": "694c80fe7d2f1108aafd5a40a3d98594"
+}

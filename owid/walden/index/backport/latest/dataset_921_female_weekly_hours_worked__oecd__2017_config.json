@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_921_female_weekly_hours_worked__oecd__2017_config",
+  "name": "Grapher metadata for dataset_921_female_weekly_hours_worked__oecd__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/921",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:00.379502",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4e0b25422231a811fe716f0947324549",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_921_female_weekly_hours_worked__oecd__2017_config.json",
+  "md5": "9f5ffc7d452a10f399348f6d7f940ae5"
+}

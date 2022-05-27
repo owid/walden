@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_526_reserves_production_ratio__bp_statistics__2016_config",
+  "name": "Grapher metadata for dataset_526_reserves_production_ratio__bp_statistics__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/526",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:27.314758",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4740e1f87797bfabf94ee2a1ef6af49b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_526_reserves_production_ratio__bp_statistics__2016_config.json",
+  "md5": "ec8fa3f128bd4ce8f8cf8bc7629a760b"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2483_five_year_cancer_survival_rates__allemani_et_al_config",
+  "name": "Grapher metadata for dataset_2483_five_year_cancer_survival_rates__allemani_et_al",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2483",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:00:01.625020",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "59ac46cbd091d0b21d97dac5e1cba728",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2483_five_year_cancer_survival_rates__allemani_et_al_config.json",
+  "md5": "87c994629b27cf0e4aede87a8e2e08a3"
+}

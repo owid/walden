@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_329_rate_of_natural_population_increase__un_population_division__2015_values",
+  "name": "Rate of Natural Population Increase \u2013 UN Population Division (2015)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/329",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:03:36.518082",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_329_rate_of_natural_population_increase__un_population_division__2015_values.feather",
+  "md5": "3277af89a3a0d9bf49f8ac10b9ed703a"
+}

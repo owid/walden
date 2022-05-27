@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_482_renewable_energy__pct_electricity_production__world_bank__2015_config",
+  "name": "Grapher metadata for dataset_482_renewable_energy__pct_electricity_production__world_bank__2015",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/482",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:01:46.925439",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ea9a50198a67a2cdf761c8927d57dd37",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_482_renewable_energy__pct_electricity_production__world_bank__2015_config.json",
+  "md5": "8ba57a40e96cd0c99f23d6763d547fd2"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_704_mean_years_of_schooling__women__15_to_49__our_world_in_data__2017_values",
+  "name": "Mean years of schooling, women (15 to 49) \u2013 Our World In Data (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/704",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:02:58.976395",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_704_mean_years_of_schooling__women__15_to_49__our_world_in_data__2017_values.feather",
+  "md5": "b71f91a84ed426d864b635d5ec4b1efd"
+}

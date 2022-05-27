@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_916_number_of_polio_cases_per_one_million_population__who__2017_config",
+  "name": "Grapher metadata for dataset_916_number_of_polio_cases_per_one_million_population__who__2017",
+  "description": "The dataset is by country and ranges from 1980-2015.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/916",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:35.486185",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0f1b1ac546f83371feddd8b5889036df",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_916_number_of_polio_cases_per_one_million_population__who__2017_config.json",
+  "md5": "0f0f77c1164d68dc306217b72e5b9fc5"
+}

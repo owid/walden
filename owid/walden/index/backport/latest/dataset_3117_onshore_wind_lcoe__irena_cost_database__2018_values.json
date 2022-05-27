@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3117_onshore_wind_lcoe__irena_cost_database__2018_values",
+  "name": "Onshore wind LCOE (IRENA Cost Database, 2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3117",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:01:49.734672",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3117_onshore_wind_lcoe__irena_cost_database__2018_values.feather",
+  "md5": "6f1f7d12e564d457b46712478453977d"
+}

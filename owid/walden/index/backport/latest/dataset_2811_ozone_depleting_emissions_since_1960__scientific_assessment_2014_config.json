@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2811_ozone_depleting_emissions_since_1960__scientific_assessment_2014_config",
+  "name": "Grapher metadata for dataset_2811_ozone_depleting_emissions_since_1960__scientific_assessment_2014",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2811",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:00:57.251681",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ef316f40a08da2024e326c691e6b210a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2811_ozone_depleting_emissions_since_1960__scientific_assessment_2014_config.json",
+  "md5": "c4312da5f1387f78ed33e78d07f28120"
+}

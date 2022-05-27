@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1014_water_withdrawals_and_consumption__aquastat_config",
+  "name": "Grapher metadata for dataset_1014_water_withdrawals_and_consumption__aquastat",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1014",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:11.922712",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "559ab66e635f5525fe518447e9f3f823",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1014_water_withdrawals_and_consumption__aquastat_config.json",
+  "md5": "32ccae199378a2499dc0a2bf9b1784c6"
+}

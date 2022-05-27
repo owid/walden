@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_643_deaths_from_fukushima__who__2013__2016_config",
+  "name": "Grapher metadata for dataset_643_deaths_from_fukushima__who__2013__2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/643",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:00:19.220465",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "84a0e7d9ed400ad5df6a22ea2dcb4f2c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_643_deaths_from_fukushima__who__2013__2016_config.json",
+  "md5": "86d4775c68ce39922fd9ff10d97262a4"
+}

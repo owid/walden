@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_390_weekly_home_production_hours_in_the_usa__ramey__2009__and__ramey_francis__2009_values",
+  "name": "Weekly home production hours in the USA - Ramey (2009) & Ramey Francis (2009)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/390",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:00:55.712218",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_390_weekly_home_production_hours_in_the_usa__ramey__2009__and__ramey_francis__2009_values.feather",
+  "md5": "f102194deb78d2f2f9f0ecd2f8a5487d"
+}

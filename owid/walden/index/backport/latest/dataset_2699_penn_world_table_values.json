@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2699_penn_world_table_values",
+  "name": "Penn World Table",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2699",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T07:59:33.609940",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2699_penn_world_table_values.feather",
+  "md5": "c65f599b52034497247038a546c5fdba"
+}

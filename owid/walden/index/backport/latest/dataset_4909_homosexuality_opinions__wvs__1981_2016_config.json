@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4909_homosexuality_opinions__wvs__1981_2016_config",
+  "name": "Grapher metadata for dataset_4909_homosexuality_opinions__wvs__1981_2016",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4909",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:51.042076",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6c4366e448d5085ec8f44b9ecc24a428",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4909_homosexuality_opinions__wvs__1981_2016_config.json",
+  "md5": "7b470cba9824662c6ebf9cdb7db78cce"
+}

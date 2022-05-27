@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1855_watts_per_mips__kurzweil_values",
+  "name": "Watts per MIPS- Kurzweil",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1855",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:04:15.202874",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1855_watts_per_mips__kurzweil_values.feather",
+  "md5": "5061245a016cef940a9d896da3bd0202"
+}

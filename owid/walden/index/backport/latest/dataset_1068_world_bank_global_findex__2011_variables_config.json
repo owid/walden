@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_1068_world_bank_global_findex__2011_variables_config",
+  "name": "Grapher metadata for dataset_1068_world_bank_global_findex__2011_variables",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/1068",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:45.662349",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f62084b871eb12143e526a640dde672b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1068_world_bank_global_findex__2011_variables_config.json",
+  "md5": "bd0c88475b4cc74b98fca6f20aae1e29"
+}

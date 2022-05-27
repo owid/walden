@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2490_estimated_funding_and_future_needs_for_hiv_in_low_and_middle_income_countries__unaids_values",
+  "name": "Estimated funding and future needs for HIV in low and middle income countries - UNAIDS",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2490",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:05:15.598932",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2490_estimated_funding_and_future_needs_for_hiv_in_low_and_middle_income_countries__unaids_values.feather",
+  "md5": "e99a8167abecd37cd4d3ca3480de77a3"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5222_deaths_attributed_to_air_pollution__lelieveld_et_al__2019_values",
+  "name": "Deaths attributed to air pollution (Lelieveld et al. 2019)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5222",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:04:48.268640",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5222_deaths_attributed_to_air_pollution__lelieveld_et_al__2019_values.feather",
+  "md5": "38cb56795dafbbc8e465508e33c0c5d8"
+}

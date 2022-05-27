@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2553_productivity__level_of_gdp_per_capita_and_productivity_config",
+  "name": "Grapher metadata for dataset_2553_productivity__level_of_gdp_per_capita_and_productivity",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2553",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:10.557049",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9658e271f753d275012f79a508fee862",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2553_productivity__level_of_gdp_per_capita_and_productivity_config.json",
+  "md5": "3dac6ece329e00480e2fdd1276f80b37"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5432_energy_land_use_scenario_analysis__owid_based_on_unece_and_ember_values",
+  "name": "Energy land use scenario analysis (OWID based on UNECE and EMBER)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5432",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:00:37.347157",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5432_energy_land_use_scenario_analysis__owid_based_on_unece_and_ember_values.feather",
+  "md5": "e329f2bf57d10b85c1df0f2a66f5d091"
+}

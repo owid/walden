@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3226_average_harmonised_learning_outcome_score__2005_2015__altinok__angrist__and_patrinos__2018_config",
+  "name": "Grapher metadata for dataset_3226_average_harmonised_learning_outcome_score__2005_2015__altinok__angrist__and_patrinos__2018",
+  "description": "Learning outcomes scores (using the 2018 data vintage) have been discontinued by the authors Angrist et al in favour of the 2021 edition of the HLO Database maintained by the World Bank at: https://datacatalog.worldbank.org/dataset/harmonized-learning-outcomes-hlo-database",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3226",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:46.665817",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "278cc8274ac01433a7c2034abf887337",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3226_average_harmonised_learning_outcome_score__2005_2015__altinok__angrist__and_patrinos__2018_config.json",
+  "md5": "536271a936416ceef0d54c82b8315a3d"
+}

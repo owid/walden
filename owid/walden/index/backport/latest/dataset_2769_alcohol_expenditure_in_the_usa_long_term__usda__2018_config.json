@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2769_alcohol_expenditure_in_the_usa_long_term__usda__2018_config",
+  "name": "Grapher metadata for dataset_2769_alcohol_expenditure_in_the_usa_long_term__usda__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2769",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:05:14.332430",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5264af9d087dfcde92bcb995af8061bf",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2769_alcohol_expenditure_in_the_usa_long_term__usda__2018_config.json",
+  "md5": "90a7f2861d4c9b9b22df85a5935ca333"
+}

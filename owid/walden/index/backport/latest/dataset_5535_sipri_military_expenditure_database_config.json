@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5535_sipri_military_expenditure_database_config",
+  "name": "Grapher metadata for dataset_5535_sipri_military_expenditure_database",
+  "description": "https://github.com/owid/importers/tree/master/sipri",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5535",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:01:50.210214",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "1779f2681b99fb17569a7a0c5cf3d060",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5535_sipri_military_expenditure_database_config.json",
+  "md5": "97d88f31a7a5ce2510bb8e168a605719"
+}

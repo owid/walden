@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_452_investment_in_renewables_by_region__irena__2016_config",
+  "name": "Grapher metadata for dataset_452_investment_in_renewables_by_region__irena__2016",
+  "description": "Investment in Renewable Energy by Region.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/452",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:34.529403",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "144adc3ff703a946097aaf7323454b56",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_452_investment_in_renewables_by_region__irena__2016_config.json",
+  "md5": "54e233d4aa9538eddda0692aafc707f2"
+}

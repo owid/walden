@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_538_perceptions_of_spending_on_health_expenditure__ipsos__2016_values",
+  "name": "Perceptions of spending on health expenditure - IPSOS (2016)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/538",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-27T08:00:26.012865",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_538_perceptions_of_spending_on_health_expenditure__ipsos__2016_values.feather",
+  "md5": "0bf4ba69b9e213e9d24c95829ec36d25"
+}

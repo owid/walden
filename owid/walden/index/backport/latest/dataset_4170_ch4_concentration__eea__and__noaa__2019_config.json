@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4170_ch4_concentration__eea__and__noaa__2019_config",
+  "name": "Grapher metadata for dataset_4170_ch4_concentration__eea__and__noaa__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4170",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:41.306526",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f07970f4e8630824ccc69b7fb0ecca7a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4170_ch4_concentration__eea__and__noaa__2019_config.json",
+  "md5": "c58e53855beff4a50a282ed35fa74bff"
+}

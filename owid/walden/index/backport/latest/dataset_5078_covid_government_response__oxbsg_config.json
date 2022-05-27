@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5078_covid_government_response__oxbsg_config",
+  "name": "Grapher metadata for dataset_5078_covid_government_response__oxbsg",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5078",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:51.160059",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4cf83c9f386e8a5cbf7e3d849fb6c27b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5078_covid_government_response__oxbsg_config.json",
+  "md5": "f24b9229f6dd9e0cca3730fe02211e3c"
+}

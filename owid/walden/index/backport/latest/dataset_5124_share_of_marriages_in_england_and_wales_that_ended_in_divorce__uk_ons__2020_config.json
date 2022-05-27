@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5124_share_of_marriages_in_england_and_wales_that_ended_in_divorce__uk_ons__2020_config",
+  "name": "Grapher metadata for dataset_5124_share_of_marriages_in_england_and_wales_that_ended_in_divorce__uk_ons__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5124",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:35.975264",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "70231d45bb089806cb9e940f87b73555",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5124_share_of_marriages_in_england_and_wales_that_ended_in_divorce__uk_ons__2020_config.json",
+  "md5": "ef7c8530be47f7541fc75eef7659130e"
+}

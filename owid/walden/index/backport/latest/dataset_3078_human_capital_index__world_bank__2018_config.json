@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3078_human_capital_index__world_bank__2018_config",
+  "name": "Grapher metadata for dataset_3078_human_capital_index__world_bank__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3078",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:51.987886",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "05e915f6cf11702d81044dacb2515f92",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3078_human_capital_index__world_bank__2018_config.json",
+  "md5": "099ea4b0c6a4a2792d323ee25c2ce6a5"
+}

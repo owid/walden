@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5231_archaeological_land_use__stephens_et_al__2019_config",
+  "name": "Grapher metadata for dataset_5231_archaeological_land_use__stephens_et_al__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5231",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:00:44.674046",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ba7388beea5d6eeaba41b008317416f1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5231_archaeological_land_use__stephens_et_al__2019_config.json",
+  "md5": "b717da721716a5fd25cbb10ef50f5690"
+}

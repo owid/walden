@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3110_global_primary_energy_share__smil__and__bp_config",
+  "name": "Grapher metadata for dataset_3110_global_primary_energy_share__smil__and__bp",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3110",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:01:46.010266",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3815818c66b0f28e35f63006a86a9ad7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3110_global_primary_energy_share__smil__and__bp_config.json",
+  "md5": "e5ba5572d5132dc111aadd67601411b0"
+}

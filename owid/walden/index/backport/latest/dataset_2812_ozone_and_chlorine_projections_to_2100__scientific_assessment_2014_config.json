@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2812_ozone_and_chlorine_projections_to_2100__scientific_assessment_2014_config",
+  "name": "Grapher metadata for dataset_2812_ozone_and_chlorine_projections_to_2100__scientific_assessment_2014",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2812",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:04:26.213574",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "04bb08cd415f6ed64583875327666566",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2812_ozone_and_chlorine_projections_to_2100__scientific_assessment_2014_config.json",
+  "md5": "ada62c22db62870b1795ef2a6ecad37c"
+}

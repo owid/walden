@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2719_pieces_of_mail_and_number_of_post_offices__united_states_postal_service__2018_config",
+  "name": "Grapher metadata for dataset_2719_pieces_of_mail_and_number_of_post_offices__united_states_postal_service__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2719",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:05:19.913456",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "25fbc1371309e691a1c2f9e48c8f68c5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2719_pieces_of_mail_and_number_of_post_offices__united_states_postal_service__2018_config.json",
+  "md5": "ebc2f9bdf8f38ab9eb85a05b6eaf456d"
+}

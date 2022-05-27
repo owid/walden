@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2461_five_year_cancer_survival_rates__national_cancer_institute_config",
+  "name": "Grapher metadata for dataset_2461_five_year_cancer_survival_rates__national_cancer_institute",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2461",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:28.207982",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8b97627da165c2ea334e468f4c9da91f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2461_five_year_cancer_survival_rates__national_cancer_institute_config.json",
+  "md5": "24d24e77cbe1c27a3cd021ec1034e14a"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_914_year_of_last_recorded_wild_poliomyelitis_virus__who__gpei__2017_config",
+  "name": "Grapher metadata for dataset_914_year_of_last_recorded_wild_poliomyelitis_virus__who__gpei__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/914",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T07:59:56.492055",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6f56fcfba4a3ca177fa865b7130b691b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_914_year_of_last_recorded_wild_poliomyelitis_virus__who__gpei__2017_config.json",
+  "md5": "47c179b9bed0a1a8291f75a184f3d13e"
+}

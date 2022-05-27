@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3262_population_by_age_group_to_2100__based_on_unwpp__2017_medium_scenario_config",
+  "name": "Grapher metadata for dataset_3262_population_by_age_group_to_2100__based_on_unwpp__2017_medium_scenario",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3262",
+  "file_extension": "json",
+  "date_accessed": "2022-05-27T08:03:03.031552",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9ca2391e5ca85dd5992e480e7fd082fb",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3262_population_by_age_group_to_2100__based_on_unwpp__2017_medium_scenario_config.json",
+  "md5": "77ddb9396338a31d83d2d930653331e3"
+}
