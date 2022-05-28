@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5553_ukraine_russia__global_food_based_on_un_fao_values",
+  "name": "Ukraine-Russia (Global food based on UN FAO)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5553",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-28T14:54:03.997471",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5553_ukraine_russia__global_food_based_on_un_fao_values.feather",
+  "md5": "aa1ae8ea699d32527baf2e80185ed06a"
+}

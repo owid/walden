@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5596_ihme__global_burden_of_disease__prevalence__and__incidence__institute_for_health_metrics_and_evaluation__2022_04_values",
+  "name": "IHME - Global Burden of Disease - Prevalence & Incidence - Institute for Health Metrics and Evaluation  (2022-04)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5596",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-28T14:55:06.683747",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5596_ihme__global_burden_of_disease__prevalence__and__incidence__institute_for_health_metrics_and_evaluation__2022_04_values.feather",
+  "md5": "330d4ee287cb47e5c51e9445a5f1beb0"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5624_political_regimes__freedom_house__2022_config",
+  "name": "Grapher metadata for dataset_5624_political_regimes__freedom_house__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5624",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:51:26.044952",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2ab74d668215f4172f383bc93f05c79a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5624_political_regimes__freedom_house__2022_config.json",
+  "md5": "2834fc150b40c35aaad67be7c39e67d8"
+}

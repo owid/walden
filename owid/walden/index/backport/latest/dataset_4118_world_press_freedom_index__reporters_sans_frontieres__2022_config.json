@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4118_world_press_freedom_index__reporters_sans_frontieres__2022_config",
+  "name": "Grapher metadata for dataset_4118_world_press_freedom_index__reporters_sans_frontieres__2022",
+  "description": "We received the combined file for years 2014-2021 via email from the head of the World Press Freedom Index, Nalini Chella-Lepetit.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4118",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:52:24.092024",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b1d557b84cd59979671c49de0c5eb94c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4118_world_press_freedom_index__reporters_sans_frontieres__2022_config.json",
+  "md5": "0d6c73b4f694ba0368a3f4b1ad9cd2a4"
+}

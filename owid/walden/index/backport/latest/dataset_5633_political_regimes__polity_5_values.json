@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5633_political_regimes__polity_5_values",
+  "name": "Political regimes - Polity 5",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5633",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-28T14:55:59.980354",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5633_political_regimes__polity_5_values.feather",
+  "md5": "88c59b16efd8bd5e7d7ddad1476a4ed7"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5575_united_nations_sustainable_development_goals__united_nations__2022_04_config",
+  "name": "Grapher metadata for dataset_5575_united_nations_sustainable_development_goals__united_nations__2022_04",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5575",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:53:19.527750",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b9e4b9e90c2850222ede94142ea08ffe",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5575_united_nations_sustainable_development_goals__united_nations__2022_04_config.json",
+  "md5": "44471916dbbdc1e98302778f6f48e6a7"
+}

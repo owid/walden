@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1847",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:18:02.459998",
+  "date_accessed": "2022-05-28T14:55:55.996639",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e54fa62e7ce5fa7ce8dddeefb410b153",
+  "origin_md5": "8bab081127a8f888e4da3d65e3836afe",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1847_clark__fleche__and__senik__happiness_inequality_config.json",
-  "md5": "48a434d3182d1ca39fd218d585d70a85"
+  "md5": "8fb91ad4b0ead829e7ebfe03973ea50f"
 }

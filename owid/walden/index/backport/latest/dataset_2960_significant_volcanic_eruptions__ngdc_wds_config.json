@@ -2,15 +2,15 @@
   "namespace": "backport",
   "short_name": "dataset_2960_significant_volcanic_eruptions__ngdc_wds_config",
   "name": "Grapher metadata for dataset_2960_significant_volcanic_eruptions__ngdc_wds",
-  "description": "",
+  "description": "Code to fill missing data with 0s is here: \nhttps://github.com/owid/notebooks/tree/main/FionaSpooner/significant_volcanic_eruptions",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2960",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:16:06.143614",
+  "date_accessed": "2022-05-28T14:56:52.260282",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "83eb8da9905501508b8bb5a74a6fc312",
+  "origin_md5": "b5f8624f3e7088f37285508eaf0075e6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2960_significant_volcanic_eruptions__ngdc_wds_config.json",
-  "md5": "63088482776499424ff7fdd0fc8dd1a6"
+  "md5": "58ba9fd27317b68efd0173e53f5558f8"
 }

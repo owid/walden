@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5597_ihme__global_burden_of_disease__mental_health__institute_for_health_metrics_and_evaluation__2022_04_config",
+  "name": "Grapher metadata for dataset_5597_ihme__global_burden_of_disease__mental_health__institute_for_health_metrics_and_evaluation__2022_04",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5597",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:52:49.705664",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "558347c856c67c92230d9be2894056b8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5597_ihme__global_burden_of_disease__mental_health__institute_for_health_metrics_and_evaluation__2022_04_config.json",
+  "md5": "8a6d10f5b42dd988ef10f41414ddf8cb"
+}

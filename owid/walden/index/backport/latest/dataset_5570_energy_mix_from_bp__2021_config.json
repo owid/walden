@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5570_energy_mix_from_bp__2021_config",
+  "name": "Grapher metadata for dataset_5570_energy_mix_from_bp__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5570",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:51:55.596472",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6cdb95fa6d7fffe83c2e94e3eb2a0260",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5570_energy_mix_from_bp__2021_config.json",
+  "md5": "7a8a8ef86cb71bf12eb2465176e7b41e"
+}

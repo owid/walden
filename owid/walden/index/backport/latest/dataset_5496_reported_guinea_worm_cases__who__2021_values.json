@@ -2,14 +2,14 @@
   "namespace": "backport",
   "short_name": "dataset_5496_reported_guinea_worm_cases__who__2021_values",
   "name": "Reported guinea worm cases - WHO (2021)",
-  "description": "",
+  "description": "Manual update of spreadsheet for cases. Certification data is scraped from here https://apps.who.int/dracunculiasis/dradata/html/report_Countries_t0.html \n\nCode and data available here: https://github.com/owid/notebooks/tree/main/FionaSpooner/guinea_worm",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5496",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:18:18.209936",
+  "date_accessed": "2022-05-28T14:57:43.475559",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5496_reported_guinea_worm_cases__who__2021_values.feather",
-  "md5": "2bfa8efddd94536d875f0d1d03738dfe"
+  "md5": "92a80612f77c811128eeda34e47a3963"
 }

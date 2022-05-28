@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_235_world_happiness_report__2022_config",
+  "name": "Grapher metadata for dataset_235_world_happiness_report__2022",
+  "description": "Code and data available at: https://github.com/owid/notebooks/tree/main/FionaSpooner/world_happiness_report\n\n2022 data available at: https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls\n\n2021 data available at: https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls\n\nPrevious data available at: https://happiness-report.s3.amazonaws.com/2021/DataPanelWHR2021C2.xls",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/235",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:52:35.353763",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e809fe5674e3956e7df3a1248bb6218c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_235_world_happiness_report__2022_config.json",
+  "md5": "d270114cbc7006e866fd61985c8190ff"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5619_oil_spills__itopf__2021_config",
+  "name": "Grapher metadata for dataset_5619_oil_spills__itopf__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5619",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:59:45.058431",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f327fd3421adceb266b6600287f77fb2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5619_oil_spills__itopf__2021_config.json",
+  "md5": "743e73ab970f142998e841a32007309f"
+}

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4151",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:15:51.053096",
+  "date_accessed": "2022-05-28T14:53:10.528740",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e55b78398426660d0ad0e4cbb67180b0",
+  "origin_md5": "35fe587c10b998d67c552d2fb1553f64",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4151_expected_years_of_schooling__undp__2018_config.json",
-  "md5": "befb844fc4d419261e279ba6feb46b8e"
+  "md5": "df614e39821f41fd94e627934802c44d"
 }

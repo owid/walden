@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/655",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:33:00.683288",
+  "date_accessed": "2022-05-28T14:52:23.304279",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_655_child_labor_in_us__long__1958_values.feather",
-  "md5": "55a0d177cc0eb37b611f88dce0cdf7cb"
+  "md5": "362d5becc473aa869eb7c3948edca3d8"
 }

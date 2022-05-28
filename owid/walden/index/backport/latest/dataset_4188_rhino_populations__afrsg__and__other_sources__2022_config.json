@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4188_rhino_populations__afrsg__and__other_sources__2022_config",
+  "name": "Grapher metadata for dataset_4188_rhino_populations__afrsg__and__other_sources__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4188",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:54:07.536982",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7cc38c10b4a2443eeb3052c365a8aeb9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4188_rhino_populations__afrsg__and__other_sources__2022_config.json",
+  "md5": "8631ef5a728917ee5fe5cad2d8d83f0b"
+}

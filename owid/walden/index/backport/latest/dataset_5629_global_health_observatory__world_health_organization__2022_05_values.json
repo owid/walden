@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5629_global_health_observatory__world_health_organization__2022_05_values",
+  "name": "Global Health Observatory - World Health Organization (2022.05)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5629",
+  "file_extension": "feather",
+  "date_accessed": "2022-05-28T14:57:37.569641",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5629_global_health_observatory__world_health_organization__2022_05_values.feather",
+  "md5": "383dae7c96f56c1e92fc32fab96f2f41"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_216_guinea_worm_cases__the_carter_center__2022_config",
+  "name": "Grapher metadata for dataset_216_guinea_worm_cases__the_carter_center__2022",
+  "description": "Manual update of spreadsheet",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/216",
+  "file_extension": "json",
+  "date_accessed": "2022-05-28T14:52:12.911022",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "80b77fcf351705bd00027f4ccbcc3e2d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_216_guinea_worm_cases__the_carter_center__2022_config.json",
+  "md5": "240045c5e6d88289772c14c3610e08b6"
+}
