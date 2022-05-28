@@ -6,7 +6,12 @@ from .catalog import Dataset
 from .ui import log
 
 
-def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool = False):
+def add_to_catalog(
+    metadata: Union[dict, Dataset],
+    filename: str,
+    upload: bool = False,
+    public: bool = True,
+) -> None:
     """Add metadata to catalog.
 
     Additionally, it computes the md5 hash of the file, which is added to the metadata file.
@@ -22,7 +27,7 @@ def add_to_catalog(metadata: Union[dict, Dataset], filename: str, upload: bool =
 
     if upload:
         # add it to our DigitalOcean Space and set `owid_cache_url`
-        dataset.upload(public=True)
+        dataset.upload(public=public)
 
     # save the JSON to the local index
     dataset.save()
