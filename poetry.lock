@@ -93,7 +93,7 @@ python-versions = "*"
 name = "beautifulsoup4"
 version = "4.11.1"
 description = "Screen-scraping library"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6.0"
 
@@ -1300,7 +1300,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
 name = "soupsieve"
 version = "2.3.2.post1"
 description = "A modern CSS selector implementation for Beautiful Soup."
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -1504,7 +1504,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "01beb46f2b5f5e5f710a01d9e104dbbe35823b27fc000e9d9bfc41a67baf4937"
+content-hash = "689df8d39d8158cbd0214cea0efa8524f6f05596cfabea8e0fba644eaf04ea62"
 
 [metadata.files]
 appnope = [
