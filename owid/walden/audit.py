@@ -6,6 +6,7 @@
 #
 
 from pathlib import Path
+import concurrent.futures
 
 import click
 import jsonschema
@@ -19,18 +20,29 @@ def audit() -> None:
     "Audit files in the index against the schema."
     schema = catalog.load_schema()
 
-    i = 0
-    for filename, document in catalog.iter_docs():
-        print(Path(filename).relative_to(catalog.INDEX_DIR))
-        jsonschema.validate(document, schema)
+    # exclude backported datasets
+    docs = [
+        (f, doc) for f, doc in catalog.iter_docs() if "walden/index/backport" not in f
+    ]
 
-        if "source_data_url" in document:
-            check_url(document["source_data_url"])
-        if "owid_data_url" in document:
-            check_url(document["owid_data_url"])
-        i += 1
+    # speed it up with parallelization
+    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+        results = executor.map(
+            lambda args: audit_doc(args[0], args[1], schema),
+            docs,
+        )
 
-    print(f"{i} catalog entries ok, all urls ok")
+    print(f"{len(list(results))} catalog entries ok, all urls ok")
+
+
+def audit_doc(filename: str, document: dict, schema: dict) -> None:
+    print(Path(filename).relative_to(catalog.INDEX_DIR))
+    jsonschema.validate(document, schema)
+
+    if "source_data_url" in document:
+        check_url(document["source_data_url"])
+    if "owid_data_url" in document:
+        check_url(document["owid_data_url"])
 
 
 def check_url(url: str) -> None:

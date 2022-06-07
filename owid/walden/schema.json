@@ -68,8 +68,7 @@
     "url",
     "md5",
     "file_extension",
-    "date_accessed",
-    "license_url"
+    "date_accessed"
   ],
   "$eitherOf": [
     {

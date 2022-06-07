@@ -94,15 +94,8 @@ def test_default_dataset_version():
         url="test",
         file_extension="gzip",
     )
-    ds = Dataset(
-        publication_date=dt.date(2022, 1, 1),
-        **kwargs
-    )
-    assert ds.version == '2022-01-01'
+    ds = Dataset(publication_date=dt.date(2022, 1, 1), **kwargs)
+    assert ds.version == "2022-01-01"
 
-    ds = Dataset(
-        version='2023-01-01',
-        publication_date=dt.date(2022, 1, 1),
-        **kwargs
-    )
-    assert ds.version == '2023-01-01'
+    ds = Dataset(version="2023-01-01", publication_date=dt.date(2022, 1, 1), **kwargs)
+    assert ds.version == "2023-01-01"
