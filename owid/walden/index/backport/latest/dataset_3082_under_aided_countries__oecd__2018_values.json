@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3082_under_aided_countries__oecd__2018_values",
+  "name": "Under-aided countries (OECD, 2018)",
+  "description": "For OECD report - do not delete.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3082",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:39.012343",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3082_under_aided_countries__oecd__2018_values.feather",
+  "md5": "4a15ccf94d867ddd72e01df2a9dbe9e0"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3082_under_aided_countries__oecd__2018_config",
+  "name": "Grapher metadata for dataset_3082_under_aided_countries__oecd__2018",
+  "description": "For OECD report - do not delete.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3082",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:35:38.628370",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fb00524f8df16982d2f4d3fcd4d0484b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3082_under_aided_countries__oecd__2018_config.json",
+  "md5": "8fa75ce398b07f137eac8f6da19a964f"
+}

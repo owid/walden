@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5637_wdi__2022_05_26_values",
+  "name": "wdi__2022_05_26",
+  "description": "The World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5637",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:00.412374",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5637_wdi__2022_05_26_values.feather",
+  "md5": "e0167ecd0998ea36f195a1ac2c1007d7"
+}

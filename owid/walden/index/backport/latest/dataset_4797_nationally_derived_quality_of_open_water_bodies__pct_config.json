@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4797_nationally_derived_quality_of_open_water_bodies__pct_config",
+  "name": "Grapher metadata for dataset_4797_nationally_derived_quality_of_open_water_bodies__pct",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4797",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:21.901804",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "21a6ec5174a002c06f4b74aadcdb41d5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4797_nationally_derived_quality_of_open_water_bodies__pct_config.json",
+  "md5": "a3ffb046de446d158cc2065a77bb16e0"
+}

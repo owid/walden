@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5162_world_development_indicators__general_government_final_consumption_expenditure_per_capita_values",
+  "name": "World Development Indicators - General government final consumption expenditure per capita",
+  "description": "Created for scatter plot (https://owid.slack.com/archives/CMVLEEKTK/p1596452780010500?thread_ts=1596452780.010500)",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5162",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:34:12.752221",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5162_world_development_indicators__general_government_final_consumption_expenditure_per_capita_values.feather",
+  "md5": "16d50b2a4dc1645a662528e23befd9fe"
+}

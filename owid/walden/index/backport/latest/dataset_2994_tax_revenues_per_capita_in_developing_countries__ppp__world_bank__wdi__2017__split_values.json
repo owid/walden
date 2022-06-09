@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2994_tax_revenues_per_capita_in_developing_countries__ppp__world_bank__wdi__2017__split_values",
+  "name": "Tax revenues per capita in developing countries (PPP) (World Bank (WDI) (2017)) (split)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2994",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:34:01.303419",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2994_tax_revenues_per_capita_in_developing_countries__ppp__world_bank__wdi__2017__split_values.feather",
+  "md5": "74826958212c0501356cdbff6f2fdd2a"
+}

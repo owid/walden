@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3242_figure_15_20_centralbank_config",
+  "name": "Grapher metadata for dataset_3242_figure_15_20_centralbank",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3242",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:39.497120",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4cd90c0362d592a63e1ec0b12f01f872",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3242_figure_15_20_centralbank_config.json",
+  "md5": "67f686476b224b7b4267c7fc85ebc0d4"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5416_solar_and_wind_projections_config",
+  "name": "Grapher metadata for dataset_5416_solar_and_wind_projections",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5416",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:43.853722",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "cde2e7127c0dcf67bd7817d7604d6110",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5416_solar_and_wind_projections_config.json",
+  "md5": "2787a465b905182f5d862b197ed2c0bb"
+}

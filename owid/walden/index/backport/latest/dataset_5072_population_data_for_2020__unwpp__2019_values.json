@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5072_population_data_for_2020__unwpp__2019_values",
+  "name": "Population data for 2020 (UNWPP, 2019)",
+  "description": "Only contains 2020 data from latest UNWPP release \u2013 mainly for use in COVID-19 work. Separates out Serbia and Kosovo using CIA population data.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5072",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:35.633647",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5072_population_data_for_2020__unwpp__2019_values.feather",
+  "md5": "045e6a7068929d8d07790b6c80113e20"
+}

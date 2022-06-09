@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5239_soil_lifespans__evans_et_al__2020_config",
+  "name": "Grapher metadata for dataset_5239_soil_lifespans__evans_et_al__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5239",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:14.648514",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "14f1df970d42d5a065a4813137e678e9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5239_soil_lifespans__evans_et_al__2020_config.json",
+  "md5": "9a8b5f336b1191e3a1efb39d782cc210"
+}

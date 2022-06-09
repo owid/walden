@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5519_completeness_of_death_reporting__karlinsky__2021_config",
+  "name": "Grapher metadata for dataset_5519_completeness_of_death_reporting__karlinsky__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5519",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:24:53.009341",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "94e7ee746a9bfb9a5722d764621eb23d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5519_completeness_of_death_reporting__karlinsky__2021_config.json",
+  "md5": "53e2875443f135dba71874eb6f27a03c"
+}

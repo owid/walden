@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5479_covid_19__deaths_by_vaccination_status__united_states__old_format_values",
+  "name": "COVID-19 - Deaths by vaccination status - United States (old format)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5479",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:39:33.745789",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5479_covid_19__deaths_by_vaccination_status__united_states__old_format_values.feather",
+  "md5": "ca884ce329e0bb49c770c6d76353daa4"
+}

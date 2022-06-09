@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5208_united_states_voter_turnout_demographics_in_presidential_elections__united_states_elections_project_config",
+  "name": "Grapher metadata for dataset_5208_united_states_voter_turnout_demographics_in_presidential_elections__united_states_elections_project",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5208",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:40:04.608605",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "024f8c4c84542452b581daf7e066ee0d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5208_united_states_voter_turnout_demographics_in_presidential_elections__united_states_elections_project_config.json",
+  "md5": "561def25181996232585076d4db32b91"
+}

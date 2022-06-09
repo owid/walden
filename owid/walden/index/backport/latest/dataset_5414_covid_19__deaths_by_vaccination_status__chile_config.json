@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5414_covid_19__deaths_by_vaccination_status__chile_config",
+  "name": "Grapher metadata for dataset_5414_covid_19__deaths_by_vaccination_status__chile",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5414",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:12.187278",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2fedd820dcdb0c8b0b83687ebae24476",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5414_covid_19__deaths_by_vaccination_status__chile_config.json",
+  "md5": "41171cdf20b959c4c33f808ba76a0aef"
+}

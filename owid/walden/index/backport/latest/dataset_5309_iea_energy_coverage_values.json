@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5309_iea_energy_coverage_values",
+  "name": "IEA Energy Coverage",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5309",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:34:11.806004",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5309_iea_energy_coverage_values.feather",
+  "md5": "aa0c29b910e6aff6d773f9c80f1a43b9"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5247_carbon_opportunity_costs_by_food__searchinger_et_al__2018_values",
+  "name": "Carbon Opportunity Costs by Food (Searchinger et al. 2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5247",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:36:51.866153",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5247_carbon_opportunity_costs_by_food__searchinger_et_al__2018_values.feather",
+  "md5": "c50f53f0a93c664c1aa8e0b5b5a99cd4"
+}

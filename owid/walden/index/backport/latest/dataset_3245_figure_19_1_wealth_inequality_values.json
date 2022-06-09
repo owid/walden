@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3245_figure_19_1_wealth_inequality_values",
+  "name": "Figure 19.1_Wealth inequality",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3245",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:27:47.468356",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3245_figure_19_1_wealth_inequality_values.feather",
+  "md5": "e4d46df194c3b21e939242aebd9c517f"
+}

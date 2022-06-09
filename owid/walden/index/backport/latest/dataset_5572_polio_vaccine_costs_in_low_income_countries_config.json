@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5572_polio_vaccine_costs_in_low_income_countries_config",
+  "name": "Grapher metadata for dataset_5572_polio_vaccine_costs_in_low_income_countries",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5572",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:36:47.826720",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4a916ef6ce811565ee9f3fb5afdcc46a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5572_polio_vaccine_costs_in_low_income_countries_config.json",
+  "md5": "79904f4cc688d547ac954c584902937f"
+}

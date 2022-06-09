@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3195_te_16_12_wage_config",
+  "name": "Grapher metadata for dataset_3195_te_16_12_wage",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3195",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:31.337061",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7ec213be46360a40eaf7d186eb545acb",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3195_te_16_12_wage_config.json",
+  "md5": "b42ad98526e4b3ca32a907c954b1810d"
+}

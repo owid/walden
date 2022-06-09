@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3010_share_of_industry_in_gdp_at_constant_2005_prices__ggdc__split_config",
+  "name": "Grapher metadata for dataset_3010_share_of_industry_in_gdp_at_constant_2005_prices__ggdc__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3010",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:40.844300",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b3d5625d16e83b864fe48b70b1d053e4",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3010_share_of_industry_in_gdp_at_constant_2005_prices__ggdc__split_config.json",
+  "md5": "af1e4948a56a4a24ff5f933319dd00b9"
+}

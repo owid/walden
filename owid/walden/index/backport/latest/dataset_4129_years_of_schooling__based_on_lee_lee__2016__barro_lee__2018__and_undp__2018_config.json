@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4129_years_of_schooling__based_on_lee_lee__2016__barro_lee__2018__and_undp__2018_config",
+  "name": "Grapher metadata for dataset_4129_years_of_schooling__based_on_lee_lee__2016__barro_lee__2018__and_undp__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4129",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:29:35.214512",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "dbd6a63d31179ab64a65418a01a082f9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4129_years_of_schooling__based_on_lee_lee__2016__barro_lee__2018__and_undp__2018_config.json",
+  "md5": "570075240bfbd9cfe506b3f423fa140c"
+}

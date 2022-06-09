@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5378_industry_value_added_as_share_of_total_value_added__klems_2008_config",
+  "name": "Grapher metadata for dataset_5378_industry_value_added_as_share_of_total_value_added__klems_2008",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5378",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:57.774298",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "72deb9e21c5db858341d985295ae58df",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5378_industry_value_added_as_share_of_total_value_added__klems_2008_config.json",
+  "md5": "848bf76e14ffa068455b93ff6b9e3ad1"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5305_yougov_imperial_covid_19_behavior_tracker__composite_variables_config",
+  "name": "Grapher metadata for dataset_5305_yougov_imperial_covid_19_behavior_tracker__composite_variables",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5305",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:17.141034",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "97ee318fccd3bcbf3ca5f4d338a478e8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5305_yougov_imperial_covid_19_behavior_tracker__composite_variables_config.json",
+  "md5": "6be013999b9512b2ee43156da1a461c2"
+}

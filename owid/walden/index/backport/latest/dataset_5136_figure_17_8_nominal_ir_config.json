@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5136_figure_17_8_nominal_ir_config",
+  "name": "Grapher metadata for dataset_5136_figure_17_8_nominal_ir",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5136",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:07.803140",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "92ba2ec7ba7dd97d34736f2b0c95e0c1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5136_figure_17_8_nominal_ir_config.json",
+  "md5": "81cdda6dc6c43103e027fb43aa755b07"
+}

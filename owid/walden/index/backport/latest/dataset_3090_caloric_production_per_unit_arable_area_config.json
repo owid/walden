@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3090_caloric_production_per_unit_arable_area_config",
+  "name": "Grapher metadata for dataset_3090_caloric_production_per_unit_arable_area",
+  "description": "Test for Hannah. Private. Do not share.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3090",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:25:49.739051",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "68cfe5ba5475959a870e1bdb956e49d9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3090_caloric_production_per_unit_arable_area_config.json",
+  "md5": "ede3d2e6b84fa4ecb77527bc67658eca"
+}

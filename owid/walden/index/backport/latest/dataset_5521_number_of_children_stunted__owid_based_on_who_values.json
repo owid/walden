@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5521_number_of_children_stunted__owid_based_on_who_values",
+  "name": "Number of children stunted (OWID based on WHO)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5521",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:36:43.898421",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5521_number_of_children_stunted__owid_based_on_who_values.feather",
+  "md5": "a9f569e3fdd10fddaf80d991b46fa94f"
+}

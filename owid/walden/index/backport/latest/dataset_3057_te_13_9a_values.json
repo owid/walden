@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3057_te_13_9a_values",
+  "name": "TE-13.9a",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3057",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:40.058853",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3057_te_13_9a_values.feather",
+  "md5": "27cd7a7e7fa58c2f9c0f760de783275f"
+}

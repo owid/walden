@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4219_child_deaths_by_period_in_the_first_5_years__ihme_values",
+  "name": "Child deaths by period in the first 5 years (IHME)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4219",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:40:15.688342",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4219_child_deaths_by_period_in_the_first_5_years__ihme_values.feather",
+  "md5": "051c915be6e50478c5f029d00096ec11"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2826_time_spent__participation_time__and_participation_rates__eurostat_values",
+  "name": "Time spent, participation time, and participation rates - Eurostat",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2826",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:29:32.646985",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2826_time_spent__participation_time__and_participation_rates__eurostat_values.feather",
+  "md5": "ac345c73b88ac1fdcbf77bffbd2c6fd1"
+}

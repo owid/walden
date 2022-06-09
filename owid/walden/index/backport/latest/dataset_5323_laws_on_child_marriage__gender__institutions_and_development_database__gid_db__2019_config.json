@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5323_laws_on_child_marriage__gender__institutions_and_development_database__gid_db__2019_config",
+  "name": "Grapher metadata for dataset_5323_laws_on_child_marriage__gender__institutions_and_development_database__gid_db__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5323",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:22.902054",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3216f0ccafb410332fc97d4c6dbdbc70",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5323_laws_on_child_marriage__gender__institutions_and_development_database__gid_db__2019_config.json",
+  "md5": "cf1985df1a4d752f50a8b021f5ef35b0"
+}

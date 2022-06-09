@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4106_espp_1_9_config",
+  "name": "Grapher metadata for dataset_4106_espp_1_9",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4106",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:18.581269",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d3a3fe1104a0e25dd35be7c332de803f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4106_espp_1_9_config.json",
+  "md5": "c8f241279862ffc7baf65e675f3319c2"
+}

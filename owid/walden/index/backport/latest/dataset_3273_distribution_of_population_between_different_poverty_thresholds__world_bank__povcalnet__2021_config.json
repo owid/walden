@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3273_distribution_of_population_between_different_poverty_thresholds__world_bank__povcalnet__2021_config",
+  "name": "Grapher metadata for dataset_3273_distribution_of_population_between_different_poverty_thresholds__world_bank__povcalnet__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3273",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:17.345082",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "626eb16e424785e80d45fc53097fcb86",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3273_distribution_of_population_between_different_poverty_thresholds__world_bank__povcalnet__2021_config.json",
+  "md5": "b2ffd7d23396e59c75f95ac44aa30915"
+}

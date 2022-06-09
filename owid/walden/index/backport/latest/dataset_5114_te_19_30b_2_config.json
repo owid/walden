@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5114_te_19_30b_2_config",
+  "name": "Grapher metadata for dataset_5114_te_19_30b_2",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5114",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:21.017189",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6cc59dbf81d7821dc4422003eba1c9e9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5114_te_19_30b_2_config.json",
+  "md5": "dafaa9257530f07dedfbb35136056759"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3005_social_expenditure_pctgdp__oecd__1985__split_config",
+  "name": "Grapher metadata for dataset_3005_social_expenditure_pctgdp__oecd__1985__split",
+  "description": "Data-set put together by Marco Molteni under the guidance of Esteban. OECD (SOCX) on social spending are used as reference series and data are extrapolated backwards using OECD 1985. ",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3005",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:24:48.598914",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a281005ec4562a40c14389ae6ccc2480",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3005_social_expenditure_pctgdp__oecd__1985__split_config.json",
+  "md5": "5552a2edb6c0428db1e5adb5fd985e41"
+}

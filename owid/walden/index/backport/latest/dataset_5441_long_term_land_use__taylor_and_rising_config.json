@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5441_long_term_land_use__taylor_and_rising_config",
+  "name": "Grapher metadata for dataset_5441_long_term_land_use__taylor_and_rising",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5441",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:55.713664",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e93099b32c9194743325474c48da1642",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5441_long_term_land_use__taylor_and_rising_config.json",
+  "md5": "6202d244f1b7d673ba970955e161d680"
+}

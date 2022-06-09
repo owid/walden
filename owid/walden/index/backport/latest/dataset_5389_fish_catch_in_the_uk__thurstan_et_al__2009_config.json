@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5389_fish_catch_in_the_uk__thurstan_et_al__2009_config",
+  "name": "Grapher metadata for dataset_5389_fish_catch_in_the_uk__thurstan_et_al__2009",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5389",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:52.838265",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7c172903c4592c93c43ed245d31bf622",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5389_fish_catch_in_the_uk__thurstan_et_al__2009_config.json",
+  "md5": "815073680bd256e6698243b3319ba89d"
+}

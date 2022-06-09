@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5336_yield_gaps_versus_nitrogen_pollution__wuepper_et_al__2020_config",
+  "name": "Grapher metadata for dataset_5336_yield_gaps_versus_nitrogen_pollution__wuepper_et_al__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5336",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:51.632476",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2f580fbd7990bfea0e96420981541f8b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5336_yield_gaps_versus_nitrogen_pollution__wuepper_et_al__2020_config.json",
+  "md5": "d47fb8decb035b817eebfd63a5d661d7"
+}

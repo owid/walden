@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3072_humanitarian_aid_received__oecd__2018_config",
+  "name": "Grapher metadata for dataset_3072_humanitarian_aid_received__oecd__2018",
+  "description": "Data supplied by OECD contacts for its annual report. Please do not delete.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3072",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:24:33.753409",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "dbbce3c139001d9302deb5146adc421c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3072_humanitarian_aid_received__oecd__2018_config.json",
+  "md5": "4adaac3d4c5cc37d7938a8e12fdeeff0"
+}

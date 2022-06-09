@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3256_figure_22_17_gini_config",
+  "name": "Grapher metadata for dataset_3256_figure_22_17_gini",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3256",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:54.791859",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b3de008d4f9555b2c96ba5042dc73594",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3256_figure_22_17_gini_config.json",
+  "md5": "a804a57f60daf8e6fc414591960819ba"
+}

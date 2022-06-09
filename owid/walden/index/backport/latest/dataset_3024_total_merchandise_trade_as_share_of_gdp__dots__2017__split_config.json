@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3024_total_merchandise_trade_as_share_of_gdp__dots__2017__split_config",
+  "name": "Grapher metadata for dataset_3024_total_merchandise_trade_as_share_of_gdp__dots__2017__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3024",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:29:09.229520",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "db3010596fdceb4aec173bf3151b2e9b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3024_total_merchandise_trade_as_share_of_gdp__dots__2017__split_config.json",
+  "md5": "c564329fb0f66d1d57add133f98278fc"
+}

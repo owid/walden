@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2825_new_estimates_of_hours_of_work_per_week__1900_1957__jones__1963_values",
+  "name": "New estimates of hours of work per week, 1900-1957 - Jones (1963)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2825",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:38.842225",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2825_new_estimates_of_hours_of_work_per_week__1900_1957__jones__1963_values.feather",
+  "md5": "e3aa7e691e0ab4707fd2a07e0b83a9f1"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4213_relative_change_in_maternal_mortality_ratio__world_bank_config",
+  "name": "Grapher metadata for dataset_4213_relative_change_in_maternal_mortality_ratio__world_bank",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4213",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:20.008633",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0c197e8740197c0294035e46eccef374",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4213_relative_change_in_maternal_mortality_ratio__world_bank_config.json",
+  "md5": "c2a31421a325bcc19ef2ae10241a91d8"
+}

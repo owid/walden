@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3022_total_goods_trade_as_a_share_of_gdp__eurostat__2016__split_values",
+  "name": "Total goods trade as a share of GDP (Eurostat (2016)) (split)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3022",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:29:25.942198",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3022_total_goods_trade_as_a_share_of_gdp__eurostat__2016__split_values.feather",
+  "md5": "ed8abbeb8d53fafc44e81ee919dbd52d"
+}

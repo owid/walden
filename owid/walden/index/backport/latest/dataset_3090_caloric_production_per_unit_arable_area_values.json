@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3090_caloric_production_per_unit_arable_area_values",
+  "name": "Caloric production per unit arable area",
+  "description": "Test for Hannah. Private. Do not share.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3090",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:25:50.286021",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3090_caloric_production_per_unit_arable_area_values.feather",
+  "md5": "71b58002fe0a38722147b15a884efdac"
+}

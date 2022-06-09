@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5306_undernourishment__fao__2021_config",
+  "name": "Grapher metadata for dataset_5306_undernourishment__fao__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5306",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:18.065111",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a1e9cdb4cc94a89900c8d29b57d50f30",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5306_undernourishment__fao__2021_config.json",
+  "md5": "3265fa738922d9d547bd1ed8b149b166"
+}

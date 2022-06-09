@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3029_male_literacy_rate__schofield__1973__split_config",
+  "name": "Grapher metadata for dataset_3029_male_literacy_rate__schofield__1973__split",
+  "description": "Literacy figures are nationally representative.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3029",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:34.567743",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3d5f381d48b9efd2936b269217a6e395",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3029_male_literacy_rate__schofield__1973__split_config.json",
+  "md5": "4603eb0f69e9a2f236842eb1dd7d6731"
+}

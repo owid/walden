@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4184_world_bank__education_dataset__world_bank__2019_config",
+  "name": "Grapher metadata for dataset_4184_world_bank__education_dataset__world_bank__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4184",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:01.199313",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9131ca47590278681592cf89a521b339",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4184_world_bank__education_dataset__world_bank__2019_config.json",
+  "md5": "840cdc3184fbb525c9a8c486d016d897"
+}

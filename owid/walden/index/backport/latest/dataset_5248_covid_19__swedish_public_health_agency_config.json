@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5248_covid_19__swedish_public_health_agency_config",
+  "name": "Grapher metadata for dataset_5248_covid_19__swedish_public_health_agency",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5248",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:16.114798",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5441007d3df3bbe493dbdec3716e4648",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5248_covid_19__swedish_public_health_agency_config.json",
+  "md5": "cfd66c528cc58dfd8c4986c18a408f06"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5141_te_17_13_union_values",
+  "name": "TE-17.13_union",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5141",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:19.159870",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5141_te_17_13_union_values.feather",
+  "md5": "4594048f72b9f342ab194b71d956c5dc"
+}

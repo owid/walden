@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3023_total_goods_trade_as_a_share_of_gdp__world_bank__wdi__2016__split_config",
+  "name": "Grapher metadata for dataset_3023_total_goods_trade_as_a_share_of_gdp__world_bank__wdi__2016__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3023",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:37.234195",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "75957731ffecb615b6e38bb50d203751",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3023_total_goods_trade_as_a_share_of_gdp__world_bank__wdi__2016__split_config.json",
+  "md5": "1af1f35f6ee2d46cd1086cfbc70b2cdd"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3071_developmental_food_aid__oecd__2018_config",
+  "name": "Grapher metadata for dataset_3071_developmental_food_aid__oecd__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3071",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:17.345376",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b218852fce3ce19e6dd7a9edc9ac2801",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3071_developmental_food_aid__oecd__2018_config.json",
+  "md5": "eaaa0912e367fcfd3d44d78c820d72c2"
+}

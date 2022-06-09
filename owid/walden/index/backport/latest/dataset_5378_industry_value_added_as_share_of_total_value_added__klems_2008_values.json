@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5378_industry_value_added_as_share_of_total_value_added__klems_2008_values",
+  "name": "Industry value added as share of total value added (KLEMS 2008)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5378",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:38:58.359622",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5378_industry_value_added_as_share_of_total_value_added__klems_2008_values.feather",
+  "md5": "d1d2fa58627b20d8d0858c878336ee2d"
+}

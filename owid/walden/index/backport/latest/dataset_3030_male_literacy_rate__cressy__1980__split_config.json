@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3030_male_literacy_rate__cressy__1980__split_config",
+  "name": "Grapher metadata for dataset_3030_male_literacy_rate__cressy__1980__split",
+  "description": "Literacy figures are nationally representative.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3030",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:39.651937",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "138d62d9bd64392524d971ae83924ecc",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3030_male_literacy_rate__cressy__1980__split_config.json",
+  "md5": "5736e75cc08d4e378acd539268b71f55"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5567_test_joe__all_ucdp_geolocated_data_values",
+  "name": "TEST JOE: All UCDP geolocated data",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5567",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:38:33.352250",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5567_test_joe__all_ucdp_geolocated_data_values.feather",
+  "md5": "72bdac7231a7dedbdbfb364b6407a88a"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4097_te_1_6b_values",
+  "name": "TE-1.6b",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4097",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:39:13.133192",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4097_te_1_6b_values.feather",
+  "md5": "d4b193b37e028ea6f3748484218c50eb"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5314_someone_to_help_you_gallup_world_poll_values",
+  "name": "Someone-to-help-you-Gallup-World-Poll",
+  "description": "Cannot be shared publicly! It is not publicly licensed. But internally I want to keep it.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5314",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:48.739158",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5314_someone_to_help_you_gallup_world_poll_values.feather",
+  "md5": "21c75653f6b5853598a71d1739ac35d5"
+}

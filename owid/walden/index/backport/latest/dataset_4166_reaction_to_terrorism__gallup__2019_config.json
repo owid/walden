@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4166_reaction_to_terrorism__gallup__2019_config",
+  "name": "Grapher metadata for dataset_4166_reaction_to_terrorism__gallup__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4166",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:07.779344",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c3bf20852d6eed42d2725d8e7d350d99",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4166_reaction_to_terrorism__gallup__2019_config.json",
+  "md5": "d1dad8b6dcad6d6c052b7db16ddb21da"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5192_global_health_indicators__number_of_people__2020_values",
+  "name": "Global Health Indicators \u2013 Number of People (2020)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5192",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:37:18.900035",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5192_global_health_indicators__number_of_people__2020_values.feather",
+  "md5": "6cadfaadfa635b73ae0ae0f9238367c7"
+}

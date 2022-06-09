@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5632_working_hours_by_income__bick_et_al__2018_config",
+  "name": "Grapher metadata for dataset_5632_working_hours_by_income__bick_et_al__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5632",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:38.693202",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5796714d8516905cf1fc1f823ca9fee3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5632_working_hours_by_income__bick_et_al__2018_config.json",
+  "md5": "2cfe42ae46fb6ffd6de4a064b470913a"
+}

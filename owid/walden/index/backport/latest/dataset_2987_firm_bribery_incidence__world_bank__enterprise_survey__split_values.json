@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2987_firm_bribery_incidence__world_bank__enterprise_survey__split_values",
+  "name": "Firm bribery incidence (World Bank \u2013 Enterprise Survey) (split)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2987",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:30.389407",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2987_firm_bribery_incidence__world_bank__enterprise_survey__split_values.feather",
+  "md5": "91dac4de864b94204f3dff5fdeed8f1f"
+}

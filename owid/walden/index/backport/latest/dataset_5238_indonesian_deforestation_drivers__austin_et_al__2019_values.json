@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5238_indonesian_deforestation_drivers__austin_et_al__2019_values",
+  "name": "Indonesian deforestation drivers (Austin et al. (2019)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5238",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:33.976599",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5238_indonesian_deforestation_drivers__austin_et_al__2019_values.feather",
+  "md5": "602143f70277d115b3c62d937bd6db37"
+}

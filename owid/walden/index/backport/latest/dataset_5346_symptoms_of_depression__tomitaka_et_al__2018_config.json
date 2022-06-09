@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5346_symptoms_of_depression__tomitaka_et_al__2018_config",
+  "name": "Grapher metadata for dataset_5346_symptoms_of_depression__tomitaka_et_al__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5346",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:29:08.029163",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ed05c707cdd52a105872f2675b83d51d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5346_symptoms_of_depression__tomitaka_et_al__2018_config.json",
+  "md5": "8dffc34ec23b97b0fc8eef7b3101cfeb"
+}

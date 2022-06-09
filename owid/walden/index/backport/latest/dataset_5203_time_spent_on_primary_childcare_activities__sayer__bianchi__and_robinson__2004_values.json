@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5203_time_spent_on_primary_childcare_activities__sayer__bianchi__and_robinson__2004_values",
+  "name": "Time spent on primary childcare activities - Sayer, Bianchi, and Robinson (2004)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5203",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:29.160234",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5203_time_spent_on_primary_childcare_activities__sayer__bianchi__and_robinson__2004_values.feather",
+  "md5": "a415176b282f300a2f33a5a424f05bc7"
+}

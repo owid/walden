@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5144_figure_17_28_interest_rate_config",
+  "name": "Grapher metadata for dataset_5144_figure_17_28_interest_rate",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5144",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:22.330145",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f29ec033b6dbbddab7d13fdd4a1dc196",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5144_figure_17_28_interest_rate_config.json",
+  "md5": "772df5205926e4cf7716d60cb187ecbe"
+}

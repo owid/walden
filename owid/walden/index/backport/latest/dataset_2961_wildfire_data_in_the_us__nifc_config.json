@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2961_wildfire_data_in_the_us__nifc_config",
+  "name": "Grapher metadata for dataset_2961_wildfire_data_in_the_us__nifc",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2961",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:27.546571",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0105510913cde6e981cfadb02878d704",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2961_wildfire_data_in_the_us__nifc_config.json",
+  "md5": "d89dde31a3de581da1e9390e0f5d503b"
+}

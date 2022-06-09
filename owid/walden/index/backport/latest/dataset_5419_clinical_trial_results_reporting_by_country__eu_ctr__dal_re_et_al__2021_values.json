@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5419_clinical_trial_results_reporting_by_country__eu_ctr__dal_re_et_al__2021_values",
+  "name": "Clinical trial results reporting by country \u2013 EU-CTR (Dal-R\u00e9 et al., 2021)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5419",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:25:27.368951",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5419_clinical_trial_results_reporting_by_country__eu_ctr__dal_re_et_al__2021_values.feather",
+  "md5": "444f712ffa429f84609bc1d24d65cd30"
+}

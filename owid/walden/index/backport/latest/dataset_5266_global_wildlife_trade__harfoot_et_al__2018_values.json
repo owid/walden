@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5266_global_wildlife_trade__harfoot_et_al__2018_values",
+  "name": "Global wildlife trade (Harfoot et al. 2018) ",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5266",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:40.433467",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5266_global_wildlife_trade__harfoot_et_al__2018_values.feather",
+  "md5": "ea37659d09dadd31927ac62ab5792a9b"
+}

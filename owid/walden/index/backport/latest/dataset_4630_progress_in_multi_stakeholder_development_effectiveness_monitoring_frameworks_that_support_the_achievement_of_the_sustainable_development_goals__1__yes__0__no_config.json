@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4630_progress_in_multi_stakeholder_development_effectiveness_monitoring_frameworks_that_support_the_achievement_of_the_sustainable_development_goals__1__yes__0__no_config",
+  "name": "Grapher metadata for dataset_4630_progress_in_multi_stakeholder_development_effectiveness_monitoring_frameworks_that_support_the_achievement_of_the_sustainable_development_goals__1__yes__0__no",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4630",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:01.880784",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "95dcfb45e3a7cb53da37de15ba91b00d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4630_progress_in_multi_stakeholder_development_effectiveness_monitoring_frameworks_that_support_the_achievement_of_the_sustainable_development_goals__1__yes__0__no_config.json",
+  "md5": "d92599f6a7c6a63ca10c099a3c4af487"
+}

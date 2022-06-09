@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4102_figure_17_21_updated_config",
+  "name": "Grapher metadata for dataset_4102_figure_17_21_updated",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4102",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:56.394470",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f90816047af2535a81b126051661f3d5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4102_figure_17_21_updated_config.json",
+  "md5": "52370b35a76bf32e560c55ec479317ec"
+}

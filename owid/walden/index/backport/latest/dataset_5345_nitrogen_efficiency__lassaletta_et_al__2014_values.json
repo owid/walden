@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5345_nitrogen_efficiency__lassaletta_et_al__2014_values",
+  "name": "Nitrogen efficiency (Lassaletta et al. 2014)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5345",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:38:46.347324",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5345_nitrogen_efficiency__lassaletta_et_al__2014_values.feather",
+  "md5": "20b0eafdffe2130fe74cc4743294f1c0"
+}

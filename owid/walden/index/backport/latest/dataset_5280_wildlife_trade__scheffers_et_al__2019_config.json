@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5280_wildlife_trade__scheffers_et_al__2019_config",
+  "name": "Grapher metadata for dataset_5280_wildlife_trade__scheffers_et_al__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5280",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:36:58.790221",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9357ae3bb83cc457682c593b8c4a619b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5280_wildlife_trade__scheffers_et_al__2019_config.json",
+  "md5": "b13da0907c49315f54c3d8c36bbd6d84"
+}

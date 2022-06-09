@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5096_covid_19_model_estimates__ihme__2022_config",
+  "name": "Grapher metadata for dataset_5096_covid_19_model_estimates__ihme__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5096",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:25:29.699494",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9d8ae2bcb565bb24d57ce5279616206e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5096_covid_19_model_estimates__ihme__2022_config.json",
+  "md5": "4c90bdc34f4b606f8dfe88d33a1641e4"
+}

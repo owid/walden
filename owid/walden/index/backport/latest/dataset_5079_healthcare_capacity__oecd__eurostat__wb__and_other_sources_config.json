@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5079_healthcare_capacity__oecd__eurostat__wb__and_other_sources_config",
+  "name": "Grapher metadata for dataset_5079_healthcare_capacity__oecd__eurostat__wb__and_other_sources",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5079",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:36:34.929677",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "86f47860ee5e9b472865453e07df4d41",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5079_healthcare_capacity__oecd__eurostat__wb__and_other_sources_config.json",
+  "md5": "c807c5d14aea91f49a1edffa87179928"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4866_number_of_adolescents__based_on_un_population_division__2017_values",
+  "name": "Number of Adolescents \u2013 based on UN Population Division (2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4866",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:15.135441",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4866_number_of_adolescents__based_on_un_population_division__2017_values.feather",
+  "md5": "dcd560e554070db1fc5e751eed0b7a64"
+}

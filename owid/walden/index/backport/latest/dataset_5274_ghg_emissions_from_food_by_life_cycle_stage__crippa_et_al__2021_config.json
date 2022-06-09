@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5274_ghg_emissions_from_food_by_life_cycle_stage__crippa_et_al__2021_config",
+  "name": "Grapher metadata for dataset_5274_ghg_emissions_from_food_by_life_cycle_stage__crippa_et_al__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5274",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:11.655518",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fc9312e484388099981abc89a60a25f2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5274_ghg_emissions_from_food_by_life_cycle_stage__crippa_et_al__2021_config.json",
+  "md5": "ef43e2e6327e20a6a7e5277b252479d3"
+}

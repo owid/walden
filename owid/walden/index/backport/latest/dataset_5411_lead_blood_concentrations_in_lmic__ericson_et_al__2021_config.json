@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5411_lead_blood_concentrations_in_lmic__ericson_et_al__2021_config",
+  "name": "Grapher metadata for dataset_5411_lead_blood_concentrations_in_lmic__ericson_et_al__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5411",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:08.339762",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a04738165174e8a80e3e19e327a624cf",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5411_lead_blood_concentrations_in_lmic__ericson_et_al__2021_config.json",
+  "md5": "568bf364859b1a43b37ffe58e35db265"
+}

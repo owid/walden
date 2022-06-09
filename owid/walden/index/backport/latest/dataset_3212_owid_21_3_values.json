@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3212_owid_21_3_values",
+  "name": "OWID_21.3",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3212",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:27:25.390233",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3212_owid_21_3_values.feather",
+  "md5": "6866c317bc0803a9f7eae305549ab27a"
+}

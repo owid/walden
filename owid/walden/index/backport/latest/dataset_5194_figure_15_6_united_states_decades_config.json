@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5194_figure_15_6_united_states_decades_config",
+  "name": "Grapher metadata for dataset_5194_figure_15_6_united_states_decades",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5194",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:00.520780",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e9ee1ebc1cb3b445e6b13891d3ef57f8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5194_figure_15_6_united_states_decades_config.json",
+  "md5": "a9bd3aba3e3ad002f5d76fb4529042b7"
+}

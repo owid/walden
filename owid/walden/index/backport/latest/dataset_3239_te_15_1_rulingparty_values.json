@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3239_te_15_1_rulingparty_values",
+  "name": "TE-15.1_RulingParty",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3239",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:20.635162",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3239_te_15_1_rulingparty_values.feather",
+  "md5": "32cb664b06d75fb2ebdd8c578b72b515"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4796_nationally_derived_quality_of_groundwater__pct_config",
+  "name": "Grapher metadata for dataset_4796_nationally_derived_quality_of_groundwater__pct",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4796",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:03.217801",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e30bff31b6aa4ce90798e16e6f877b52",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4796_nationally_derived_quality_of_groundwater__pct_config.json",
+  "md5": "e2e617105a5e10e740d2ba779a32da20"
+}

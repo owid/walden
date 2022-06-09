@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3016_female_to_male_ratio_of_time_devoted_to_unpaid_care_work__oecd__2014__split_config",
+  "name": "Grapher metadata for dataset_3016_female_to_male_ratio_of_time_devoted_to_unpaid_care_work__oecd__2014__split",
+  "description": "Average number of hours spent on paid and unpaid domestic work by sex.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3016",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:50.468577",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "cd9368efa3180ab4db753da97bd2b7bd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3016_female_to_male_ratio_of_time_devoted_to_unpaid_care_work__oecd__2014__split_config.json",
+  "md5": "eee8a73a800ad29c3c1d6711ae596cbd"
+}

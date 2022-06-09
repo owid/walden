@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5171_working_hours__bick_et_al__2019_config",
+  "name": "Grapher metadata for dataset_5171_working_hours__bick_et_al__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5171",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:30.093799",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "1761c86021626e0fb5472e86caab7106",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5171_working_hours__bick_et_al__2019_config.json",
+  "md5": "23dd0c60e1987fccf0fa5344c0c0c04b"
+}

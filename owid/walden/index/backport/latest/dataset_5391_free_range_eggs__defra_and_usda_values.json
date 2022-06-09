@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5391_free_range_eggs__defra_and_usda_values",
+  "name": "Free-range eggs (DEFRA and USDA)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5391",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:34:16.536461",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5391_free_range_eggs__defra_and_usda_values.feather",
+  "md5": "a3fdf308bae747b2445f7b3d892a4f72"
+}

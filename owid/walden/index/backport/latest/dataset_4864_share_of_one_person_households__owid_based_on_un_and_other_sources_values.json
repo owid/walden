@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4864_share_of_one_person_households__owid_based_on_un_and_other_sources_values",
+  "name": "Share of one person households - OWID based on UN and other sources",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4864",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:40:17.743306",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4864_share_of_one_person_households__owid_based_on_un_and_other_sources_values.feather",
+  "md5": "baa1ddc1dc84b3205e7df4df27c130d2"
+}

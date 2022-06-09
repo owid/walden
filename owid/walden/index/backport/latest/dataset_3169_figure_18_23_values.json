@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3169_figure_18_23_values",
+  "name": "Figure_18.23",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3169",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:28:54.182550",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3169_figure_18_23_values.feather",
+  "md5": "89262987a7d592019bef503c65f56b50"
+}

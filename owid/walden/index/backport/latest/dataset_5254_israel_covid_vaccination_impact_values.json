@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5254_israel_covid_vaccination_impact_values",
+  "name": "israel_covid_vaccination_impact",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5254",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:28:44.052714",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5254_israel_covid_vaccination_impact_values.feather",
+  "md5": "b4dc3a6d20d9b24dfa2ef07cb4461319"
+}

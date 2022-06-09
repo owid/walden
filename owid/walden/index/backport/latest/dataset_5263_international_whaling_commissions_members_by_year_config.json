@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5263_international_whaling_commissions_members_by_year_config",
+  "name": "Grapher metadata for dataset_5263_international_whaling_commissions_members_by_year",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5263",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:25:48.648224",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f3582e716f8df3016889307c6f64cc10",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5263_international_whaling_commissions_members_by_year_config.json",
+  "md5": "e23c7d4d0cd89fb2b0dba617df319e24"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5142_te_17_16_cpi_values",
+  "name": "TE-17.16_CPI",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5142",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:38:19.517248",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5142_te_17_16_cpi_values.feather",
+  "md5": "2fb0d3757eefc5b6c09f03e030750be1"
+}

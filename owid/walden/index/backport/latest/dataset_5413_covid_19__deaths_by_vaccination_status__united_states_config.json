@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5413_covid_19__deaths_by_vaccination_status__united_states_config",
+  "name": "Grapher metadata for dataset_5413_covid_19__deaths_by_vaccination_status__united_states",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5413",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:26.795642",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d94c0efab23aecd0c9271fa251938550",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5413_covid_19__deaths_by_vaccination_status__united_states_config.json",
+  "md5": "7b2e292830a1df33f457f408381a6fd8"
+}

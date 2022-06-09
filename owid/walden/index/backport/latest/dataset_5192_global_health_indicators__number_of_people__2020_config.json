@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5192_global_health_indicators__number_of_people__2020_config",
+  "name": "Grapher metadata for dataset_5192_global_health_indicators__number_of_people__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5192",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:17.849333",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "62f1b3535d27ef8237331df161f46ad2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5192_global_health_indicators__number_of_people__2020_config.json",
+  "md5": "b439e32a291d1aed3d8ebd48e60d3933"
+}

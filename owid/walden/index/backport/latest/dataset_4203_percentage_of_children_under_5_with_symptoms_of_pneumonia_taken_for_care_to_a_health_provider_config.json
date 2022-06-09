@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4203_percentage_of_children_under_5_with_symptoms_of_pneumonia_taken_for_care_to_a_health_provider_config",
+  "name": "Grapher metadata for dataset_4203_percentage_of_children_under_5_with_symptoms_of_pneumonia_taken_for_care_to_a_health_provider",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4203",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:09.221197",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c5d26fd0e07e161bb790c410e36d807e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4203_percentage_of_children_under_5_with_symptoms_of_pneumonia_taken_for_care_to_a_health_provider_config.json",
+  "md5": "71fb8f32940de55389cda84225160bd0"
+}

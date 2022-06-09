@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3253_figure_22_16_updated_democracy_config",
+  "name": "Grapher metadata for dataset_3253_figure_22_16_updated_democracy",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3253",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:14.792392",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c55cc7306c160e0662ca981110564fc8",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3253_figure_22_16_updated_democracy_config.json",
+  "md5": "f54777c4eaf0b20e6f2ab83d829f2729"
+}

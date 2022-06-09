@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5387_change_in_marine_mammal_populations__duarte_et_al__2020_config",
+  "name": "Grapher metadata for dataset_5387_change_in_marine_mammal_populations__duarte_et_al__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5387",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:28.311199",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fbea67096fc43d6ef59fd717ccdd9fc6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5387_change_in_marine_mammal_populations__duarte_et_al__2020_config.json",
+  "md5": "674589482d92cfd308494261318dd5c6"
+}

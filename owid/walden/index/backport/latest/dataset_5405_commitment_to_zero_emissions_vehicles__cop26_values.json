@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5405_commitment_to_zero_emissions_vehicles__cop26_values",
+  "name": "Commitment to zero emissions vehicles (COP26)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5405",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:05.884583",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5405_commitment_to_zero_emissions_vehicles__cop26_values.feather",
+  "md5": "3be08b680158d7457c4aa5b317bf04c1"
+}

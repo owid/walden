@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5282_threatened_and_evaluated_species__iucn_red_list_config",
+  "name": "Grapher metadata for dataset_5282_threatened_and_evaluated_species__iucn_red_list",
+  "description": "Manually update spreadsheet",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5282",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:24:36.291586",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e867adb8d39de5344c17e48b2a9f277e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5282_threatened_and_evaluated_species__iucn_red_list_config.json",
+  "md5": "5d3691735d6f4999a9521d089deece34"
+}

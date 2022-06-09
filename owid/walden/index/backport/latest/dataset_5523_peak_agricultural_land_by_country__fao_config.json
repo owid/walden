@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5523_peak_agricultural_land_by_country__fao_config",
+  "name": "Grapher metadata for dataset_5523_peak_agricultural_land_by_country__fao",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5523",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:36:39.945178",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d651c189ccb17398215100f564af20dd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5523_peak_agricultural_land_by_country__fao_config.json",
+  "md5": "4bc1972eb860f5dbd087fecc1b92c88d"
+}

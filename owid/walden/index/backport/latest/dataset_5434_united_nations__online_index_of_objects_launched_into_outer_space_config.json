@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5434_united_nations__online_index_of_objects_launched_into_outer_space_config",
+  "name": "Grapher metadata for dataset_5434_united_nations__online_index_of_objects_launched_into_outer_space",
+  "description": "Code & data here: https://github.com/owid/notebooks/tree/main/EdouardMathieu/2021_12_outer_space_objects",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5434",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:50.644286",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "48536fd55d4493521765f05a2efc8225",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5434_united_nations__online_index_of_objects_launched_into_outer_space_config.json",
+  "md5": "94d9fa067902aecd3dd464498af3330d"
+}

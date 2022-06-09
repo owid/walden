@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_88_world_bank_economy__and__growth__world_bank_edstats__2015_config",
+  "name": "Grapher metadata for dataset_88_world_bank_economy__and__growth__world_bank_edstats__2015",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/88",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:11.065027",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fda530f1e5d98cf960f089af22885e2a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_88_world_bank_economy__and__growth__world_bank_edstats__2015_config.json",
+  "md5": "014b95cd5c9f8e38c258d5ae3072eca0"
+}

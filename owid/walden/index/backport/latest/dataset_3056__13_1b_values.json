@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3056__13_1b_values",
+  "name": "13.1b",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3056",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:40:11.431558",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3056__13_1b_values.feather",
+  "md5": "c5aee27c2f0e0fc392dfaa55a7492d03"
+}

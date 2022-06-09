@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5446_global_land_used_for_agriculture__un_fao__2021_config",
+  "name": "Grapher metadata for dataset_5446_global_land_used_for_agriculture__un_fao__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5446",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:41.981302",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ebac6ef1f4dc8f2676ae049b6d6eecd3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5446_global_land_used_for_agriculture__un_fao__2021_config.json",
+  "md5": "48130596cf699fedc3d22ad4762ca6b9"
+}

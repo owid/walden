@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3243_figure_19_1__disposable_income_inequality_config",
+  "name": "Grapher metadata for dataset_3243_figure_19_1__disposable_income_inequality",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3243",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:40:02.022029",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0a6f8e967c6d21f801843401d8d103c7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3243_figure_19_1__disposable_income_inequality_config.json",
+  "md5": "b45458de4b6ba4777e1064779c124da4"
+}

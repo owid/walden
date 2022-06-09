@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5127_te_13_3_unemployment_values",
+  "name": "TE-13.3_unemployment",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5127",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:34:04.756921",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5127_te_13_3_unemployment_values.feather",
+  "md5": "dbc2b27892c1bd6b69a0fe3426633b58"
+}

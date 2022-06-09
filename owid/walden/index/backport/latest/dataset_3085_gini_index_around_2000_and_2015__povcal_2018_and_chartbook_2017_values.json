@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3085_gini_index_around_2000_and_2015__povcal_2018_and_chartbook_2017_values",
+  "name": "Gini Index around 2000 and 2015 (Povcal 2018 and Chartbook 2017)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3085",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:57.850001",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3085_gini_index_around_2000_and_2015__povcal_2018_and_chartbook_2017_values.feather",
+  "md5": "1d608c6e2aa637eb89cd394419196234"
+}

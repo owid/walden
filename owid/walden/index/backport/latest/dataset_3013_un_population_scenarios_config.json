@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3013_un_population_scenarios_config",
+  "name": "Grapher metadata for dataset_3013_un_population_scenarios",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3013",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:19.449429",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "63fe91ee3202670902b5b410c0198a81",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3013_un_population_scenarios_config.json",
+  "md5": "1a4f21d961545b0ea91653bc065b624f"
+}

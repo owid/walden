@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5545_do_not_use__russo_ukrainian_war_refugees__unhcr__grapher_config",
+  "name": "Grapher metadata for dataset_5545_do_not_use__russo_ukrainian_war_refugees__unhcr__grapher",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5545",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:00.460048",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "32b0a8c1d09cf3ba93e004aca8d20b38",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5545_do_not_use__russo_ukrainian_war_refugees__unhcr__grapher_config.json",
+  "md5": "6c5b49f64408d886c236d90697dce337"
+}

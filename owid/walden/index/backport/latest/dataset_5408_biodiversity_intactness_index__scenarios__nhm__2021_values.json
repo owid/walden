@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5408_biodiversity_intactness_index__scenarios__nhm__2021_values",
+  "name": "Biodiversity Intactness Index - Scenarios - NHM (2021)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5408",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:02.923324",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5408_biodiversity_intactness_index__scenarios__nhm__2021_values.feather",
+  "md5": "a88e0547cd132b0d6960be384005343e"
+}

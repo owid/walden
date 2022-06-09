@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3232_te_13_19a_2_gdp_values",
+  "name": "TE-13.19a_2_GDP",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3232",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:42.454177",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3232_te_13_19a_2_gdp_values.feather",
+  "md5": "d20b5e785fc37f8a799eded9b0e2ee50"
+}

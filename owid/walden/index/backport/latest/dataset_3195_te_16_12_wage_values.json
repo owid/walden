@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3195_te_16_12_wage_values",
+  "name": "TE-16.12_Wage",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3195",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:27:31.753987",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3195_te_16_12_wage_values.feather",
+  "md5": "9c7190b1c0f2e453557c4fdaace539dd"
+}

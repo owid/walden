@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5477_dropouts_in_antidepressant_trials_by_cause__schalkwijk__2014_values",
+  "name": "Dropouts in antidepressant trials by cause \u2013 Schalkwijk (2014)",
+  "description": "Note that there were also other concurrent temporal trends including sample size, number of sites, subject age, trial duration, and drug dosage.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5477",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:24:41.901930",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5477_dropouts_in_antidepressant_trials_by_cause__schalkwijk__2014_values.feather",
+  "md5": "76aada5b3f1029aca7075fc2b62cd349"
+}

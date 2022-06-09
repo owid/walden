@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5622_yougov__dietary_choices_of_brits_config",
+  "name": "Grapher metadata for dataset_5622_yougov__dietary_choices_of_brits",
+  "description": "https://github.com/owid/notebooks/tree/main/EdouardMathieu/yougov_dietary_choices",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5622",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:52.209257",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "bb906b91e6bf75ec4bf99062d4b845c5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5622_yougov__dietary_choices_of_brits_config.json",
+  "md5": "0a9480997db9eabb70c94db03ee3da60"
+}

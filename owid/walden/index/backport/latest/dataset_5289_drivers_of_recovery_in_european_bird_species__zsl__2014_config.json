@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5289_drivers_of_recovery_in_european_bird_species__zsl__2014_config",
+  "name": "Grapher metadata for dataset_5289_drivers_of_recovery_in_european_bird_species__zsl__2014",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5289",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:27:54.362514",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "10b9a82589bbfe225bc639c1a057d9c5",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5289_drivers_of_recovery_in_european_bird_species__zsl__2014_config.json",
+  "md5": "8250e9a1495302fae06c79e43b319e91"
+}

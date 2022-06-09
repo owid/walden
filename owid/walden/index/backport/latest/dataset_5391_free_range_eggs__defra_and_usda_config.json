@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5391_free_range_eggs__defra_and_usda_config",
+  "name": "Grapher metadata for dataset_5391_free_range_eggs__defra_and_usda",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5391",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:34:16.138284",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "62bed6cc4cc45d6b398b5f8d60463ce1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5391_free_range_eggs__defra_and_usda_config.json",
+  "md5": "40dbe2e37cfe8149b0fa11a2a88b2c23"
+}

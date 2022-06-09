@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5508_indian_child_mortality_rate_by_gender_values",
+  "name": "Indian child mortality rate by gender",
+  "description": "Permalink: http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2019-permalink/4f9d6dd65a1127c3a0d4c6a7868346b6\n\nLocation: India\nYear: Most recent\nContext: Cause\nAge: 1 to 4\nMetric: Rate\nMeasure: Deaths\nSex: Male, Female\nCause: Acute hepatitis, Congenital birth defects, Diarrheal diseases, Digestive diseases, Encephalitis, Enteric infections, Congenital heart anomalies, Kidney diseases, Liver diseases, Lower respiratory infections, Malaria, Measles, Nutritional deficiencies, Protein-energy malnutrition, Syphilis, Tetanus, Tuberculosis, Typhoid fever, Upper respiratory infections, Whooping cough. \n\n\n",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5508",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:12.309278",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5508_indian_child_mortality_rate_by_gender_values.feather",
+  "md5": "73be123bb342b82ef86a8c1687df29ee"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5338_covid_19__variants_values",
+  "name": "COVID-19 - Variants",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5338",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:38:53.645536",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5338_covid_19__variants_values.feather",
+  "md5": "012913ffdf445eb245c79811cefd894d"
+}

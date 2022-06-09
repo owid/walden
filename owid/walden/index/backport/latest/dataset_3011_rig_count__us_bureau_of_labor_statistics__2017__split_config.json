@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3011_rig_count__us_bureau_of_labor_statistics__2017__split_config",
+  "name": "Grapher metadata for dataset_3011_rig_count__us_bureau_of_labor_statistics__2017__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3011",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:35:17.505126",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6a80bb7673a2855c1adfdd7f6f790527",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3011_rig_count__us_bureau_of_labor_statistics__2017__split_config.json",
+  "md5": "e9cd1324a4f33b00e64c8c4bfa04a3a7"
+}

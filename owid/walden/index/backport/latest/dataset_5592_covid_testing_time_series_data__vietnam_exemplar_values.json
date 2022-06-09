@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5592_covid_testing_time_series_data__vietnam_exemplar_values",
+  "name": "COVID testing time series data (Vietnam exemplar)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5592",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:37:23.991755",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5592_covid_testing_time_series_data__vietnam_exemplar_values.feather",
+  "md5": "019a5d5df3b1db0bec63ca595d10ab2e"
+}

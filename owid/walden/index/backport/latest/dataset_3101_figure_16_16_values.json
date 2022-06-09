@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3101_figure_16_16_values",
+  "name": "Figure 16.16",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3101",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:35:05.016160",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3101_figure_16_16_values.feather",
+  "md5": "f8f406f9c01c6450789fcd80861b043e"
+}

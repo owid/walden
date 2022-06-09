@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3227_te_13_19a_capital_config",
+  "name": "Grapher metadata for dataset_3227_te_13_19a_capital",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3227",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:48.262392",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e258d7eaa7801dcd8056deaf018236ef",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3227_te_13_19a_capital_config.json",
+  "md5": "9141fd24f5ac7b5bf6ddb6833eba269c"
+}

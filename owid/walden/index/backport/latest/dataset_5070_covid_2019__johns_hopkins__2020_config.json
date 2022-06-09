@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5070_covid_2019__johns_hopkins__2020_config",
+  "name": "Grapher metadata for dataset_5070_covid_2019__johns_hopkins__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5070",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:34:09.260748",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6267c3b83ffb7b444640bead30a26bf7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5070_covid_2019__johns_hopkins__2020_config.json",
+  "md5": "5c94f284c39116192b555036513a0bb1"
+}

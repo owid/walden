@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5172_working_hours__oecd__2020_config",
+  "name": "Grapher metadata for dataset_5172_working_hours__oecd__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5172",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:06.457867",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "0a946b9c2f3f6212684c8fcb0b5d0b75",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5172_working_hours__oecd__2020_config.json",
+  "md5": "b51371874769212d8cec65a84878c8b5"
+}

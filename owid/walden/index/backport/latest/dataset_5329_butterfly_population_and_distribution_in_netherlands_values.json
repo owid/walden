@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5329_butterfly_population_and_distribution_in_netherlands_values",
+  "name": "Butterfly population and distribution in Netherlands",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5329",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:36.090459",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5329_butterfly_population_and_distribution_in_netherlands_values.feather",
+  "md5": "0408feee8bbb4e1b8c0b038254269160"
+}

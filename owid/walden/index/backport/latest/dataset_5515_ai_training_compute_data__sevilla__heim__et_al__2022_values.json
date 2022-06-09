@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5515_ai_training_compute_data__sevilla__heim__et_al__2022_values",
+  "name": "AI Training Compute Data \u2013 Sevilla, Heim, et al (2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5515",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:24:39.875974",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5515_ai_training_compute_data__sevilla__heim__et_al__2022_values.feather",
+  "md5": "c0eb28d56f59454646f79b5d47437c5d"
+}

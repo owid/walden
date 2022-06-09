@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5586_conference_attendance_data__ai_index__2022_config",
+  "name": "Grapher metadata for dataset_5586_conference_attendance_data__ai_index__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5586",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:44.003593",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e1d294a57ab38bc66961fffbeb02355a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5586_conference_attendance_data__ai_index__2022_config.json",
+  "md5": "58a1dd124f056370da53fe1d106a7f3d"
+}

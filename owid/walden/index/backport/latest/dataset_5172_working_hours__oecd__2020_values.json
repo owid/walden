@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5172_working_hours__oecd__2020_values",
+  "name": "Working Hours \u2013 OECD (2020)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5172",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:39:06.882611",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5172_working_hours__oecd__2020_values.feather",
+  "md5": "7d06bf1d3e616038fa2d58f30cb8a490"
+}

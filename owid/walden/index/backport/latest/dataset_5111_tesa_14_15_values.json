@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5111_tesa_14_15_values",
+  "name": "TESA_14.15",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5111",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:24:32.325431",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5111_tesa_14_15_values.feather",
+  "md5": "edd42877a74c3a0d84a7d015710b0637"
+}

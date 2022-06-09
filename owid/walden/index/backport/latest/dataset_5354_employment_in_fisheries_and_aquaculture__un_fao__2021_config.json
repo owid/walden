@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5354_employment_in_fisheries_and_aquaculture__un_fao__2021_config",
+  "name": "Grapher metadata for dataset_5354_employment_in_fisheries_and_aquaculture__un_fao__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5354",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:36:48.808916",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5eb52b3fe187ece280e7ec37fc30445f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5354_employment_in_fisheries_and_aquaculture__un_fao__2021_config.json",
+  "md5": "bdff0ce6731cac40c535d464ae3efbc1"
+}

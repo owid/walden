@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2926_figure1_3b_values",
+  "name": "Figure1.3b",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2926",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:29:15.806220",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2926_figure1_3b_values.feather",
+  "md5": "500b15a214f49fa9b05567d714da67e8"
+}

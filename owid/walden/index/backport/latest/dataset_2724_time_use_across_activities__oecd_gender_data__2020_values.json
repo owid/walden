@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2724_time_use_across_activities__oecd_gender_data__2020_values",
+  "name": "Time use across activities - OECD Gender data (2020)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2724",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:36:58.309535",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2724_time_use_across_activities__oecd_gender_data__2020_values.feather",
+  "md5": "2390412c865e524860080b514afffceb"
+}

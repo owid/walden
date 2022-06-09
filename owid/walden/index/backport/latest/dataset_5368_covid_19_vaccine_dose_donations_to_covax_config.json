@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5368_covid_19_vaccine_dose_donations_to_covax_config",
+  "name": "Grapher metadata for dataset_5368_covid_19_vaccine_dose_donations_to_covax",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5368",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:35:32.083601",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a5bac876057280a9cc9c8ee407d741c1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5368_covid_19_vaccine_dose_donations_to_covax_config.json",
+  "md5": "9a1c3d2887b31b91ba4364e72a70a5ff"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4173_users_by_social_media_platform__statista_and_tnw__2019_config",
+  "name": "Grapher metadata for dataset_4173_users_by_social_media_platform__statista_and_tnw__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4173",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:31.236652",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "51507b5d0650709e0299435775820fbd",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4173_users_by_social_media_platform__statista_and_tnw__2019_config.json",
+  "md5": "326fc5313e3f8eead2fdaf84d3b50abf"
+}

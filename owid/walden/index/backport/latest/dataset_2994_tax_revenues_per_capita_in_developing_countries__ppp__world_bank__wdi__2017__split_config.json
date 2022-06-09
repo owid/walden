@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2994_tax_revenues_per_capita_in_developing_countries__ppp__world_bank__wdi__2017__split_config",
+  "name": "Grapher metadata for dataset_2994_tax_revenues_per_capita_in_developing_countries__ppp__world_bank__wdi__2017__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2994",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:34:00.907734",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "943a2718e701e229658643edb785d6fa",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2994_tax_revenues_per_capita_in_developing_countries__ppp__world_bank__wdi__2017__split_config.json",
+  "md5": "f4147b053172c7e2a557b0fa07d6cb2e"
+}

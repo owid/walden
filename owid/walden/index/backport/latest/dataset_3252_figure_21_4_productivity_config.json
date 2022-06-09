@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3252_figure_21_4_productivity_config",
+  "name": "Grapher metadata for dataset_3252_figure_21_4_productivity",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3252",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:29:16.481885",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "136dd1cd357d6e4464f9c76033d458c6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3252_figure_21_4_productivity_config.json",
+  "md5": "61111478761ff2969086de8158640bc0"
+}

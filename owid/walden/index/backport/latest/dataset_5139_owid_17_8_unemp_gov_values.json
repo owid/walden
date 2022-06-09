@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5139_owid_17_8_unemp_gov_values",
+  "name": "OWID_17.8_unemp_gov",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5139",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:29:23.644592",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5139_owid_17_8_unemp_gov_values.feather",
+  "md5": "aafcd8f46c957640fdc2b3eb7265f011"
+}

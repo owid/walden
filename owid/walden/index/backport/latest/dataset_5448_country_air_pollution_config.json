@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5448_country_air_pollution_config",
+  "name": "Grapher metadata for dataset_5448_country_air_pollution",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5448",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:29:10.725816",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5b6d187517db401b198ebd11ed77d4e1",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5448_country_air_pollution_config.json",
+  "md5": "fd2e5a7c5cbc2c2ac1f06e4309acf8f0"
+}

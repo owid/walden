@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5264_international_whaling_commission_status__iwc__2020_config",
+  "name": "Grapher metadata for dataset_5264_international_whaling_commission_status__iwc__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5264",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:34:17.132240",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8ae0a457ffb138e36f9ddc22d88f309f",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5264_international_whaling_commission_status__iwc__2020_config.json",
+  "md5": "87233d8a53c971d6b83d511db21c75de"
+}

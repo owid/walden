@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5407_biodiversity_intactness_index__historical__nhm__2021_config",
+  "name": "Grapher metadata for dataset_5407_biodiversity_intactness_index__historical__nhm__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5407",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:11.062051",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "cc066765708d74bdc136bda080e14528",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5407_biodiversity_intactness_index__historical__nhm__2021_config.json",
+  "md5": "c77735491fa601c0537e0c7d01eb8194"
+}

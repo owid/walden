@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3250_te_21_3_year_config",
+  "name": "Grapher metadata for dataset_3250_te_21_3_year",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3250",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:25:00.328567",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f45ad7eaeb62d1769749f0e92f194529",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3250_te_21_3_year_config.json",
+  "md5": "edd817930c7d74a05267482166db5234"
+}

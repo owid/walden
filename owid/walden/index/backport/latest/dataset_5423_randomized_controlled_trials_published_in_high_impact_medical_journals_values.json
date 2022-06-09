@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5423_randomized_controlled_trials_published_in_high_impact_medical_journals_values",
+  "name": "Randomized controlled trials published in high-impact medical journals",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5423",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:29:00.329316",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5423_randomized_controlled_trials_published_in_high_impact_medical_journals_values.feather",
+  "md5": "788ad12e17c4453bcc07c881fbae7c39"
+}

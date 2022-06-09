@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3009_share_of_agriculture_in_gdp_at_current_prices__herrendorf_et_al__and_ggdc_10_data__split_config",
+  "name": "Grapher metadata for dataset_3009_share_of_agriculture_in_gdp_at_current_prices__herrendorf_et_al__and_ggdc_10_data__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3009",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:49.662793",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c8639c57c51f3bb3a2e00a40f6325fc9",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3009_share_of_agriculture_in_gdp_at_current_prices__herrendorf_et_al__and_ggdc_10_data__split_config.json",
+  "md5": "821a025d0d635ba59d8836939f29a63e"
+}

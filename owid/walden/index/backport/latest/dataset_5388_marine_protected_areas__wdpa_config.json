@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5388_marine_protected_areas__wdpa_config",
+  "name": "Grapher metadata for dataset_5388_marine_protected_areas__wdpa",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5388",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:21.486168",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "635f52f8f0118d7cd627afff38b11468",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5388_marine_protected_areas__wdpa_config.json",
+  "md5": "cb3bec68baeb03f30d0721077a7b33e5"
+}

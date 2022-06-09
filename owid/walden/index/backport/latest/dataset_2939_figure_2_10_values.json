@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2939_figure_2_10_values",
+  "name": "Figure 2.10",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2939",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:40:19.066972",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2939_figure_2_10_values.feather",
+  "md5": "e12b41c95a0f94a1bed1ab1a60cd185d"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5463_environmental_impact_of_milks__poore_and_nemecek__2018_config",
+  "name": "Grapher metadata for dataset_5463_environmental_impact_of_milks__poore_and_nemecek__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5463",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:28.962992",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4669b4fd7d8da16663633852b3f70dd4",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5463_environmental_impact_of_milks__poore_and_nemecek__2018_config.json",
+  "md5": "3a7bd07f6020315877214b253e43354b"
+}

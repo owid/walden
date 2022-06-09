@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2975_total_population_estimates__1970_2100__iiasa__2015__split_values",
+  "name": "Total population estimates, 1970-2100 (IIASA (2015)) (split)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2975",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:37:07.101086",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2975_total_population_estimates__1970_2100__iiasa__2015__split_values.feather",
+  "md5": "30b1286f4e7d5fbdfe803c28fc76e6a1"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_963_educational_outcomes__hanushek_and_woessmann__2012_config",
+  "name": "Grapher metadata for dataset_963_educational_outcomes__hanushek_and_woessmann__2012",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/963",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:29:30.604802",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7df86561ac4b60a36ea3def3b7d42f36",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_963_educational_outcomes__hanushek_and_woessmann__2012_config.json",
+  "md5": "3edb30b41caada02456a7e77baf2cf76"
+}

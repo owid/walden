@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5281_share_of_fish_stocks_within_biologically_sustainable_levels__fao__2020_config",
+  "name": "Grapher metadata for dataset_5281_share_of_fish_stocks_within_biologically_sustainable_levels__fao__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5281",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:38:50.548641",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ae053636bb3153ad8365a87562f96d3a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5281_share_of_fish_stocks_within_biologically_sustainable_levels__fao__2020_config.json",
+  "md5": "0047b6e55175d289eb8d79e83805ba0a"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3020_total_merchandise_trade_as_a_share_of_gdp__world_bank__wdi__2016__split_values",
+  "name": "Total merchandise trade as a share of GDP (World Bank (WDI) (2016)) (split)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3020",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:29:14.084769",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3020_total_merchandise_trade_as_a_share_of_gdp__world_bank__wdi__2016__split_values.feather",
+  "md5": "14636b9eb357fd0eab67b13acacf4a2a"
+}

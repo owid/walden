@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5380_world_regions_according_to_the_united_nations_values",
+  "name": "world-regions-according-to-the-united-nations",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5380",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:27:49.629902",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5380_world_regions_according_to_the_united_nations_values.feather",
+  "md5": "96b1375ad5f95bbdc75d76ec19dce6fe"
+}

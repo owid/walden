@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5516_shares_and_numbers_employed_by_sector__world_bank_and_historical_sources_config",
+  "name": "Grapher metadata for dataset_5516_shares_and_numbers_employed_by_sector__world_bank_and_historical_sources",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5516",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:41.816532",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "de7a11ebd203050ffa50b02e24fe5a04",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5516_shares_and_numbers_employed_by_sector__world_bank_and_historical_sources_config.json",
+  "md5": "99ef1160ce2ca3bfb7840af36a45a3f0"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5511_share_of_cancer_deaths_attributed_to_risk_factors_values",
+  "name": "Share of cancer deaths attributed to risk factors",
+  "description": "Permalink: \n\nLocation: Global\nYear: Most recent\nContext: Risk\nRisk: All risk factors\nAge: All Ages\nMetric: Percent\nMeasure: Deaths\nSex: Both\nCause: Bladder cancer, Breast cancer, Cervical cancer, Colon and rectum cancer, Esophageal cancer, Gallbladder and biliary tract cancer, Kidney cancer, Larynx cancer, Leukemia, Lip and oral cavity cancer, Liver cancer, Mesothelioma, Multiple myeloma, Nasopharynx cancer, Non-Hodgkin lymphoma, Ovarian cancer, Pancreatic cancer, Prostate cancer, Stomach cancer, Thyroid cancer, Tracheal, bronchus and lung cancer, Uterine cancer. \n\n\nThere are four cancers that were previously on the chart (all with 0%) that no longer return any values",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5511",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:09.292956",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5511_share_of_cancer_deaths_attributed_to_risk_factors_values.feather",
+  "md5": "620c10da515db35baff5609570cf52ae"
+}

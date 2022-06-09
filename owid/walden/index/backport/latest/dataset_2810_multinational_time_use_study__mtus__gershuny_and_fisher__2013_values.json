@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2810_multinational_time_use_study__mtus__gershuny_and_fisher__2013_values",
+  "name": "Multinational Time Use Study (MTUS) - Gershuny and Fisher (2013)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2810",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:36:24.322298",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2810_multinational_time_use_study__mtus__gershuny_and_fisher__2013_values.feather",
+  "md5": "82c1fef8e1042adaa5c882867f378069"
+}

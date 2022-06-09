@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5554_ukraine_russia_fertilizers__based_on_un_fao_config",
+  "name": "Grapher metadata for dataset_5554_ukraine_russia_fertilizers__based_on_un_fao",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5554",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:42.718633",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8a63c0911dac379c1fac1bea5383a91b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5554_ukraine_russia_fertilizers__based_on_un_fao_config.json",
+  "md5": "edcc12f0d45a5089f041385bf12bd940"
+}

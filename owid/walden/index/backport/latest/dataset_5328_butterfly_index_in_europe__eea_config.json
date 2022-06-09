@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5328_butterfly_index_in_europe__eea_config",
+  "name": "Grapher metadata for dataset_5328_butterfly_index_in_europe__eea",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5328",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:33:36.311095",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f61f286ed3877ed788b9167cce6e2288",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5328_butterfly_index_in_europe__eea_config.json",
+  "md5": "05145a004f0562ab52a560a8bd4da1aa"
+}

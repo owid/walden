@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5626_covid_19__vaccinations__debug_config",
+  "name": "Grapher metadata for dataset_5626_covid_19__vaccinations__debug",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5626",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:28:17.157389",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d9fe889d63f9f02b9afcfc4d4336ff21",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5626_covid_19__vaccinations__debug_config.json",
+  "md5": "550192bb479656e37c154f946e7a1137"
+}

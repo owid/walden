@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5200_time_spent_on_sports_and_physical_activity__eurostat__and__american_time_use_survey_config",
+  "name": "Grapher metadata for dataset_5200_time_spent_on_sports_and_physical_activity__eurostat__and__american_time_use_survey",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5200",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:49.307782",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2c22085e07e513c3f24b2da3933134e7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5200_time_spent_on_sports_and_physical_activity__eurostat__and__american_time_use_survey_config.json",
+  "md5": "e1e3c635faa842213c1ab3d6bdf5967a"
+}

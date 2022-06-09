@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5455_long_term_corn_production_and_yield_in_the_us__us_census_bureau__usda_config",
+  "name": "Grapher metadata for dataset_5455_long_term_corn_production_and_yield_in_the_us__us_census_bureau__usda",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5455",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:36.543398",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c523b0946b365f41550d88eb4aa3e24e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5455_long_term_corn_production_and_yield_in_the_us__us_census_bureau__usda_config.json",
+  "md5": "64131f9e89a57a919747a411f4f5eaff"
+}

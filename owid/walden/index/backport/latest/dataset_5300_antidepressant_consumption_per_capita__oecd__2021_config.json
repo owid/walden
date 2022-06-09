@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5300_antidepressant_consumption_per_capita__oecd__2021_config",
+  "name": "Grapher metadata for dataset_5300_antidepressant_consumption_per_capita__oecd__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5300",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:25:34.611527",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "034fe9078503cb7ea81b5e37f2482f6e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5300_antidepressant_consumption_per_capita__oecd__2021_config.json",
+  "md5": "e50e5bc0d280d4da1a8ef0770ed409eb"
+}

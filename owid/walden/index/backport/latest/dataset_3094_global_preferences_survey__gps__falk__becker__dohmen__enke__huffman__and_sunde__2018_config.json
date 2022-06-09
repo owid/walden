@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3094_global_preferences_survey__gps__falk__becker__dohmen__enke__huffman__and_sunde__2018_config",
+  "name": "Grapher metadata for dataset_3094_global_preferences_survey__gps__falk__becker__dohmen__enke__huffman__and_sunde__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3094",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:10.993257",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c7a33e91395ee7a80af3cbb43e84f84e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3094_global_preferences_survey__gps__falk__becker__dohmen__enke__huffman__and_sunde__2018_config.json",
+  "md5": "66cc1a92ccfce49457daa622faf545a8"
+}

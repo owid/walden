@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5073_linear_vs__exponential_growth_example__owid_config",
+  "name": "Grapher metadata for dataset_5073_linear_vs__exponential_growth_example__owid",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5073",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:37:29.865747",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "bb83165f146f8e29a7737ca909cdc4ac",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5073_linear_vs__exponential_growth_example__owid_config.json",
+  "md5": "7c50101b1fd8694e6f37aec753b51fd2"
+}

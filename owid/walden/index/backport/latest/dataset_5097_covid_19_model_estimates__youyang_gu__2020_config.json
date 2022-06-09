@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5097_covid_19_model_estimates__youyang_gu__2020_config",
+  "name": "Grapher metadata for dataset_5097_covid_19_model_estimates__youyang_gu__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5097",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:19.375944",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c954142532544ec299f7dbbd709b6833",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5097_covid_19_model_estimates__youyang_gu__2020_config.json",
+  "md5": "cde2ea3b65f3c19d5d5099dc258cfaa8"
+}

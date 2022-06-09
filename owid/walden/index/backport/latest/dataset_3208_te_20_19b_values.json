@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3208_te_20_19b_values",
+  "name": "TE-20.19b",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3208",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:39:45.194562",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3208_te_20_19b_values.feather",
+  "md5": "8055428bdd87b3d0d67806475397a797"
+}

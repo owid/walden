@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5138_owid_17_8_cpi_config",
+  "name": "Grapher metadata for dataset_5138_owid_17_8_cpi",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5138",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:40.698222",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2ea897985ad29b79923b22c2822b384a",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5138_owid_17_8_cpi_config.json",
+  "md5": "1f03d51ee95cab710e6435b4197e930e"
+}

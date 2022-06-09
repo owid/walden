@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5532_correlates_of_war__cow__national_material_capabilities_values",
+  "name": "Correlates of War (CoW) - National Material Capabilities",
+  "description": "https://github.com/owid/importers/tree/master/cow",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5532",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:38:38.495799",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5532_correlates_of_war__cow__national_material_capabilities_values.feather",
+  "md5": "547b42377f2be60c9f83ed52868a9f85"
+}

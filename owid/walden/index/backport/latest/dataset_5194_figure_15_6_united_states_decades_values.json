@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5194_figure_15_6_united_states_decades_values",
+  "name": "Figure_15.6_United_States_Decades",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5194",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:37:00.924332",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5194_figure_15_6_united_states_decades_values.feather",
+  "md5": "31e0a2696718c17894050d3921fce65b"
+}

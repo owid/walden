@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5108_tesa_1_4_config",
+  "name": "Grapher metadata for dataset_5108_tesa_1_4",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5108",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:39:54.852303",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "39dd4355c9cd6071c1c829c47b2acc3e",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5108_tesa_1_4_config.json",
+  "md5": "6e4f6d52c3c9a859fec6f186e55f0f83"
+}

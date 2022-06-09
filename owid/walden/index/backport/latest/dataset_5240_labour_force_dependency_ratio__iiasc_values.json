@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5240_labour_force_dependency_ratio__iiasc_values",
+  "name": "Labour Force Dependency Ratio (IIASC)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5240",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:37:16.927691",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5240_labour_force_dependency_ratio__iiasc_values.feather",
+  "md5": "aeb26142f042ca8012d81770466296ef"
+}

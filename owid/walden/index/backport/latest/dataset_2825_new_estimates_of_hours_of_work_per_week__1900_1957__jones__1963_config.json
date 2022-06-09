@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2825_new_estimates_of_hours_of_work_per_week__1900_1957__jones__1963_config",
+  "name": "Grapher metadata for dataset_2825_new_estimates_of_hours_of_work_per_week__1900_1957__jones__1963",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2825",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:38.414378",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "1cf676a310ab0981bc3a09a7a1c28614",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2825_new_estimates_of_hours_of_work_per_week__1900_1957__jones__1963_config.json",
+  "md5": "c1962a057e91605c2a21d3cfcab823d0"
+}

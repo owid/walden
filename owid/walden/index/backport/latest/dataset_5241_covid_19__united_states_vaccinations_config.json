@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5241_covid_19__united_states_vaccinations_config",
+  "name": "Grapher metadata for dataset_5241_covid_19__united_states_vaccinations",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5241",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:49.400200",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "067e4669582bf269e96f776a85949774",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5241_covid_19__united_states_vaccinations_config.json",
+  "md5": "0e64ee7397a181fe70f413e9f1af6b60"
+}

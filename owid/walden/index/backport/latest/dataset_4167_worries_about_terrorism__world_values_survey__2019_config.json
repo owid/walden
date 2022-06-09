@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4167_worries_about_terrorism__world_values_survey__2019_config",
+  "name": "Grapher metadata for dataset_4167_worries_about_terrorism__world_values_survey__2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4167",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:32:06.825354",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "51a05f53fbdabb9f4c6716642988a3d0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4167_worries_about_terrorism__world_values_survey__2019_config.json",
+  "md5": "48326f94674af7e03323791e2e951770"
+}

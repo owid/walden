@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5404_lead_regulation_on_paint__who__2021_config",
+  "name": "Grapher metadata for dataset_5404_lead_regulation_on_paint__who__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5404",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:25:52.289454",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c35ee220202f3be4880942032e10182d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5404_lead_regulation_on_paint__who__2021_config.json",
+  "md5": "02124f076013068d9d5409f89d7e8d1f"
+}

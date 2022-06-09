@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2968_te_5_16_values",
+  "name": "TE-5.16",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2968",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:24.691237",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2968_te_5_16_values.feather",
+  "md5": "2c06df9b2896d1ac2b80fcd9572e5c93"
+}

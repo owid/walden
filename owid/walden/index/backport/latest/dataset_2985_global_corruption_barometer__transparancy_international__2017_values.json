@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2985_global_corruption_barometer__transparancy_international__2017_values",
+  "name": "Global Corruption Barometer - Transparancy International (2017)",
+  "description": "The surveys are spread across years, and the metrics are not constant over time, which makes this a tricky dataset. It's necessary to allow tolerance when using it to make graphs.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2985",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:24:23.526297",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2985_global_corruption_barometer__transparancy_international__2017_values.feather",
+  "md5": "811003bf0a102d2d9111a21d600c695e"
+}

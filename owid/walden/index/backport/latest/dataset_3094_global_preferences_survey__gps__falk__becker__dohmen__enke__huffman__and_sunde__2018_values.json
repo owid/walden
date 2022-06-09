@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3094_global_preferences_survey__gps__falk__becker__dohmen__enke__huffman__and_sunde__2018_values",
+  "name": "Global Preferences Survey (GPS) - Falk, Becker, Dohmen, Enke, Huffman, and Sunde (2018)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3094",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:32:11.386650",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3094_global_preferences_survey__gps__falk__becker__dohmen__enke__huffman__and_sunde__2018_values.feather",
+  "md5": "539a698c7bc6e6f4c4e57545adc03795"
+}

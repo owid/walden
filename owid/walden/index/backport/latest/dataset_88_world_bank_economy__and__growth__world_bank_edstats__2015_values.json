@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_88_world_bank_economy__and__growth__world_bank_edstats__2015_values",
+  "name": "World Bank Economy & Growth - World Bank EdStats (2015)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/88",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:33:11.655804",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_88_world_bank_economy__and__growth__world_bank_edstats__2015_values.feather",
+  "md5": "b2386f0b4de7c6fe7fb9a47b75168196"
+}

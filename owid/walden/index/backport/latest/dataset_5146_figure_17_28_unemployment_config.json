@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5146_figure_17_28_unemployment_config",
+  "name": "Grapher metadata for dataset_5146_figure_17_28_unemployment",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5146",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:25:53.159507",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "76b680187fbd6b91cb6ca1eb4dfffd27",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5146_figure_17_28_unemployment_config.json",
+  "md5": "b642361707751b7293baca5c2735b7d0"
+}

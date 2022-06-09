@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5410_lead_blood_concentrations_in_usa__us_cdc_values",
+  "name": "Lead blood concentrations in USA (US CDC)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5410",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:25:28.331785",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5410_lead_blood_concentrations_in_usa__us_cdc_values.feather",
+  "md5": "3d90229b5a5916397a5b9ad1026d1055"
+}
