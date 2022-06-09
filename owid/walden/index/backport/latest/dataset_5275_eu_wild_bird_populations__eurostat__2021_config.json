@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5275_eu_wild_bird_populations__eurostat__2021_config",
+  "name": "Grapher metadata for dataset_5275_eu_wild_bird_populations__eurostat__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5275",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:23:42.072610",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3980373d1e0202ba59760d672694b5f0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5275_eu_wild_bird_populations__eurostat__2021_config.json",
+  "md5": "ca29b5a677538b0d1a4ce62d88d91a90"
+}

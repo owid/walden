@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3076_owid_visitors_by_country__october_2017_18__google_analytics_values",
+  "name": "OWID Visitors by country (October 2017-18) (Google Analytics)",
+  "description": "For internal use only at the moment",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3076",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:23:35.648311",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3076_owid_visitors_by_country__october_2017_18__google_analytics_values.feather",
+  "md5": "8bb2464bc6367676d4d3e8c3931d86d6"
+}

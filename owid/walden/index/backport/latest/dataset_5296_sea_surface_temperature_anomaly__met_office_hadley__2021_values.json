@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5296_sea_surface_temperature_anomaly__met_office_hadley__2021_values",
+  "name": "Sea surface temperature anomaly (Met Office Hadley, 2021)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5296",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:23:48.423703",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5296_sea_surface_temperature_anomaly__met_office_hadley__2021_values.feather",
+  "md5": "920dc37dae9e9a4fe147e7d05b723a26"
+}

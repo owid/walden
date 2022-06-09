@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5275_eu_wild_bird_populations__eurostat__2021_values",
+  "name": "EU Wild Bird Populations (Eurostat, 2021)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5275",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:23:42.532363",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5275_eu_wild_bird_populations__eurostat__2021_values.feather",
+  "md5": "c47b97b5aed8e4e5d29ea20bbd40c690"
+}

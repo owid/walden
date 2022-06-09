@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5435_covid_19__deaths_by_vaccination_status__france_values",
+  "name": "COVID-19 - Deaths by vaccination status - France",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5435",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:23:25.075377",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5435_covid_19__deaths_by_vaccination_status__france_values.feather",
+  "md5": "f01945642e4343967ae3539917cb5611"
+}

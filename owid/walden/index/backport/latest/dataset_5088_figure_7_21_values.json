@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5088_figure_7_21_values",
+  "name": "Figure_7.21",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5088",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:23:52.107815",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5088_figure_7_21_values.feather",
+  "md5": "441fb87d35fac787ac4c7d6a6610e1bd"
+}

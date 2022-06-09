@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4243_proportion_of_unemployed_using_specific_search_methods__bachmann_and_baumgarten__2013_config",
+  "name": "Grapher metadata for dataset_4243_proportion_of_unemployed_using_specific_search_methods__bachmann_and_baumgarten__2013",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4243",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:23:39.588337",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fe00bcfab5141d3238c448b7c41fdc95",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4243_proportion_of_unemployed_using_specific_search_methods__bachmann_and_baumgarten__2013_config.json",
+  "md5": "fb56f25f0190d866e3350fc23b439401"
+}

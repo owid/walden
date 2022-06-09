@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3032_world_trade_based_on_own_estimates__pct_of_gdp__klasing_and_milionis__2014__split_config",
+  "name": "Grapher metadata for dataset_3032_world_trade_based_on_own_estimates__pct_of_gdp__klasing_and_milionis__2014__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3032",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:23:29.214368",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "508354d0e7190e51fddc451d1221f7c0",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3032_world_trade_based_on_own_estimates__pct_of_gdp__klasing_and_milionis__2014__split_config.json",
+  "md5": "592400d4070b6a899dda3202539caf55"
+}

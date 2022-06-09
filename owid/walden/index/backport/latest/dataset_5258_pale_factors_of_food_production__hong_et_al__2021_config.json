@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5258_pale_factors_of_food_production__hong_et_al__2021_config",
+  "name": "Grapher metadata for dataset_5258_pale_factors_of_food_production__hong_et_al__2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5258",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:23:55.832106",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "df83fbb2475c35147c42ab14946ac9ef",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5258_pale_factors_of_food_production__hong_et_al__2021_config.json",
+  "md5": "6d60ff748ab36601934ea756329338da"
+}

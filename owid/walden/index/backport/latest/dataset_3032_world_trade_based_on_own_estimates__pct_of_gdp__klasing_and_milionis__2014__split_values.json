@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3032_world_trade_based_on_own_estimates__pct_of_gdp__klasing_and_milionis__2014__split_values",
+  "name": "World trade based on own estimates (% of GDP) (Klasing and Milionis (2014))  (split)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3032",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-09T07:23:29.648745",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3032_world_trade_based_on_own_estimates__pct_of_gdp__klasing_and_milionis__2014__split_values.feather",
+  "md5": "e5fba02f6d1d7a095168efba08de65a0"
+}

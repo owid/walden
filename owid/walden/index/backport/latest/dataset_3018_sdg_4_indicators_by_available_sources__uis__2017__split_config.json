@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3018_sdg_4_indicators_by_available_sources__uis__2017__split_config",
+  "name": "Grapher metadata for dataset_3018_sdg_4_indicators_by_available_sources__uis__2017__split",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3018",
+  "file_extension": "json",
+  "date_accessed": "2022-06-09T07:23:49.122749",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f0940756cff4e9f26db45abf0a852de2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3018_sdg_4_indicators_by_available_sources__uis__2017__split_config.json",
+  "md5": "3c181076a4e19b82f3fcfe17759d85ed"
+}
