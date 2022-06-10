@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/595",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:03:26.874190",
+  "date_accessed": "2022-06-10T12:08:54.548535",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_595_hidden_hunger_index_in_pre_school_children__muthayya_et_al__2013_values.feather",
-  "md5": "30bd73dd9e58ed166e904cef881655ff"
+  "md5": "4db9d29f8d6931ba2838ef29bd823ef6"
 }

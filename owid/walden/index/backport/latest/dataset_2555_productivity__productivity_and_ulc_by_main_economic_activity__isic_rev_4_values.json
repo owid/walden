@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2555",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:16:35.355143",
+  "date_accessed": "2022-06-10T08:59:23.046480",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2555_productivity__productivity_and_ulc_by_main_economic_activity__isic_rev_4_values.feather",
-  "md5": "5a4d602950908b6f1fa1b7627ec605b1"
+  "md5": "0797f6614c2d714fc58a2203a2c8391f"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2955",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T07:59:42.399623",
+  "date_accessed": "2022-06-10T08:37:22.949436",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2955_drought_severity_index_in_us__noaa_values.feather",
-  "md5": "50d854b27b402095fd313cd963bf25d4"
+  "md5": "a97d25a269c2cef21c496c45c61a5d4c"
 }

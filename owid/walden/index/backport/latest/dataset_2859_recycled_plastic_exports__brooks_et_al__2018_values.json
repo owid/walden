@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2859",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:30:10.642846",
+  "date_accessed": "2022-06-10T08:44:43.734997",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2859_recycled_plastic_exports__brooks_et_al__2018_values.feather",
-  "md5": "1d98615d0809bf8d60a821956ceeb534"
+  "md5": "8698ce4d2aba829e13f1a560da5a7363"
 }

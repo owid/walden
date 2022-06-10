@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/847",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:32:24.680106",
+  "date_accessed": "2022-06-10T08:40:35.244012",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "e6050fd27c1859fa58a943dde0cdc31f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_847_union_density__quality_of_government__qog__2017_config.json",
-  "md5": "5f79b583d81d3bd6ec95b150c6e627f1"
+  "md5": "cd0de68933b0b0e7eb59a859bb3ac5ea"
 }

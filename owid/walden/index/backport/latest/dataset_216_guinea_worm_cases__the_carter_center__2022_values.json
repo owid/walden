@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/216",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:52:13.418429",
+  "date_accessed": "2022-06-10T08:30:10.572973",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_216_guinea_worm_cases__the_carter_center__2022_values.feather",
-  "md5": "2dd55a0689d4a0d32aa1feaf77bbe62d"
+  "md5": "0a94850dff34181a062c758e6c5b23c6"
 }

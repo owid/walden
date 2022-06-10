@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5168",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:21:36.639511",
+  "date_accessed": "2022-06-10T12:13:28.893842",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5168_household_expenditure_on_housing__water__electricity__gas_and_other_fuels_as_a_share_of_gdp__un_values.feather",
-  "md5": "fdb48cf39782d08883e78169e3fb2e3b"
+  "md5": "c41ff2968f404b146e6d7a58e3824062"
 }

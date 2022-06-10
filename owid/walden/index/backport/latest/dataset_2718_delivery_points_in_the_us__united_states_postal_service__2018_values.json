@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2718",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:24:10.689039",
+  "date_accessed": "2022-06-10T08:35:48.665014",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2718_delivery_points_in_the_us__united_states_postal_service__2018_values.feather",
-  "md5": "a66d99122f92e0f48154e16ec13c4a29"
+  "md5": "5c951104042ca1f950320197e9e92ad2"
 }

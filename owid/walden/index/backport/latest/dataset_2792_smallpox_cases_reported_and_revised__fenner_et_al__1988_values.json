@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2792",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:30:37.345211",
+  "date_accessed": "2022-06-10T08:45:10.642311",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2792_smallpox_cases_reported_and_revised__fenner_et_al__1988_values.feather",
-  "md5": "bd2342fdba7046e418c167d545e22612"
+  "md5": "9877597ea159e77f6dc57fbd27ce44eb"
 }

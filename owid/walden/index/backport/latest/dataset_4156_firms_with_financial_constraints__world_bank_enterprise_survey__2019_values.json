@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4156",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:23:26.074078",
+  "date_accessed": "2022-06-10T08:34:41.798241",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4156_firms_with_financial_constraints__world_bank_enterprise_survey__2019_values.feather",
-  "md5": "e31c882e77fede41d2d44035f9adf2ed"
+  "md5": "ac009cf0275efec523219bf65bc3b293"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5014",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:17:58.094947",
+  "date_accessed": "2022-06-10T08:56:22.483530",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5014_food_security__suite_of_food_security_indicators_values.feather",
-  "md5": "30bb90e6f29c75de905f4ff60c2e8111"
+  "md5": "6b15c446b6ccaf7a225e7acfe07fbb13"
 }

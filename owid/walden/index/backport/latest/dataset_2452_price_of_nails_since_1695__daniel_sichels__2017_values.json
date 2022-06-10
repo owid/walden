@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2452",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:30:44.701756",
+  "date_accessed": "2022-06-10T12:12:26.037129",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2452_price_of_nails_since_1695__daniel_sichels__2017_values.feather",
-  "md5": "821cd6da0e18ffbd1c60459d5912d2c7"
+  "md5": "e1b025c6fec341808defa296e7d778bb"
 }

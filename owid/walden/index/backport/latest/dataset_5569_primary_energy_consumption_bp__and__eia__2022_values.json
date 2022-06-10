@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5569",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:52:38.934068",
+  "date_accessed": "2022-06-10T08:46:34.990578",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5569_primary_energy_consumption_bp__and__eia__2022_values.feather",
-  "md5": "5a194374a7f233152fa21563706cd095"
+  "md5": "821a41737deb1c6b85a5ad183dfb788d"
 }

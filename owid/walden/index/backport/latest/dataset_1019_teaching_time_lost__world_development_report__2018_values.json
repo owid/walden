@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1019",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:15:08.504140",
+  "date_accessed": "2022-06-10T08:41:51.429034",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1019_teaching_time_lost__world_development_report__2018_values.feather",
-  "md5": "272dd9e9abdfed6b527b1ea8440b0781"
+  "md5": "e3dd89a4a3fb340d8ace37f51a34a245"
 }

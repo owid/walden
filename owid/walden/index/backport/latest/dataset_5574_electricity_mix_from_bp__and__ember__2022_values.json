@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5574",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:54:16.502767",
+  "date_accessed": "2022-06-10T09:03:20.165437",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5574_electricity_mix_from_bp__and__ember__2022_values.feather",
-  "md5": "8e5aeb82b80df019dc4a62c3510b00aa"
+  "md5": "6b88cfce967b4b576e63b9441fe2ad11"
 }

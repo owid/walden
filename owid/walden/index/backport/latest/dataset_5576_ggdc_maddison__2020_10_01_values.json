@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5576",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:54:55.657458",
+  "date_accessed": "2022-06-10T08:58:50.813132",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5576_ggdc_maddison__2020_10_01_values.feather",
-  "md5": "dcebb1fa9b66602354ef120546e083bc"
+  "md5": "3b4f8ae6119de2ac668324e8b15778de"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/954",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:32.100584",
+  "date_accessed": "2022-06-10T09:03:10.825906",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_954_country_level_land_precipitation__delaware_values.feather",
-  "md5": "8b5031dd39b8f2819dca664d8748703b"
+  "md5": "89e750cb2e443fa711870144a11554e8"
 }

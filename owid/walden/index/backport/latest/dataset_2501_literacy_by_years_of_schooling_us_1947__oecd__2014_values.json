@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2501",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:05:19.466062",
+  "date_accessed": "2022-06-10T12:16:27.506376",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2501_literacy_by_years_of_schooling_us_1947__oecd__2014_values.feather",
-  "md5": "bf5b0d996eb2f9eacd708ed8aa8e4314"
+  "md5": "b62deac6df39909226d467c0223ef6f1"
 }

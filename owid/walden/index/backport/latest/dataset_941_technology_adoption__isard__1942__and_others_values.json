@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/941",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:19:00.075019",
+  "date_accessed": "2022-06-10T08:50:45.024443",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_941_technology_adoption__isard__1942__and_others_values.feather",
-  "md5": "b449706325bab31c3c1ad1064cf3714b"
+  "md5": "7749b1f697e33b3c0501df9817723490"
 }

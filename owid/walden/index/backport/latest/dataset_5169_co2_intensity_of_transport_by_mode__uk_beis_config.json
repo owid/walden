@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5169",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:19:04.140795",
+  "date_accessed": "2022-06-10T08:54:49.838455",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "727263495bfe96fe15436f9ff0dfdc14",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5169_co2_intensity_of_transport_by_mode__uk_beis_config.json",
-  "md5": "3ceff125b6a8fa43cf43303991e1961f"
+  "md5": "86beeb9fcba2fb16fa7c2bed93389e7b"
 }

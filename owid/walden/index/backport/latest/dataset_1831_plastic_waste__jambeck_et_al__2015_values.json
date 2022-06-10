@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1831",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:15:32.085238",
+  "date_accessed": "2022-06-10T08:28:34.999732",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1831_plastic_waste__jambeck_et_al__2015_values.feather",
-  "md5": "935830b2ddb69a43323e5e63c4366483"
+  "md5": "c054d40a4bed1f9fbd0c0b719f1162e3"
 }

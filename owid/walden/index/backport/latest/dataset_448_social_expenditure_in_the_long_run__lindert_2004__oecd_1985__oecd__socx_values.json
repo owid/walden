@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/448",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:02:59.919946",
+  "date_accessed": "2022-06-10T08:31:57.368453",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_448_social_expenditure_in_the_long_run__lindert_2004__oecd_1985__oecd__socx_values.feather",
-  "md5": "9d362921ac000c7c4a9db9e773c6a93e"
+  "md5": "be82638d9077c6a9476916bbff658b43"
 }

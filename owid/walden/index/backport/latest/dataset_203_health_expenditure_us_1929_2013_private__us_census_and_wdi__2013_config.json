@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/203",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:26:42.854830",
+  "date_accessed": "2022-06-10T12:11:00.499940",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "3b24889533511a4685c47a8476f09a55",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_203_health_expenditure_us_1929_2013_private__us_census_and_wdi__2013_config.json",
-  "md5": "41641def7054fc4c162ea5b099e35f29"
+  "md5": "31438ed6a8e5c22a76da67cb8c76bb83"
 }

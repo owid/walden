@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/844",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:30:47.758749",
+  "date_accessed": "2022-06-10T08:40:14.834987",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_844_consumer_expenditure_on_food__usda__2017_values.feather",
-  "md5": "526742494d8f3ab784c816ca07b1ad6a"
+  "md5": "fb14e7f1b7c146bcb932af5355445176"
 }

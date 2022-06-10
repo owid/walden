@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5071",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:19:59.248124",
+  "date_accessed": "2022-06-10T08:30:47.724236",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5071_covid_2019__ecdc__2020_values.feather",
-  "md5": "9b5843abf063e843b1e54cd79c86a16d"
+  "md5": "4e0579ebde97c38f04b28b94727a68cc"
 }

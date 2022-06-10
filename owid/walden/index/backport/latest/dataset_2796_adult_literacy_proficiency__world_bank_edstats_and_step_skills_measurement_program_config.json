@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2796",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:16:42.594790",
+  "date_accessed": "2022-06-10T12:09:07.590419",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "c608c17d05d5132fb4af0c050742bce6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2796_adult_literacy_proficiency__world_bank_edstats_and_step_skills_measurement_program_config.json",
-  "md5": "d56e555f3051b281ab83fb25c453d8a6"
+  "md5": "43aeb27985a6992f7f5c13c442f1131f"
 }

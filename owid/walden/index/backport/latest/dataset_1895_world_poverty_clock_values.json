@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1895",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:19:39.257810",
+  "date_accessed": "2022-06-10T08:34:56.084063",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1895_world_poverty_clock_values.feather",
-  "md5": "75cc2ac65fc82ef7067e8c1a9e29e788"
+  "md5": "a7f00382789ca24be03339e3324c14f4"
 }

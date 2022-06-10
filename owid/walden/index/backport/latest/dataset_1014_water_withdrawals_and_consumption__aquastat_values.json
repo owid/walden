@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1014",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:04:12.397749",
+  "date_accessed": "2022-06-10T09:00:42.394158",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1014_water_withdrawals_and_consumption__aquastat_values.feather",
-  "md5": "ff0e115b7d3b041f27aee470f6287de4"
+  "md5": "0f2477ef24fe7a3eff19748cc7850bb3"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/452",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T07:59:34.953909",
+  "date_accessed": "2022-06-10T09:02:22.278917",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_452_investment_in_renewables_by_region__irena__2016_values.feather",
-  "md5": "3322519c13e5af48fc05ac5807a7fc74"
+  "md5": "32a0b605eb912525d5e3fc3171bb80a0"
 }

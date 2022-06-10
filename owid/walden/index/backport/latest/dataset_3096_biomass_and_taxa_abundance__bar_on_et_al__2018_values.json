@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3096",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:24:45.900194",
+  "date_accessed": "2022-06-10T12:16:21.582761",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3096_biomass_and_taxa_abundance__bar_on_et_al__2018_values.feather",
-  "md5": "2ba191175d4842c4a8f1f150a5eb3816"
+  "md5": "103447113ee8a80bb90012d5c8295c52"
 }

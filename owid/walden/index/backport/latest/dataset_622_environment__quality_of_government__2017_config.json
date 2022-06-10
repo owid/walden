@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/622",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:03:01.359197",
+  "date_accessed": "2022-06-10T08:41:27.166181",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "5951790fcb8d45f3a002f5b052fe26b8",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_622_environment__quality_of_government__2017_config.json",
-  "md5": "bb3cb4dc06d23a2e6f7d6fa44583890f"
+  "md5": "6aeb713e728b9da638c1286aea0e4b48"
 }

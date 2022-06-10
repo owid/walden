@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/396",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:12:47.400102",
+  "date_accessed": "2022-06-10T08:33:11.056685",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_396_uk_nominal_wage_data__price_data__and_real_wage__bank_of_england__three_centuries_of_macroeconomic_data__2017_values.feather",
-  "md5": "9143b020eabae1598f5015ec62e35e91"
+  "md5": "8db1f7a5315f25c2b92f692e3fdb574f"
 }

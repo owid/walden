@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/470",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:03:43.856352",
+  "date_accessed": "2022-06-10T12:07:46.247246",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_470_swedish_historical_national_accounts__schon_and_krantz__2007__2012__2015_values.feather",
-  "md5": "7f6d1491de9567934da0777f674a6c10"
+  "md5": "dd3f62995d175c398d845f8e8f14802b"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5218",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:30:48.238354",
+  "date_accessed": "2022-06-10T08:39:22.472590",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "125e51fd2299a6e929b4757075ed694d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5218_drivers_of_forest_loss_in_brazil_legal_amazon__tyukavina_et_al__2017_config.json",
-  "md5": "560549e871d171b842cbb8b341b0ebc2"
+  "md5": "45946ed179ff9f2c61be537729a3337d"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2716",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:24:01.432320",
+  "date_accessed": "2022-06-10T12:11:32.400647",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2716_long_term_productivity__bergeaud__cette__and_lecat__2016_values.feather",
-  "md5": "e14bc9d556c81bb390f0a3f4dfdffbc9"
+  "md5": "6c2cda38304f81dfc9eda1578f033425"
 }

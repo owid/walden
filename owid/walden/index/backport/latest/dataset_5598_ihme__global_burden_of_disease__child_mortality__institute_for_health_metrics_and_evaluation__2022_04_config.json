@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5598",
   "file_extension": "json",
-  "date_accessed": "2022-05-28T14:59:24.098873",
+  "date_accessed": "2022-06-10T12:08:07.788097",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "0e050578a4665c3458a97687a93b63a4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5598_ihme__global_burden_of_disease__child_mortality__institute_for_health_metrics_and_evaluation__2022_04_config.json",
-  "md5": "ea215b06d5ad32cb7ae4c25a14bace79"
+  "md5": "3217eeac694d8a2988dd8209bdb80f64"
 }

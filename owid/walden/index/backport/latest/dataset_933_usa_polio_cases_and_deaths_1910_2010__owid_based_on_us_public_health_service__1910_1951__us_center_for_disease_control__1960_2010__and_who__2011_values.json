@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/933",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:12:46.528075",
+  "date_accessed": "2022-06-10T08:42:57.676780",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_933_usa_polio_cases_and_deaths_1910_2010__owid_based_on_us_public_health_service__1910_1951__us_center_for_disease_control__1960_2010__and_who__2011_values.feather",
-  "md5": "16b7babacc30a679713e349c426afaab"
+  "md5": "8f21d394568c18383f3a3fd00f6e3971"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5570",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:51:59.509068",
+  "date_accessed": "2022-06-10T08:32:29.270521",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5570_energy_mix_from_bp__2021_values.feather",
-  "md5": "cdd6fd47a2cc8a76656ff30e190c35e6"
+  "md5": "2222b54f125d2df9481d49f45a072de7"
 }

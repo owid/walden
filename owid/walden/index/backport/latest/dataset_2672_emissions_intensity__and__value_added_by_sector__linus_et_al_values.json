@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2672",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:16:30.977722",
+  "date_accessed": "2022-06-10T09:01:43.661151",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2672_emissions_intensity__and__value_added_by_sector__linus_et_al_values.feather",
-  "md5": "3c3146d84180b60350e8225cb135a954"
+  "md5": "3759ead1460d642401f3619da94b7d3f"
 }

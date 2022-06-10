@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4248",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:04:40.970401",
+  "date_accessed": "2022-06-10T08:49:11.572798",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4248_arable_land_per_crop_output__pin__fao__2019_values.feather",
-  "md5": "0de5ca870e0682d7da1b2feeb3a6f3d9"
+  "md5": "5981f3bfa9e55fb54f375445c6789de7"
 }

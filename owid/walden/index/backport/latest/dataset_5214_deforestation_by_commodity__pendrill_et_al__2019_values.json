@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5214",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:28:25.536200",
+  "date_accessed": "2022-06-10T08:32:41.719581",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5214_deforestation_by_commodity__pendrill_et_al__2019_values.feather",
-  "md5": "f95a2b8c2699c519aca05b95aaeca351"
+  "md5": "6003bfd22923d94e9d73538a5aed025e"
 }

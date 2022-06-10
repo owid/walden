@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2479",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:15:35.459961",
+  "date_accessed": "2022-06-10T08:32:38.215522",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "27e6bb81e751f3eb02e76c6a206b3d50",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2479_labor_productivity_per_hour__hill__thomas__dimsdale__2016__bank_of_england_config.json",
-  "md5": "b8b4c31f369d1cf8a3df14d30038e7f5"
+  "md5": "ddb4ed6fb7af3748329c3dc91fa3a9dd"
 }

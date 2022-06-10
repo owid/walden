@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/989",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:28:34.411981",
+  "date_accessed": "2022-06-10T08:55:37.462755",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_989_gender_wage_gap__oecd__2017_values.feather",
-  "md5": "499f5b1b85e57ffdcef30cfebf6d001b"
+  "md5": "666ac97151e20743f4065ee39fd4acdb"
 }

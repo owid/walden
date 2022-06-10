@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/352",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:21:37.644962",
+  "date_accessed": "2022-06-10T08:58:57.794913",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_352_china_share_of_world_poverty__world_bank__wdi__2017_values.feather",
-  "md5": "f18edd4644f8d46ca9475ba862a05e5f"
+  "md5": "7dd809e75a2f6300544bfbb95dacdb21"
 }

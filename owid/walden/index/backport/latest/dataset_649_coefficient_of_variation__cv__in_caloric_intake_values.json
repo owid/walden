@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/649",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:14:21.339472",
+  "date_accessed": "2022-06-10T12:15:48.923638",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_649_coefficient_of_variation__cv__in_caloric_intake_values.feather",
-  "md5": "9594a1e053660bd17a7ab1fbac051013"
+  "md5": "43e2c89aa580fe9b7097a7a5c7407403"
 }

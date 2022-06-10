@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/302",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:04:33.114097",
+  "date_accessed": "2022-06-10T08:39:37.072796",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_302_tax_composition__todaro_and_smith__2014_values.feather",
-  "md5": "3edf032aedcbed550b072c2580644d17"
+  "md5": "43a4a0176f1cb7e37cd3e455bbe8f94e"
 }

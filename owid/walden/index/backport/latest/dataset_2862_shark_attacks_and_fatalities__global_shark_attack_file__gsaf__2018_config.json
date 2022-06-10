@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2862",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:05:13.329882",
+  "date_accessed": "2022-06-10T08:53:55.162399",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "0f9c5296fbfd8f6237d36fe5b9a39d33",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2862_shark_attacks_and_fatalities__global_shark_attack_file__gsaf__2018_config.json",
-  "md5": "8d7acd4e29f0f6673ec83d9b023bf928"
+  "md5": "c6bc380bc2eab6e671ef548e3f51b151"
 }

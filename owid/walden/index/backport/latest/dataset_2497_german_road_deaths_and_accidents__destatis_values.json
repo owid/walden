@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2497",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:04:27.478409",
+  "date_accessed": "2022-06-10T09:00:37.061620",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2497_german_road_deaths_and_accidents__destatis_values.feather",
-  "md5": "b687e9b46766638fb50401df452c49cf"
+  "md5": "bdfb852679898cb45856e64512792314"
 }

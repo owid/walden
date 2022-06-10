@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5010",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:17.213816",
+  "date_accessed": "2022-06-10T09:01:56.798773",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5010_food_balance__new_food_balances_values.feather",
-  "md5": "c0c99002655fe2ad4a47d0b95c5ff216"
+  "md5": "8f6bbad8bdd01279e6531927beff3671"
 }

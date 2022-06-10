@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2794",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:28:24.247944",
+  "date_accessed": "2022-06-10T08:58:03.983653",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "45c5003025a461427ca1f0eef03945e7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2794_literacy_rate__pct_of_total_respondents__dhs_surveys_config.json",
-  "md5": "fc6f38b555422b6a8fe71df7f6fd7193"
+  "md5": "00cf16895de4f6dc8d8f380bf1fb16aa"
 }

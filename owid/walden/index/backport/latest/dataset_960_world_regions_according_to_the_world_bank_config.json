@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/960",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:18:56.398712",
+  "date_accessed": "2022-06-10T12:15:36.072334",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "d91338febf6fd13ff36657ebbf701e8b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_960_world_regions_according_to_the_world_bank_config.json",
-  "md5": "783e378c1741d99872e55cd67550d1d6"
+  "md5": "1c367f6f54ec281b9a85c1c8cf664477"
 }

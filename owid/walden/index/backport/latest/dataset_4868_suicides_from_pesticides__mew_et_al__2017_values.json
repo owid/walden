@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4868",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:30:16.740986",
+  "date_accessed": "2022-06-10T12:08:53.521690",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4868_suicides_from_pesticides__mew_et_al__2017_values.feather",
-  "md5": "aebd23629e3c77ac514a476ae6ee3161"
+  "md5": "f52c8233516d8154e0bcfb29b7b8724e"
 }

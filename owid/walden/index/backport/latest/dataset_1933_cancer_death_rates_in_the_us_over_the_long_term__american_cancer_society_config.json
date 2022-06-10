@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1933",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:22:57.049885",
+  "date_accessed": "2022-06-10T08:54:16.067042",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "d814caeeaed20d193775e6087e169347",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1933_cancer_death_rates_in_the_us_over_the_long_term__american_cancer_society_config.json",
-  "md5": "46656435db4520b643ec1d914f5c79a3"
+  "md5": "95caad94e8442c7c7929e8be20c5eaaf"
 }

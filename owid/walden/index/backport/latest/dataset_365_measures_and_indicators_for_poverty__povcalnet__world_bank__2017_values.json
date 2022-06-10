@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/365",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:19:41.909752",
+  "date_accessed": "2022-06-10T08:36:19.413076",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_365_measures_and_indicators_for_poverty__povcalnet__world_bank__2017_values.feather",
-  "md5": "c8dc643d1d2b0ae9069b1c58eeefd896"
+  "md5": "04855c2df77cc3f8e257c60b63a36912"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/393",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:28:39.193011",
+  "date_accessed": "2022-06-10T08:50:10.239167",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_393_world_gdp_in_2011_int_dollar__owid_based_on_world_bank_plus_maddison__2017_values.feather",
-  "md5": "cda1e286a039ea44a9000eab3b7a18b8"
+  "md5": "f5c57713721792b787650cd7bfa910ff"
 }

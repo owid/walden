@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/279",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:16:33.730235",
+  "date_accessed": "2022-06-10T12:09:26.083095",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_279_literate_world_population__ourworldindata_based_on_oecd_and_unesco_values.feather",
-  "md5": "95b458c182e2177850218ba6f5e45807"
+  "md5": "efca7c16777f9820692b5e1f5af3f9b3"
 }

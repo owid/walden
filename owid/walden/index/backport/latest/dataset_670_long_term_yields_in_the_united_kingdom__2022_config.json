@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/670",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:19:03.011910",
+  "date_accessed": "2022-06-10T08:56:04.153770",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "ab7e3de1d8541fb37991c03ae3afe8a2",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_670_long_term_yields_in_the_united_kingdom__2022_config.json",
-  "md5": "4b82f649271ccafe8d69d0b871112c6b"
+  "md5": "4d150842bffc760dda17c1fb95f91fc1"
 }

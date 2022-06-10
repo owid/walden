@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4867",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:11:49.731726",
+  "date_accessed": "2022-06-10T08:41:44.882685",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "73af07ee9c196dde5ddee75d68fa37aa",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4867_suicide_rates_by_sex_and_age__ihme__2019_config.json",
-  "md5": "2927fc3230c550dcfd78165ec3732af1"
+  "md5": "faf76c05099367e0cadc3c99623146cd"
 }

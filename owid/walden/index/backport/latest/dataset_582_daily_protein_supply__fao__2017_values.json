@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/582",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:21.624155",
+  "date_accessed": "2022-06-10T09:03:04.889057",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_582_daily_protein_supply__fao__2017_values.feather",
-  "md5": "670a7401fd056a1404792bb626177963"
+  "md5": "ce82c64cb2defd97c7ba10340e3f7379"
 }

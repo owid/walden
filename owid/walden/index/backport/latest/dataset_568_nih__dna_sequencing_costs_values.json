@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/568",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:52:42.703024",
+  "date_accessed": "2022-06-10T12:13:16.062267",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_568_nih__dna_sequencing_costs_values.feather",
-  "md5": "1dd007783ad50ae8f34de172af74fc69"
+  "md5": "8f56975b884ac6d86b26337c58b4e0bd"
 }

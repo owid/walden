@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/390",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:00:55.317354",
+  "date_accessed": "2022-06-10T12:17:22.397123",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "0018db31bde6227852fd17d6fb5cd6f1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_390_weekly_home_production_hours_in_the_usa__ramey__2009__and__ramey_francis__2009_config.json",
-  "md5": "03e423139b3da31b292825f2666b6ff3"
+  "md5": "9c626adda8a9c5e2c2ac1be127e8a520"
 }

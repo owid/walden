@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3106",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:26:33.446071",
+  "date_accessed": "2022-06-10T08:51:06.585366",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3106_consumption_vs__production_based_co2_emissions_shares__based_on_gcp__and__un_values.feather",
-  "md5": "c22b66672f7bb74bfb92221c53d1abd8"
+  "md5": "60e2e587b094e90acce23fd588553808"
 }

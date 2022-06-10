@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/930",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:33:03.133419",
+  "date_accessed": "2022-06-10T12:12:07.951010",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "c740b092f3f5904de5e54d979bc0d8be",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_930_time_spent_on_domestic_work__un__2017__and_oecd__2014_config.json",
-  "md5": "582074081ccbe3ff00a631e73c2abbf0"
+  "md5": "24d8c5b10edf4c7bc4f1944a32188da4"
 }

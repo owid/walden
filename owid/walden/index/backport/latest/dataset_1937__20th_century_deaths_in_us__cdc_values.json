@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1937",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:20:12.921111",
+  "date_accessed": "2022-06-10T08:44:36.934010",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1937__20th_century_deaths_in_us__cdc_values.feather",
-  "md5": "5365ddd515b6a66b7daa8037d044254d"
+  "md5": "08c5162c2ebd82a051d2b48a035ddfdd"
 }

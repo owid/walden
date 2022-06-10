@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2512",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:24:56.960426",
+  "date_accessed": "2022-06-10T12:07:51.743494",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2512_top_income_shares__world_wealth_and_income_database__2018_values.feather",
-  "md5": "23d77db5d0d3252d1c6672a9d0afc58e"
+  "md5": "f1b496440a24e94285fe1cf358defb53"
 }

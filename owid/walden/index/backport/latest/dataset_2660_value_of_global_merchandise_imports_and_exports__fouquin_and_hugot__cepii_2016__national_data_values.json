@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2660",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:26:38.774824",
+  "date_accessed": "2022-06-10T09:02:43.339082",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2660_value_of_global_merchandise_imports_and_exports__fouquin_and_hugot__cepii_2016__national_data_values.feather",
-  "md5": "38b7d41fc468db7cffc5901b7a5f7743"
+  "md5": "3bcb8a3ee47e16e377d2dbfbe92a97f5"
 }

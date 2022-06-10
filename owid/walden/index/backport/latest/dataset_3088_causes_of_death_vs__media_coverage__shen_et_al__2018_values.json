@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3088",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:28.880031",
+  "date_accessed": "2022-06-10T08:39:33.073780",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3088_causes_of_death_vs__media_coverage__shen_et_al__2018_values.feather",
-  "md5": "b01b7686277a7fce0ab0fa3552deec8b"
+  "md5": "8b68bd3356c4504d89dac568eb9fc7c2"
 }

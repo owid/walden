@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/958",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:18:42.595019",
+  "date_accessed": "2022-06-10T08:42:16.784593",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_958_hadcrut_temperature_anomaly_values.feather",
-  "md5": "95ed43ea2c344659de6fa9dfba2823ea"
+  "md5": "d214df815069d5a781c5656c4b961c93"
 }

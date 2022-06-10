@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2670",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:11:27.225323",
+  "date_accessed": "2022-06-10T12:07:53.110444",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2670_inheritance_for_women__how_was_life__2014_values.feather",
-  "md5": "844820e69a944321a3075fc364a4a11d"
+  "md5": "dd936516cc729314d4acb40b0f3479d3"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1003",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:27:33.889110",
+  "date_accessed": "2022-06-10T09:02:44.593734",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1003_lowest_paying_occupations__percent_female__nwlc__2014_values.feather",
-  "md5": "30b76422a333b7df8f5028de0cb3263c"
+  "md5": "187fb6eff6e82c30f79846a0035f191e"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/464",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:32:19.333720",
+  "date_accessed": "2022-06-10T08:45:09.653192",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_464_historical_employment_and_output_by_sector__owid__2017_values.feather",
-  "md5": "6ef0af456bda21f8ff9e620ce8002566"
+  "md5": "daabef867d8bb5479a82dc08fdccdc45"
 }

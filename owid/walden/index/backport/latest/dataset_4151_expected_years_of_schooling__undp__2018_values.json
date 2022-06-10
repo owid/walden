@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4151",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:53:10.941361",
+  "date_accessed": "2022-06-10T08:48:31.751373",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4151_expected_years_of_schooling__undp__2018_values.feather",
-  "md5": "99630448ab2c1c71d7e5427885e49124"
+  "md5": "c085d46ba71553f853b7f2f5b43125d8"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4911",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:32:23.339715",
+  "date_accessed": "2022-06-10T12:13:06.987322",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4911_share_of_countries_where_homosexuality_is_legal__owid_based_on_kenny__and__patel__2017_values.feather",
-  "md5": "7099c182dd10e0031e21845cad09bd06"
+  "md5": "9250b4afd1fab1ed33d1a410f6cb1c7a"
 }

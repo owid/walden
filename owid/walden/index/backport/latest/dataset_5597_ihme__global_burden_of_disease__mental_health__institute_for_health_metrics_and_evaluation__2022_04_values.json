@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5597",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:52:59.959276",
+  "date_accessed": "2022-06-10T08:35:26.483383",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5597_ihme__global_burden_of_disease__mental_health__institute_for_health_metrics_and_evaluation__2022_04_values.feather",
-  "md5": "a76ecfdfe0aab4e78431cde012fdae98"
+  "md5": "0d144e76b8945852ea7d8c2b9e840829"
 }

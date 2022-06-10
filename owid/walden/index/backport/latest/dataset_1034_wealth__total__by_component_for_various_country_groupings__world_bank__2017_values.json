@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1034",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:30:33.419816",
+  "date_accessed": "2022-06-10T08:36:58.476632",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1034_wealth__total__by_component_for_various_country_groupings__world_bank__2017_values.feather",
-  "md5": "214810870b9d0cfeec4667bd06b5d55f"
+  "md5": "9106740c3c048e8cdf89264a8a4bfb3e"
 }

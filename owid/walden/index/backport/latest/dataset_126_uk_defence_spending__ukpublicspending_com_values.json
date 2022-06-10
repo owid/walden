@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/126",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:18:09.843259",
+  "date_accessed": "2022-06-10T12:15:20.574403",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_126_uk_defence_spending__ukpublicspending_com_values.feather",
-  "md5": "6a17206341229733154222f37cd5c0d4"
+  "md5": "b0cc6c04d8c4cb3f13801be4febea75f"
 }

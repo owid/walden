@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2665",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:30:42.215220",
+  "date_accessed": "2022-06-10T08:42:22.594132",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "814a8f47b9c9f67a86b093d742d492a5",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2665_economic_impacts_of_1_5c__pretis_et_al_config.json",
-  "md5": "14495fda1ddb6c4494f404b30bc85abd"
+  "md5": "1cd14541edede97e288771b07ac4e60e"
 }

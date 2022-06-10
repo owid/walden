@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2511",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:11:11.752252",
+  "date_accessed": "2022-06-10T08:42:58.737340",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2511_mental_health_services_across_incomes__wang_et_al__2007_values.feather",
-  "md5": "794dbc44293f8cae47627928c6960f1b"
+  "md5": "d11037aeb80269a6e0080cb33620a2aa"
 }

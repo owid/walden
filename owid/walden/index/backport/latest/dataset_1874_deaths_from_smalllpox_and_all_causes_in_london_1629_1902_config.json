@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1874",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:32:20.847094",
+  "date_accessed": "2022-06-10T12:12:27.825884",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "7ffa0fec032877163eb8e1b0584ac130",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1874_deaths_from_smalllpox_and_all_causes_in_london_1629_1902_config.json",
-  "md5": "b47db56feb4ce8d15f39ce30690d0090"
+  "md5": "efc523d0952c06ef4d44f980f90a4a4f"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5569",
   "file_extension": "json",
-  "date_accessed": "2022-05-28T14:52:37.961949",
+  "date_accessed": "2022-06-10T08:46:33.623783",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "0a5070ad1c9dd087a652f85c4f464c01",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5569_primary_energy_consumption_bp__and__eia__2022_config.json",
-  "md5": "b70170db95705bda848b7962cb175242"
+  "md5": "1ee081b579d0f6e954a012e79ef76dc0"
 }

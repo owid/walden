@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/972",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:26:29.995035",
+  "date_accessed": "2022-06-10T08:58:43.623668",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_972_gas_production__etemad__and__luciana_values.feather",
-  "md5": "5c1be39f7d7db300f6f27a1cdbe1098b"
+  "md5": "3657c7bea6fdee6a85b9f1e86311f7e0"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/132",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:21:17.735551",
+  "date_accessed": "2022-06-10T08:59:08.245335",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_132_food_prices_expressed_in_hourly_wages__u_s__bureau_of_labor_statistics__2015_values.feather",
-  "md5": "58682ab784da9b62db67df77de25fd9d"
+  "md5": "44e512cc718135247c1abe06cca6216a"
 }

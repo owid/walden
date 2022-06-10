@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2706",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:23:59.627991",
+  "date_accessed": "2022-06-10T12:07:38.120154",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2706_prevalence_of_alcohol_drinking_in_the_usa__cdc_values.feather",
-  "md5": "cd286f7518dab77c049f5abd4d0fd668"
+  "md5": "36e2c1a0396b70a4ea4827a5f844625c"
 }

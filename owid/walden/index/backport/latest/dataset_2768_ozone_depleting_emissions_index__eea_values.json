@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2768",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:18:16.359110",
+  "date_accessed": "2022-06-10T08:35:36.751749",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2768_ozone_depleting_emissions_index__eea_values.feather",
-  "md5": "5ef1bb0dfc76539ed1bf276545ae1a9c"
+  "md5": "dad5dbf47226a1d72ac5f3a14753d249"
 }

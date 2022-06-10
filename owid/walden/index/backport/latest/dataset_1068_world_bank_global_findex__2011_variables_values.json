@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1068",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:04:47.052465",
+  "date_accessed": "2022-06-10T08:48:19.968522",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1068_world_bank_global_findex__2011_variables_values.feather",
-  "md5": "b9cfadcb94362a5633ce36ad03126686"
+  "md5": "6aa44c64b68caa2413880193dcd35019"
 }

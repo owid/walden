@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/631",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:28:49.577215",
+  "date_accessed": "2022-06-10T09:00:44.522214",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_631_labour_market__quality_of_government__2017_values.feather",
-  "md5": "3b67a557b6d00df3429a2c7c147a248c"
+  "md5": "a344bd9c62f8de4e5d5585dfef5b4822"
 }

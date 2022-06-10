@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/523",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:30:43.261857",
+  "date_accessed": "2022-06-10T09:00:39.454627",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "c19f7ca365fca9c0f50f129dfe5e7345",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_523_healthcare_access_and_quality_index__ihme__2017_config.json",
-  "md5": "17fc9b2f3ca94fe835edd58f9587437a"
+  "md5": "809432ffbad6990918c41d687c52232a"
 }

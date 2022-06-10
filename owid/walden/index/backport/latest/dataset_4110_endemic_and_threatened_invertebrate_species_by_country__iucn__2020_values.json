@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4110",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:23:06.516826",
+  "date_accessed": "2022-06-10T12:15:12.347320",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4110_endemic_and_threatened_invertebrate_species_by_country__iucn__2020_values.feather",
-  "md5": "0580a6cf20e8ef24e3944065373aadd2"
+  "md5": "d24c3339f5766d92ccea435c51480db8"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1925",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:03:31.834088",
+  "date_accessed": "2022-06-10T12:17:19.523714",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "496ba2543375c121e394dd6c49980136",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1925_total_gross_official_disbursements_for_medical_research_and_basic_heath_sectors__oecd_config.json",
-  "md5": "5367f83b594f753f7af04b017de50f4a"
+  "md5": "a331f1eba4181fbc1ea0ea2d9bcf2a3f"
 }

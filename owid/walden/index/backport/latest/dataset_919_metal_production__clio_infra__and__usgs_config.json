@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/919",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:21:58.933212",
+  "date_accessed": "2022-06-10T12:09:30.203821",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "f2a60440c5764b661a25acdf59bae704",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_919_metal_production__clio_infra__and__usgs_config.json",
-  "md5": "7a020838f05a7b2fe1a69f2df71bcb30"
+  "md5": "9bba360cac6ce8063565a56b498f8e15"
 }

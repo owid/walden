@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2959",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:46.240036",
+  "date_accessed": "2022-06-10T12:19:28.583130",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2959_extreme_temperatures_in_us__noaa_values.feather",
-  "md5": "79c3c6346e44f254723a2be7c007bbbc"
+  "md5": "3bfb5dae5d20a86b7ec68bd5a5c4fb90"
 }

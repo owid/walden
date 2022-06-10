@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4254",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:05:17.422642",
+  "date_accessed": "2022-06-10T08:31:27.292125",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4254_number_of_child_deaths_1950_2017__ihme__2017_values.feather",
-  "md5": "2884807317838d1e3547d90977549435"
+  "md5": "e375d30530040c267850e1d5fb14ed70"
 }

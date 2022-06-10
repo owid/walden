@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/394",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:32:20.304436",
+  "date_accessed": "2022-06-10T12:08:56.512249",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_394_motor_vehicles_per_1000_people__nationmaster__2014_values.feather",
-  "md5": "c9b89da3429ab0d34ddf8b8a2c635c55"
+  "md5": "6f14fd992255225af3f2ce6af800b76f"
 }

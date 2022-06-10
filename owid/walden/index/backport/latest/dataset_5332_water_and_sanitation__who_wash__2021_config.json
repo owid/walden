@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5332",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:03:22.902599",
+  "date_accessed": "2022-06-10T08:34:30.878343",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "00c423d21efaa7e5d0e9c9c504cff290",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5332_water_and_sanitation__who_wash__2021_config.json",
-  "md5": "a112983ecadf6b3897e13cc62757f980"
+  "md5": "2bcc72b401bf30f3f317c2973e61a181"
 }

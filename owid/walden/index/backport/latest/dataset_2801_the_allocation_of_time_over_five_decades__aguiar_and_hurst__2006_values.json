@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2801",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:26:31.417858",
+  "date_accessed": "2022-06-10T08:31:26.151664",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2801_the_allocation_of_time_over_five_decades__aguiar_and_hurst__2006_values.feather",
-  "md5": "e33f326642b876eafa968255ecdc60ce"
+  "md5": "ff28876935d22f44daba1bfb70895199"
 }

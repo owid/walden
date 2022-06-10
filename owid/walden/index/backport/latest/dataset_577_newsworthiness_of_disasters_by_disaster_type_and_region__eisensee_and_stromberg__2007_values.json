@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/577",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:25:16.482671",
+  "date_accessed": "2022-06-10T09:03:36.572269",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_577_newsworthiness_of_disasters_by_disaster_type_and_region__eisensee_and_stromberg__2007_values.feather",
-  "md5": "e38e37f75ff34ccab7c5841b9a0984d8"
+  "md5": "7314a3239ecb639eac4d932dbb919913"
 }

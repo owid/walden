@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4098",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:15:07.487846",
+  "date_accessed": "2022-06-10T08:40:12.968180",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4098_endemic_vertebrate_species_by_country__iucn__2020_values.feather",
-  "md5": "6a0fa4aa2c2a062c7723910da008211f"
+  "md5": "bf26c1cf71825c1d2053751378fe7392"
 }

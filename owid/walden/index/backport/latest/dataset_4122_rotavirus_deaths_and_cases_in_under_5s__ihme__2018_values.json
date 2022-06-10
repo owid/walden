@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4122",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:22:55.319130",
+  "date_accessed": "2022-06-10T08:54:11.552396",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4122_rotavirus_deaths_and_cases_in_under_5s__ihme__2018_values.feather",
-  "md5": "d6d438d3441b4ced8b6d10f6185f1fa8"
+  "md5": "38dcfb2d6f05b31c4d0bc02972cfc7f4"
 }

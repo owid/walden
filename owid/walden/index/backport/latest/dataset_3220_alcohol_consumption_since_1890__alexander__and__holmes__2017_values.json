@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3220",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:52:16.107538",
+  "date_accessed": "2022-06-10T08:39:04.248879",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3220_alcohol_consumption_since_1890__alexander__and__holmes__2017_values.feather",
-  "md5": "25aebe9843f4394dd95138ed4578a738"
+  "md5": "2175b642ce40cba39f1f51b4d7c21ded"
 }

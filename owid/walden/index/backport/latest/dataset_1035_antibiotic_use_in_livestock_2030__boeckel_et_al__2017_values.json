@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1035",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:04:13.355080",
+  "date_accessed": "2022-06-10T08:37:15.166300",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1035_antibiotic_use_in_livestock_2030__boeckel_et_al__2017_values.feather",
-  "md5": "4ec9c100226488377aec55083026cc4a"
+  "md5": "f36d9e5bba9e312383704fa5f213de3e"
 }

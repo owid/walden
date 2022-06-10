@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/871",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:21:19.460750",
+  "date_accessed": "2022-06-10T08:33:41.419357",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_871_clio_infra__biological_standards_of_living__baten_and_blum__2015_values.feather",
-  "md5": "9339694827a00d9dff7f7778e80f5673"
+  "md5": "1c5cbfa2993352d5a0356fb6cf5046fb"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/955",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:26:45.605888",
+  "date_accessed": "2022-06-10T12:09:04.820377",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "939e22bab12e41205c0f485b2d26be18",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_955_coal_production__the_shift_project_config.json",
-  "md5": "a9666cff7030e24d4e2e30be7a786bf6"
+  "md5": "48abcdf0193b43c4f664eb6948387fe7"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/310",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:25:07.026463",
+  "date_accessed": "2022-06-10T08:54:53.173451",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_310_government_expenditure__imf_based_on_mauro_et_al__2015_values.feather",
-  "md5": "061821b9f1b4da36bb3fa8e7022ae2de"
+  "md5": "9d48cde1567a4ab98b44dc3c8de02abd"
 }

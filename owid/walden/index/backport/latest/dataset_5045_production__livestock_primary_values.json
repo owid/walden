@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5045",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:33:12.951257",
+  "date_accessed": "2022-06-10T08:44:18.393377",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5045_production__livestock_primary_values.feather",
-  "md5": "7f212f5d90921f9a993c43d841487db7"
+  "md5": "6618d7435edf8c7f80cc0072ea662f88"
 }

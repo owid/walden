@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/323",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:23:11.913169",
+  "date_accessed": "2022-06-10T08:49:12.275120",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "abec4eb6dfaa50877a695269fe1381f2",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_323_global_child_mortality__since_1800__based_on_gapminder_and_world_bank__2019_config.json",
-  "md5": "dde4b49aa26c35d9452db4cf26a5606c"
+  "md5": "99083fa7e120b09800732779071419ac"
 }

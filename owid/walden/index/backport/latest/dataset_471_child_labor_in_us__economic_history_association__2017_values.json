@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/471",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:21:16.856543",
+  "date_accessed": "2022-06-10T08:41:14.608856",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_471_child_labor_in_us__economic_history_association__2017_values.feather",
-  "md5": "540670b05b70a3bee75cc3937d9522c9"
+  "md5": "f020534ce9b1f6178d16c1a723c0526d"
 }

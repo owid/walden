@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5053",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:24:58.571809",
+  "date_accessed": "2022-06-10T08:35:44.491240",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "72c502cd808adc78a242b2470a94dac5",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5053_inputs__pesticides_use_config.json",
-  "md5": "104eb958dafe975e8d7711e3ff83d015"
+  "md5": "ec41a546e36f8733faef1af3ea99f53f"
 }

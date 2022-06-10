@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2077",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:14:26.964695",
+  "date_accessed": "2022-06-10T09:02:06.010067",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2077_guinea_worm_who_certification_status__who_2018_values.feather",
-  "md5": "e4c1a425b99b95bd88e8fae40b903ca2"
+  "md5": "a63e518544884cb41da7d98f2e82e707"
 }

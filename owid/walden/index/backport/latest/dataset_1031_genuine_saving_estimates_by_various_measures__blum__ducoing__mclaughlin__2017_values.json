@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1031",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:22:09.148599",
+  "date_accessed": "2022-06-10T12:13:55.634207",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1031_genuine_saving_estimates_by_various_measures__blum__ducoing__mclaughlin__2017_values.feather",
-  "md5": "e84420a518b8ed889022a59603009ac1"
+  "md5": "9bca270257b23ff6c825a9d0ff79acf3"
 }

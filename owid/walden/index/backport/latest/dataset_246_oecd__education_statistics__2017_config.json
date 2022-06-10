@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/246",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:23:09.063744",
+  "date_accessed": "2022-06-10T08:51:39.092436",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "c0f38508ceffa8c5f5546d0f03099108",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_246_oecd__education_statistics__2017_config.json",
-  "md5": "1012b0dc03e053261a80845f634ab70f"
+  "md5": "2d0fe0236f222e2e52efdeff1b354b90"
 }

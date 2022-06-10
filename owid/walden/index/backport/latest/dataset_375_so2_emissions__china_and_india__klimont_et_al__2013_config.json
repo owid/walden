@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/375",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:25:14.136781",
+  "date_accessed": "2022-06-10T12:15:47.471640",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "3eb4445aab23e0c131b5996365a847fa",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_375_so2_emissions__china_and_india__klimont_et_al__2013_config.json",
-  "md5": "bf84b78a1e65a39969f96e75854d8b5b"
+  "md5": "6a88671bd6e51513e90f8de323af8ffc"
 }

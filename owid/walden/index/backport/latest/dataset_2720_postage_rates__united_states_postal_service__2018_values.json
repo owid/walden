@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2720",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:11:35.659134",
+  "date_accessed": "2022-06-10T08:34:12.658828",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2720_postage_rates__united_states_postal_service__2018_values.feather",
-  "md5": "4c3f100dca0fbb10dab482a524bf838c"
+  "md5": "2a5205b45b4bcffd7189f9c0fefb2d3a"
 }

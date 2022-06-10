@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5167",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:31:13.733477",
+  "date_accessed": "2022-06-10T12:19:36.637520",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5167_energy_efficiency_by_passenger_mode_in_usa__bts_values.feather",
-  "md5": "bc33bbd4857e2e35e66f4fd6d8511a8e"
+  "md5": "b47683ea472a5e8b888db7c1f6191592"
 }

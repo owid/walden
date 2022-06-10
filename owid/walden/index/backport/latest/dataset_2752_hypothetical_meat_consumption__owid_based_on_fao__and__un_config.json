@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2752",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:11:37.265960",
+  "date_accessed": "2022-06-10T08:55:32.794314",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "360ea9468e66ba5ee8119a2a9c4296cc",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2752_hypothetical_meat_consumption__owid_based_on_fao__and__un_config.json",
-  "md5": "090fb36f66ce103758b43d736965b890"
+  "md5": "a683a6e2190929ad49165a8ce43c93f2"
 }

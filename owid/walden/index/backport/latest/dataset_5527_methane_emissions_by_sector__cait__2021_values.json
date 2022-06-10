@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5527",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:51:16.840302",
+  "date_accessed": "2022-06-10T08:39:19.668687",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5527_methane_emissions_by_sector__cait__2021_values.feather",
-  "md5": "1162c6bed7d327524f49a00364b2a10b"
+  "md5": "49a989d9b26f5b8a4911963a771f09a4"
 }

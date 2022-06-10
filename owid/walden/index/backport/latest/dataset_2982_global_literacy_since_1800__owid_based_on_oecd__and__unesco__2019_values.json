@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2982",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:31:45.312904",
+  "date_accessed": "2022-06-10T08:42:13.897236",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2982_global_literacy_since_1800__owid_based_on_oecd__and__unesco__2019_values.feather",
-  "md5": "93e1f19baa63a857842f86d1e30947a2"
+  "md5": "433aab4949bfd31e2a31d39c1a48752f"
 }

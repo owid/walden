@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2515",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:16:41.732168",
+  "date_accessed": "2022-06-10T08:33:42.043145",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "eb9290d714711506e8143ce6e8778a9a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2515_global_meat_projections_to_2050__fao_config.json",
-  "md5": "b07e945ba1601fbd3dc09174defd18b4"
+  "md5": "290b7a54a223e71fc7fa57ac0326114c"
 }

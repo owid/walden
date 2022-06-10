@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/299",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:00:24.461854",
+  "date_accessed": "2022-06-10T12:09:55.557183",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "680ceacd25a7f5d350793c369323f1e0",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_299_revenue_shares_from_tax__flora__1983__and_ictd__2016_config.json",
-  "md5": "a4c6c1c00121e55c64438451394ce482"
+  "md5": "34ee8d803a97dc1db16d2733cbe2cba7"
 }

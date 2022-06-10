@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1883",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:01:45.535293",
+  "date_accessed": "2022-06-10T08:53:27.989063",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1883_global_death_rates_from_disasters__emdat__un__and__hyde_values.feather",
-  "md5": "f674d91e6a1fde102b6cf5ecb606f413"
+  "md5": "dcbd201c526d4425e942d75209efd4b7"
 }

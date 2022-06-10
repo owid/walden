@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5042",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:13:19.544082",
+  "date_accessed": "2022-06-10T08:42:46.935304",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5042_production__crops_values.feather",
-  "md5": "9dfb63c55df9437d2565f271b620d900"
+  "md5": "99bbb77b8c325e440221754a6676f209"
 }

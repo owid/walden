@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/581",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:54:09.888135",
+  "date_accessed": "2022-06-10T08:38:40.257150",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_581_daily_supply_of_calories_per_person__owid_based_on_un_fao__and__historical_sources_values.feather",
-  "md5": "c58754d020d0240e7bd198ef3af150be"
+  "md5": "1a835b5e9793d9bc305b1b008d7c6f21"
 }

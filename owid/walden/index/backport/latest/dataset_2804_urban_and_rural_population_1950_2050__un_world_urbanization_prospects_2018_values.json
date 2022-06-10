@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2804",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:48.432764",
+  "date_accessed": "2022-06-10T08:30:04.634334",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2804_urban_and_rural_population_1950_2050__un_world_urbanization_prospects_2018_values.feather",
-  "md5": "cd3d41200bea1ca224a307934d1e7d56"
+  "md5": "0a67ed48393fc3aef55993a8ecd955e0"
 }

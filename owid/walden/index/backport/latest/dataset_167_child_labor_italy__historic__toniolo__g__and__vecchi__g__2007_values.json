@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/167",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:21:39.374924",
+  "date_accessed": "2022-06-10T12:10:59.534903",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_167_child_labor_italy__historic__toniolo__g__and__vecchi__g__2007_values.feather",
-  "md5": "80636f1c538b545a93e28dfdd8272a95"
+  "md5": "4b0f51112e4bb66657e02c052d9cbe21"
 }

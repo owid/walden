@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3224",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:26:54.024421",
+  "date_accessed": "2022-06-10T08:49:08.641010",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3224_government_expenditure_and_learning_outcomes_values.feather",
-  "md5": "68d1acf74c7680ff32954cbdf1632328"
+  "md5": "984383636004ed5d4dcc6c8dc05598ff"
 }

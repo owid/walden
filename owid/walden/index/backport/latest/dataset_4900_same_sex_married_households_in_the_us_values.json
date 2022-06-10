@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4900",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:04:25.787714",
+  "date_accessed": "2022-06-10T12:13:05.127476",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4900_same_sex_married_households_in_the_us_values.feather",
-  "md5": "c47006b75fc0c4d2cf91a0eff238a821"
+  "md5": "19666b303300dfeb54914326e7ab157f"
 }

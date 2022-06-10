@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1879",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:18:55.794983",
+  "date_accessed": "2022-06-10T12:12:20.780640",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1879_education_data_deprivation__gem_report__2017_18__uis__2017_values.feather",
-  "md5": "e61708e59dddaa35e6b77f87a7b10acf"
+  "md5": "c7eeec149ace7a0d729271a5e920e35b"
 }

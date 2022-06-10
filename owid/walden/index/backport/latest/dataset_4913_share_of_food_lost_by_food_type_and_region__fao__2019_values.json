@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4913",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:12:48.333198",
+  "date_accessed": "2022-06-10T12:15:14.448915",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4913_share_of_food_lost_by_food_type_and_region__fao__2019_values.feather",
-  "md5": "f943553828c94caa853cbeb6d84e3c8a"
+  "md5": "4a004ad398280a743a7ca7014c2de68f"
 }

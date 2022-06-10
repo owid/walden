@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2850",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:24:11.521590",
+  "date_accessed": "2022-06-10T12:17:29.969696",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2850_plastic_importers_to_china__brooks_et_al__2018_values.feather",
-  "md5": "79681dc1cc0ba29e045cb38ed48a0012"
+  "md5": "c33f25829cce5e6f327dcda8008e7c3d"
 }

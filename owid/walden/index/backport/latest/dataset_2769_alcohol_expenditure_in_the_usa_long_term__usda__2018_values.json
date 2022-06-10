@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2769",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:05:14.738852",
+  "date_accessed": "2022-06-10T08:46:09.571120",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2769_alcohol_expenditure_in_the_usa_long_term__usda__2018_values.feather",
-  "md5": "7a60591051d35f3ed3b0c8ac305925af"
+  "md5": "1a560953a1ae79bb9cfe4ac6a4008204"
 }

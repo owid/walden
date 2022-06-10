@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/236",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:23:03.234383",
+  "date_accessed": "2022-06-10T08:42:07.402922",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "629cf5ad0c4bc51c133586d0fa3a8b10",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_236_bourguignon_and_morrison__2002__and_world_bank__povcalnet__2015_config.json",
-  "md5": "14d9d3ce07f3e6accaa00f377c816b29"
+  "md5": "119c0a04ea65d27d145226bb53cb015e"
 }

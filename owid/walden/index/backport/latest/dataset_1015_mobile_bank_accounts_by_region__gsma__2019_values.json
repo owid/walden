@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1015",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:23:37.849246",
+  "date_accessed": "2022-06-10T08:36:12.680490",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1015_mobile_bank_accounts_by_region__gsma__2019_values.feather",
-  "md5": "b9a27cfff17ded07c8b0c61c22f24636"
+  "md5": "146a65664a905b95ecdcc2609920f624"
 }

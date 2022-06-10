@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1015",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:23:37.355575",
+  "date_accessed": "2022-06-10T08:36:12.294065",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "1bd35cb4576e4267411341fd5eb7a324",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1015_mobile_bank_accounts_by_region__gsma__2019_config.json",
-  "md5": "06ffbb533198650b600fe2e20c751dcc"
+  "md5": "2499636cf109f3e262a9cb1d65d88317"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/324",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:04.027190",
+  "date_accessed": "2022-06-10T08:50:35.711914",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_324_global_education__oecd_plus_iiasa__2016_values.feather",
-  "md5": "46d277bfbddfe36b35d75d2bf1bd2c90"
+  "md5": "0d4390b92c0f52491e9da63eb05bc761"
 }

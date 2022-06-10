@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2751",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:22:29.183673",
+  "date_accessed": "2022-06-10T08:38:15.842441",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "06d7de171311fc3e124569aadf592e40",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2751_global_battle_related_and_one_sided_violence_deaths_since_1946__prio_ucdp_config.json",
-  "md5": "9a88c658dec379f517691524d702b0dc"
+  "md5": "8b27df82659a30f2220521f3c7af3efc"
 }

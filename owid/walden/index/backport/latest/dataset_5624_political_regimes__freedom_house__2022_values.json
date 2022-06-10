@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5624",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:51:26.962263",
+  "date_accessed": "2022-06-10T08:40:01.010994",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5624_political_regimes__freedom_house__2022_values.feather",
-  "md5": "52484341a2086dca042a672b0e9370e0"
+  "md5": "a32b8abbf5c70adf1c4b7bc05164483c"
 }

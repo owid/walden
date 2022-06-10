@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2821",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:04:05.049139",
+  "date_accessed": "2022-06-10T08:46:11.274470",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "bc51d89b626e1d2538c968e591a31716",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2821_how_europeans_spend_their_time__european_commission__2004_config.json",
-  "md5": "25cfd6b6297bb57defceb7002d8d6a4d"
+  "md5": "9288e5188f06f4a30e36e4489b3dc48b"
 }

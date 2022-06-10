@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5164",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:05:51.199311",
+  "date_accessed": "2022-06-10T08:34:36.801960",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5164_global_airline_traffic_and_capacity__icao__2020_values.feather",
-  "md5": "e6aefe50dfbbfd3a5fc1c20089659141"
+  "md5": "258d201f3de0c9b1f5976fd70b531f70"
 }

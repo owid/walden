@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/661",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:15:41.411006",
+  "date_accessed": "2022-06-10T08:51:44.774466",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_661_us_corn_yields__usda__2017__and__fao__2017_values.feather",
-  "md5": "05d432b0d3bae1d30579416c25e8826b"
+  "md5": "71365c112ecbd40fe276d745b1cc424d"
 }

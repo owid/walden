@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2423",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:16:07.185156",
+  "date_accessed": "2022-06-10T08:46:00.625600",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "9f7beb62d808a9499abe8ae454755492",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2423_mental_and_substance_use_disorders_config.json",
-  "md5": "40f91d4f327b44fcae10ef26851daccb"
+  "md5": "2ae041c1ae42c3de4f09acd2af3bb998"
 }

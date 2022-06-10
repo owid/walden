@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/967",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:00:47.101039",
+  "date_accessed": "2022-06-10T08:58:00.219293",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_967_food_waste_in_the_european_union__europa__2010_values.feather",
-  "md5": "b950b14d3235e2a85fc98c62b17a43f4"
+  "md5": "ffded759955f4298f0a0920bb0588d31"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5546",
   "file_extension": "feather",
-  "date_accessed": "2022-05-28T14:51:22.056347",
+  "date_accessed": "2022-06-10T08:31:39.649060",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5546_political_regimes__skaaning_et_al__2015_values.feather",
-  "md5": "1087aa1fbd93ebda7ebc2376c3063ae0"
+  "md5": "1fff27629bbde5d634efab26d3ce566a"
 }

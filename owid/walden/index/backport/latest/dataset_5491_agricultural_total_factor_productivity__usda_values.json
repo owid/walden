@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5491",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:22:13.176129",
+  "date_accessed": "2022-06-10T08:43:10.972419",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5491_agricultural_total_factor_productivity__usda_values.feather",
-  "md5": "4ca8a64280c563dfa7abab1cfbe8439a"
+  "md5": "aa20b5095ac5179f0d9b6b89a2eed56f"
 }

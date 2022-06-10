@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/665",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:28:17.285549",
+  "date_accessed": "2022-06-10T12:17:16.588052",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_665_global_agricultural_land_by_crop__fao__2017_values.feather",
-  "md5": "ca9f748083a9faf74afd77c9ea661f4a"
+  "md5": "27d95434f28947b4b5ddb36fbe4464c2"
 }

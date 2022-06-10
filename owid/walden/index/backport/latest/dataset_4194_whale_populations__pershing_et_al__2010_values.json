@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4194",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:26:10.899801",
+  "date_accessed": "2022-06-10T09:02:00.722123",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4194_whale_populations__pershing_et_al__2010_values.feather",
-  "md5": "c59525a44734f13ff482087e78327382"
+  "md5": "832519ef4fc3c9ba0547a5b8e0a482e6"
 }

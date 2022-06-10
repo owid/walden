@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/974",
   "file_extension": "json",
-  "date_accessed": "2022-05-27T08:21:40.816939",
+  "date_accessed": "2022-06-10T08:38:35.547248",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "8954d922eaba16f0be2b1b49c49f35e3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_974_fossil_fuel_consumption_per_capita__bp__and__un__2017_revision_config.json",
-  "md5": "2f8eea15143d7ab3b3b86e0b4af9d3c0"
+  "md5": "4265fc96a03fb217f383cd9034a01eed"
 }

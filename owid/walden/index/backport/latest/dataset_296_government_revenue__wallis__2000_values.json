@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/296",
   "file_extension": "feather",
-  "date_accessed": "2022-05-27T08:13:00.242150",
+  "date_accessed": "2022-06-10T08:36:11.789853",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_296_government_revenue__wallis__2000_values.feather",
-  "md5": "cf66165ab3e8b3d359ff68b15307fa1e"
+  "md5": "212a3666fd172be87203dab3b8175e06"
 }
