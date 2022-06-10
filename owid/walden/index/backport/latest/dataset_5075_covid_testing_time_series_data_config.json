@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5075",
   "file_extension": "json",
-  "date_accessed": "2022-06-09T07:32:20.390847",
+  "date_accessed": "2022-06-09T15:56:55.558287",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e148a19bd5786a0061122856acef2d28",
+  "origin_md5": "42d0cc48676ca985189ee5bc01616d4c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5075_covid_testing_time_series_data_config.json",
-  "md5": "b725289a0c6b43d0626a518c92eca1ae"
+  "md5": "20cf67ed86041bf93bff493b109b450e"
 }

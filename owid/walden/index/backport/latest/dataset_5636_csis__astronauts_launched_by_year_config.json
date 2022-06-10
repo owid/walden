@@ -2,15 +2,15 @@
   "namespace": "backport",
   "short_name": "dataset_5636_csis__astronauts_launched_by_year_config",
   "name": "Grapher metadata for dataset_5636_csis__astronauts_launched_by_year",
-  "description": "",
+  "description": "https://github.com/owid/notebooks/tree/main/EdouardMathieu/aerospace_csis_datasets",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5636",
   "file_extension": "json",
-  "date_accessed": "2022-06-09T07:34:08.045080",
+  "date_accessed": "2022-06-10T07:29:03.506218",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0e6e1a064d53e862590908eada010409",
+  "origin_md5": "b285463520ea19216a1d232249bb3975",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5636_csis__astronauts_launched_by_year_config.json",
-  "md5": "d79f8c5613c3366f402354346da455ed"
+  "md5": "6b6029683c6142492b6ee64b8f55dcab"
 }

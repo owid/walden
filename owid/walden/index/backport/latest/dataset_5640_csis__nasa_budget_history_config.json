@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5640_csis__nasa_budget_history_config",
+  "name": "Grapher metadata for dataset_5640_csis__nasa_budget_history",
+  "description": "https://github.com/owid/notebooks/tree/main/EdouardMathieu/aerospace_csis_datasets",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5640",
+  "file_extension": "json",
+  "date_accessed": "2022-06-10T07:27:32.108711",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7da80d38908117290acf867e96247b9b",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5640_csis__nasa_budget_history_config.json",
+  "md5": "b25245f0c9e7ac41df01992a78690f97"
+}

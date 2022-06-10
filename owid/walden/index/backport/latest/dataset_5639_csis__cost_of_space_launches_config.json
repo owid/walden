@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5639_csis__cost_of_space_launches_config",
+  "name": "Grapher metadata for dataset_5639_csis__cost_of_space_launches",
+  "description": "https://github.com/owid/notebooks/tree/main/EdouardMathieu/aerospace_csis_datasets",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5639",
+  "file_extension": "json",
+  "date_accessed": "2022-06-10T07:30:46.603789",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ce852a50bcf30fcbcc00ee3d8ee66bd7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5639_csis__cost_of_space_launches_config.json",
+  "md5": "4cff95166d314e645ebf1c7e23a07b3d"
+}
