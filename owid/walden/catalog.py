@@ -215,6 +215,13 @@ class Dataset:
 
         self.is_public = public
 
+    def delete_from_remote(self) -> None:
+        """
+        Delete the file from the remote cache on S3.
+        """
+        dest_path = f"https://{self.relative_base}.{self.file_extension}"
+        owid_cache.delete(dest_path)
+
     @property
     def local_path(self) -> str:
         return path.join(CACHE_DIR, f"{self.relative_base}.{self.file_extension}")
