@@ -46,6 +46,24 @@ def upload(filename: str, relative_path: str, public: bool = False) -> str:
     return f"{HTTPS_BASE}/{relative_path}"
 
 
+def delete(relative_path: str, quiet: bool = False):
+    """Delete object at given S3 URL."""
+    s3_url = f"{S3_BASE}/{relative_path}"
+
+    client = connect()
+
+    bucket, key = s3_bucket_key(s3_url)
+
+    try:
+        client.delete_object(Bucket=bucket, Key=key)
+    except ClientError as e:
+        logging.error(e)
+        raise DeleteError(e)
+
+    if not quiet:
+        log("DELETED", f"{s3_url}")
+
+
 def s3_bucket_key(url: str) -> Tuple[str, str]:
     """Get bucket and key from either s3:// URL or https:// URL."""
     parsed = urlparse(url)
@@ -110,4 +128,8 @@ aws_secret_access_key = ...
 
 
 class UploadError(Exception):
+    pass
+
+
+class DeleteError(Exception):
     pass
