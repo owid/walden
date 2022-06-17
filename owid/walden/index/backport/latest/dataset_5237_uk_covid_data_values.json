@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5237",
   "file_extension": "feather",
-  "date_accessed": "2022-06-16T08:14:53.693664",
+  "date_accessed": "2022-06-17T07:07:07.411663",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5237_uk_covid_data_values.feather",
-  "md5": "fdb1175db7e2425513d4bbdcf3262f69"
+  "md5": "d1620fadd88b390f53a18fcfd95a4a71"
 }
