@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5433",
   "file_extension": "feather",
-  "date_accessed": "2022-06-17T07:06:29.555473",
+  "date_accessed": "2022-06-20T12:23:28.788056",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5433_covid_19__sequencing_values.feather",
-  "md5": "af36c2bcf45f59076a377fda205820ee"
+  "md5": "f2db1e6488de07cfa289499306364449"
 }
