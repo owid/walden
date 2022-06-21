@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5635_democracy__economist_intelligence_unit__2022_config",
+  "name": "Grapher metadata for dataset_5635_democracy__economist_intelligence_unit__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5635",
+  "file_extension": "json",
+  "date_accessed": "2022-06-21T18:02:33.907688",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "27fc27d0d7d1ddeb2cad284d09f2bdc6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5635_democracy__economist_intelligence_unit__2022_config.json",
+  "md5": "03b1f91b2e58267dbb3f724c7bc5e112"
+}
