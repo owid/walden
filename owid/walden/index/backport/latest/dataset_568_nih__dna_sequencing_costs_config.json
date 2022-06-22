@@ -2,15 +2,15 @@
   "namespace": "backport",
   "short_name": "dataset_568_nih__dna_sequencing_costs_config",
   "name": "Grapher metadata for dataset_568_nih__dna_sequencing_costs",
-  "description": "",
+  "description": "https://github.com/owid/notebooks/tree/main/EdouardMathieu/nih_dna_sequencing_costs",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/568",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:13:15.562808",
+  "date_accessed": "2022-06-22T12:00:43.064070",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "d26e821958e4bfc839a56685d64eb97e",
+  "origin_md5": "4c13de49cd9a5e0278ed4f9d57da98d6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_568_nih__dna_sequencing_costs_config.json",
-  "md5": "397066b3f035d50c15539c4be099bc69"
+  "md5": "2693e079a4700719dc1ea6ecd7ab0765"
 }
