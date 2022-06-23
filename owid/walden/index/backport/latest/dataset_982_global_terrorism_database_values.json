@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_982_global_terrorism_database_values",
+  "name": "Global Terrorism Database",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/982",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-23T12:01:23.084620",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_982_global_terrorism_database_values.feather",
+  "md5": "01ad9276e591c8c7cd420c3ac855ba88"
+}
