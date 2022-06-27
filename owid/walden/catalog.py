@@ -278,10 +278,14 @@ class Catalog:
 
     def find_latest(
         self,
-        namespace: Optional[str] = None,
-        short_name: Optional[str] = None,
+        namespace: str,
+        short_name: str,
     ) -> Dataset:
         matches = self.find(namespace=namespace, short_name=short_name)
+        if not matches:
+            raise ValueError(
+                f"Dataset {short_name} in namespace {namespace} not found in walden"
+            )
         _, dataset = max((d.version, d) for d in matches)
         return dataset
 
