@@ -22,20 +22,21 @@ import requests
 
 from .ui import log
 
-# Create a fancy progress bar to use for display of download progress.
-# based on https://github.com/Textualize/rich/blob/ae1ee4efa1742e7a91ffd4870ba677aad70ff036/examples/downloader.py
-progress = Progress(
-    "[progress.description]{task.description}",
-    BarColumn(bar_width=None),
-    "[progress.percentage]{task.percentage:>3.1f}%",
-    "•",
-    DownloadColumn(),
-    "•",
-    TransferSpeedColumn(),
-    "•",
-    TimeElapsedColumn(),
-    transient=True,
-)
+
+def _create_progress_bar() -> Progress:
+    """Create a fancy progress bar to use for display of download progress.
+    Based on https://github.com/Textualize/rich/blob/ae1ee4efa1742e7a91ffd4870ba677aad70ff036/examples/downloader.py"""
+    return Progress(
+        "[progress.description]{task.description}",
+        BarColumn(bar_width=None),
+        "[progress.percentage]{task.percentage:>3.1f}%",
+        "•",
+        DownloadColumn(),
+        "•",
+        TransferSpeedColumn(),
+        "•",
+        TimeElapsedColumn(),
+    )
 
 
 def _stream_to_file(
@@ -55,6 +56,7 @@ def _stream_to_file(
     streamer = r.iter_content(chunk_size=chunk_size)
     display_progress = total_length > progress_bar_min_bytes
     if display_progress:
+        progress = _create_progress_bar()
         progress.start()
         task_id = progress.add_task("Downloading", total=total_length)
 
