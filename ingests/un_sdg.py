@@ -22,15 +22,18 @@ CHUNK_SIZE = 8192
 
 
 def main():
+    print("Creating metadata...")
     metadata = create_metadata()
     with tempfile.TemporaryDirectory() as temp_dir:
         # fetch the file locally
         assert metadata.source_data_url is not None
+        print("Downloading data...")
         all_data = download_data()
+        print("Saving data...")
         output_file = Path(temp_dir) / f"data.{metadata.file_extension}"  # type: ignore
         with open(output_file, "wb") as f:
             f.write(all_data)
-
+        print("Adding to catalog...")
         add_to_catalog(metadata, output_file.as_posix(), upload=True)  # type: ignore
 
 
