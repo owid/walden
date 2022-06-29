@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5253",
   "file_extension": "feather",
-  "date_accessed": "2022-06-28T07:45:55.390698",
+  "date_accessed": "2022-06-29T07:30:53.700816",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5253_covid_19__vaccinations_by_manufacturer_values.feather",
-  "md5": "556782c7a456b77dce59dc583c3d92ab"
+  "md5": "759bb2426f3f679319f8a9d6bc6f49b1"
 }
