@@ -4,8 +4,9 @@ import pandas as pd
 import tempfile
 import requests
 import datetime as dt
-from structlog import get_logger
+import os
 
+from structlog import get_logger
 from io import BytesIO
 from pathlib import Path
 
@@ -25,16 +26,16 @@ def main():
     print("Creating metadata...")
     metadata = create_metadata()
     with tempfile.TemporaryDirectory() as temp_dir:
+        # print(type(temp_dir))
         # fetch the file locally
         assert metadata.source_data_url is not None
         print("Downloading data...")
         all_data = download_data()
         print("Saving data...")
-        output_file = Path(temp_dir) / f"data.{metadata.file_extension}"  # type: ignore
-        with open(output_file, "wb") as f:
-            f.write(all_data)
+        output_file = os.path.join(temp_dir, f"data.{metadata.file_extension}")
+        all_data.to_csv(output_file, index=False)
         print("Adding to catalog...")
-        add_to_catalog(metadata, output_file.as_posix(), upload=True)  # type: ignore
+        add_to_catalog(metadata, output_file, upload=True)  # type: ignore
 
 
 def create_metadata():
@@ -76,6 +77,7 @@ def download_data() -> pd.DataFrame:
 
     goals = json.loads(res.content)
     goal_codes = [str(goal["code"]) for goal in goals]
+
     # retrieves all area codes
     print("Retrieving area codes...")
     url = f"{base_url}/v1/sdg/GeoArea/List"
