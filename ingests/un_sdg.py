@@ -6,7 +6,6 @@ import requests
 import datetime as dt
 from structlog import get_logger
 
-
 from io import BytesIO
 from pathlib import Path
 
@@ -15,7 +14,6 @@ from owid.walden.catalog import Dataset
 
 
 base_url = "https://unstats.un.org/sdgapi"
-keep_paths = []  # files not to be deleted
 log = get_logger()
 
 URL_METADATA = "https://unstats.un.org/sdgs/indicators/SDG_Updateinfo.xlsx"
