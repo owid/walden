@@ -1,7 +1,24 @@
-"""Ingestion of FAO data to Walden & Catalog.
+"""Ingestion of FAOSTAT data to walden S3 catalog and walden index.
 
-Example usage:
+This script will check if the snapshots of FAOSTAT datasets we have in walden are up-to-date. If any of the individual
+datasets are not up-to-date, this script will:
+ * Upload the latest version to S3.
+ * Add a new walden index file for the new snapshot.
 
+Files will be stored in S3 as:
+* .zip files, for data of each of the individual domains (e.g. faostat_qcl.zip).
+* .json files, for metadata (faostat_metadata.json).
+
+Usage:
+* To show available options:
+```
+poetry run python -m ingests.faostat -h
+```
+* To simply check if any of the datasets needs to be updated (without actually writing to S3 or walden index):
+```
+poetry run python -m ingests.faostat -r
+```
+* To check for updates and actually write to S3 and walden index:
 ```
 poetry run python -m ingests.faostat
 ```
@@ -9,29 +26,33 @@ poetry run python -m ingests.faostat
 """
 
 import argparse
-import json
 import datetime as dt
+import json
 import tempfile
-from dateutil import parser
 from pathlib import Path
 from typing import cast
 
 import requests
-import click
+from dateutil import parser
 
-from owid.walden import files, add_to_catalog
+from owid.walden import add_to_catalog, files
 from owid.walden.catalog import Dataset, INDEX_DIR
 from owid.walden.files import iter_docs
 from owid.walden.ui import log
 
-# Version tag to assign to walden folders (both in bucket and in index).
+# Version tag to assign to new walden folders (both in S3 bucket and in index).
 VERSION = str(dt.date.today())
+# Global namespace for datasets.
 NAMESPACE = "faostat"
+# URL where FAOSTAT can be manually accessed (used in metadata, but not to actually retrieve the data).
 FAO_DATA_URL = "http://www.fao.org/faostat/en/#data"
+# Metadata source name.
 SOURCE_NAME = "Food and Agriculture Organization of the United Nations"
+# Metadata related to license.
 LICENSE_URL = "http://www.fao.org/contact-us/terms/db-terms-of-use/en"
 LICENSE_NAME = "CC BY-NC-SA 3.0 IGO"
-# Codes of datasets to download from FAO and upload to walden bucket.
+# Codes of FAOSTAT domains to download from FAO and upload to walden bucket.
+# This is the list that will determine the datasets (faostat_*) to be created in all further etl data steps.
 INCLUDED_DATASETS_CODES = [
     # Land, Inputs and Sustainability: Fertilizers indicators.
     "ef",
@@ -84,12 +105,15 @@ INCLUDED_DATASETS_CODES = [
     # Trade: Trade Indices.
     "ti",
 ]
-# URL for dataset codes in FAO catalog.
+# URL for dataset codes in FAOSTAT catalog.
+# This is the URL used to get the remote location of the actual data files to be downloaded, and the date of their
+# latest update.
 FAO_CATALOG_URL = (
     "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
 )
-# Base URL of API, used to take a snapshot of various categories used in FAO datasets.
+# Base URL of API, used to download metadata (about countries, elements, items, etc.).
 API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/domain"
+# URL of walden repos and of this script (just to be included to walden index files as a reference).
 GIT_URL_TO_WALDEN = "https://github.com/owid/walden/"
 GIT_URL_TO_THIS_FILE = f"{GIT_URL_TO_WALDEN}blob/master/ingests/faostat.py"
 
@@ -211,7 +235,6 @@ def is_dataset_already_up_to_date(source_data_url, source_modification_date):
         if (index_file_source_data_url == source_data_url) and (
             index_file_date_accessed > source_modification_date
         ):
-            log("INFO", f"Dataset is already up-to-date (index file: {filename}).")
             dataset_up_to_date = True
 
     return dataset_up_to_date
@@ -277,38 +300,42 @@ class FAOAdditionalMetadata:
             add_to_catalog(self.create_metadata, f.name, upload=True)
 
 
-@click.command()
-def main():
+def main(read_only=False):
+    # Initialise a flag that will become true if any dataset needs to be updated.
     any_dataset_was_updated = False
-    # Fetch dataset codes from FAO catalog.
+    # Fetch dataset codes from FAOSTAT catalog.
     faostat_catalog = load_faostat_catalog()
     for description in faostat_catalog:
-        # Build FAODataset instance
-        if description["DatasetCode"].lower() in INCLUDED_DATASETS_CODES:
+        # Build FAODataset instance.
+        dataset_code = description["DatasetCode"].lower()
+        if dataset_code in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
-            # Skip dataset if it already is up-to-date in index.
             if is_dataset_already_up_to_date(
-                source_data_url=faostat_dataset.source_data_url,
-                source_modification_date=faostat_dataset.modification_date,
-            ):
-                continue
+                    source_data_url=faostat_dataset.source_data_url,
+                    source_modification_date=faostat_dataset.modification_date):
+                # Skip dataset if it already is up-to-date in index.
+                log("INFO", f"Dataset {dataset_code} is already up-to-date.")
             else:
-                # Download dataset, upload file to walden bucket and add metadata file to walden index.
-                faostat_dataset.to_walden()
+                log("INFO", f"Dataset {dataset_code} needs to be updated.")
+                if not read_only:
+                    # Download dataset, upload file to walden bucket and add metadata file to walden index.
+                    faostat_dataset.to_walden()
                 any_dataset_was_updated = True
 
     # Fetch additional metadata only if at least one dataset was updated.
     if any_dataset_was_updated:
-        additional_metadata = FAOAdditionalMetadata()
-        # Fetch additional metadata from FAO API, upload file to walden bucket and add metadata file to walden index.
-        additional_metadata.to_walden()
+        log("INFO", "Additional metadata needs to be fetched.")
+        if not read_only:
+            additional_metadata = FAOAdditionalMetadata()
+            # Fetch additional metadata from FAO API, upload file to S3 and add metadata file to walden index.
+            additional_metadata.to_walden()
     else:
-        log(
-            "INFO",
-            f"No need to fetch additional metadata, since all datasets are up-to-date.",
-        )
+        log("INFO", f"No need to fetch additional metadata, since all datasets are up-to-date.")
 
 
 if __name__ == "__main__":
     argument_parser = argparse.ArgumentParser(description=__doc__)
-    main()
+    argument_parser.add_argument("-r", "--read_only", default=False, action="store_true",
+                                 help="If given, simply check for updates without writing to S3 or walden index.")
+    args = argument_parser.parse_args()
+    main(read_only=args.read_only)
