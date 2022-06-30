@@ -1,4 +1,3 @@
-import json
 import yaml
 import pandas as pd
 import tempfile
@@ -26,7 +25,6 @@ def main():
     print("Creating metadata...")
     metadata = create_metadata()
     with tempfile.TemporaryDirectory() as temp_dir:
-        # print(type(temp_dir))
         # fetch the file locally
         assert metadata.source_data_url is not None
         print("Downloading data...")
@@ -75,7 +73,7 @@ def download_data() -> pd.DataFrame:
     res = requests.get(url)
     assert res.ok
 
-    goals = json.loads(res.content)
+    goals = res.json()
     goal_codes = [str(goal["code"]) for goal in goals]
 
     # retrieves all area codes
@@ -83,7 +81,7 @@ def download_data() -> pd.DataFrame:
     url = f"{base_url}/v1/sdg/GeoArea/List"
     res = requests.get(url)
     assert res.ok
-    areas = json.loads(res.content)
+    areas = res.json()
     area_codes = [str(area["geoAreaCode"]) for area in areas]
     # retrieves csv with data for all codes and areas
     print("Retrieving data...")
