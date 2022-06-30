@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_4140_youth_mortality_rates__un_igme__2021_values",
+  "name": "Youth Mortality Rates - UN IGME (2021)",
+  "description": "Relevant notebook is here: https://github.com/owid/notebooks/blob/main/FionaSpooner/un_igme_youth_mortality/un_igme_youth_mortality.ipynb\n\nFor the under-fifteen mortality rate there are three variables available, from two vintages (2018, 2021) and a merged version. The 2021 vintage no longer has historical data beyond 1990.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/4140",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-30T10:41:35.290470",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4140_youth_mortality_rates__un_igme__2021_values.feather",
+  "md5": "473a8ecac80773d536d9160d6a7d3848"
+}
