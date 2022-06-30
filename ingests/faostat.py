@@ -311,8 +311,9 @@ def main(read_only=False):
         if dataset_code in INCLUDED_DATASETS_CODES:
             faostat_dataset = FAODataset(description)
             if is_dataset_already_up_to_date(
-                    source_data_url=faostat_dataset.source_data_url,
-                    source_modification_date=faostat_dataset.modification_date):
+                source_data_url=faostat_dataset.source_data_url,
+                source_modification_date=faostat_dataset.modification_date,
+            ):
                 # Skip dataset if it already is up-to-date in index.
                 log("INFO", f"Dataset {dataset_code} is already up-to-date.")
             else:
@@ -330,12 +331,20 @@ def main(read_only=False):
             # Fetch additional metadata from FAO API, upload file to S3 and add metadata file to walden index.
             additional_metadata.to_walden()
     else:
-        log("INFO", f"No need to fetch additional metadata, since all datasets are up-to-date.")
+        log(
+            "INFO",
+            f"No need to fetch additional metadata, since all datasets are up-to-date.",
+        )
 
 
 if __name__ == "__main__":
     argument_parser = argparse.ArgumentParser(description=__doc__)
-    argument_parser.add_argument("-r", "--read_only", default=False, action="store_true",
-                                 help="If given, simply check for updates without writing to S3 or walden index.")
+    argument_parser.add_argument(
+        "-r",
+        "--read_only",
+        default=False,
+        action="store_true",
+        help="If given, simply check for updates without writing to S3 or walden index.",
+    )
     args = argument_parser.parse_args()
     main(read_only=args.read_only)
