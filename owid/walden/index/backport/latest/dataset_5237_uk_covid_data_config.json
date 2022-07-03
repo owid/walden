@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5237",
   "file_extension": "json",
-  "date_accessed": "2022-07-02T18:01:53.802839",
+  "date_accessed": "2022-07-03T18:02:17.703350",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4969d3c747f0ee79ac7f078b6e0e252c",
+  "origin_md5": "28f2d00fe5d00f2491f2f162949019c0",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5237_uk_covid_data_config.json",
-  "md5": "0df12ed43e49d7ccadf00e5ba2a61f18"
+  "md5": "ba3a6b6eea66d13ba91f55e43ac50bc3"
 }
