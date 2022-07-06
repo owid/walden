@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5648_ai_index_report_2022__global_corporate_ai_investment_config",
+  "name": "Grapher metadata for dataset_5648_ai_index_report_2022__global_corporate_ai_investment",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5648",
+  "file_extension": "json",
+  "date_accessed": "2022-07-06T10:49:44.381072",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8b9e4bd06b19eb3e3c7fd5ad9e80fea5",
+  "md5": "d802042c9b5ce5afa1ec4f822a52756b"
+}

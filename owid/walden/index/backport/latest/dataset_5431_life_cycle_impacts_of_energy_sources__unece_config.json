@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5431_life_cycle_impacts_of_energy_sources__unece_config",
+  "name": "Grapher metadata for dataset_5431_life_cycle_impacts_of_energy_sources__unece",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5431",
+  "file_extension": "json",
+  "date_accessed": "2022-07-06T10:45:38.026198",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b21f64ca80572c8cea6788e1b8019624",
+  "md5": "e31da0ccc855e190d3d8881c591374e6"
+}
