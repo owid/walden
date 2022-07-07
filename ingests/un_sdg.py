@@ -4,17 +4,20 @@ import tempfile
 import requests
 import datetime as dt
 import os
+import numpy as np
 
 from structlog import get_logger
 from io import BytesIO
 from pathlib import Path
-
+from typing import List, Dict, Any
+from collections import defaultdict
 from owid.walden import add_to_catalog
 from owid.walden.catalog import Dataset
 
 
-base_url = "https://unstats.un.org/sdgapi"
+BASE_URL = "https://unstats.un.org/sdgapi"
 log = get_logger()
+
 
 URL_METADATA = "https://unstats.un.org/sdgs/indicators/SDG_Updateinfo.xlsx"
 MAX_RETRIES = 10
@@ -22,18 +25,44 @@ CHUNK_SIZE = 8192
 
 
 def main():
-    print("Creating metadata...")
+    log.info("Creating metadata...")
     metadata = create_metadata()
     with tempfile.TemporaryDirectory() as temp_dir:
         # fetch the file locally
         assert metadata.source_data_url is not None
-        print("Downloading data...")
+        log.info("Downloading data...")
         all_data = download_data()
-        print("Saving data...")
-        output_file = os.path.join(temp_dir, f"data.{metadata.file_extension}")
-        all_data.to_csv(output_file, index=False)
-        print("Adding to catalog...")
-        add_to_catalog(metadata, output_file, upload=True)  # type: ignore
+        log.info("Saving data...")
+        data_file = os.path.join(temp_dir, f"data.{metadata.file_extension}")
+        all_data.to_feather(data_file, index=False)
+        log.info("Adding data to catalog...")
+        add_to_catalog(metadata, data_file, upload=True)  # type: ignore
+
+        log.info("Downloading unit descriptions...")
+        unit_desc = attributes_description()
+        metadata_unit = metadata.copy()
+        metadata_unit.description = (
+            "A description of the units the data is measured in."
+        )
+        metadata_unit.short_name = "unit"
+        metadata_unit.file_extension = "json"
+        log.info("Saving unit descriptions...")
+        unit_file = os.path.join(temp_dir, f"data.{metadata_unit.file_extension}")
+        unit_desc.to_json(unit_file, index=False)
+        log.info("Adding unit descriptions to catalog...")
+        add_to_catalog(metadata_unit, unit_file, upload=True)  # type: ignore
+
+        log.info("Downloading dimension descriptions...")
+        dim_desc = dimensions_description()
+        metadata_dim = metadata.copy()
+        metadata_dim.description = "A description of the dimensions of the data."
+        metadata_dim.short_name = "dimension"
+        metadata_dim.file_extension = "json"
+        log.info("Saving dimension descriptions...")
+        dim_file = os.path.join(temp_dir, f"data.{metadata_dim.file_extension}")
+        dim_desc.to_json(dim_file, index=False)
+        log.info("Adding dimension descriptions to catalog...")
+        add_to_catalog(metadata_dim, dim_file, upload=True)  # type: ignore
 
 
 def create_metadata():
@@ -69,7 +98,7 @@ def load_external_metadata() -> dict:
 def download_data() -> pd.DataFrame:
     # retrieves all goal codes
     print("Retrieving SDG goal codes...")
-    url = f"{base_url}/v1/sdg/Goal/List"
+    url = f"{BASE_URL}/v1/sdg/Goal/List"
     res = requests.get(url)
     assert res.ok
 
@@ -78,14 +107,14 @@ def download_data() -> pd.DataFrame:
 
     # retrieves all area codes
     print("Retrieving area codes...")
-    url = f"{base_url}/v1/sdg/GeoArea/List"
+    url = f"{BASE_URL}/v1/sdg/GeoArea/List"
     res = requests.get(url)
     assert res.ok
     areas = res.json()
     area_codes = [str(area["geoAreaCode"]) for area in areas]
     # retrieves csv with data for all codes and areas
     print("Retrieving data...")
-    url = f"{base_url}/v1/sdg/Goal/DataCSV"
+    url = f"{BASE_URL}/v1/sdg/Goal/DataCSV"
     all_data = []
     for goal in goal_codes:
         content = download_file(
@@ -145,6 +174,72 @@ def download_file(
                 "exceeded. Download may not have been fully completed."
             )
     return content
+
+
+def attributes_description() -> Dict[Any, Any]:
+    goal_codes = get_goal_codes()
+    a = []
+    for goal in goal_codes:
+        url = f"{BASE_URL}/v1/sdg/Goal/{goal}/Attributes"
+        res = requests.get(url)
+        assert res.ok
+        attr = res.json()
+        for att in attr:
+            for code in att["codes"]:
+                a.append(
+                    {
+                        "code": code["code"],
+                        "description": code["description"],
+                    }
+                )
+    att_dict = pd.DataFrame(a).drop_duplicates().set_index("code").squeeze().to_dict()
+    att_dict["PERCENT"] = "%"
+    return att_dict
+
+
+def dimensions_description() -> dict:
+    goal_codes = get_goal_codes()
+    d = []
+    for goal in goal_codes:
+        url = f"{BASE_URL}/v1/sdg/Goal/{goal}/Dimensions"
+        # These should be retrieved from walden not the live SDG api as the live api is updated
+        res = requests.get(url)
+        assert res.ok
+        dims = res.json()
+        for dim in dims:
+            for code in dim["codes"]:
+                d.append(
+                    {
+                        "id": dim["id"],
+                        "code": code["code"],
+                        "description": code["description"],
+                    }
+                )
+    # Making a nested dictionary of the dimensions - probably could be done in the loop but I'm not sure how
+    dim_dict = defaultdict(dict)
+    for dimen in d:
+        dim_dict[dimen["id"]][dimen["code"]] = dimen["description"]
+
+    nan_dict = defaultdict(dict)
+    for key in dim_dict.keys():
+        nan_dict[key][np.nan] = ""
+
+    for key in dim_dict:
+        if key in nan_dict:
+            dim_dict[key].update(nan_dict[key])
+
+    return dim_dict
+
+
+def get_goal_codes() -> List[int]:
+
+    # retrieves all goal codes
+    url = f"{BASE_URL}/v1/sdg/Goal/List"
+    res = requests.get(url)
+    assert res.ok
+    goals = res.json()
+    goal_codes = [int(goal["code"]) for goal in goals]
+    return goal_codes
 
 
 if __name__ == "__main__":
