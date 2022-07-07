@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5198",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:58:42.631533",
+  "date_accessed": "2022-07-07T10:44:14.932472",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5198_deaths_per_twh_energy_production__markandya__and__wilkinson__sovacool_et_al_values.feather",
-  "md5": "07b63bcd1cf65723b9cd996cb8585dcf"
+  "md5": "650d3354203a376f6c5895da386b8e5e"
 }

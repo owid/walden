@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5198_deaths_per_twh_energy_production_values",
+  "name": "Deaths per TWh energy production",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5198",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-07T10:49:38.014503",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "1c10cb643db6d4176a8d94a0010d07ec"
+}
