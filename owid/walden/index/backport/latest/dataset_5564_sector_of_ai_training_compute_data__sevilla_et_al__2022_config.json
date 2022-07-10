@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5564_sector_of_ai_training_compute_data__sevilla_et_al__2022_config",
+  "name": "Grapher metadata for dataset_5564_sector_of_ai_training_compute_data__sevilla_et_al__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5564",
+  "file_extension": "json",
+  "date_accessed": "2022-07-10T09:53:46.356166",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fc8e76264cbea9cb1b3c1b3a79033ba9",
+  "md5": "d1d1dcb580cc87ef2c97de6cc4539df9"
+}
