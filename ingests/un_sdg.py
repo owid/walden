@@ -34,7 +34,7 @@ def main():
         all_data = download_data()
         log.info("Saving data...")
         data_file = os.path.join(temp_dir, f"data.{metadata.file_extension}")
-        all_data.to_feather(data_file, index=False)
+        all_data.to_feather(data_file)
         log.info("Adding data to catalog...")
         add_to_catalog(metadata, data_file, upload=True)  # type: ignore
 
@@ -122,9 +122,13 @@ def download_data() -> pd.DataFrame:
         )
         df = pd.read_csv(BytesIO(content), low_memory=False)
         all_data.append(df)
-    all_data = pd.concat(all_data)
+    all_df = pd.concat(all_data)
+    all_df = all_df.reset_index()
+    cols = all_df.columns
+    # Converting all columns to string dtype as feather doesn't like object dtype
+    all_df[cols] = all_df[cols].astype("str")
 
-    return all_data
+    return all_df
 
 
 def download_file(
