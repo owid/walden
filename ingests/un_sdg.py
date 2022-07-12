@@ -5,6 +5,7 @@ import requests
 import datetime as dt
 import os
 import numpy as np
+import json
 
 from structlog import get_logger
 from io import BytesIO
@@ -40,7 +41,7 @@ def main():
 
         log.info("Downloading unit descriptions...")
         unit_desc = attributes_description()
-        metadata_unit = metadata.copy()
+        metadata_unit = metadata
         metadata_unit.description = (
             "A description of the units the data is measured in."
         )
@@ -48,19 +49,23 @@ def main():
         metadata_unit.file_extension = "json"
         log.info("Saving unit descriptions...")
         unit_file = os.path.join(temp_dir, f"data.{metadata_unit.file_extension}")
-        unit_desc.to_json(unit_file, index=False)
+        with open(unit_file, "w") as fp:
+            json.dump(unit_desc, fp)
+        # unit_desc.to_json(unit_file, index=False)
         log.info("Adding unit descriptions to catalog...")
         add_to_catalog(metadata_unit, unit_file, upload=True)  # type: ignore
 
         log.info("Downloading dimension descriptions...")
         dim_desc = dimensions_description()
-        metadata_dim = metadata.copy()
+        metadata_dim = metadata
         metadata_dim.description = "A description of the dimensions of the data."
         metadata_dim.short_name = "dimension"
         metadata_dim.file_extension = "json"
         log.info("Saving dimension descriptions...")
         dim_file = os.path.join(temp_dir, f"data.{metadata_dim.file_extension}")
-        dim_desc.to_json(dim_file, index=False)
+        with open(dim_file, "w") as fp:
+            json.dump(dim_desc, fp)
+        # dim_desc.to_json(dim_file, index=False)
         log.info("Adding dimension descriptions to catalog...")
         add_to_catalog(metadata_dim, dim_file, upload=True)  # type: ignore
 
