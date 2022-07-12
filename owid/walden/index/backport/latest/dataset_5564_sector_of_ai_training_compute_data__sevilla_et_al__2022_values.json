@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5564",
   "file_extension": "feather",
-  "date_accessed": "2022-07-10T20:06:55.674634",
-  "is_public": true,
+  "date_accessed": "2022-07-12T13:15:31.424163",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5564_sector_of_ai_training_compute_data__sevilla_et_al__2022_values.feather",
   "md5": "a35fe3d373507ccb5aaeaeeaec42c8e2"
 }
