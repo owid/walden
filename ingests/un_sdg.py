@@ -51,7 +51,7 @@ def main():
         unit_file = os.path.join(temp_dir, f"data.{metadata_unit.file_extension}")
         with open(unit_file, "w") as fp:
             json.dump(unit_desc, fp)
-        # unit_desc.to_json(unit_file, index=False)
+
         log.info("Adding unit descriptions to catalog...")
         add_to_catalog(metadata_unit, unit_file, upload=True)  # type: ignore
 
@@ -65,7 +65,7 @@ def main():
         dim_file = os.path.join(temp_dir, f"data.{metadata_dim.file_extension}")
         with open(dim_file, "w") as fp:
             json.dump(dim_desc, fp)
-        # dim_desc.to_json(dim_file, index=False)
+
         log.info("Adding dimension descriptions to catalog...")
         add_to_catalog(metadata_dim, dim_file, upload=True)  # type: ignore
 
@@ -212,7 +212,6 @@ def dimensions_description() -> dict:
     d = []
     for goal in goal_codes:
         url = f"{BASE_URL}/v1/sdg/Goal/{goal}/Dimensions"
-        # These should be retrieved from walden not the live SDG api as the live api is updated
         res = requests.get(url)
         assert res.ok
         dims = res.json()
@@ -225,18 +224,9 @@ def dimensions_description() -> dict:
                         "description": code["description"],
                     }
                 )
-    # Making a nested dictionary of the dimensions - probably could be done in the loop but I'm not sure how
-    dim_dict = defaultdict(dict)
+    dim_dict = defaultdict(lambda: {np.nan: ""})
     for dimen in d:
         dim_dict[dimen["id"]][dimen["code"]] = dimen["description"]
-
-    nan_dict = defaultdict(dict)
-    for key in dim_dict.keys():
-        nan_dict[key][np.nan] = ""
-
-    for key in dim_dict:
-        if key in nan_dict:
-            dim_dict[key].update(nan_dict[key])
 
     return dim_dict
 
