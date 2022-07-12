@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_2075_guinea_worm_cases__who__2018_config",
+  "name": "Grapher metadata for dataset_2075_guinea_worm_cases__who__2018",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/2075",
+  "file_extension": "json",
+  "date_accessed": "2022-06-24T07:39:49.250196",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8e3124b434c2489385e24602610a399d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2075_guinea_worm_cases__who__2018_config.json",
+  "md5": "83529a43d89720b32133b4d57549883f"
+}

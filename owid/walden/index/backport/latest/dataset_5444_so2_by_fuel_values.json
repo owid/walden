@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5444_so2_by_fuel_values",
+  "name": "SO2 by fuel",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5444",
+  "file_extension": "feather",
+  "date_accessed": "2022-06-24T07:37:42.158702",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5444_so2_by_fuel_values.feather",
+  "md5": "1e70cb3346bbd00a6c7c6b731d9ac7da"
+}
