@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4223",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:50:36.591836",
+  "date_accessed": "2022-06-27T07:46:39.268497",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "74e9f9a26581ee24eb38eddafb073ed1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4223_environmental_impacts_of_food__poore__and__nemecek__2018_config.json",
-  "md5": "1fb94a68acfe1d43f0e3fe094cacd426"
+  "md5": "2873a472046c323366563964f526e51e"
 }

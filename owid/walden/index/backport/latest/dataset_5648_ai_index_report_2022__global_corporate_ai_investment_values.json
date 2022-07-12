@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5648_ai_index_report_2022__global_corporate_ai_investment_values",
+  "name": "AI Index Report 2022 - Global corporate AI investment",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5648",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-07T00:01:23.672920",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5648_ai_index_report_2022__global_corporate_ai_investment_values.feather",
+  "md5": "dd287e5dc6d4f785ec504c037f648175"
+}

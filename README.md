@@ -108,7 +108,7 @@ It is a good practice to add the script you used for uploading the file to walde
 
 You can also do all of this manually:
 
-1. **Create a JSON metadata file.** Create a JSON metadata file at `index/<namespace>/<publication_year>/<short_name>.json` and fill out as many of the fields as you can in [the schema](https://github.com/owid/walden/blob/master/schema.json).
+1. **Create a JSON metadata file.** Create a JSON metadata file at `index/<namespace>/<publication_year>/<short_name>.json` and fill out as many of the fields as you can in [the schema](https://github.com/owid/walden/blob/master/owid/walden/schema.json).
 2. **Calculate and add the checksum.** You should download the actual data file locally, calculate its md5 checksum, and that to the metadata too (e.g. `md5 -q myfilename.xlsx`).
 3. **Upload to the remote cache.** Upload your datafile to DigitalOcean spaces, (e.g. `s3cmd put --acl-public my_filename.xlsx s3://walden/<namespace>/<publication_year>/<short_name>.xlsx`), and add the URL it gives you to your metadata file as the `owid_data_url` variable
 4. **Check it's correct.** Run `make test` to check your file against the schema, and if necessary, `make format` to reformat it.

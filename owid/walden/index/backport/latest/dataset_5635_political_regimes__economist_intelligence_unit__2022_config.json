@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5635",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:31:34.609972",
+  "date_accessed": "2022-06-21T13:57:12.350201",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f282f63223d5a270505956933ace00d4",
+  "origin_md5": "7a336526e8df474939cae557c39bdde4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5635_political_regimes__economist_intelligence_unit__2022_config.json",
-  "md5": "9a4ef20354d995b59234c519e3b11d05"
+  "md5": "2ca30125e65eaf73be5f58f43c68d57c"
 }

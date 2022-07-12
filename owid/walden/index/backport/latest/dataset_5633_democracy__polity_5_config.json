@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5633_democracy__polity_5_config",
+  "name": "Grapher metadata for dataset_5633_democracy__polity_5",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5633",
+  "file_extension": "json",
+  "date_accessed": "2022-06-27T07:45:38.637346",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "25e80fa453e0c3474ed4a998a1bed23c",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5633_democracy__polity_5_config.json",
+  "md5": "1abd6f5e9e5a1c3adc94be9116d286a5"
+}

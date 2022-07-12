@@ -21,7 +21,7 @@ log = get_logger()
 
 URL_METADATA = "https://unstats.un.org/sdgs/indicators/SDG_Updateinfo.xlsx"
 MAX_RETRIES = 10
-CHUNK_SIZE = 8192
+CHUNK_SIZE = 1024 * 1024 * 10
 
 
 def main():
@@ -144,6 +144,7 @@ def download_file(
         url=url,
         bytes_read=bytes_read,
         remaining_retries=max_retries,
+        goal=goal,
     )
     if bytes_read:
         headers = {"Range": f"bytes={bytes_read}-"}

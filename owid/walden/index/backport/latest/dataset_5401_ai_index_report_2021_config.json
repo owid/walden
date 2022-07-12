@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5401_ai_index_report_2021_config",
+  "name": "Grapher metadata for dataset_5401_ai_index_report_2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5401",
+  "file_extension": "json",
+  "date_accessed": "2022-07-06T07:34:46.387989",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2c473e3840af238c5206c77a4eb381c9",
+  "md5": "8469cd52bc01bb15abaa727ad5fa98b9"
+}

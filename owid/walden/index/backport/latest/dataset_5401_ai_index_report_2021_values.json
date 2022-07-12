@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5401_ai_index_report_2021_values",
+  "name": "AI Index Report 2021",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5401",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-06T07:34:46.442032",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "8e4d2294de3ce964e64d035924b3aa06"
+}

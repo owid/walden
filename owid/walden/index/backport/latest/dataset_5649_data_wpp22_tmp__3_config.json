@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5649_data_wpp22_tmp__3_config",
+  "name": "Grapher metadata for dataset_5649_data_wpp22_tmp__3",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5649",
+  "file_extension": "json",
+  "date_accessed": "2022-07-08T10:21:59.397594",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "58e5abb49ecece8976aad36e81ca7d54",
+  "md5": "4643a7beeb661db3ded1e2bf206faef1"
+}

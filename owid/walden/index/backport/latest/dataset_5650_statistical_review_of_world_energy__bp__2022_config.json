@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5650_statistical_review_of_world_energy__bp__2022_config",
+  "name": "Grapher metadata for dataset_5650_statistical_review_of_world_energy__bp__2022",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5650",
+  "file_extension": "json",
+  "date_accessed": "2022-07-11T09:02:31.067371",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "cd457b65593d2f9e63daf37b705cab0b",
+  "md5": "f44fddf473ec900e2050706f7c8d003e"
+}

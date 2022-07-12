@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5241",
   "file_extension": "feather",
-  "date_accessed": "2022-06-20T15:17:46.626019",
-  "is_public": false,
+  "date_accessed": "2022-07-11T15:11:40.935659",
+  "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5241_covid_19__united_states_vaccinations_values.feather",
-  "md5": "6df83386fa85f54f092b9d0452d6801f"
+  "md5": "2e4352d4f1c8531e1d6cd01b2404f225"
 }

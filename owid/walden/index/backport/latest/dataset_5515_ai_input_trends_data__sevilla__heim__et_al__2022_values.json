@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5515_ai_input_trends_data__sevilla__heim__et_al__2022_values",
+  "name": "AI Input Trends Data \u2013 Sevilla, Heim, et al (2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5515",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-10T08:35:59.584663",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "e6fc9dfbcf92bb8f9d81267d4bdb1209"
+}

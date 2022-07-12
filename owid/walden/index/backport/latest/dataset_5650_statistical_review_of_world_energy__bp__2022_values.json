@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5650_statistical_review_of_world_energy__bp__2022_values",
+  "name": "Statistical Review of World Energy - BP (2022)",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5650",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-11T09:02:32.326387",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "04acaf5b0d1be478a9fa87494ba135e9"
+}

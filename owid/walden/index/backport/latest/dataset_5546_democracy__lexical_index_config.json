@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5546_democracy__lexical_index_config",
+  "name": "Grapher metadata for dataset_5546_democracy__lexical_index",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5546",
+  "file_extension": "json",
+  "date_accessed": "2022-06-21T18:00:56.293122",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "164ce7168a99c300458e4b48f4ebc099",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5546_democracy__lexical_index_config.json",
+  "md5": "f212f1c6c97936ac451c6073ac3b446c"
+}
