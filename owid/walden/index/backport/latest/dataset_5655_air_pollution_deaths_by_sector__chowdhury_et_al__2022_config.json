@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5655_air_pollution_deaths_by_sector__chowdhury_et_al__2022_config",
+  "name": "Grapher metadata for dataset_5655_air_pollution_deaths_by_sector__chowdhury_et_al__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5655",
+  "file_extension": "json",
+  "date_accessed": "2022-07-13T07:39:33.237089",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "af9b76b0a863492808585a730fe4e49b",
+  "md5": "77797c6b3b3adb110fb4b77d2cb86cc9"
+}
