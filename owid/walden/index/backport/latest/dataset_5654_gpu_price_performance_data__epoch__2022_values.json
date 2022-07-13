@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5654_gpu_price_performance_data__epoch__2022_values",
+  "name": "GPU Price-Performance Data \u2013\u00a0Epoch (2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5654",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-12T21:59:01.920447",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "7a989ab8fd59e8c85aac468f72c2c4b8"
+}

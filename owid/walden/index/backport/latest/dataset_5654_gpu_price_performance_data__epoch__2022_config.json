@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5654_gpu_price_performance_data__epoch__2022_config",
+  "name": "Grapher metadata for dataset_5654_gpu_price_performance_data__epoch__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5654",
+  "file_extension": "json",
+  "date_accessed": "2022-07-12T21:59:01.882733",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2c780c90fd972e9231e089e2ce591a76",
+  "md5": "2b5ac057a98251e94572ce6507eeab8c"
+}
