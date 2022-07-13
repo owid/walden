@@ -219,7 +219,7 @@ class Dataset:
         """
         Delete the file from the remote cache on S3.
         """
-        dest_path = f"https://{self.relative_base}.{self.file_extension}"
+        dest_path = f"{self.relative_base}.{self.file_extension}"
         owid_cache.delete(dest_path)
 
     @property
