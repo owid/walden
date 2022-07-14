@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5653_penn_world_table_version_10_0_config",
+  "name": "Grapher metadata for dataset_5653_penn_world_table_version_10_0",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5653",
+  "file_extension": "json",
+  "date_accessed": "2022-07-14T00:02:05.939237",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e354d8b72ce3bf610a6d4ea15f72d747",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5653_penn_world_table_version_10_0_config.json",
+  "md5": "e992378c71db22473ea2f4888f667c75"
+}

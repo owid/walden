@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5653_penn_world_table_version_10_0_values",
+  "name": "Penn World Table version 10.0",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5653",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-14T00:02:08.522016",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5653_penn_world_table_version_10_0_values.feather",
+  "md5": "3d5e8304dbe2167fc0f2fddcc53868ce"
+}
