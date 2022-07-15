@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5656_ai_index_report__2022_config",
+  "name": "Grapher metadata for dataset_5656_ai_index_report__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5656",
+  "file_extension": "json",
+  "date_accessed": "2022-07-15T12:01:39.364067",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7b6d5e440f93a9d6cc40b3911912cd15",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5656_ai_index_report__2022_config.json",
+  "md5": "758d4fb8f899a474d9a991476db8eebf"
+}
