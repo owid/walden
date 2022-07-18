@@ -40,136 +40,136 @@ END_YEAR = 2100
 ENERGY_SOURCES = ["coal", "gas", "oil"]
 # List of countries and regions.
 SHIFT_COUNTRIES = [
-    'Africa',
-    'Albania',
-    'Algeria',
-    'Angola',
-    'Argentina',
-    'Armenia',
-    'Asia%20and%20Oceania',
-    'Australia',
-    'Austria',
-    'Azerbaijan',
-    'Bahrain',
-    'Bangladesh',
-    'Belarus',
-    'Belgium',
-    'Benin',
-    'Bolivia',
-    'Botswana',
-    'Brazil',
-    'Brunei%20Darussalam',
-    'Bulgaria',
-    'Burma',
-    'Cambodia',
-    'Cameroon',
-    'Canada',
-    'Central%20and%20South%20America',
-    'Chile',
-    'China',
-    'Colombia',
-    'Congo',
-    'Croatia',
-    'Cuba',
-    'Cyprus',
-    'Denmark',
-    'Dominican%20Republic',
-    'EU28',
-    'Ecuador',
-    'Egypt',
-    'El%20Salvador',
-    'Eritrea',
-    'Estonia',
-    'Ethiopia',
-    'Eurasia',
-    'Europe',
-    'Finland',
-    'France',
-    'Gabon',
-    'Georgia',
-    'Germany',
-    'Ghana',
-    'Gibraltar',
-    'Greece',
-    'Guatemala',
-    'Haiti',
-    'Honduras',
-    'Hungary',
-    'Iceland',
-    'India',
-    'Indonesia',
-    'Iraq',
-    'Ireland',
-    'Israel',
-    'Italy',
-    'Ivory%20Coast',
-    'Jamaica',
-    'Japan',
-    'Jordan',
-    'Kazakhstan',
-    'Kenya',
-    'Kosovo',
-    'Kuwait',
-    'Kyrgyzstan',
-    'Latvia',
-    'Lebanon',
-    'Libya',
-    'Lithuania',
-    'Malaysia',
-    'Malta',
-    'Mauritius',
-    'Mexico',
-    'Middle%20East',
-    'Mongolia',
-    'Montenegro',
-    'Morocco',
-    'Mozambique',
-    'NZ',
-    'Namibia',
-    'Nepal',
-    'Netherlands',
-    'Nicaragua',
-    'Niger',
-    'Nigeria',
-    'North%20America',
-    'Norway',
-    'OECD',
-    'OPEC',
-    'Oman',
-    'Pakistan',
-    'Panama',
-    'Paraguay',
-    'Persian%20Gulf',
-    'Peru',
-    'Poland',
-    'Portugal',
-    'Qatar',
-    'Romania',
-    'Russian%20Federation%20%26%20USSR',
-    'Senegal',
-    'Serbia',
-    'Singapore',
-    'Slovakia',
-    'Slovenia',
-    'South%20Africa',
-    'Spain',
-    'Sudan',
-    'Suriname',
-    'Sweden',
-    'Tajikistan',
-    'Thailand',
-    'Togo',
-    'Tunisia',
-    'Turkey',
-    'Ukraine',
-    'United%20Kingdom',
-    'United%20States%20of%20America',
-    'Uruguay',
-    'Uzbekistan',
-    'World',
-    'Yemen',
-    'Zambia',
-    'Zimbabwe',
+    "Africa",
+    "Albania",
+    "Algeria",
+    "Angola",
+    "Argentina",
+    "Armenia",
+    "Asia%20and%20Oceania",
+    "Australia",
+    "Austria",
+    "Azerbaijan",
+    "Bahrain",
+    "Bangladesh",
+    "Belarus",
+    "Belgium",
+    "Benin",
+    "Bolivia",
+    "Botswana",
+    "Brazil",
+    "Brunei%20Darussalam",
+    "Bulgaria",
+    "Burma",
+    "Cambodia",
+    "Cameroon",
+    "Canada",
+    "Central%20and%20South%20America",
+    "Chile",
+    "China",
+    "Colombia",
+    "Congo",
+    "Croatia",
+    "Cuba",
+    "Cyprus",
+    "Denmark",
+    "Dominican%20Republic",
+    "EU28",
+    "Ecuador",
+    "Egypt",
+    "El%20Salvador",
+    "Eritrea",
+    "Estonia",
+    "Ethiopia",
+    "Eurasia",
+    "Europe",
+    "Finland",
+    "France",
+    "Gabon",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Gibraltar",
+    "Greece",
+    "Guatemala",
+    "Haiti",
+    "Honduras",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Iraq",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Ivory%20Coast",
+    "Jamaica",
+    "Japan",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kosovo",
+    "Kuwait",
+    "Kyrgyzstan",
+    "Latvia",
+    "Lebanon",
+    "Libya",
+    "Lithuania",
+    "Malaysia",
+    "Malta",
+    "Mauritius",
+    "Mexico",
+    "Middle%20East",
+    "Mongolia",
+    "Montenegro",
+    "Morocco",
+    "Mozambique",
+    "NZ",
+    "Namibia",
+    "Nepal",
+    "Netherlands",
+    "Nicaragua",
+    "Niger",
+    "Nigeria",
+    "North%20America",
+    "Norway",
+    "OECD",
+    "OPEC",
+    "Oman",
+    "Pakistan",
+    "Panama",
+    "Paraguay",
+    "Persian%20Gulf",
+    "Peru",
+    "Poland",
+    "Portugal",
+    "Qatar",
+    "Romania",
+    "Russian%20Federation%20%26%20USSR",
+    "Senegal",
+    "Serbia",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "South%20Africa",
+    "Spain",
+    "Sudan",
+    "Suriname",
+    "Sweden",
+    "Tajikistan",
+    "Thailand",
+    "Togo",
+    "Tunisia",
+    "Turkey",
+    "Ukraine",
+    "United%20Kingdom",
+    "United%20States%20of%20America",
+    "Uruguay",
+    "Uzbekistan",
+    "World",
+    "Yemen",
+    "Zambia",
+    "Zimbabwe",
 ]
 
 
@@ -190,19 +190,25 @@ def prepare_query_url(energy_source: str, countries: List[str]) -> str:
 
     """
     # Prepare a query url for request.
-    query_url = f"{SHIFT_URL}energy/{energy_source}?chart-type=line&chart-types=line&chart-types=ranking&" \
-                f"disable-en=false&energy-unit={ENERGY_UNIT}"
+    query_url = (
+        f"{SHIFT_URL}energy/{energy_source}?chart-type=line&chart-types=line&chart-types=ranking&"
+        f"disable-en=false&energy-unit={ENERGY_UNIT}"
+    )
     # Add each country to the url.
     for country in countries:
         query_url += f"&group-names={country}"
     # Add some conditions to the query (not all of them may be necessary).
-    query_url += f"&is-range=true&dimension=total&end={END_YEAR}&start={START_YEAR}&multi=true&type=Production&" \
-                 f"import-types=Imports&import-types=Exports&import-types=Net%20Imports"
+    query_url += (
+        f"&is-range=true&dimension=total&end={END_YEAR}&start={START_YEAR}&multi=true&type=Production&"
+        f"import-types=Imports&import-types=Exports&import-types=Net%20Imports"
+    )
 
     return query_url
 
 
-def fetch_data_for_energy_source_and_a_list_of_countries(energy_source: str, countries: List[str]) -> pd.DataFrame:
+def fetch_data_for_energy_source_and_a_list_of_countries(
+    energy_source: str, countries: List[str]
+) -> pd.DataFrame:
     """Fetch data from Shift for a specific energy source and a list of countries.
 
     Parameters
@@ -220,7 +226,12 @@ def fetch_data_for_energy_source_and_a_list_of_countries(energy_source: str, cou
     """
     query_url = prepare_query_url(energy_source=energy_source, countries=countries)
     soup = BeautifulSoup(requests.get(query_url).content, "html.parser")
-    data = json.loads(soup.find('script', {'type': 'application/json', 'id': re.compile(r'^((?!tb-djs).)*$')}).string)
+    data = json.loads(
+        soup.find(
+            "script",
+            {"type": "application/json", "id": re.compile(r"^((?!tb-djs).)*$")},
+        ).string
+    )
 
     fields = data["props"]["apolloState"]
     elements = {}
@@ -230,7 +241,7 @@ def fetch_data_for_energy_source_and_a_list_of_countries(energy_source: str, cou
             if fields[key]["name"] in countries:
                 elements[fields[key]["name"]] = fields[key]["data"]["json"]
         if "categories" in fields[key]:
-            years = fields[key]["categories"]["json"]            
+            years = fields[key]["categories"]["json"]
 
     assert all([len(elements[country]) == len(years) for country in elements])
     # Use years as index and elements (data for each country) as columns.
@@ -266,7 +277,8 @@ def fetch_all_data_for_energy_source(energy_source: str) -> pd.DataFrame:
     for countries_chunk in tqdm(countries_chunks, desc="Subset of countries"):
         # Fetch data for current chunk of countries and specified energy source.
         df = fetch_data_for_energy_source_and_a_list_of_countries(
-            energy_source=energy_source, countries=countries_chunk)
+            energy_source=energy_source, countries=countries_chunk
+        )
         # Wait between consecutive requests.
         sleep(TIME_BETWEEN_QUERIES)
         # Collect data for current chunk of countries.
@@ -275,7 +287,9 @@ def fetch_all_data_for_energy_source(energy_source: str) -> pd.DataFrame:
     # Combine dataframes of all chunks of countries into one dataframe.
     combined = dataframes.multi_merge(dfs=dfs, on="year", how="inner")
     # Restructure dataframe conveniently.
-    combined = combined.melt(id_vars="year", value_name=energy_source, var_name="country")
+    combined = combined.melt(
+        id_vars="year", value_name=energy_source, var_name="country"
+    )
     combined = combined.sort_values(["country", "year"]).reset_index(drop=True)
 
     return combined
@@ -299,10 +313,14 @@ def fetch_all_data_for_all_energy_sources() -> pd.DataFrame:
         energy_dfs.append(energy_df)
 
     # Combine data from different energy sources.
-    energy_data = dataframes.multi_merge(energy_dfs, on=["country", "year"], how="outer")
+    energy_data = dataframes.multi_merge(
+        energy_dfs, on=["country", "year"], how="outer"
+    )
 
     # Create index.
-    energy_data = energy_data.set_index(["country", "year"], verify_integrity=True).sort_index()
+    energy_data = energy_data.set_index(
+        ["country", "year"], verify_integrity=True
+    ).sort_index()
 
     return energy_data
 
