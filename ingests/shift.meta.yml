@@ -3,9 +3,10 @@ short_name: shift_fossil_fuel_production
 name: Energy production from fossil fuels (Shift, 2022)
 source_name: The Shift Data Portal
 version: 2022-07-18
+date_accessed: 2022-07-18
 publication_year: 2019
 publication_date: 2019-06-05
-url: https://www.theshiftdataportal.org/energy
+url: https://www.theshiftdataportal.org/
 file_extension: csv
 license_url: https://www.theshiftdataportal.org/legal-notice
 license_name: Creative Commons BY-SA 3.0
