@@ -341,10 +341,6 @@ def main(upload: bool) -> None:
     # Load metadata from the corresponding yaml file.
     metadata = Dataset.from_yaml(METADATA_FILE)
 
-    # TODO: Fix possible bug: metadata.version seems to be datetime.date, which makes add_to_catalog fail.
-    #  I convert it to string.
-    metadata.version = metadata.version.isoformat()
-
     with tempfile.NamedTemporaryFile() as _temp_file:
         # Save data in a temporary feather file.
         energy_data.to_csv(_temp_file.name)

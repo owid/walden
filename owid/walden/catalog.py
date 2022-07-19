@@ -94,6 +94,9 @@ class Dataset:
                 self.version = str(self.publication_year)
             else:
                 raise ValueError("no versioning field found")
+        else:
+            # version can be loaded as datetime.date, but it has to be string
+            self.version = str(self.version)
 
     @classmethod
     def download_and_create(cls, metadata: Union[dict, "Dataset"]) -> "Dataset":
