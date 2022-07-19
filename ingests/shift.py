@@ -275,7 +275,9 @@ def fetch_all_data_for_energy_source(energy_source: str) -> pd.DataFrame:
     # Create chunks of country names.
     countries_chunks = np.array_split(SHIFT_COUNTRIES, n_chunks)
     dfs = []
-    for countries_chunk in tqdm(countries_chunks, desc="Subset of countries", file=sys.stdout):
+    for countries_chunk in tqdm(
+        countries_chunks, desc="Subset of countries", file=sys.stdout
+    ):
         # Fetch data for current chunk of countries and specified energy source.
         df = fetch_data_for_energy_source_and_a_list_of_countries(
             energy_source=energy_source, countries=countries_chunk
