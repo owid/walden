@@ -18,6 +18,8 @@ openpyxl = "^3.0.9"
 rich = "^12.1.0"
 beautifulsoup4 = "^4.11.1"
 structlog = "^21.5.0"
+owid-datautils = {git = "https://github.com/owid/data-utils-py.git", rev = "v0.4.4-alpha"}
+owid-catalog = "^0.2.9"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.910"
