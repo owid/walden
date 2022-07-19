@@ -4,6 +4,7 @@
 
 import json
 import re
+import sys
 import tempfile
 from pathlib import Path
 from time import sleep
@@ -274,7 +275,7 @@ def fetch_all_data_for_energy_source(energy_source: str) -> pd.DataFrame:
     # Create chunks of country names.
     countries_chunks = np.array_split(SHIFT_COUNTRIES, n_chunks)
     dfs = []
-    for countries_chunk in tqdm(countries_chunks, desc="Subset of countries"):
+    for countries_chunk in tqdm(countries_chunks, desc="Subset of countries", file=sys.stdout):
         # Fetch data for current chunk of countries and specified energy source.
         df = fetch_data_for_energy_source_and_a_list_of_countries(
             energy_source=energy_source, countries=countries_chunk
@@ -307,7 +308,7 @@ def fetch_all_data_for_all_energy_sources() -> pd.DataFrame:
 
     """
     energy_dfs = []
-    for energy_source in tqdm(ENERGY_SOURCES, desc="Energy source"):
+    for energy_source in tqdm(ENERGY_SOURCES, desc="Energy source", file=sys.stdout):
         # Fetch all data for current energy source.
         energy_df = fetch_all_data_for_energy_source(energy_source=energy_source)
         energy_dfs.append(energy_df)
