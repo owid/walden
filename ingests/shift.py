@@ -345,10 +345,10 @@ def fetch_data_for_energy_source_and_a_list_of_countries(
     elements = {}
     years = []
     for key in list(fields):
-        if ("name" in fields[key]) and ("data" in fields[key]):
+        if (ENERGY_UNIT in key) and ("name" in fields[key]) and ("data" in fields[key]):
             if fields[key]["name"] in countries:
                 elements[fields[key]["name"]] = fields[key]["data"]["json"]
-        if "categories" in fields[key]:
+        if (ENERGY_UNIT in key) and ("categories" in fields[key]):
             years = fields[key]["categories"]["json"]
 
     assert all([len(elements[country]) == len(years) for country in elements])
@@ -395,7 +395,7 @@ def fetch_all_data_for_energy_source(energy_source: str) -> pd.DataFrame:
         dfs.append(df)
 
     # Combine dataframes of all chunks of countries into one dataframe.
-    combined = dataframes.multi_merge(dfs=dfs, on="year", how="inner")
+    combined = dataframes.multi_merge(dfs=dfs, on="year", how="outer")
     # Restructure dataframe conveniently.
     combined = combined.melt(
         id_vars="year", value_name=energy_source, var_name="country"
