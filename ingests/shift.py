@@ -46,7 +46,7 @@ SHIFT_COUNTRIES = [
     "Angola",
     "Argentina",
     "Armenia",
-    "Asia%20and%20Oceania",
+    "Asia and Oceania",
     "Australia",
     "Austria",
     "Azerbaijan",
@@ -58,13 +58,13 @@ SHIFT_COUNTRIES = [
     "Bolivia",
     "Botswana",
     "Brazil",
-    "Brunei%20Darussalam",
+    "Brunei Darussalam",
     "Bulgaria",
     "Burma",
     "Cambodia",
     "Cameroon",
     "Canada",
-    "Central%20and%20South%20America",
+    "Central and South America",
     "Chile",
     "China",
     "Colombia",
@@ -73,11 +73,11 @@ SHIFT_COUNTRIES = [
     "Cuba",
     "Cyprus",
     "Denmark",
-    "Dominican%20Republic",
+    "Dominican Republic",
     "EU28",
     "Ecuador",
     "Egypt",
-    "El%20Salvador",
+    "El Salvador",
     "Eritrea",
     "Estonia",
     "Ethiopia",
@@ -102,7 +102,7 @@ SHIFT_COUNTRIES = [
     "Ireland",
     "Israel",
     "Italy",
-    "Ivory%20Coast",
+    "Ivory Coast",
     "Jamaica",
     "Japan",
     "Jordan",
@@ -119,7 +119,7 @@ SHIFT_COUNTRIES = [
     "Malta",
     "Mauritius",
     "Mexico",
-    "Middle%20East",
+    "Middle East",
     "Mongolia",
     "Montenegro",
     "Morocco",
@@ -131,7 +131,7 @@ SHIFT_COUNTRIES = [
     "Nicaragua",
     "Niger",
     "Nigeria",
-    "North%20America",
+    "North America",
     "Norway",
     "OECD",
     "OPEC",
@@ -139,19 +139,19 @@ SHIFT_COUNTRIES = [
     "Pakistan",
     "Panama",
     "Paraguay",
-    "Persian%20Gulf",
+    "Persian Gulf",
     "Peru",
     "Poland",
     "Portugal",
     "Qatar",
     "Romania",
-    "Russian%20Federation%20%26%20USSR",
+    "Russian Federation & USSR",
     "Senegal",
     "Serbia",
     "Singapore",
     "Slovakia",
     "Slovenia",
-    "South%20Africa",
+    "South Africa",
     "Spain",
     "Sudan",
     "Suriname",
@@ -162,8 +162,8 @@ SHIFT_COUNTRIES = [
     "Tunisia",
     "Turkey",
     "Ukraine",
-    "United%20Kingdom",
-    "United%20States%20of%20America",
+    "United Kingdom",
+    "United States of America",
     "Uruguay",
     "Uzbekistan",
     "World",
@@ -196,7 +196,7 @@ def prepare_query_url(energy_source: str, countries: List[str]) -> str:
     )
     # Add each country to the url.
     for country in countries:
-        query_url += f"&group-names={country}"
+        query_url += f"&group-names={country.replace(' ', '%20').replace('&', '%26')}"
     # Add some conditions to the query (not all of them may be necessary).
     query_url += (
         f"&is-range=true&dimension=total&end={END_YEAR}&start={START_YEAR}&multi=true&type=Production&"
@@ -325,12 +325,13 @@ def fetch_all_data_for_all_energy_sources() -> pd.DataFrame:
     return energy_data
 
 
-@click.command()
+@click.command(help=__doc__)
 @click.option(
     "--upload/--skip-upload",
     default=True,
+    show_default=True,
     type=bool,
-    help="Upload dataset to Walden",
+    help="Upload dataset to Walden.",
 )
 def main(upload: bool) -> None:
     # Download all data from Shift as a dataframe.
