@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5658",
   "file_extension": "feather",
-  "date_accessed": "2022-07-20T15:32:08.488379",
+  "date_accessed": "2022-07-20T15:35:23.271916",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5658_democratic_support__claassen_values.feather",
   "md5": "123e0476106830f72ecc264647832808"
 }
