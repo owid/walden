@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5651_food_affordability__world_bank__fao__2022_values",
+  "name": "Food affordability (World Bank; FAO, 2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5651",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-13T18:01:00.581537",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5651_food_affordability__world_bank__fao__2022_values.feather",
+  "md5": "45a6e4ded447b3d2b376c1c13eb8f213"
+}

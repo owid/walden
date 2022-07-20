@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5654_gpu_price_performance_data__epoch__2022_config",
+  "name": "Grapher metadata for dataset_5654_gpu_price_performance_data__epoch__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5654",
+  "file_extension": "json",
+  "date_accessed": "2022-07-15T18:01:45.249369",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3537b9fb48b228fb97491ec2aaf338ba",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5654_gpu_price_performance_data__epoch__2022_config.json",
+  "md5": "1d6f192573af2baf3d8326a73751558c"
+}

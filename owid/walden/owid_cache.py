@@ -5,6 +5,7 @@
 #
 
 import os
+import re
 from os import path
 import logging
 from typing import Optional, Tuple
@@ -70,9 +71,11 @@ def s3_bucket_key(url: str) -> Tuple[str, str]:
     bucket = parsed.netloc
     key = parsed.path.lstrip("/")
 
-    # strip region from bucket name in https scheme
-    if parsed.scheme == "https":
-        bucket = bucket.split(".")[0]
+    # strip region from bucket name for digitalocean spaces
+    bucket = re.sub(r"\.\w+\.digitaloceanspaces\.com", "", bucket)
+
+    # strip region from bucket name for AWS
+    bucket = re.sub(r"\.s3-website(-|.)(\w|-)+\.amazonaws\.com", "", bucket)
 
     return bucket, key
 
