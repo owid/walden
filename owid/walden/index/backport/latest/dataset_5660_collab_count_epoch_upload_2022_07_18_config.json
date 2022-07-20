@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5660_collab_count_epoch_upload_2022_07_18_config",
+  "name": "Grapher metadata for dataset_5660_collab_count_epoch_upload_2022_07_18",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5660",
+  "file_extension": "json",
+  "date_accessed": "2022-07-20T13:07:54.091558",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c37cd8828e244bd8456f0fd38b08ece3",
+  "md5": "21e87b611a407c0455b9910d78cd888e"
+}
