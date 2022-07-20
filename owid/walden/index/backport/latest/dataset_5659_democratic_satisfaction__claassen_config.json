@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5659",
   "file_extension": "json",
-  "date_accessed": "2022-07-18T18:01:48.386510",
+  "date_accessed": "2022-07-20T15:32:36.490830",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "d0b0d0a05768de1ca101ec00fb12fa2d",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5659_democratic_satisfaction__claassen_config.json",
-  "md5": "2e61e239d3af56dab6be4c3fee308653"
+  "origin_md5": "9dad92c2036356af22d510e351b2913c",
+  "md5": "e6251bd6ec61995d5f74abcd6f01fc9f"
 }
