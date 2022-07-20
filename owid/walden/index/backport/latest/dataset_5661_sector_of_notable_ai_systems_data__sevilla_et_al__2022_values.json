@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5661_sector_of_notable_ai_systems_data__sevilla_et_al__2022_values",
+  "name": "Sector of Notable AI Systems Data \u2013 Sevilla et al. (2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5661",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-20T13:11:41.052717",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "82b5869ccc4e5503679b8f6160cf4a5e"
+}
