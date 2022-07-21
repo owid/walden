@@ -116,6 +116,7 @@ def prepare_data(directory):
     output_zip = "un_wpp"
     download_data(directory)
     unzip_data(directory)
+    clean_directory(directory)
     output_file = compress_directory(directory, output_zip)
     return output_file
 
