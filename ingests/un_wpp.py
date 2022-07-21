@@ -1,4 +1,4 @@
-"""Run as"""
+"""Run as `python un_wpp.py`"""
 
 
 import tempfile
@@ -77,7 +77,7 @@ def _download_file(url, output_path):
     """Download individual file."""
     response = requests.get(url, stream=True)
     with open(output_path, "wb") as f:
-        for chunk in response.iter_content(chunk_size=512):
+        for chunk in response.iter_content(chunk_size=1024 * 1024 * 10):
             if chunk:  # filter out keep-alive new chunks
                 f.write(chunk)
 
@@ -120,20 +120,10 @@ def prepare_data(directory):
     return output_file
 
 
-def load_yaml_metadata() -> dict:
-    fpath = Path(__file__).parent / f"{Path(__file__).stem}.meta.yml"
-    with open(fpath) as istream:
-        meta = yaml.safe_load(istream)
-    return meta
-
-
 def prepare_metadata():
     log.info("Preparing metadata...")
-    meta = load_yaml_metadata()
-    return Dataset(
-        **meta,
-        date_accessed=datetime.now().date(),
-    )
+    path = Path(__file__).parent / f"{Path(__file__).stem}.meta.yml"
+    return Dataset.from_yaml(path)
 
 
 def main():
