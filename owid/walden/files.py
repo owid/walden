@@ -87,7 +87,9 @@ def download(
         if expected_md5 and md5 != expected_md5:
             if os.path.exists(filename):
                 os.remove(filename)
-            raise ChecksumDoesNotMatch(f"for file downloaded from {url}")
+            raise ChecksumDoesNotMatch(
+                f"for file downloaded from {url}:\n\twalden index checksum = {expected_md5}\n\tdownloaded checksum = {md5}"
+            )
 
     if not quiet:
         log("DOWNLOADED", f"{url} -> {filename}")
