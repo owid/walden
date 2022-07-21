@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5148",
   "file_extension": "feather",
-  "date_accessed": "2022-07-21T10:11:18.887729",
+  "date_accessed": "2022-07-21T10:12:00.380348",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5148_excess_mortality_data__owid__2022_values.feather",
-  "md5": "344eea3baaf65ec56404e08350ab55c9"
+  "md5": "3010a3a12cb272052edc96ac7f918aff"
 }
