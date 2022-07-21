@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5662_joe__compare_wid_and_pip_inequality_measures_config",
+  "name": "Grapher metadata for dataset_5662_joe__compare_wid_and_pip_inequality_measures",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5662",
+  "file_extension": "json",
+  "date_accessed": "2022-07-21T21:31:40.971538",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "a8b08eb54f007c6e0823abc63e45425a",
+  "md5": "24d25c563bd6c16e83dbaa289a3bf161"
+}
