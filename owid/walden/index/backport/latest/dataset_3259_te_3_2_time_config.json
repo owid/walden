@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3259_te_3_2_time_config",
+  "name": "Grapher metadata for dataset_3259_te_3_2_time",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3259",
+  "file_extension": "json",
+  "date_accessed": "2022-07-21T06:33:15.676978",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d2ede9abc6c230780833b11b61c46903",
+  "md5": "82ceb08b3d5fe1288df7bd53c1126894"
+}

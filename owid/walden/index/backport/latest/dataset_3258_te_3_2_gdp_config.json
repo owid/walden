@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_3258_te_3_2_gdp_config",
+  "name": "Grapher metadata for dataset_3258_te_3_2_gdp",
+  "description": "core-econ.org",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/3258",
+  "file_extension": "json",
+  "date_accessed": "2022-07-21T06:34:24.081608",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "14d11b28ff2060e0b37596b1a716d325",
+  "md5": "60a40f1c4d35c93e78a0ff53dc8e1a8a"
+}
