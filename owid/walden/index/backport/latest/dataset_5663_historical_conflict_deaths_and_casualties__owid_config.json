@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5663_historical_conflict_deaths_and_casualties__owid_config",
+  "name": "Grapher metadata for dataset_5663_historical_conflict_deaths_and_casualties__owid",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5663",
+  "file_extension": "json",
+  "date_accessed": "2022-07-22T11:39:02.646135",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "bda884c499b35da3c4faf0ac6ea77035",
+  "md5": "e4bdb7d18d543c24c49153f55ef1f05c"
+}
