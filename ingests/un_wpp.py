@@ -9,8 +9,6 @@ import os
 import glob
 import shutil
 from pathlib import Path
-import yaml
-from datetime import datetime
 from structlog import get_logger
 
 from owid.walden import add_to_catalog
