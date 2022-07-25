@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5664_democracy__episodes_of_regime_transformation__v4_values",
+  "name": "Democracy - Episodes of Regime Transformation (v4)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5664",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-25T17:11:10.330551",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "1c062e8d62e35e17506378b8b954a8df"
+}
