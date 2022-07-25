@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5659",
   "file_extension": "feather",
-  "date_accessed": "2022-07-20T15:35:37.943305",
+  "date_accessed": "2022-07-25T12:38:57.806948",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5659_democratic_satisfaction__claassen_values.feather",
   "md5": "e515cef99a5308832d69b03754a5a61c"
 }
