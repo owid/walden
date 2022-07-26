@@ -1,5 +1,5 @@
 namespace: shift
-short_name: shift_fossil_fuel_production
+short_name: fossil_fuel_production
 name: Energy production from fossil fuels (Shift, 2022)
 source_name: The Shift Data Portal
 version: 2022-07-18
