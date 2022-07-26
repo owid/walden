@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5665_plastic_waste_trade__un_comtrade__2022_values",
+  "name": "Plastic waste trade (UN Comtrade, 2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5665",
+  "file_extension": "feather",
+  "date_accessed": "2022-07-26T13:53:33.753160",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "4db172ac23b7a393680f0a6ae7c26e58"
+}
