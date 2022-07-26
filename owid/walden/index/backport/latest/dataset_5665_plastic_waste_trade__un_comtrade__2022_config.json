@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5665_plastic_waste_trade__un_comtrade__2022_config",
+  "name": "Grapher metadata for dataset_5665_plastic_waste_trade__un_comtrade__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5665",
+  "file_extension": "json",
+  "date_accessed": "2022-07-26T13:47:26.321294",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6323105e9b9c95d8a3134c20a523f6c1",
+  "md5": "58d5591ba0295196050cdc06dcd3f1b5"
+}
