@@ -275,7 +275,7 @@ class Catalog:
         if len(matches) > 1:
             raise Exception("too many matches for dataset")
         elif len(matches) == 0:
-            raise KeyError("no match for dataset")
+            raise KeyError(f"no match for dataset {namespace}/{version}/{short_name}")
 
         return matches[0]
 
