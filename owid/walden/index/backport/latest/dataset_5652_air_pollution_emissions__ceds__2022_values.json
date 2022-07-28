@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5652",
   "file_extension": "feather",
-  "date_accessed": "2022-07-28T16:25:23.312507",
+  "date_accessed": "2022-07-28T16:31:17.970846",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5652_air_pollution_emissions__ceds__2022_values.feather",
   "md5": "4a411c795387f8dea8e5dfc6bb2fb2a8"
 }
