@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5248",
   "file_extension": "json",
-  "date_accessed": "2022-07-22T11:26:11.419341",
+  "date_accessed": "2022-07-29T11:20:21.009991",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "93c0b3b793c63ca0468e862fb19c8a62",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5248_covid_19__swedish_public_health_agency_config.json",
-  "md5": "9f5ee6d5b2035d52b27fee9bcfa40dae"
+  "origin_md5": "8cda1c896df328f24327cf916f578520",
+  "md5": "5cb75e67f707737d63f38c0228a97688"
 }
