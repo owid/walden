@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5078",
   "file_extension": "feather",
-  "date_accessed": "2022-07-31T23:40:58.885489",
+  "date_accessed": "2022-08-01T23:37:56.107039",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5078_covid_government_response__oxbsg_values.feather",
-  "md5": "ca34b53d78250f1e0bcf8d8a80d0ff00"
+  "md5": "cc36c11b2ed3283f30afbf790507420c"
 }
