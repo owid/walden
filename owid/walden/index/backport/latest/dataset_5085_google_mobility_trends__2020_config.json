@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5085",
   "file_extension": "json",
-  "date_accessed": "2022-08-03T11:16:59.036630",
+  "date_accessed": "2022-08-04T09:23:34.770297",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "aeb1c984befb813408c6589fe836af74",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5085_google_mobility_trends__2020_config.json",
-  "md5": "75913a121ecc0c71a2df9ae7e17d1704"
+  "origin_md5": "4e82caec48f7f885a8bd4df3927d7129",
+  "md5": "48405227c27862d21f38bba026c2e1ed"
 }
