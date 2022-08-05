@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5677_environmental_impacts_of_food_config",
+  "name": "Grapher metadata for dataset_5677_environmental_impacts_of_food",
+  "description": "DATA UNDER EMBARGO - DO NOT SHARE",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5677",
+  "file_extension": "json",
+  "date_accessed": "2022-08-05T12:07:17.514088",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ed432b8eae368bb56ea75abc62f3a011",
+  "md5": "d23c772e1aca32609770a153f92e0a31"
+}
