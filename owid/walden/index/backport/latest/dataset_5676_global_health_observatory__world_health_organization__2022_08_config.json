@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5676_global_health_observatory__world_health_organization__2022_08_config",
+  "name": "Grapher metadata for dataset_5676_global_health_observatory__world_health_organization__2022_08",
+  "description": "This is a dataset imported by the automated fetcher",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5676",
+  "file_extension": "json",
+  "date_accessed": "2022-08-05T12:01:27.880126",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ec660830d64ee638ed23e7c024ee4d8d",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5676_global_health_observatory__world_health_organization__2022_08_config.json",
+  "md5": "61e6f94e7ddf8cc2ba2b15199af662c8"
+}
