@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5679_biological_and_chemical_weapons_proliferation__owid_based_on_arms_control_association__2022__and_un__2022_values",
+  "name": "Biological and chemical weapons proliferation \u2013 OWID based on Arms Control Association (2022) and UN (2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5679",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-05T17:17:26.420564",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "2013723fd8a21241e5c7accdfaf99597"
+}
