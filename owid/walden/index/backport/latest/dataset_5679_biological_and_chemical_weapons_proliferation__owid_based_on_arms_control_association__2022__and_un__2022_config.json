@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5679",
   "file_extension": "json",
-  "date_accessed": "2022-08-05T18:00:35.271802",
+  "date_accessed": "2022-08-08T15:55:55.095000",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "29899832fd55c5bd838350d894504b01",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5679_biological_and_chemical_weapons_proliferation__owid_based_on_arms_control_association__2022__and_un__2022_config.json",
-  "md5": "fcb84a37097cdcbe39b5b81bfc0c9a6e"
+  "origin_md5": "4bc9daf6ed8a374ed4e59a8d17026628",
+  "md5": "21e4bb1e5ac644216abf57059ba9940a"
 }
