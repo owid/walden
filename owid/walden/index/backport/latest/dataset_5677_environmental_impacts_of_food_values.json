@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5677_environmental_impacts_of_food_values",
+  "name": "Environmental impacts of food",
+  "description": "DATA UNDER EMBARGO - DO NOT SHARE",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5677",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-08T18:50:48.427434",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "bd224298cbd508fa3d123f184ca6ff03"
+}
