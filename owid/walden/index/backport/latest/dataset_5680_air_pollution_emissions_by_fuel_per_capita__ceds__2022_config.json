@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5680_air_pollution_emissions_by_fuel_per_capita__ceds__2022_config",
+  "name": "Grapher metadata for dataset_5680_air_pollution_emissions_by_fuel_per_capita__ceds__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5680",
+  "file_extension": "json",
+  "date_accessed": "2022-08-09T14:51:08.930187",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "1b88c03b2fbd4f7e2a477d4f2677f97f",
+  "md5": "e708136a83091dcff8aef203830456a9"
+}
