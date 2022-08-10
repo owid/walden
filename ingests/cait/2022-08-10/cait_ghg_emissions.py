@@ -1,7 +1,12 @@
-"""This script should be manually adapted and executed on the event of an update of the CAIT datasets.
+"""Download CAIT data, upload it to walden bucket, and create a new walden index file.
 
-On the event of a new update, manually check and update all fixed inputs below and associated metadata
-file. Then execute this script, which will:
+On the event of a new update:
+* Copy the entire folder into `ingests/cait/YYYY-MM-DD` where `YYYY-MM-DD` should be the current date.
+* Update the field 'version' in the metadata yaml file to be the current date.
+* Execute the new script:
+> python ingests/cait/YYYY-MM-DD/cait_ghg_emissions.py
+
+This script, which will:
 * Download greenhouse gas emissions data from CAIT using Climate Watch Data API.
 * Compress the data and upload it to S3 Walden bucket.
 * Generate the required metadata, including the md5 hash of the compressed file, and write it to the Walden index.
@@ -115,9 +120,6 @@ def main():
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Download greenhouse gas emissions data from CAIT using the Climate Watch Data API, compress and "
-        "upload data to S3, and add metadata to Walden index."
-    )
+    parser = argparse.ArgumentParser(description=__doc__)
     args = parser.parse_args()
     main()
