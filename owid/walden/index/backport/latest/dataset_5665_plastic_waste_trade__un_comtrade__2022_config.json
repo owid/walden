@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5665",
   "file_extension": "json",
-  "date_accessed": "2022-08-04T12:01:47.038063",
+  "date_accessed": "2022-08-10T16:16:33.376888",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a9a7ee7ac2b99c63ad0cb2716d565b1d",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5665_plastic_waste_trade__un_comtrade__2022_config.json",
-  "md5": "742e084d64ae43e996ad7eb8e48f432b"
+  "origin_md5": "6975bf159006353cbc291056c6652106",
+  "md5": "cb6e8dbb5534f1e4ab2dbbf902c40a3f"
 }
