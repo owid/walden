@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5681_pm25_exposure_world_bank_values",
+  "name": "pm25-exposure-world-bank",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5681",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-10T11:49:37.152623",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "2c81e79862507a318791ff20f614f43f"
+}
