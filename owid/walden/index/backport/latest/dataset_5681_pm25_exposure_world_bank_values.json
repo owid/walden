@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5681_pm25_exposure_world_bank_values",
+  "name": "pm25-exposure-world-bank",
+  "description": "This is a manual upload of this variable from the World Bank WDI bulk import, so that it can be used in a data explorer.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5681",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-10T11:55:19.932546",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "ae015c6216ecfa93d929062cea2cbda1"
+}
