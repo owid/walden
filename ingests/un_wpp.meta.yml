@@ -1,7 +1,7 @@
 # note: other metadata fields not listed here are filled using metadata retrieved from the external source
 namespace: un
 short_name: un_wpp
-name: World Population Prospects 2022, Online Edition
+name: World Population Prospects, UN (2022)
 source_name: United Nations, Department of Economic and Social Affairs, Population Division (2022)
 url: https://population.un.org/wpp/Download/
 file_extension: zip
