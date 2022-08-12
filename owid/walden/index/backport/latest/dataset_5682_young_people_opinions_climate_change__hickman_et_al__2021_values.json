@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5682",
   "file_extension": "feather",
-  "date_accessed": "2022-08-12T03:51:01.365143",
+  "date_accessed": "2022-08-12T06:01:53.358022",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5682_young_people_opinions_climate_change__hickman_et_al__2021_values.feather",
   "md5": "4d2db583bb26def2af9038c4196eb88a"
 }
