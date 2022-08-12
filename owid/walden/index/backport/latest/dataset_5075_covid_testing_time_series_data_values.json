@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5075",
   "file_extension": "feather",
-  "date_accessed": "2022-06-23T13:31:00.510829",
+  "date_accessed": "2022-08-11T21:44:41.565431",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5075_covid_testing_time_series_data_values.feather",
-  "md5": "00def3446425a472fc967004523b94ef"
+  "md5": "82fc41f1cfa796481b31f8565a3b1a19"
 }
