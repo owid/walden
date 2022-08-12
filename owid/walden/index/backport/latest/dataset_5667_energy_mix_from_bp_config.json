@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5667_energy_mix_from_bp_config",
+  "name": "Grapher metadata for dataset_5667_energy_mix_from_bp",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5667",
+  "file_extension": "json",
+  "date_accessed": "2022-08-12T08:35:10.444908",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5bda855f355e9121472d3608cc0ac4e6",
+  "md5": "776f52825f86c0695bcf045650f15723"
+}
