@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5677_environmental_impacts_of_food__clark_et_al__2022_config",
+  "name": "Grapher metadata for dataset_5677_environmental_impacts_of_food__clark_et_al__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5677",
+  "file_extension": "json",
+  "date_accessed": "2022-08-15T14:40:42.639553",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "8af3e17ed50c2f86d69e15d982d3d96c",
+  "md5": "fa27288ba7e619fa6f9f4fd42f45aefb"
+}
