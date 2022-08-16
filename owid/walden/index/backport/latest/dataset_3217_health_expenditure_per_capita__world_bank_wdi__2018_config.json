@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3217",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:40:04.090118",
-  "is_public": true,
+  "date_accessed": "2022-08-16T14:17:50.825785",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0539349f6700ce09c3172a48f3638473",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3217_health_expenditure_per_capita__world_bank_wdi__2018_config.json",
-  "md5": "9aaf0ac6c05023c5e96cfaaacb816053"
+  "origin_md5": "eaa57e915ff82cae2b6c3c7ddee4cbea",
+  "md5": "a281858bbe28e30018172e628f2e1b28"
 }

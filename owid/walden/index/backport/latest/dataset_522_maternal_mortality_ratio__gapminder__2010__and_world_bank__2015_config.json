@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/522",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:16:10.671909",
+  "date_accessed": "2022-08-16T16:32:38.401428",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b5ef5b01debdb160b9086fdfaebf6182",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_522_maternal_mortality_ratio__gapminder__2010__and_world_bank__2015_config.json",
-  "md5": "91d33359728cebce086db6461bc747b8"
+  "origin_md5": "55aec19d0c4fda0e8516af8f9b5ee2e5",
+  "md5": "1bff4dc2b14d7fcd31caa3c1e14d553a"
 }

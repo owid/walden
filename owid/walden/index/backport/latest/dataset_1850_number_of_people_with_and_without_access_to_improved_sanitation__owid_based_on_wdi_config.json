@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1850",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:48:06.785152",
-  "is_public": true,
+  "date_accessed": "2022-08-16T14:36:26.948747",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "28eb5037aea6dae57a601fc3d408847d",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1850_number_of_people_with_and_without_access_to_improved_sanitation__owid_based_on_wdi_config.json",
-  "md5": "26ac362f878101b536f9bfc966e439dd"
+  "origin_md5": "a77ec50491dfc4248bcce6a86071e8fd",
+  "md5": "90fb735e5abec93f16b01bc72745bab3"
 }
