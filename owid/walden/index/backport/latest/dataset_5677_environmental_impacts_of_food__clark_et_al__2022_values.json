@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5677_environmental_impacts_of_food__clark_et_al__2022_values",
+  "name": "Environmental impacts of food (Clark et al. 2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5677",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-17T10:46:10.529411",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "0cdcbf1c3b99515d7327ab0587aeff2f"
+}
