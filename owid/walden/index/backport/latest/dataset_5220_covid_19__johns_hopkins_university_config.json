@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5220",
   "file_extension": "json",
-  "date_accessed": "2022-08-18T18:00:40.077034",
+  "date_accessed": "2022-08-18T23:43:24.479566",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "309ecca3ccf92bdb6b4d43f35ef1a30c",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5220_covid_19__johns_hopkins_university_config.json",
-  "md5": "1e9d47b818b912a1a3268ba41877ba10"
+  "origin_md5": "0b3c9c345889103bba3e365752db97cc",
+  "md5": "2edecc235fc39043f87b126a6cae8b37"
 }
