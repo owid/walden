@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3179",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:35:57.054662",
+  "date_accessed": "2022-08-22T15:47:12.808658",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "359dad8bfa434f1e3a81851660d145f1",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3179_number_of_people_with_and_without_energy_access__owid_based_on_world_bank__2021_config.json",
-  "md5": "642663534ae615f2c168f7dd06f6a29c"
+  "origin_md5": "a87332b3887da5555b19fd125aee84c2",
+  "md5": "25c61ea5128b8d1603ab41e2564b3d41"
 }
