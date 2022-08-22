@@ -18,8 +18,7 @@ from bs4 import BeautifulSoup
 from owid.datautils import dataframes
 from tqdm.auto import tqdm
 
-from owid.walden import Dataset
-from owid.walden import add_to_catalog, files
+from owid.walden import Dataset, add_to_catalog, files
 
 # Time (in seconds) to wait between consecutive queries.
 TIME_BETWEEN_QUERIES = 1

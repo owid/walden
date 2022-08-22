@@ -6,13 +6,14 @@ Example usage:
 poetry run python -m ingests.wb_income_groups
 ```
 """
-import tempfile
 import datetime as dt
+import tempfile
 import unicodedata
 
-import pandas as pd
 import click
-from owid.walden import files, add_to_catalog
+import pandas as pd
+
+from owid.walden import add_to_catalog, files
 from owid.walden.catalog import Dataset
 
 SOURCE_DATA_URL = "http://databank.worldbank.org/data/download/site-content/CLASS.xlsx"

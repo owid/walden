@@ -5,8 +5,8 @@
 #  walden
 #
 
-from pathlib import Path
 import concurrent.futures
+from pathlib import Path
 
 import click
 import jsonschema

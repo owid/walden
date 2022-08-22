@@ -7,14 +7,14 @@ poetry run python -m ingests.worldbank_wdi
 ```
 """
 
+import datetime as dt
 import json
 import tempfile
-import datetime as dt
 from pathlib import Path
 
+import requests
 import structlog
 import yaml
-import requests
 from bs4 import BeautifulSoup
 
 from owid.walden import add_to_catalog

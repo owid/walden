@@ -14,14 +14,13 @@ import gzip
 import json
 import os
 import tempfile
-from time import sleep
 from pathlib import Path
-
-from owid.walden import Dataset
-from owid.walden import add_to_catalog
+from time import sleep
 
 import requests
 from tqdm.auto import tqdm
+
+from owid.walden import Dataset, add_to_catalog
 
 ########################################################################################################################
 

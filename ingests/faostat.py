@@ -36,7 +36,7 @@ import requests
 from dateutil import parser
 
 from owid.walden import add_to_catalog, files
-from owid.walden.catalog import Dataset, INDEX_DIR
+from owid.walden.catalog import INDEX_DIR, Dataset
 from owid.walden.files import iter_docs
 from owid.walden.ui import log
 

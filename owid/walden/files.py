@@ -4,12 +4,13 @@
 #  Helpers for downloading and dealing with files.
 #
 
-import os
 import hashlib
 import json
-
+import os
 from os import path, walk
-from typing import Iterator, Optional, Tuple, IO
+from typing import IO, Iterator, Optional, Tuple
+
+import requests
 from rich.progress import (
     BarColumn,
     DownloadColumn,
@@ -17,8 +18,6 @@ from rich.progress import (
     TimeElapsedColumn,
     TransferSpeedColumn,
 )
-
-import requests
 
 from .ui import log
 
