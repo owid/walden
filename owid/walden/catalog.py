@@ -1,18 +1,19 @@
 """Prototype."""
 
 
-from os import path, makedirs, unlink as delete
-from dataclasses import dataclass
 import datetime as dt
-from typing import Any, Dict, Optional, Iterator, List, Tuple, Union, Literal
 import json
-import yaml
 import shutil
+from dataclasses import dataclass
+from os import makedirs, path
+from os import unlink as delete
 from pathlib import Path
+from typing import Any, Dict, Iterator, List, Literal, Optional, Tuple, Union
 
+import yaml
 from dataclasses_json import dataclass_json
 
-from . import owid_cache, files
+from . import files, owid_cache
 
 # our local copy
 CACHE_DIR = path.expanduser("~/.owid/walden")

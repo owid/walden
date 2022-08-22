@@ -1,20 +1,20 @@
-import yaml
-import pandas as pd
-import tempfile
-import requests
 import datetime as dt
-import os
-import numpy as np
 import json
-
-from structlog import get_logger
+import os
+import tempfile
+from collections import defaultdict
 from io import BytesIO
 from pathlib import Path
-from typing import List, Dict, Any
-from collections import defaultdict
+from typing import Any, Dict, List
+
+import numpy as np
+import pandas as pd
+import requests
+import yaml
+from structlog import get_logger
+
 from owid.walden import add_to_catalog
 from owid.walden.catalog import Dataset
-
 
 BASE_URL = "https://unstats.un.org/sdgapi"
 log = get_logger()

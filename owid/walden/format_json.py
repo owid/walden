@@ -5,9 +5,9 @@
 #  walden
 #
 
-from os.path import basename
 import io
 import json
+from os.path import basename
 from typing import Iterator
 
 import click
