@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5234",
   "file_extension": "json",
-  "date_accessed": "2022-08-22T12:02:03.117021",
+  "date_accessed": "2022-08-23T07:16:09.225755",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "79140eb9b8f13467c58c662b16d387db",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5234_covid_19__vaccinations_config.json",
-  "md5": "30cb902d448271509166408ad8963af4"
+  "origin_md5": "2e2688f0358685d425954da56c4f1727",
+  "md5": "d755db63bad5129d8c2674c9ebfd60ba"
 }
