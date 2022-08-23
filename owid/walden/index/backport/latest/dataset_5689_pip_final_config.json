@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5689_pip_final_config",
+  "name": "Grapher metadata for dataset_5689_pip_final",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5689",
+  "file_extension": "json",
+  "date_accessed": "2022-08-23T12:30:51.941845",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "979bb64d54533c92492afd8c61fe6afe",
+  "md5": "63ffb4e31d390bbc75823a75772dea62"
+}
