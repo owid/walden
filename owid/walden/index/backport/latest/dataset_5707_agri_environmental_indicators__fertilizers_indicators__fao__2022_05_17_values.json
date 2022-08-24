@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5707_agri_environmental_indicators__fertilizers_indicators__fao__2022_05_17_values",
+  "name": "Agri-Environmental Indicators: Fertilizers indicators (FAO, 2022-05-17)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5707",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-24T15:21:46.983808",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "d0ddef1c083d70d793ab8bfc7ccab3a6"
+}
