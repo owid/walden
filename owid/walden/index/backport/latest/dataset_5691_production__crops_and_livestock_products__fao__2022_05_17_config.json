@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5691_production__crops_and_livestock_products__fao__2022_05_17_config",
+  "name": "Grapher metadata for dataset_5691_production__crops_and_livestock_products__fao__2022_05_17",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5691",
+  "file_extension": "json",
+  "date_accessed": "2022-08-24T13:19:00.274764",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "73167904c34f83f676468bc9a60c271c",
+  "md5": "b27273e12b8fe62cc1c58851959f6b15"
+}
