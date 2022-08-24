@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5694_agri_environmental_indicators__land_use_indicators__fao__2022_05_17_config",
+  "name": "Grapher metadata for dataset_5694_agri_environmental_indicators__land_use_indicators__fao__2022_05_17",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5694",
+  "file_extension": "json",
+  "date_accessed": "2022-08-24T14:47:57.632750",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "f3924b69c4133e9c75545a5cfed981f0",
+  "md5": "1fa1d1e610d99a9a866e26337d2bc6b0"
+}
