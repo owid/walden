@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5713_inputs__fertilizers_by_nutrient__fao__2022_05_17_values",
+  "name": "Inputs: Fertilizers by Nutrient (FAO, 2022-05-17)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5713",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-24T13:57:30.705251",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "c7fcdc761e58de03f1651a9b37427daa"
+}

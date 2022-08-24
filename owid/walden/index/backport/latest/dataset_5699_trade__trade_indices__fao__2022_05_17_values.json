@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5699_trade__trade_indices__fao__2022_05_17_values",
+  "name": "Trade: Trade Indices (FAO, 2022-05-17)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5699",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-24T14:17:37.888764",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "ed8efcb328dbf044ca382c6978f9ec1d"
+}
