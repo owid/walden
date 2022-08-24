@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5689_world_bank_poverty_and_inequality_platform__pip_config",
+  "name": "Grapher metadata for dataset_5689_world_bank_poverty_and_inequality_platform__pip",
+  "description": "Version 20220609_2011_02_02_PROD\nThis fall they will update it  to 2017 PPP, setting a new international poverty line of $2.15 https://blogs.worldbank.org/opendata/updating-international-poverty-line-2017-ppps",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5689",
+  "file_extension": "json",
+  "date_accessed": "2022-08-23T21:59:42.127769",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "919d87730b92bb7b50c6da1530742575",
+  "md5": "4c93d0eb6c62f74f58cc60c1f7a3220f"
+}
