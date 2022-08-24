@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5696",
   "file_extension": "feather",
-  "date_accessed": "2022-08-24T15:39:35.916390",
+  "date_accessed": "2022-08-24T16:08:15.236885",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5696_food_balances__supply_utilization_accounts__fao__2022_05_17_values.feather",
   "md5": "d1791244284c5017e2d320c0a8436635"
 }
