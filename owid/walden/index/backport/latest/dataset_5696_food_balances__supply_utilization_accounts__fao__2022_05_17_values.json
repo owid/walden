@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5696_food_balances__supply_utilization_accounts__fao__2022_05_17_values",
+  "name": "Food Balances: Supply Utilization Accounts (FAO, 2022-05-17)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5696",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-24T15:32:39.661828",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "af91bd62004d830323a4b47ca03e6727"
+}
