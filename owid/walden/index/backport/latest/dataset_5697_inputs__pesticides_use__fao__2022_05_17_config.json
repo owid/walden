@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5697_inputs__pesticides_use__fao__2022_05_17_config",
+  "name": "Grapher metadata for dataset_5697_inputs__pesticides_use__fao__2022_05_17",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5697",
+  "file_extension": "json",
+  "date_accessed": "2022-08-24T14:35:55.624289",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d5edb0f6d626072b7e6f2256e5ea6384",
+  "md5": "761ba061e43449c2d086a096169948cb"
+}
