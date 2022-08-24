@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5696",
   "file_extension": "json",
-  "date_accessed": "2022-08-24T15:31:26.873041",
+  "date_accessed": "2022-08-24T15:38:29.119300",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2f95e1ccab845095c7a8ccba1379563a",
-  "md5": "bdc709c0a445259f8804b5ea08be8ddc"
+  "origin_md5": "e413651e37a6bad8a8194bdf31562a25",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5696_food_balances__supply_utilization_accounts__fao__2022_05_17_config.json",
+  "md5": "5410699d4bf399618c51ff5c14c2b0f6"
 }
