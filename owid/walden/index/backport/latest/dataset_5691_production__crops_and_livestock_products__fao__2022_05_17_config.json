@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5691",
   "file_extension": "json",
-  "date_accessed": "2022-08-24T13:19:00.274764",
+  "date_accessed": "2022-08-24T13:23:40.614627",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "73167904c34f83f676468bc9a60c271c",
-  "md5": "b27273e12b8fe62cc1c58851959f6b15"
+  "origin_md5": "67f373f5f8280bbb099900e3995025f2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5691_production__crops_and_livestock_products__fao__2022_05_17_config.json",
+  "md5": "899ec502c6ded8056ab641f8a89f0dab"
 }
