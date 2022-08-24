@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5703",
   "file_extension": "json",
-  "date_accessed": "2022-08-24T15:06:12.925486",
+  "date_accessed": "2022-08-24T15:11:24.559209",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "6adacb100d9023da5b8ca496b01afa5c",
+  "origin_md5": "f8ba64fbfd287a0d250371074dd74f50",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5703_food_balances__old_methodology_before_2010__and_new_from_2010_onwards__fao__2022_05_17_config.json",
-  "md5": "eddc2eb9bc3a11748d5fd750aa8c6349"
+  "md5": "fca92e19ced0f040e0f29da9eabb4aa6"
 }
