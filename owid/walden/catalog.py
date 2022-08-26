@@ -115,9 +115,7 @@ class Dataset:
         return dataset
 
     @classmethod
-    def copy_and_create(
-        cls, filename: str, metadata: Union[dict, "Dataset"]
-    ) -> "Dataset":
+    def copy_and_create(cls, filename: str, metadata: Union[dict, "Dataset"]) -> "Dataset":
         """
         Create a new dataset if you already have the file locally.
         """
@@ -193,9 +191,7 @@ class Dataset:
             # actually get it
             url = self.owid_data_url or self.source_data_url
             if not url:
-                raise Exception(
-                    f"dataset {self.name} has neither source_data_url nor owid_data_url"
-                )
+                raise Exception(f"dataset {self.name} has neither source_data_url nor owid_data_url")
             if self.is_public:
                 files.download(url, filename, expected_md5=self.md5, quiet=quiet)
             else:
@@ -287,9 +283,7 @@ class Catalog:
     ) -> Dataset:
         matches = self.find(namespace=namespace, short_name=short_name)
         if not matches:
-            raise ValueError(
-                f"Dataset {short_name} in namespace {namespace} not found in walden"
-            )
+            raise ValueError(f"Dataset {short_name} in namespace {namespace} not found in walden")
         _, dataset = max((d.version, d) for d in matches)
         return dataset
 

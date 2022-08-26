@@ -42,9 +42,7 @@ def main():
         log.info("Downloading unit descriptions...")
         unit_desc = attributes_description()
         metadata_unit = metadata
-        metadata_unit.description = (
-            "A description of the units the data is measured in."
-        )
+        metadata_unit.description = "A description of the units the data is measured in."
         metadata_unit.short_name = "unit"
         metadata_unit.file_extension = "json"
         log.info("Saving unit descriptions...")
@@ -122,9 +120,7 @@ def download_data() -> pd.DataFrame:
     url = f"{BASE_URL}/v1/sdg/Goal/DataCSV"
     all_data = []
     for goal in goal_codes:
-        content = download_file(
-            url=url, goal=goal, area_codes=area_codes, max_retries=MAX_RETRIES
-        )
+        content = download_file(url=url, goal=goal, area_codes=area_codes, max_retries=MAX_RETRIES)
         df = pd.read_csv(BytesIO(content), low_memory=False)
         all_data.append(df)
     all_df = pd.concat(all_data)
@@ -136,9 +132,7 @@ def download_data() -> pd.DataFrame:
     return all_df
 
 
-def download_file(
-    url: str, goal: int, area_codes: list, max_retries: int, bytes_read: int = 0
-) -> bytes:
+def download_file(url: str, goal: int, area_codes: list, max_retries: int, bytes_read: int = 0) -> bytes:
     """Downloads a file from a url.
 
     Retries download up to {max_retries} times following a ChunkedEncodingError

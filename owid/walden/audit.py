@@ -21,9 +21,7 @@ def audit() -> None:
     schema = catalog.load_schema()
 
     # exclude backported datasets
-    docs = [
-        (f, doc) for f, doc in catalog.iter_docs() if "walden/index/backport" not in f
-    ]
+    docs = [(f, doc) for f, doc in catalog.iter_docs() if "walden/index/backport" not in f]
 
     # speed it up with parallelization
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:

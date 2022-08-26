@@ -15,9 +15,7 @@ from owid.walden import Dataset
     help="Upload dataset to Walden",
 )
 def main(upload: bool) -> None:
-    metadata = Dataset.from_yaml(
-        Path(__file__).parent / "european_electricity_review.meta.yml"
-    )
+    metadata = Dataset.from_yaml(Path(__file__).parent / "european_electricity_review.meta.yml")
 
     # download dataset from source_data_url and add the local file to Walden's cache in ~/.owid/walden
     dataset = Dataset.download_and_create(metadata)

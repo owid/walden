@@ -81,9 +81,7 @@ def s3_bucket_key(url: str) -> Tuple[str, str]:
     return bucket, key
 
 
-def download(
-    s3_url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False
-) -> None:
+def download(s3_url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False) -> None:
     """Download the file at the S3 URL to the given local filename."""
     client = connect()
 

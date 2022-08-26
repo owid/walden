@@ -47,9 +47,7 @@ def create_metadata():
 def check_date(metadata: Dataset):
     s = "Income classifications set on 1 July 2021 remain in effect until 1 July 2022"
     if s not in metadata.description:
-        raise ValueError(
-            "Source data is no longer from 2021. Or something has changed in Notes sheet!"
-        )
+        raise ValueError("Source data is no longer from 2021. Or something has changed in Notes sheet!")
 
 
 @click.command()

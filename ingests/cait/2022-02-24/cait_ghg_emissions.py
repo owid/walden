@@ -71,9 +71,7 @@ def fetch_all_data_from_api(
     # Collect all data from consecutive api requests. This could be sped up by parallelizing requests.
     data_all = []
     for page in tqdm(range(1, total_requests + 1)):
-        response = session.get(
-            url=api_url, json={"page": page, "per_page": api_records_per_request}
-        )
+        response = session.get(url=api_url, json={"page": page, "per_page": api_records_per_request})
         new_data = json.loads(response.content)["data"]
         if len(new_data) == 0:
             print("No more data to fetch.")

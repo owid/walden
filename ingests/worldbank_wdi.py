@@ -32,9 +32,7 @@ def main():
     with tempfile.TemporaryDirectory() as temp_dir:
 
         # fetch the file locally
-        assert (
-            metadata.source_data_url is not None and metadata.file_extension is not None
-        )
+        assert metadata.source_data_url is not None and metadata.file_extension is not None
         content = download_file(metadata.source_data_url, MAX_RETRIES)
         output_file = Path(temp_dir) / f"data.{metadata.file_extension}"  # type: ignore
         with open(output_file, "wb") as f:
@@ -66,13 +64,9 @@ def load_external_metadata() -> dict:
     meta_orig = json.loads(requests.get(URL_METADATA).content)
     # print({k: v for k, v in meta.items() if k not in ['indicators', 'resources', 'citation']})
 
-    pub_date = dt.datetime.strptime(
-        meta_orig.get("last_updated_date"), "%Y-%m-%dT%H:%M:%S"
-    ).date()
+    pub_date = dt.datetime.strptime(meta_orig.get("last_updated_date"), "%Y-%m-%dT%H:%M:%S").date()
 
-    description = BeautifulSoup(
-        meta_orig.get("identification").get("description"), features="html.parser"
-    ).get_text()
+    description = BeautifulSoup(meta_orig.get("identification").get("description"), features="html.parser").get_text()
 
     meta = {
         "name": f"World Development Indicators - World Bank ({pub_date.strftime('%Y.%m.%d')})",
