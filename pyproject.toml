@@ -18,7 +18,7 @@ openpyxl = "^3.0.9"
 rich = "^12.1.0"
 beautifulsoup4 = "^4.11.1"
 structlog = "^21.5.0"
-owid-datautils = {git = "https://github.com/owid/owid-datautils-py.git", rev = "v0.4.7-alpha"}
+owid-datautils = {git = "https://github.com/owid/owid-datautils-py.git", rev = "v0.4.8-alpha"}
 owid-catalog = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
@@ -40,6 +40,7 @@ isort = "^5.10.1"
 
 [tool.isort]
 profile = "black"
+extend_skip = [".ipynb_checkpoints"]
 
 [tool.black]
 line-length = 120
