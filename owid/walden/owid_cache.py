@@ -4,18 +4,19 @@
 #  Helpers for working with our cache in DigitalOcean Spaces.
 #
 
+import logging
 import os
 import re
 from os import path
-import logging
 from typing import Optional, Tuple
 from urllib.parse import urlparse
 
 import boto3
 from botocore.exceptions import ClientError
 
-from owid.walden.ui import log, bail
-from .files import checksum, ChecksumDoesNotMatch
+from owid.walden.ui import bail, log
+
+from .files import ChecksumDoesNotMatch, checksum
 
 SPACES_ENDPOINT = "https://nyc3.digitaloceanspaces.com"
 S3_BASE = "s3://walden.nyc3.digitaloceanspaces.com"
@@ -80,9 +81,7 @@ def s3_bucket_key(url: str) -> Tuple[str, str]:
     return bucket, key
 
 
-def download(
-    s3_url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False
-) -> None:
+def download(s3_url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False) -> None:
     """Download the file at the S3 URL to the given local filename."""
     client = connect()
 

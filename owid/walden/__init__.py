@@ -1,6 +1,5 @@
-from .catalog import Dataset, Catalog  # noqa
+from .catalog import Catalog, Dataset  # noqa
 from .ingest import add_to_catalog  # noqa
-
 
 _cache = {}
 

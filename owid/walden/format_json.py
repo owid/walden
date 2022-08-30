@@ -5,9 +5,9 @@
 #  walden
 #
 
-from os.path import basename
 import io
 import json
+from os.path import basename
 from typing import Iterator
 
 import click
@@ -31,8 +31,7 @@ def format_json(check: bool = False) -> None:
         if contents != expected_contents:
             if check:
                 ui.bail(
-                    f"{basename(filename)} is not well formatted, please run "
-                    '"make format"',
+                    f"{basename(filename)} is not well formatted, please run " '"make format"',
                 )
 
             print(f"Reformatting {basename(filename)}")

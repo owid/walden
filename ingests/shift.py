@@ -18,8 +18,7 @@ from bs4 import BeautifulSoup
 from owid.datautils import dataframes
 from tqdm.auto import tqdm
 
-from owid.walden import Dataset
-from owid.walden import add_to_catalog, files
+from owid.walden import Dataset, add_to_catalog, files
 
 # Time (in seconds) to wait between consecutive queries.
 TIME_BETWEEN_QUERIES = 1
@@ -314,9 +313,7 @@ def prepare_query_url(energy_source: str, countries: List[str]) -> str:
     return query_url
 
 
-def fetch_data_for_energy_source_and_a_list_of_countries(
-    energy_source: str, countries: List[str]
-) -> pd.DataFrame:
+def fetch_data_for_energy_source_and_a_list_of_countries(energy_source: str, countries: List[str]) -> pd.DataFrame:
     """Fetch data from Shift for a specific energy source and a list of countries.
 
     Parameters
@@ -382,9 +379,7 @@ def fetch_all_data_for_energy_source(energy_source: str) -> pd.DataFrame:
     # Create chunks of country names.
     countries_chunks = np.array_split(SHIFT_COUNTRIES, n_chunks)
     dfs = []
-    for countries_chunk in tqdm(
-        countries_chunks, desc="Subset of countries", file=sys.stdout
-    ):
+    for countries_chunk in tqdm(countries_chunks, desc="Subset of countries", file=sys.stdout):
         # Fetch data for current chunk of countries and specified energy source.
         df = fetch_data_for_energy_source_and_a_list_of_countries(
             energy_source=energy_source, countries=countries_chunk
@@ -397,9 +392,7 @@ def fetch_all_data_for_energy_source(energy_source: str) -> pd.DataFrame:
     # Combine dataframes of all chunks of countries into one dataframe.
     combined = dataframes.multi_merge(dfs=dfs, on="year", how="outer")
     # Restructure dataframe conveniently.
-    combined = combined.melt(
-        id_vars="year", value_name=energy_source, var_name="country"
-    )
+    combined = combined.melt(id_vars="year", value_name=energy_source, var_name="country")
     combined = combined.sort_values(["country", "year"]).reset_index(drop=True)
 
     return combined
@@ -423,14 +416,10 @@ def fetch_all_data_for_all_energy_sources() -> pd.DataFrame:
         energy_dfs.append(energy_df)
 
     # Combine data from different energy sources.
-    energy_data = dataframes.multi_merge(
-        energy_dfs, on=["country", "year"], how="outer"
-    )
+    energy_data = dataframes.multi_merge(energy_dfs, on=["country", "year"], how="outer")
 
     # Create index.
-    energy_data = energy_data.set_index(
-        ["country", "year"], verify_integrity=True
-    ).sort_index()
+    energy_data = energy_data.set_index(["country", "year"], verify_integrity=True).sort_index()
 
     return energy_data
 

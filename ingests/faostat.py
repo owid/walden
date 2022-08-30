@@ -36,7 +36,7 @@ import requests
 from dateutil import parser
 
 from owid.walden import add_to_catalog, files
-from owid.walden.catalog import Dataset, INDEX_DIR
+from owid.walden.catalog import INDEX_DIR, Dataset
 from owid.walden.files import iter_docs
 from owid.walden.ui import log
 
@@ -108,9 +108,7 @@ INCLUDED_DATASETS_CODES = [
 # URL for dataset codes in FAOSTAT catalog.
 # This is the URL used to get the remote location of the actual data files to be downloaded, and the date of their
 # latest update.
-FAO_CATALOG_URL = (
-    "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
-)
+FAO_CATALOG_URL = "http://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
 # Base URL of API, used to download metadata (about countries, elements, items, etc.).
 API_BASE_URL = "https://fenixservices.fao.org/faostat/api/v1/en/definitions/domain"
 # URL of walden repos and of this script (just to be included to walden index files as a reference).
@@ -169,16 +167,11 @@ class FAODataset:
         if self._dataset_metadata["DatasetDescription"] is None:
             # Description is sometimes missing (e.g. in faostat_esb), but a description is required in index.
             self._dataset_metadata["DatasetDescription"] = ""
-            print(
-                f"WARNING: Description for dataset {self.short_name} is missing. Type one manually."
-            )
+            print(f"WARNING: Description for dataset {self.short_name} is missing. Type one manually.")
         return {
             "namespace": self.namespace,
             "short_name": self.short_name,
-            "name": (
-                f"{self._dataset_metadata['DatasetName']} - FAO"
-                f" ({self.publication_year})"
-            ),
+            "name": (f"{self._dataset_metadata['DatasetName']} - FAO" f" ({self.publication_year})"),
             "description": self._dataset_metadata["DatasetDescription"],
             "source_name": SOURCE_NAME,
             "publication_year": self.publication_year,
@@ -229,12 +222,8 @@ def is_dataset_already_up_to_date(source_data_url, source_modification_date):
     dataset_up_to_date = False
     for filename, index_file in iter_docs(index_dir):
         index_file_source_data_url = index_file.get("source_data_url")
-        index_file_date_accessed = dt.datetime.strptime(
-            index_file.get("date_accessed"), "%Y-%m-%d"
-        ).date()
-        if (index_file_source_data_url == source_data_url) and (
-            index_file_date_accessed > source_modification_date
-        ):
+        index_file_date_accessed = dt.datetime.strptime(index_file.get("date_accessed"), "%Y-%m-%d").date()
+        if (index_file_source_data_url == source_data_url) and (index_file_date_accessed > source_modification_date):
             dataset_up_to_date = True
 
     return dataset_up_to_date
@@ -275,9 +264,7 @@ class FAOAdditionalMetadata:
             # Get list of categories (e.g. "items", "element", etc.) for this dataset.
             response = requests.get(f"{API_BASE_URL}/{domain}")
             assert response.ok, f"Failed to fetch API data for dataset {domain}."
-            categories = [
-                field["code"] for field in json.loads(response.content)["data"]
-            ]
+            categories = [field["code"] for field in json.loads(response.content)["data"]]
             for category in categories:
                 resp = requests.get(f"{API_BASE_URL}/{domain}/{category}")
                 if resp.ok:

@@ -4,12 +4,13 @@
 #  Helpers for downloading and dealing with files.
 #
 
-import os
 import hashlib
 import json
-
+import os
 from os import path, walk
-from typing import Iterator, Optional, Tuple, IO
+from typing import IO, Iterator, Optional, Tuple
+
+import requests
 from rich.progress import (
     BarColumn,
     DownloadColumn,
@@ -17,8 +18,6 @@ from rich.progress import (
     TimeElapsedColumn,
     TransferSpeedColumn,
 )
-
-import requests
 
 from .ui import log
 
@@ -72,9 +71,7 @@ def _stream_to_file(
     return md5.hexdigest()
 
 
-def download(
-    url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False
-) -> None:
+def download(url: str, filename: str, expected_md5: Optional[str] = None, quiet: bool = False) -> None:
     "Download the file at the URL to the given local filename."
     # NOTE: we are not streaming to a NamedTemporaryFile because it was causing weird
     # issues one some systems, it's safer to stream directly to the file and remove it

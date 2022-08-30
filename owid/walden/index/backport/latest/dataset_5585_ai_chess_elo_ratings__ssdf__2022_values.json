@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5585",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:56:02.123738",
+  "date_accessed": "2022-08-19T11:17:43.716283",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5585_ai_chess_elo_ratings__ssdf__2022_values.feather",
-  "md5": "4388c13a9df7390ebe473d13e12a31d0"
+  "md5": "44d383f5f9844a502960a775b167ee91"
 }

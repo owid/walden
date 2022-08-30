@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_522_maternal_mortality_ratio__gapminder__2010__who__2019__and_oecd__2022_config",
+  "name": "Grapher metadata for dataset_522_maternal_mortality_ratio__gapminder__2010__who__2019__and_oecd__2022",
+  "description": "https://github.com/owid/notebooks/blob/main/BetterDataDocs/FionaSpooner/maternal_mortality/maternal_mortality.qmd",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/522",
+  "file_extension": "json",
+  "date_accessed": "2022-08-16T18:00:36.397301",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "971c20998b71c135373afeb2c3773ac6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_522_maternal_mortality_ratio__gapminder__2010__who__2019__and_oecd__2022_config.json",
+  "md5": "48b68f19320171002d929e6097d1138f"
+}
