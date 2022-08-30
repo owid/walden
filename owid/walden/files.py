@@ -7,6 +7,7 @@
 import hashlib
 import json
 import os
+import shutil
 from os import path, walk
 from typing import IO, Iterator, Optional, Tuple
 
@@ -76,7 +77,8 @@ def download(url: str, filename: str, expected_md5: Optional[str] = None, quiet:
     # NOTE: we are not streaming to a NamedTemporaryFile because it was causing weird
     # issues one some systems, it's safer to stream directly to the file and remove it
     # if md5 don't match
-    with open(filename, "wb") as f, requests.get(url, stream=True) as r:
+    tmp_filename = filename + ".tmp"
+    with open(tmp_filename, "wb") as f, requests.get(url, stream=True) as r:
         r.raise_for_status()
 
         md5 = _stream_to_file(r, f)
@@ -87,6 +89,8 @@ def download(url: str, filename: str, expected_md5: Optional[str] = None, quiet:
             raise ChecksumDoesNotMatch(
                 f"for file downloaded from {url}:\n\twalden index checksum = {expected_md5}\n\tdownloaded checksum = {md5}"
             )
+
+    shutil.move(tmp_filename, filename)
 
     if not quiet:
         log("DOWNLOADED", f"{url} -> {filename}")
