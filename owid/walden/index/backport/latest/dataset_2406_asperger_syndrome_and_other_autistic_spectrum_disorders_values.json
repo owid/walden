@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2406",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:55:57.838289",
+  "date_accessed": "2022-09-01T08:00:13.726801",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2406_asperger_syndrome_and_other_autistic_spectrum_disorders_values.feather",
-  "md5": "e87fc9c44e4cd6a086c2ac417fb9791f"
+  "md5": "103ba86ac83acc2400c23addfd76730a"
 }

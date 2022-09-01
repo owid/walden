@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2674",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:44:30.797982",
+  "date_accessed": "2022-09-01T08:04:24.082812",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a9d75ebafab15a9c060336deae879bc4",
+  "origin_md5": "5000c8b7248e6a2e2f194662da018fc7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2674_womens_economic_opportunity_2012__economist_intelligence_unit__2012_config.json",
-  "md5": "2ff74afa7066ce688ce1cd108c178c5a"
+  "md5": "185e02ea63ec2c74de3d8e95b5e4b3f3"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/596",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:43:13.629932",
+  "date_accessed": "2022-09-01T08:02:07.089637",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_596_prevalence_of_zinc_deficiency__wessells_et_al__2012_values.feather",
-  "md5": "aeca481f494446f62d0ce7435acd62ba"
+  "md5": "558fa4194bf22bbf5d25e9573cdb1d18"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4161",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:12:30.921038",
+  "date_accessed": "2022-09-01T08:05:14.379837",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4161_number_of_tourist_departures_per_1000__world_bank__and__un__2019_values.feather",
-  "md5": "3ac3d1ec17d7f0f14787c4424daa948d"
+  "md5": "081cb4c11e8404eb55a792bded89a142"
 }

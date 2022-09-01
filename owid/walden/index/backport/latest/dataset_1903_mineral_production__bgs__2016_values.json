@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1903",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:15:21.661690",
+  "date_accessed": "2022-09-01T08:05:04.047724",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1903_mineral_production__bgs__2016_values.feather",
-  "md5": "46d7cf658225210063fc4b6430800690"
+  "md5": "b95c294adcc833d27923f70d8a07297d"
 }

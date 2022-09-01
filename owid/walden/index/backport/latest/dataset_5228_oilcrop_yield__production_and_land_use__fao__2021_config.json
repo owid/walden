@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5228",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:31:24.677370",
+  "date_accessed": "2022-09-01T08:00:35.024043",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f53cfec22ef35d74789989851337c744",
+  "origin_md5": "115b9388282504824a602755e55f3ead",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5228_oilcrop_yield__production_and_land_use__fao__2021_config.json",
-  "md5": "ade492712486dbcf02a02e0ad27ceec6"
+  "md5": "f72c512961bfe3e128ecc9368e93b3e9"
 }

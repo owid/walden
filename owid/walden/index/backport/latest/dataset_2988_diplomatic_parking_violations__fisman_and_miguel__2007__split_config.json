@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2988",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:37:18.561260",
+  "date_accessed": "2022-09-01T08:04:12.058844",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3cb66dcea96fd532ca6d73600f738df6",
+  "origin_md5": "7ea3f1c330af2de46eedda76f937e90c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2988_diplomatic_parking_violations__fisman_and_miguel__2007__split_config.json",
-  "md5": "38c00443e669b556d356e9aa26bfc87b"
+  "md5": "b91742ec58532c773bce76cebfb2b2cd"
 }

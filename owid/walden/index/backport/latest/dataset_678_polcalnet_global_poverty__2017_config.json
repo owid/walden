@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/678",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:59:12.025066",
+  "date_accessed": "2022-09-01T08:03:19.453301",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "68a54026bb3bf65e4c012ca35abfe9e0",
+  "origin_md5": "c5ec8e59007e792727ddacd0f8afd464",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_678_polcalnet_global_poverty__2017_config.json",
-  "md5": "9dd726077e890d1cef869417bbd3df96"
+  "md5": "846196ce57ec3a6b9b695882261fd0f0"
 }

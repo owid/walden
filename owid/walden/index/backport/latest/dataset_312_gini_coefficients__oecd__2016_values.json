@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/312",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:24.954940",
+  "date_accessed": "2022-09-01T08:04:37.950149",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_312_gini_coefficients__oecd__2016_values.feather",
-  "md5": "e5910143931e7be47b96bf3b96077562"
+  "md5": "3bfc0a8c50397ff31a42a7e97769a64c"
 }

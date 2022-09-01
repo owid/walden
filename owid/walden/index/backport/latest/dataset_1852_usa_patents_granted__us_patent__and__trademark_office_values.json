@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1852",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:57:16.805788",
+  "date_accessed": "2022-09-01T08:03:01.801812",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1852_usa_patents_granted__us_patent__and__trademark_office_values.feather",
-  "md5": "0f4d163fc3d9e9b2007437c59581aec0"
+  "md5": "f6d2560fd02716563e1985aedfdc34e9"
 }

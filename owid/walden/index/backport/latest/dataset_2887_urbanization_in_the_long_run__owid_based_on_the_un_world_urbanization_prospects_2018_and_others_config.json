@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2887",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:47:46.322452",
+  "date_accessed": "2022-09-01T08:03:52.398442",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "218e722df71fe66c200bdacc9d91e513",
+  "origin_md5": "e4e87063adde17b42bf126d479ad3d6a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2887_urbanization_in_the_long_run__owid_based_on_the_un_world_urbanization_prospects_2018_and_others_config.json",
-  "md5": "ecd3d66a908753cf718ddd265928489e"
+  "md5": "32d1dabf720df068c36b3c3b87319eda"
 }

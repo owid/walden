@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2510",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:41:47.951673",
+  "date_accessed": "2022-09-01T08:05:19.410295",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f044b7c793c8579c8acfed0ad3204630",
+  "origin_md5": "6b567ba52656fa192e77ce41cf86f8a7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2510_top_1pct_wealth_shares__chartbook_of_economic_inequality__2017_config.json",
-  "md5": "00485bb5755d94098db3dae04cd46747"
+  "md5": "3beb8fdac15acb3aead8b1838eac9608"
 }

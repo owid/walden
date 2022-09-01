@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5199",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:11:47.218172",
+  "date_accessed": "2022-09-01T08:05:00.041377",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5199_who_americans_spend_time_with__american_time_use_survey__2009_2019_values.feather",
-  "md5": "f0cf054f56b5ccad71b296bbe45f2993"
+  "md5": "2a23a032789b1421255075158fef465f"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1882",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:09:28.006107",
+  "date_accessed": "2022-09-01T08:03:43.982018",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3306a209a25b543b1f4daac65bf938ab",
+  "origin_md5": "e63376f3d796109fa3922c73f5bdffbc",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1882_share_of_employment_in_the_financial_sector__ggdc__2017_config.json",
-  "md5": "caa2960a8ef456cdf047c79421210238"
+  "md5": "a8e4e1a979ac7f13d88e0b9de4c4907d"
 }

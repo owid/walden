@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/580",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:34:52.068420",
+  "date_accessed": "2022-09-01T08:04:50.454000",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "50f386e6509dc740d2676413175f322b",
+  "origin_md5": "64ea359744c4b182c41e72300f72688d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_580_land_under_cereal_production_index__world_bank__2017_config.json",
-  "md5": "f56d4ec7f2fee890bb83a0523068ee71"
+  "md5": "6882bc6c441bda7b9d9e956260c413c8"
 }

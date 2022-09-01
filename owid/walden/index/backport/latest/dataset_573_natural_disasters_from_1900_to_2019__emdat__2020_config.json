@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/573",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:30:59.771704",
+  "date_accessed": "2022-09-01T08:04:48.126345",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "07014b07f056b3909ddf24d9a50e0de7",
+  "origin_md5": "a9770413611faed37e1236e89b032037",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_573_natural_disasters_from_1900_to_2019__emdat__2020_config.json",
-  "md5": "fd11d6eb1d4c2815d075589a5dde2cd1"
+  "md5": "0d881af110665624ebc65c0fda0be76c"
 }

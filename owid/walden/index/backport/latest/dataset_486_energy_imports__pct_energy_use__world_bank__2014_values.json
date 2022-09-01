@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/486",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:07:33.290054",
+  "date_accessed": "2022-09-01T08:02:59.196179",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_486_energy_imports__pct_energy_use__world_bank__2014_values.feather",
-  "md5": "c5f928f0de91900387ccf9412975dfb8"
+  "md5": "78c994ce3a51459068c7bf35fef02ee5"
 }

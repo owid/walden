@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5198",
   "file_extension": "feather",
-  "date_accessed": "2022-07-12T13:34:36.919677",
+  "date_accessed": "2022-09-01T08:05:07.808748",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5198_deaths_per_twh_energy_production_values.feather",
-  "md5": "4f2ce3d0f6b0699911105a6bc6d328c7"
+  "md5": "f44d3a3253bcbcfce3203f4b6098c230"
 }

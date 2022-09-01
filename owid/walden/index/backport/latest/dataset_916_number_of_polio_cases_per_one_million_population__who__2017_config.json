@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/916",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:33:15.098838",
+  "date_accessed": "2022-09-01T08:05:16.698179",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0f1b1ac546f83371feddd8b5889036df",
+  "origin_md5": "aa5fadf60e34d535c604d8e29bbb2aeb",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_916_number_of_polio_cases_per_one_million_population__who__2017_config.json",
-  "md5": "038df6c1d64fdbaa33188f50e19e3ae7"
+  "md5": "b2a6997ee497cb7826b3db20deb4d8fc"
 }

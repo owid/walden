@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2994",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:38:24.192504",
+  "date_accessed": "2022-09-01T08:00:29.077542",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "943a2718e701e229658643edb785d6fa",
+  "origin_md5": "f6550087b1f41b00077633a1eb3cee86",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2994_tax_revenues_per_capita_in_developing_countries__ppp__world_bank__wdi__2017__split_config.json",
-  "md5": "f4147b053172c7e2a557b0fa07d6cb2e"
+  "md5": "5a979857d480367bf3b2cf15b257fb00"
 }

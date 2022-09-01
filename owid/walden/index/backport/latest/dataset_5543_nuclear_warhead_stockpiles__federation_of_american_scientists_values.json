@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5543",
   "file_extension": "feather",
-  "date_accessed": "2022-06-22T18:02:27.028339",
+  "date_accessed": "2022-09-01T08:04:47.420805",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5543_nuclear_warhead_stockpiles__federation_of_american_scientists_values.feather",
-  "md5": "b02eb2b0f3f5ce415b71c57af977e623"
+  "md5": "cdfc3336c423b3b47fbdd15bfd5ddc55"
 }

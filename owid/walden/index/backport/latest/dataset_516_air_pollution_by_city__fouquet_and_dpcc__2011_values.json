@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/516",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:51:05.646890",
+  "date_accessed": "2022-09-01T08:04:04.093913",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_516_air_pollution_by_city__fouquet_and_dpcc__2011_values.feather",
-  "md5": "595b72e1a99ce00bd0280c2f845069fe"
+  "md5": "dc4bb969246a4f29175022fbe30253b0"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5391",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:55:01.632314",
+  "date_accessed": "2022-09-01T08:03:32.421697",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5391_free_range_eggs__defra_and_usda_values.feather",
-  "md5": "a3fdf308bae747b2445f7b3d892a4f72"
+  "md5": "646aa76d38dc17a4cb5f1c0369f6332c"
 }

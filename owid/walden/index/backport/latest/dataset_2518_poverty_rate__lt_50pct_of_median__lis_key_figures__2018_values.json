@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2518",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:35:58.999414",
+  "date_accessed": "2022-09-01T07:59:48.109091",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2518_poverty_rate__lt_50pct_of_median__lis_key_figures__2018_values.feather",
-  "md5": "6a8282ed9c2f00567fde6e47d6635012"
+  "md5": "c40304e051c6b9a5cec73ec22fd0397d"
 }

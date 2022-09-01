@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1875",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:32:51.147337",
+  "date_accessed": "2022-09-01T08:03:40.184841",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "be1e651c5f6e8ce4ec4ffa96c2351c06",
+  "origin_md5": "1c7880d3f6dfd051be85f1f4020fc239",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1875_measles_london_config.json",
-  "md5": "9dd8e6b9c6b4ad35569a4e7a13ccd150"
+  "md5": "8ce3651f4991000a8257c4e70c912760"
 }

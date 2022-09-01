@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/678",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:59:12.489301",
+  "date_accessed": "2022-09-01T08:03:19.872138",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_678_polcalnet_global_poverty__2017_values.feather",
-  "md5": "ff935589fd9a0995ba7092fc62513735"
+  "md5": "a4da556fb930bf965401fa89f4301f36"
 }

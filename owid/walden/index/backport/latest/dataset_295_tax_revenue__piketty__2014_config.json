@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/295",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:12:14.820862",
+  "date_accessed": "2022-09-01T08:02:57.612390",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5cf9ed4f27642c6baed3a11449cf94d3",
+  "origin_md5": "b30e44f3921721d40571904a8bc4cf6f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_295_tax_revenue__piketty__2014_config.json",
-  "md5": "07f080a267e25039259ae767b419135a"
+  "md5": "6100c92df8e5cf86c0c25291a0e92fc9"
 }

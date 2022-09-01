@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/583",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:30:07.562572",
+  "date_accessed": "2022-09-01T08:03:42.299112",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "1b7e29b38f801942cfd119de55028035",
+  "origin_md5": "980ea6f48d11694efb77187fffb16803",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_583_daily_fat_supply__fao__2017_config.json",
-  "md5": "de4f80b2ab5966019d0d6666e84e872e"
+  "md5": "e42588b8b9d9d20352430f1b98f8783d"
 }

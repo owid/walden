@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/353",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:35:35.444081",
+  "date_accessed": "2022-09-01T07:59:48.875072",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "13d19c5ad2a4a9f222b155beb183898b",
+  "origin_md5": "ead0af45e8f0f803369fffb0e140c663",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_353_extreme_income_poverty_in_europe__bradshaw_and_mayhew__2011_config.json",
-  "md5": "4298d10576c9ee0f553276bfc1e10ed3"
+  "md5": "1ac2599d48cc570ab4a5807fa3e9f9b3"
 }

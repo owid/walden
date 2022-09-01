@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/189",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:02:47.867047",
+  "date_accessed": "2022-09-01T08:04:32.590379",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_189_government_transparency_index__hollyer_et_al__2014_values.feather",
-  "md5": "b9f8856c8793ebce95b1ce3f889c83b2"
+  "md5": "e9bd7b1c98c32c8065b808e1746e3944"
 }

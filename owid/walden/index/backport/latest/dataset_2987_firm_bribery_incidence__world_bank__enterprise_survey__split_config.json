@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2987",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:35:49.141598",
+  "date_accessed": "2022-09-01T08:04:39.039808",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0fec48b6a0ce7255836d199324fd8235",
+  "origin_md5": "fc13dc8dd49aa977ef24d41d0d18526d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2987_firm_bribery_incidence__world_bank__enterprise_survey__split_config.json",
-  "md5": "8c64b4922e26d5fbcb633c0ad460ab37"
+  "md5": "ef9d06e7e4e66770c508c82e76fbb7f7"
 }

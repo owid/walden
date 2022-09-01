@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5230",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:40:21.302593",
+  "date_accessed": "2022-09-01T08:00:45.137434",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "6f649c7cc559ab9e5b6c9a0f3cdaa014",
+  "origin_md5": "f94887d8d602735cafce5e7cbc930cc8",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5230_land_use_since_10000bc__ellis_et_al__2020_config.json",
-  "md5": "f6c5a1038e2e799b06feaf988e18f5cc"
+  "md5": "bcf06f03b0968f13a7f83d75a86f3728"
 }

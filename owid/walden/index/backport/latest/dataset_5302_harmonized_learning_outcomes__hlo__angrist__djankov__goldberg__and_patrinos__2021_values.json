@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5302",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:47:49.960825",
+  "date_accessed": "2022-09-01T08:04:19.804534",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5302_harmonized_learning_outcomes__hlo__angrist__djankov__goldberg__and_patrinos__2021_values.feather",
-  "md5": "6b4ed53cebb4c8d5cfcd2c9fd293f866"
+  "md5": "744330278ec21280927b6f1e09c6cdaf"
 }

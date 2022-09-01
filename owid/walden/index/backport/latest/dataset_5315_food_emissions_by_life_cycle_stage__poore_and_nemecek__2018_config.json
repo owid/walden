@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5315",
   "file_extension": "json",
-  "date_accessed": "2022-08-16T12:00:40.399860",
+  "date_accessed": "2022-09-01T08:01:53.821371",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "8688c8d9eb7dccea811f81da6f25a418",
+  "origin_md5": "e94b0be1117379bd44dbff7d2c434c16",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5315_food_emissions_by_life_cycle_stage__poore_and_nemecek__2018_config.json",
-  "md5": "90bb38b6ac2dff43a00c4b0c1d47ca31"
+  "md5": "ad5d6672e6caa7303355a3f903834267"
 }
