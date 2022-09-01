@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5740_who_vaccination_schedule__2022_values",
+  "name": "WHO Vaccination Schedule (2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5740",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-26T09:08:45.142097",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "c366740ceb1152113e81f55b9329f2d1"
+}

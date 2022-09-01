@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5512_ipcc_scenarios__iiasa_values",
+  "name": "IPCC Scenarios (IIASA)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5512",
+  "file_extension": "feather",
+  "date_accessed": "2022-08-29T18:27:01.985424",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "90257539e9aaabd721481b5cdf776cab"
+}

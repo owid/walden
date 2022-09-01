@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5740_who_vaccination_schedule__2022_config",
+  "name": "Grapher metadata for dataset_5740_who_vaccination_schedule__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5740",
+  "file_extension": "json",
+  "date_accessed": "2022-08-26T09:08:44.891159",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d37a833a429182948a22a7a66443b2d6",
+  "md5": "192b07830332759820583e515262e00d"
+}

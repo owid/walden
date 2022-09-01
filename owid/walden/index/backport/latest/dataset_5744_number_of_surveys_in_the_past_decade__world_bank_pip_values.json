@@ -1,14 +1,14 @@
 {
   "namespace": "backport",
-  "short_name": "dataset_5689_world_bank_poverty_and_inequality_platform__pip_values",
-  "name": "World Bank Poverty and Inequality Platform (PIP)",
+  "short_name": "dataset_5744_number_of_surveys_in_the_past_decade__world_bank_pip_values",
+  "name": "Number of surveys in the past decade (World Bank PIP)",
   "description": "Version 20220609_2011_02_02_PROD\nThey will update it  to 2017 PPP this fall in 2022, setting a new international poverty line of $2.15 https://blogs.worldbank.org/opendata/updating-international-poverty-line-2017-ppps",
   "source_name": "Our World in Data catalog backport",
-  "url": "https://owid.cloud/admin/datasets/5689",
+  "url": "https://owid.cloud/admin/datasets/5744",
   "file_extension": "feather",
-  "date_accessed": "2022-08-31T20:49:43.385581",
-  "is_public": true,
+  "date_accessed": "2022-09-01T01:40:38.984311",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "md5": "90f2a6125c4898996bda71519f3724ef"
+  "md5": "5abf69a3fe4c6dee3a317fe91f51ccff"
 }

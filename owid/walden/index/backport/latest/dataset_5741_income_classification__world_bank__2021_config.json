@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5741_income_classification__world_bank__2021_config",
+  "name": "Grapher metadata for dataset_5741_income_classification__world_bank__2021",
+  "description": "Updated version of the 2017 classification dataset",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5741",
+  "file_extension": "json",
+  "date_accessed": "2022-08-31T00:21:01.203516",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "120a1829632fd22eac9ed7d65e923218",
+  "md5": "3fa7d60c0ff83f2d0cc441967468f8e4"
+}
