@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5592",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:58:51.864097",
+  "date_accessed": "2022-09-01T16:12:30.656601",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "71fc6e50a95a86809ed15a1e82a8cd0f",
+  "origin_md5": "9d3ec789b3b8b09f901d1adf7deb1fb3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5592_covid_testing_time_series_data__vietnam_exemplar_config.json",
-  "md5": "ef44d40be304e99d9a70056e17032b81"
+  "md5": "3ea8b6a34431b721ba2bb3ade9cf333a"
 }

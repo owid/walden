@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4881",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:05:10.784070",
+  "date_accessed": "2022-09-01T16:20:36.506467",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ce9c533f8ba2e6340cca8c6edaed3eea",
+  "origin_md5": "86f87235caa9ac6d0b146acbf1f9b749",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4881_ethnographic_and_archaeological_evidence_on_violent_deaths_config.json",
-  "md5": "de29739c011a9b31cb0a63c6ce4002f7"
+  "md5": "c1791730d357ca9a635bc500fc991211"
 }

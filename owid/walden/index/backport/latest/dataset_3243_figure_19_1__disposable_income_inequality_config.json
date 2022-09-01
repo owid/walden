@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3243",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:01:48.193640",
+  "date_accessed": "2022-09-01T16:18:26.742672",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a52357ebd6e04a95039e5fa192a61821",
+  "origin_md5": "d0df7f42582b1d9b9926872930da8bc2",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3243_figure_19_1__disposable_income_inequality_config.json",
-  "md5": "26c9255926b61ede5216fb3ce677dbbd"
+  "md5": "41e32434f155177b7c67bb98ef9a1188"
 }

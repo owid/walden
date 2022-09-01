@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5280",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:28:43.544712",
+  "date_accessed": "2022-09-01T16:13:15.885615",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3f5d6d6bd17d7776e7f27bfda5c0d4e6",
+  "origin_md5": "b19e40430ec2908ef82ae219111998f7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5280_wildlife_trade__scheffers_et_al__2019_config.json",
-  "md5": "ad9f5d945d0dcf816868e91303f5d4ce"
+  "md5": "d751acfa2e0f33209fd7ad71bdea15c3"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5266",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:55:43.429299",
+  "date_accessed": "2022-09-01T16:16:24.436420",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f265cb5632c9144e7e6c192b98651031",
+  "origin_md5": "ea073a093208b470c2d1a3fbbe755a21",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5266_global_wildlife_trade__harfoot_et_al__2018_config.json",
-  "md5": "3d6034df5641af457969efe66452767b"
+  "md5": "f8da2ac77fec5bfe774a43fab4f3b5e0"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5639",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:30:07.866555",
+  "date_accessed": "2022-09-01T16:18:39.945846",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5939269669f89b88565f90e7b08bb43a",
+  "origin_md5": "65c1cd32d602de2756daf4491000febd",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5639_csis__cost_of_space_launches_config.json",
-  "md5": "ba85a9ff77da5c36782c902498121383"
+  "md5": "8b910a98d800c5afc845b0ab3ea87f4b"
 }

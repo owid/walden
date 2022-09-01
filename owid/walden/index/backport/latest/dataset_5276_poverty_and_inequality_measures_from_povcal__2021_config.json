@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5276",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:29:25.537291",
+  "date_accessed": "2022-09-01T16:10:44.234801",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "80ab37af10631354bcdfdb4aaa957a39",
+  "origin_md5": "41bb500e87cc66dca020a8abe487ca64",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5276_poverty_and_inequality_measures_from_povcal__2021_config.json",
-  "md5": "c2ff26f49aade572ca0bfea6e7a01040"
+  "md5": "58e7696a85728af5d36946136c0f0905"
 }

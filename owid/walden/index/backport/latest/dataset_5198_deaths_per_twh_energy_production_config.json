@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5198",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:05:07.390130",
+  "date_accessed": "2022-09-01T16:13:39.590152",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9cc68c5897104c228a28fa680efe4b7a",
+  "origin_md5": "6c1ee5c9bd30b565d7475ed6d7655866",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5198_deaths_per_twh_energy_production_config.json",
-  "md5": "333596b8ffdaed01dcc40a9748103654"
+  "md5": "0c24db28c6151f3bcd1902f6fc2ffdf4"
 }

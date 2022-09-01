@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4193",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:43:43.778282",
+  "date_accessed": "2022-09-01T16:20:38.453599",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fb0ede7e2f274256f5c6d184e265b40a",
+  "origin_md5": "4d50bff590ec26791a417952eca0d492",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4193_whale_catch_by_decade__rocha_et_al__and__iwc_config.json",
-  "md5": "0d73d50e4517143ac76919ac00992c57"
+  "md5": "b40b598e0182fc837e56e6dd023b044d"
 }

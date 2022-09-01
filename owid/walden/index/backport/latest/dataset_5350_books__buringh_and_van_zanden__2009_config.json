@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5350",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:54:24.587224",
+  "date_accessed": "2022-09-01T16:20:24.152347",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "49edcefd7999970c2a2fb8f9ec3596d5",
+  "origin_md5": "7e77a7e5ad5e923ee07e065d10dd2ed3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5350_books__buringh_and_van_zanden__2009_config.json",
-  "md5": "b49eedef7a7fd525d4d93f824573b189"
+  "md5": "0c878f433e76efed02a910d7ffc069a3"
 }

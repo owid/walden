@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5172",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:52:17.444221",
+  "date_accessed": "2022-09-01T16:23:18.905094",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "79b96a5c48d52f0b12bcb168270fcea4",
+  "origin_md5": "ecdf1e3e2830c561503bfb953480d64c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5172_working_hours__oecd__2020_config.json",
-  "md5": "a06b8d8d9234bf834f8bedee2d0820ac"
+  "md5": "f3cb73b30040dabe3eeb7e5590367ba4"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3086",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:40:36.394390",
+  "date_accessed": "2022-09-01T16:15:48.992192",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "40bd776937c88c50112ba8a332969228",
+  "origin_md5": "30c3b9daf8a32e6ee79d94c2fdc77b69",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3086_top_net_personal_wealth_shares__wid__2018_config.json",
-  "md5": "81a7ddd16fa6f32118dc48017d626fca"
+  "md5": "b5000e97f86bacf83a5e0a4b39db00d8"
 }

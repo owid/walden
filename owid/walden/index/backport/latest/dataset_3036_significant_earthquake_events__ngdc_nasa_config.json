@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3036",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:38:06.853521",
+  "date_accessed": "2022-09-01T16:17:59.853261",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0ac6aa90d038d823170f35df7b454638",
+  "origin_md5": "2e101d50fcfbafda9292538493ed444c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3036_significant_earthquake_events__ngdc_nasa_config.json",
-  "md5": "79623e2ff6c95f1de3988a24bba6237c"
+  "md5": "b3d2ebe8227d3e61a6cc39a99a5dfa8d"
 }

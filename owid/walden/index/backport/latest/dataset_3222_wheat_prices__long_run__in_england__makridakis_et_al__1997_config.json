@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3222",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:02:17.918023",
+  "date_accessed": "2022-09-01T16:24:18.116823",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0e5b93c67e34b1b223f7958079cbe6b3",
+  "origin_md5": "79d271612faa4afa5ba3a586c1e69e2e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3222_wheat_prices__long_run__in_england__makridakis_et_al__1997_config.json",
-  "md5": "cea9c2b71e18c2fb8a1c1adc8b160004"
+  "md5": "1ceb7ee4cb4867c8c730e18876cdc39f"
 }

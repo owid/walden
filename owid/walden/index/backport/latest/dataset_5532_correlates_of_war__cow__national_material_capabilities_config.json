@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5532",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:04:54.815345",
+  "date_accessed": "2022-09-01T16:13:05.429785",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "8ff67668b87bffc41e86c1ed1a0833a6",
+  "origin_md5": "b96812cd867cb90aba0ea263573dac08",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5532_correlates_of_war__cow__national_material_capabilities_config.json",
-  "md5": "e56dcb08fcf9f98b7d5e87616aa3fa1b"
+  "md5": "c8f106c93bbd9180d4446f552b757bef"
 }

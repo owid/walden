@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5145",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:55:38.121796",
+  "date_accessed": "2022-09-01T16:18:28.871203",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e24186c892083523ce445c4fdd17778e",
+  "origin_md5": "51a859aa7bb3631f927d9ac142561bab",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5145_figure_17_28_budget_balance_config.json",
-  "md5": "4a0c87dc6723cba011082fa29ef3edad"
+  "md5": "724bc506fb1d2271269e53cdb2199066"
 }

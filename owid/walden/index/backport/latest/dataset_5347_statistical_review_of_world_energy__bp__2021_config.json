@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5347",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:32:56.210493",
+  "date_accessed": "2022-09-01T16:13:11.960704",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "596338b3658f80fbc359ad3dc18ec9bd",
+  "origin_md5": "3845abaad06a051edfd95a91e3c463e4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5347_statistical_review_of_world_energy__bp__2021_config.json",
-  "md5": "70bbdba953dcbeba7771c9a86cc8ede9"
+  "md5": "f8a5818239be7154f7963df3bd3d5c69"
 }

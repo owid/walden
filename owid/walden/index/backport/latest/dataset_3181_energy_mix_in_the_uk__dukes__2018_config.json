@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3181",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:04:40.863806",
+  "date_accessed": "2022-09-01T16:12:49.718913",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "10ec97f11275f1506c52565ab174b367",
+  "origin_md5": "8a7ce968840a9bebab1c0de7354b63e3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3181_energy_mix_in_the_uk__dukes__2018_config.json",
-  "md5": "6e383c2041b640471eea721314235b12"
+  "md5": "fb850b790aee95ad991f90f1459c5b05"
 }

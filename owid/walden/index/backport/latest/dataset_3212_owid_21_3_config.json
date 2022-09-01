@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3212",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:53:01.728669",
+  "date_accessed": "2022-09-01T16:15:42.312943",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b178223dc0726f7e8ade8a109817556a",
+  "origin_md5": "fa63b6afe853f02373adbebe5dab6b55",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3212_owid_21_3_config.json",
-  "md5": "2b0bb8dfe4fe00839b41af31c1374532"
+  "md5": "74880e03ac35e5758f5fa224d4b82b62"
 }

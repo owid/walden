@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5344",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:43:11.544003",
+  "date_accessed": "2022-09-01T16:21:39.455009",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2cb197b5f305a61db15ce1d059648459",
+  "origin_md5": "e8b5ab2c576085d4a7085ab3ca068dfb",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5344_climate_impact_on_crop_yields__ray_et_al__2019_config.json",
-  "md5": "cc8d038086311a9b0a340b557b5432b7"
+  "md5": "219fd3f0f5d252b06c83c434818b6510"
 }

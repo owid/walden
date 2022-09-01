@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5303",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:27:45.904730",
+  "date_accessed": "2022-09-01T16:16:03.389507",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "66fe62073c45905c9b8cda445e701a83",
+  "origin_md5": "ab29bc77530d90cff2bf3d055889011f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5303_childhood_vaccination_policies__vanderslott_et_al__2021_config.json",
-  "md5": "3d800e35d65f6c80d6b392b92b356230"
+  "md5": "726e6bf74094310f9be7d2bdb24da92f"
 }

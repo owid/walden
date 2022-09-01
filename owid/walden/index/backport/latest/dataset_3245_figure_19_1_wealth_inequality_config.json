@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3245",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:29:34.012832",
+  "date_accessed": "2022-09-01T16:10:31.183153",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3693df9415ad091e894f9677724009a5",
+  "origin_md5": "fac188afbaf94e09b7e2e4084888d348",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3245_figure_19_1_wealth_inequality_config.json",
-  "md5": "9e58cdba80abb132d082278c8bf6dea6"
+  "md5": "95ce58cbada7a5e66afb386a47e88f4e"
 }

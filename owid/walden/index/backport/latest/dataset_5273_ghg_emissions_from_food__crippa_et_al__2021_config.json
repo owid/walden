@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5273",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:39:34.227080",
+  "date_accessed": "2022-09-01T16:17:34.137307",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "aa57a6abb0b466fc42d1b87f75aef772",
+  "origin_md5": "b7d5d9362fbd4960384fa9afb0893699",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5273_ghg_emissions_from_food__crippa_et_al__2021_config.json",
-  "md5": "7f6e16d75bbb86f02e4804b4116e39db"
+  "md5": "6ce171a736aca4ecbdbb4a0ea037fa3a"
 }

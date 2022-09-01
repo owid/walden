@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5516",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:53:28.121599",
+  "date_accessed": "2022-09-01T16:18:44.268183",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fec3bac8dc3922b204c57f0643bc71f2",
+  "origin_md5": "60234bccc7b1ad71cc5d9d831c82fec7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5516_shares_and_numbers_employed_by_sector__world_bank_and_historical_sources_config.json",
-  "md5": "e4316ce62a9814aefc079685becf4639"
+  "md5": "ab0926ff50203ae67e9114f5af904fe7"
 }

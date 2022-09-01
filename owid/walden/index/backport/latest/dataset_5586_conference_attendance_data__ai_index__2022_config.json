@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5586",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:47:42.477190",
+  "date_accessed": "2022-09-01T16:16:56.020334",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "538813205b8008ac391527cff43f795e",
+  "origin_md5": "a375f8652823917c84b8ad175778b6d9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5586_conference_attendance_data__ai_index__2022_config.json",
-  "md5": "180eeaa187f28d18384a90248f2f5d3b"
+  "md5": "83b9bbec911f18f4e1f26d4baf1652f4"
 }
