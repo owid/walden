@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/960",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:15:36.470703",
+  "date_accessed": "2022-09-01T07:59:17.104494",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_960_world_regions_according_to_the_world_bank_values.feather",
-  "md5": "16a7f17b32647a7a6414dccafd785870"
+  "md5": "676ba86ff601e7c21874453440582930"
 }

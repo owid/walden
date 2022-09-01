@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3012",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:30:22.471767",
+  "date_accessed": "2022-09-01T07:32:10.030284",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "167ceb5832f6f0295a0903823817b626",
+  "origin_md5": "be964a3537f6b056b19445de50cc5660",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3012_retail__100pct_ground_beef__us_bureau_of_labor_statistics__2017__split_config.json",
-  "md5": "1d399208e87ca864720be618155e9786"
+  "md5": "80f259f734b494d6976badc350263912"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/675",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:46:28.496954",
+  "date_accessed": "2022-09-01T07:52:27.901980",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_675_forestry_area__fao__2017_values.feather",
-  "md5": "6c55dd5326a28f60c9ab8175e7c34932"
+  "md5": "633e100cc7f1588e4fdd329caebe83ea"
 }

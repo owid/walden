@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2521",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:40:30.034974",
+  "date_accessed": "2022-09-01T07:33:47.441896",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2521_water_values.feather",
-  "md5": "a9d20f76a136483a07750a6d63c6b89d"
+  "md5": "0f3b6db31a7c883c63743c6bba69b25b"
 }

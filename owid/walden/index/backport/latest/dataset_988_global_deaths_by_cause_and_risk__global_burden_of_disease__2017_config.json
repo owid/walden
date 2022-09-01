@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/988",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:30:12.545781",
+  "date_accessed": "2022-09-01T07:58:54.290573",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "20ba003fd4c9b8d7ec8dae4c66eec7f7",
+  "origin_md5": "181f5b33b64a88baa001b8d0a7f701b1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_988_global_deaths_by_cause_and_risk__global_burden_of_disease__2017_config.json",
-  "md5": "c0fb153a10fdd8852016b7392a2390db"
+  "md5": "a7fb6b805d83c6136acdbf111183652d"
 }

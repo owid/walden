@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1740",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:30:52.000643",
+  "date_accessed": "2022-09-01T07:36:47.603902",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "50ea399b1d37d418a4bed545e24f6dcc",
+  "origin_md5": "584cf495b1717471d9221ec1e898574c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1740_autism_config.json",
-  "md5": "7325ed0cc4b0cd12b46e110dff93ab34"
+  "md5": "7460f52fc2d702687f5ab450a4bc5d0f"
 }

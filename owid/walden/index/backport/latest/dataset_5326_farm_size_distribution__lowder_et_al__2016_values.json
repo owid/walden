@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5326",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:48:30.719503",
+  "date_accessed": "2022-09-01T07:47:01.257162",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5326_farm_size_distribution__lowder_et_al__2016_values.feather",
-  "md5": "9f1c7c170a8154ebff394e3a94f774ce"
+  "md5": "db4832e8dfad223e2cf973cba896950b"
 }

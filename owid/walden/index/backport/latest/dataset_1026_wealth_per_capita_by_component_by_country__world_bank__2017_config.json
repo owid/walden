@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1026",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:13:48.582650",
+  "date_accessed": "2022-09-01T07:30:10.765615",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bde9f1341a88ae1c0c6176809b2e5612",
+  "origin_md5": "2a3280864771269aa153cf3cd9c26f5d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1026_wealth_per_capita_by_component_by_country__world_bank__2017_config.json",
-  "md5": "c89b0ef3e847cf3695fdc2ecddd2c764"
+  "md5": "bd8bbb12f72b7c414968586b09d9d2f1"
 }

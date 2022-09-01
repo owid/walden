@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4915",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:07:41.281547",
+  "date_accessed": "2022-09-01T07:25:41.048145",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4915_number_of_people_without_access_to_safe_water_and_sanitation__who_wash__2019_values.feather",
-  "md5": "cbc6711357f135aade3b94d6a35c76aa"
+  "md5": "47cd2c5a7b6b618bd0f0d3ab8fa8f799"
 }

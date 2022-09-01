@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2723",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:02:34.919632",
+  "date_accessed": "2022-09-01T07:40:06.358248",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2723_ozone_hole_area_and_concentration__nasa_values.feather",
-  "md5": "1529f47f6ef7b2b174627018a3a0ce5f"
+  "md5": "9ba3a41aa082e99757a1a034085d793b"
 }

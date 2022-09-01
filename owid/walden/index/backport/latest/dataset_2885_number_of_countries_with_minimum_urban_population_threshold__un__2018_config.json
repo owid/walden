@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2885",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:32:33.422722",
+  "date_accessed": "2022-09-01T07:40:47.560087",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "7d499efdd080b5c8e0adc42112a71e47",
+  "origin_md5": "61a176e562722dbbb8c2a1a42c1a0ed0",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2885_number_of_countries_with_minimum_urban_population_threshold__un__2018_config.json",
-  "md5": "7280555b60c5751769233b12e16463f6"
+  "md5": "4e977262b9e67369e90d4c8e0972b5a6"
 }

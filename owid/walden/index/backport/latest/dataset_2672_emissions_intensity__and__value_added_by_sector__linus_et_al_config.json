@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2672",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:01:43.252870",
+  "date_accessed": "2022-09-01T07:48:12.466685",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "07fa4a8aa3b8e817685f704b1dbb462d",
+  "origin_md5": "9c27e3cee6e9075cbb06d20c63106a72",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2672_emissions_intensity__and__value_added_by_sector__linus_et_al_config.json",
-  "md5": "af4409ddff66bf3339236786c5ed3596"
+  "md5": "cb74b80c51c15d75b318d76daccc3d09"
 }

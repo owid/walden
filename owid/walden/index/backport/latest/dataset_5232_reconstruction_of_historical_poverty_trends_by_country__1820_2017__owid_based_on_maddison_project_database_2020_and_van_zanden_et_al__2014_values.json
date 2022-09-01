@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5232",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:31:29.732820",
+  "date_accessed": "2022-09-01T07:32:24.196275",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5232_reconstruction_of_historical_poverty_trends_by_country__1820_2017__owid_based_on_maddison_project_database_2020_and_van_zanden_et_al__2014_values.feather",
-  "md5": "c525c55bc3f6720799a8357f387d895d"
+  "md5": "df733d6d02120e15c2c2a640f7baa229"
 }

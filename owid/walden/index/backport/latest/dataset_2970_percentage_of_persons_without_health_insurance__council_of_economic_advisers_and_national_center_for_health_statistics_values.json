@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2970",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:42:05.835807",
+  "date_accessed": "2022-09-01T07:25:57.124049",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2970_percentage_of_persons_without_health_insurance__council_of_economic_advisers_and_national_center_for_health_statistics_values.feather",
-  "md5": "3b91f6cdffeb4cdc13449ed4e37e7922"
+  "md5": "aec6964fd6ef7f8b5a4e7b9ba577cfb8"
 }

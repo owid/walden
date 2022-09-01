@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4910",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:07:50.423728",
+  "date_accessed": "2022-09-01T07:36:28.032470",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4910_homosexuality_laws__owid_based_on_kenny__and__patel__2017_values.feather",
-  "md5": "68459cc1e269183e304ab786ec9180bd"
+  "md5": "b64a6fc337cadb6bd6a3be079d999950"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/564",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:28:41.911753",
+  "date_accessed": "2022-09-01T07:59:24.358009",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_564_world_development_indicators__poverty_values.feather",
-  "md5": "ac05e34d2839086085ce3c77235ab323"
+  "md5": "6390785dc5744b0442f910a6c2a6b088"
 }

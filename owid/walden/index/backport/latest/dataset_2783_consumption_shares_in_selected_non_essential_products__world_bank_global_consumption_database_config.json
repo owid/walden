@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2783",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:02:19.893181",
+  "date_accessed": "2022-09-01T07:43:01.584362",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c8466cde00714d1eb1d1b367e810687c",
+  "origin_md5": "1ec7e48b89ae79229e8c80030f0bf43d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2783_consumption_shares_in_selected_non_essential_products__world_bank_global_consumption_database_config.json",
-  "md5": "d0786b65909bb1c7c6393f2db449fbd3"
+  "md5": "2eb06d159282f10d8a8e5b698ebb62b7"
 }

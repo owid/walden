@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/65",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:44:22.685271",
+  "date_accessed": "2022-09-01T07:30:50.089624",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c7d0e4dc04c6b6702d3ce40372fb05dd",
+  "origin_md5": "8034c3c2b5631358d26ddca73cfb996b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_65_relative_wages_of_craftsmen_to_labourers__1200_2000__clark__2005_config.json",
-  "md5": "73ca1cf54710027c30ab0138de47c66c"
+  "md5": "0f7b089f6abffffde61015ec75fd8f18"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2890",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:56:31.874364",
+  "date_accessed": "2022-09-01T07:58:24.857612",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e48a3c7ce4d159a3f14100d4c709a07f",
+  "origin_md5": "d3fdd0e0141cada29f2eed2cafa1af0e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2890_co2_emissions_by_city__c40_cities__2018_config.json",
-  "md5": "df07216c01e6db83b80b47383773e89d"
+  "md5": "8d0186fd82c8bcb528e48eaf490cacea"
 }

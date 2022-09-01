@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/301",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:28:52.079705",
+  "date_accessed": "2022-09-01T07:36:38.574177",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_301_taxes__ictd_grd__2021_values.feather",
-  "md5": "c6f6705009f029fe6da7f73492d1ed32"
+  "md5": "12bf0f79e902d8706b49ddb774f8149e"
 }

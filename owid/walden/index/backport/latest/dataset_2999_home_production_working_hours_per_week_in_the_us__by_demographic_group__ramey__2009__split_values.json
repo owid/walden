@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2999",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:53:53.770408",
+  "date_accessed": "2022-09-01T07:48:45.015916",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2999_home_production_working_hours_per_week_in_the_us__by_demographic_group__ramey__2009__split_values.feather",
-  "md5": "9081cc976fa1a328b94e44ba00fb2c7c"
+  "md5": "fb94847949b8136509572e4ff711d59b"
 }

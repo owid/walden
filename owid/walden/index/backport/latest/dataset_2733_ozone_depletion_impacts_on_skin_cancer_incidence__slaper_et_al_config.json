@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2733",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:49:46.930801",
+  "date_accessed": "2022-09-01T07:55:01.158025",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fa17251d0472f39d2da90d6989ef1123",
+  "origin_md5": "76a4f3a9fef5ab0cdb25c13815ef87c4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2733_ozone_depletion_impacts_on_skin_cancer_incidence__slaper_et_al_config.json",
-  "md5": "164ea0cc3b02b1d05d9522e2f8d82663"
+  "md5": "9cfc09f082186205712ba3cb24343475"
 }

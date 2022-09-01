@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/242",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:03:06.981069",
+  "date_accessed": "2022-09-01T07:45:18.627978",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_242_public_expenditure_on_education_oecd__tanzi__and__schuknecht__2000_values.feather",
-  "md5": "acdce19dc847c99ec22e49be9d1c9b1b"
+  "md5": "ee2fe87862648d419e5f68c7c2ac07dd"
 }

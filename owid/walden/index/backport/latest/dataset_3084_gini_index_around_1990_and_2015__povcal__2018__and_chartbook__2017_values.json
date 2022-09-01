@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3084",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:40:13.968211",
+  "date_accessed": "2022-09-01T07:27:43.308980",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3084_gini_index_around_1990_and_2015__povcal__2018__and_chartbook__2017_values.feather",
-  "md5": "6ef02df7120c5aaf4f2e5cdff53fdacc"
+  "md5": "3a2337c1e0c54a24bbe2346c7f63148b"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5407",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:00:47.300109",
+  "date_accessed": "2022-09-01T07:28:00.659178",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "cc066765708d74bdc136bda080e14528",
+  "origin_md5": "f50fe3e8c86b27ec1a8fa097b1f2d028",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5407_biodiversity_intactness_index__historical__nhm__2021_config.json",
-  "md5": "c77735491fa601c0537e0c7d01eb8194"
+  "md5": "e0a1ca99287b7c4c285d265a5fe970ae"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5319",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:41:22.632567",
+  "date_accessed": "2022-09-01T07:30:53.885877",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5319_eat_lancet_diet_composition__grams_per_capita_per_day_values.feather",
-  "md5": "a71311fcce1c5c56a481b6fc8eeaefe3"
+  "md5": "f381c65f026cc07f04482267bf28bf64"
 }

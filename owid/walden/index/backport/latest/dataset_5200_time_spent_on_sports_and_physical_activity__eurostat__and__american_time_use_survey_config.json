@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5200",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:33:19.001633",
+  "date_accessed": "2022-09-01T07:45:20.121927",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2c22085e07e513c3f24b2da3933134e7",
+  "origin_md5": "716341cac44d0a5ccec0d496e36cc98c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5200_time_spent_on_sports_and_physical_activity__eurostat__and__american_time_use_survey_config.json",
-  "md5": "e1e3c635faa842213c1ab3d6bdf5967a"
+  "md5": "9f38e31b7b1ab02a197bea1849737f70"
 }

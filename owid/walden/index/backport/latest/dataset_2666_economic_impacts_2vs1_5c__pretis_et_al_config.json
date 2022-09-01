@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2666",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:58:53.557084",
+  "date_accessed": "2022-09-01T07:43:42.682156",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2397730208c9865268b37d7daf748584",
+  "origin_md5": "c9f177923284a90c8c333c3d8b1377f1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2666_economic_impacts_2vs1_5c__pretis_et_al_config.json",
-  "md5": "9ca1eb5f01b1f4da9b5567da23aa2891"
+  "md5": "57770f1cd01776c96d074ffb94547aaf"
 }

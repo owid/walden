@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/566",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:10:54.504729",
+  "date_accessed": "2022-09-01T07:27:34.287721",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_566_usa_consumer_price_index_goods_and_services_1997_2017__us_bureau_of_labor_statistics__2017_values.feather",
-  "md5": "8c1062607ea6e14d91fa72e129e77f74"
+  "md5": "21ba280f0614c956678f294d6af84bd8"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2873",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:51:30.891211",
+  "date_accessed": "2022-09-01T07:48:24.368016",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0cf10a6aa0e92fe2e5baf7e06cbe8d34",
+  "origin_md5": "e07b40b4445ef56001ff44830f7fb06a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2873_relative_earnings_of_adults__by_educational_attainment__education_at_a_glance_2017__oecd_indicators__2017_config.json",
-  "md5": "27922f7bfe4ab8bfe8365c8a210d09f4"
+  "md5": "5ee81f66b236e4bc46fedd95084404f2"
 }

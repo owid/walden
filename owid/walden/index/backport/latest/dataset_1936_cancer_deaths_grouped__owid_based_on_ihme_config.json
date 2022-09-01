@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1936",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:47:38.300435",
+  "date_accessed": "2022-09-01T07:53:03.846199",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b22e04c880193ee076fd6a127deb4202",
+  "origin_md5": "5c57d6445f20771d4e1a396a46ee65a4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1936_cancer_deaths_grouped__owid_based_on_ihme_config.json",
-  "md5": "fb652947b4dc491a5d1030b87ae2b982"
+  "md5": "382c4d590f86815b2785bd67904349ca"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2847",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:12:35.791909",
+  "date_accessed": "2022-09-01T07:32:33.996113",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2847_surface_ocean_plastic_by_mass__eriksen_et_al__2014_values.feather",
-  "md5": "798f81d298ed3709c67416543b4c80d5"
+  "md5": "d2f53973c88940419c7481bff7751cab"
 }

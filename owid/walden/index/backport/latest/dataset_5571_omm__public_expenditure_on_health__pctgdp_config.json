@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5571",
   "file_extension": "json",
-  "date_accessed": "2022-08-02T10:16:16.842092",
+  "date_accessed": "2022-09-01T07:37:38.635604",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4aa5ecb36470c0382cda62301e98c77b",
+  "origin_md5": "1199eef7c2241059b6c7d5a632f9f581",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5571_omm__public_expenditure_on_health__pctgdp_config.json",
-  "md5": "bfe1b563cdfb086749e7eb5f11cbe1c3"
+  "md5": "72f75ac345c231dad556cf108b832302"
 }

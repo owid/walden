@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2430",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:50:38.203376",
+  "date_accessed": "2022-09-01T07:26:20.168754",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2430_waste_production_and_management_values.feather",
-  "md5": "8f37e965fb714779c5f616c49f472f3f"
+  "md5": "34abd48d18870261dce9e9ac1705d1a4"
 }

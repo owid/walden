@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2788",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:59:08.736733",
+  "date_accessed": "2022-09-01T07:47:14.730569",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b68bc97432a61422989d08170b6411c4",
+  "origin_md5": "6741d05098c5210cb110e86f26f09d9f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2788_share_of_people_who_report_having_intentions_to_start_business__global_entrepreneurship_monitor_config.json",
-  "md5": "8e17da2952c8d3235d4e4c2fd964ecca"
+  "md5": "4f152e4f5ea0208081606d766c324242"
 }

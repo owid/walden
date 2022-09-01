@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2986",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:51:01.122441",
+  "date_accessed": "2022-09-01T07:36:39.516167",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "36940ec267365da921181605851b8f7b",
+  "origin_md5": "fc9e57f30c9e7e1db40cde921fd9889c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2986_bribe_payers_index__transparency_international__gcb__2013__split_config.json",
-  "md5": "48ade022063e1c5d3bf198b2bb88dd59"
+  "md5": "8d19d33366b63a6e6f90cbf31eb48c55"
 }

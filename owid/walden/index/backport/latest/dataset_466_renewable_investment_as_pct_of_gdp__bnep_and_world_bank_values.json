@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/466",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:15:28.752590",
+  "date_accessed": "2022-09-01T07:55:16.046613",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_466_renewable_investment_as_pct_of_gdp__bnep_and_world_bank_values.feather",
-  "md5": "3c8dd8e7ea36b0ef0fd90982192a24c7"
+  "md5": "f28461522246e70b608955b3fa547bb8"
 }

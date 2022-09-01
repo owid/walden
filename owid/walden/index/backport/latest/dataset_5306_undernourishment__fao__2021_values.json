@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5306",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:02:24.360509",
+  "date_accessed": "2022-09-01T07:29:04.147692",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5306_undernourishment__fao__2021_values.feather",
-  "md5": "56b979f4c80e6464e6f2111afc9ee397"
+  "md5": "c87eea5e36133720879ba09caa190774"
 }

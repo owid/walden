@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4153",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:53:56.181090",
+  "date_accessed": "2022-09-01T07:40:46.404676",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3678e40c83baff024fca4c3683d7bf6d",
+  "origin_md5": "c3f5998275b3d9e01c1207a39ffdbb3f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4153_attitudes_to_vaccines__wellcome_trust__2019_config.json",
-  "md5": "5db44e492db6819dd999ee36088a125f"
+  "md5": "cfd871b4479e925883af82004ddd4c4a"
 }

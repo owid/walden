@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/309",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:43:03.948071",
+  "date_accessed": "2022-09-01T07:42:02.170651",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_309_government_spending__oecd__2017_values.feather",
-  "md5": "da4e9ac42c0fab584752d5ca5c4d8b72"
+  "md5": "ef5a2d2301f4bd5c4f023de215bbc175"
 }

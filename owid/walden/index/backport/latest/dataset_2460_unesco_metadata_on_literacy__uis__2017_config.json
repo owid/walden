@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2460",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:54:32.416085",
+  "date_accessed": "2022-09-01T07:44:26.014396",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "26002e70a49959825cb1607bf8f96003",
+  "origin_md5": "ed8708dd1182ffa5a49f425b018cad43",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2460_unesco_metadata_on_literacy__uis__2017_config.json",
-  "md5": "a040d8675dd4ad30de79307951fc9465"
+  "md5": "1889e1698a483aae2662809f5d49d62f"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/569",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:59:17.520001",
+  "date_accessed": "2022-09-01T07:52:24.439617",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f8bc6da1574bc16f187e050ca335a2fe",
+  "origin_md5": "97a3899767a84ce7776cab4c485965a3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_569_oil_and_gas_employment_and_rig_count__us_bureau_of_labor_statistics__2017_config.json",
-  "md5": "45eda2f81267be49535298f762a4ed47"
+  "md5": "0f01aff14ff6c28a0568fe7d9a3d34ea"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/560",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:13:40.334508",
+  "date_accessed": "2022-09-01T07:30:26.887755",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4eeb8657c4e2d6227ce5cafd5d33cb6c",
+  "origin_md5": "bba824488d7629156c691cc95f7a0d3a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_560_world_development_indicators__social_protection__and__labor_config.json",
-  "md5": "42bc6cc7a18b4aea7f9ae333b615980a"
+  "md5": "e2a3e4a2f400c23c95be7da35e5373e0"
 }

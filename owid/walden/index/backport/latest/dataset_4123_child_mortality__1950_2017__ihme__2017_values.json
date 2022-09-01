@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4123",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:10.531398",
+  "date_accessed": "2022-09-01T07:46:20.216994",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4123_child_mortality__1950_2017__ihme__2017_values.feather",
-  "md5": "cbd4f6857696422af5a5131c16b8961d"
+  "md5": "131b377723a268e02aaaeb0f90bcc3c4"
 }

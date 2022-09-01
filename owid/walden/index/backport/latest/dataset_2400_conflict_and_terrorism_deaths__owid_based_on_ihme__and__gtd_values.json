@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2400",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:37.422565",
+  "date_accessed": "2022-09-01T07:55:59.038440",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2400_conflict_and_terrorism_deaths__owid_based_on_ihme__and__gtd_values.feather",
-  "md5": "58c5a36de7fc71f5759a0e635ad81507"
+  "md5": "cca5c7ffea18d9a6dd964702f61dfe77"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2830",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:46:17.530135",
+  "date_accessed": "2022-09-01T07:43:28.056763",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2830_distribution_of_bilateral_and_unilateral_trade_partnerships__fouquin_and_hugot__cepii_2016_values.feather",
-  "md5": "3fb838266a15999eb3ea03831960d8dd"
+  "md5": "bde4c6a350d551ac8441604e95ea63d9"
 }

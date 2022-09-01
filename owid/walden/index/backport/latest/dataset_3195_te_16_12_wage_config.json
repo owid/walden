@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3195",
   "file_extension": "json",
-  "date_accessed": "2022-06-27T07:46:37.362200",
+  "date_accessed": "2022-09-01T07:47:18.682358",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "7ec213be46360a40eaf7d186eb545acb",
+  "origin_md5": "006e953664f190c4e84ee9453864d389",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3195_te_16_12_wage_config.json",
-  "md5": "8a6a0d96ecf50a16bc10436fa7df34ab"
+  "md5": "b3d61ddd92972e5bd31340b9550ebf4e"
 }

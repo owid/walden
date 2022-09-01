@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3237",
   "file_extension": "feather",
-  "date_accessed": "2022-06-27T07:46:29.159743",
+  "date_accessed": "2022-09-01T07:39:33.736222",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3237_te_13_19b_2_consumption_values.feather",
-  "md5": "c7ec1dbecf136956fbd828dfa16f9321"
+  "md5": "4d92a5b09805cfbf96f1f137218ff885"
 }

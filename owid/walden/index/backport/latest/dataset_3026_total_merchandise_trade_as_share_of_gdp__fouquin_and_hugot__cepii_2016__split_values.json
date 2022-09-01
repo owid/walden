@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3026",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:48:09.547271",
+  "date_accessed": "2022-09-01T07:28:36.829262",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3026_total_merchandise_trade_as_share_of_gdp__fouquin_and_hugot__cepii_2016__split_values.feather",
-  "md5": "644dd3086e77538ea4302700603f8ac6"
+  "md5": "9a412416be1523726757499ced6f4d78"
 }

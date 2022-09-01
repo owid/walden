@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/88",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:54:02.237860",
+  "date_accessed": "2022-09-01T07:50:52.994699",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_88_world_bank_economy__and__growth__world_bank_edstats__2015_values.feather",
-  "md5": "b2386f0b4de7c6fe7fb9a47b75168196"
+  "md5": "ef86b35cf71b7e95fe5ad94e5536bd68"
 }

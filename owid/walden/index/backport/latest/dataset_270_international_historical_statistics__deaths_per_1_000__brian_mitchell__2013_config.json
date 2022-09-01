@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/270",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:39:26.570688",
+  "date_accessed": "2022-09-01T07:52:53.242667",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "145c41f71b073876405088e2f78c9012",
+  "origin_md5": "0de6a24bc71b4802e201dc5cef03f4aa",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_270_international_historical_statistics__deaths_per_1_000__brian_mitchell__2013_config.json",
-  "md5": "7d882623430703e76404a43f90354d26"
+  "md5": "b07bdd237c1d356d601f01ddd87065c4"
 }

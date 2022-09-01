@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5632",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:39:23.506396",
+  "date_accessed": "2022-09-01T07:56:11.858298",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5796714d8516905cf1fc1f823ca9fee3",
+  "origin_md5": "df39f90f0dd35dd2558e3f2aaf76b3fe",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5632_working_hours_by_income__bick_et_al__2018_config.json",
-  "md5": "2cfe42ae46fb6ffd6de4a064b470913a"
+  "md5": "1fc47d542c9adacf228e1099098fdad4"
 }

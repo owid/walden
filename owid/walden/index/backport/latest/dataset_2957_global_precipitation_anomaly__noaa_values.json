@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2957",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:41:10.550344",
+  "date_accessed": "2022-09-01T07:25:47.190259",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2957_global_precipitation_anomaly__noaa_values.feather",
-  "md5": "a0c5b23ea7470e5120385201cefce38c"
+  "md5": "9003ce8cac2158429db9fb3dfb2c0023"
 }

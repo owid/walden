@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5355",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:08:37.054851",
+  "date_accessed": "2022-09-01T07:38:11.065559",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5355_global_fish_catch_by_end_use__fishstat_via_seaaroundus_values.feather",
-  "md5": "cbc64877f2acb57ce3ef5a0db19e9332"
+  "md5": "269671164d8cd3f1f12188d766767b04"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1941",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:56:24.870051",
+  "date_accessed": "2022-09-01T07:43:23.304873",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1941_deaths_from_smallpox_per_million_population__edwardes__1902_values.feather",
-  "md5": "643e3c351ea40c3dcc2db988bdb43d0a"
+  "md5": "f2c1a92a2399368fdd667959790c344e"
 }

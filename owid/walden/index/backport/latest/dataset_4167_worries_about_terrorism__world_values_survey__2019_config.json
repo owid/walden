@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4167",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:55:59.683775",
+  "date_accessed": "2022-09-01T07:29:08.547590",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "51a05f53fbdabb9f4c6716642988a3d0",
+  "origin_md5": "e06ad9654c3533f616bb637c98a1af3c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4167_worries_about_terrorism__world_values_survey__2019_config.json",
-  "md5": "48326f94674af7e03323791e2e951770"
+  "md5": "4c4b26897b3e52de60e414aeb9e1c831"
 }

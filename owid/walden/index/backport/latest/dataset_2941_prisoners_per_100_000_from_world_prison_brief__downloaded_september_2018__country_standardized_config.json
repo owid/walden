@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2941",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:38:29.880601",
+  "date_accessed": "2022-09-01T07:39:59.252212",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3c001ee82a55ca4f13fae37b0f6fc40f",
+  "origin_md5": "86c0d582b6b4a05a0549f19bfa0a74e8",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2941_prisoners_per_100_000_from_world_prison_brief__downloaded_september_2018__country_standardized_config.json",
-  "md5": "dfcb0a48e8f1184dc7e3264c9b1c8108"
+  "md5": "b6565296f261f6ba520fe118eea231e4"
 }

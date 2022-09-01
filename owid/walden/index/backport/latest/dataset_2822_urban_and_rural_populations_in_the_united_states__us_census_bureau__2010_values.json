@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2822",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:36:53.426911",
+  "date_accessed": "2022-09-01T07:59:19.246701",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2822_urban_and_rural_populations_in_the_united_states__us_census_bureau__2010_values.feather",
-  "md5": "c89f345ed30c936bea623aa01056e65f"
+  "md5": "82222644f0e7bd0c50e934251ee51bb5"
 }

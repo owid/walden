@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/590",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:47.753502",
+  "date_accessed": "2022-09-01T07:42:43.245529",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_590_prevalence_of_vitamin_a_deficiency_in_children__who__2017_values.feather",
-  "md5": "6a7a2f2e7d5e950a4b8245e0ec8d2a56"
+  "md5": "c4312006154f6288411b3bc251315f82"
 }

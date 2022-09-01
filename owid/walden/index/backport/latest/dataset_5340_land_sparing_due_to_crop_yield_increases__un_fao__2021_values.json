@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5340",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:54:15.566736",
+  "date_accessed": "2022-09-01T07:27:57.442458",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5340_land_sparing_due_to_crop_yield_increases__un_fao__2021_values.feather",
-  "md5": "dc6175232a56e5356691f06037bf9465"
+  "md5": "799550f33ad69ae2db94cb646d705567"
 }

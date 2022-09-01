@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/426",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:46:13.176225",
+  "date_accessed": "2022-09-01T07:43:07.658490",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "75847c298a17d6c2dfcb44310068cd8c",
+  "origin_md5": "0f28a30f5ef3e7ddb4417b70fad1b689",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_426_weather_fatality_rates_in_the_us__owid_based_on_noaa_and_lopez_holle_and_population_data_config.json",
-  "md5": "9a070cdfed22e90ddc99e4b21efe3dc5"
+  "md5": "84f98046dbb05f515487a444485bc36c"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5619",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:56:25.375681",
+  "date_accessed": "2022-09-01T07:32:59.867502",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f327fd3421adceb266b6600287f77fb2",
+  "origin_md5": "88407eaf7f6a0a4a6cd27ea151e2a01b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5619_oil_spills__itopf__2021_config.json",
-  "md5": "ab48de1c92acf3630efbe7110d0bfeda"
+  "md5": "87ac58d9f17bee25318a6ea86efc24e2"
 }

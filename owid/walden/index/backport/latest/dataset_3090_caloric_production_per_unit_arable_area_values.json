@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3090",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:34:28.047165",
+  "date_accessed": "2022-09-01T07:56:05.429643",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3090_caloric_production_per_unit_arable_area_values.feather",
-  "md5": "71b58002fe0a38722147b15a884efdac"
+  "md5": "832c894383f94d101fa3263d4f7a87be"
 }

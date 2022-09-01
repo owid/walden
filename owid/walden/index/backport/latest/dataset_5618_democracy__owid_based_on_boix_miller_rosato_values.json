@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5618",
   "file_extension": "feather",
-  "date_accessed": "2022-06-21T18:00:53.473574",
+  "date_accessed": "2022-09-01T07:26:37.897892",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5618_democracy__owid_based_on_boix_miller_rosato_values.feather",
-  "md5": "572704e4677c6503494903172c8a0d8f"
+  "md5": "b9ee6820aeb1ea29c7f2e4e917190a70"
 }

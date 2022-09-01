@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1861",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:36:21.845997",
+  "date_accessed": "2022-09-01T07:33:44.914430",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1861_earnings_and_labour_cost_values.feather",
-  "md5": "606347d30efcba0b0c3061018f3e1ab9"
+  "md5": "eb73ed0b103b031b6c95d854ce4a28b4"
 }

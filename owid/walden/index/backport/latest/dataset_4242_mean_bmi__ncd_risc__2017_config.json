@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4242",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:09:23.664986",
+  "date_accessed": "2022-09-01T07:46:11.103766",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "40abaf592ac6bf3dfac02ca740004db3",
+  "origin_md5": "c97274930c00541e28e875d45c3d6da2",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4242_mean_bmi__ncd_risc__2017_config.json",
-  "md5": "6a5ddc6835e404945aea1a701ac34935"
+  "md5": "37dde175b0ba64b6fe3e88be52ae48fd"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2971",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:46:16.618016",
+  "date_accessed": "2022-09-01T07:47:55.340019",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2971_interpersonal_trust__general_social_survey__gss_values.feather",
-  "md5": "d124588c47071cc7334b64b3466c2eaa"
+  "md5": "3e72862f9a1495a10467e2a673a8bdc3"
 }

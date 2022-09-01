@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5423",
   "file_extension": "feather",
-  "date_accessed": "2022-06-27T07:47:46.838829",
+  "date_accessed": "2022-09-01T07:48:02.172810",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5423_randomized_controlled_trials_published_in_high_impact_medical_journals_values.feather",
-  "md5": "788ad12e17c4453bcc07c881fbae7c39"
+  "md5": "92ef0c1f107af47279bd202eba5393af"
 }

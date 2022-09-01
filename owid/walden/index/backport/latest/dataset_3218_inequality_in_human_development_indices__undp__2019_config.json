@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3218",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:02:54.449454",
+  "date_accessed": "2022-09-01T07:43:35.052336",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0263bb61744e2761ad05245533dde88b",
+  "origin_md5": "eccd9c6b7bfe82fd33556041bf2fcfdd",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3218_inequality_in_human_development_indices__undp__2019_config.json",
-  "md5": "ca255e9b9431f175510b6c52abf8904b"
+  "md5": "18610df04d1eaa980a1d65b9dbf088aa"
 }

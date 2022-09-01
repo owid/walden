@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2716",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:11:31.883127",
+  "date_accessed": "2022-09-01T07:27:46.899506",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "cd5ef2d7d8e16d996d27698ccff65fd6",
+  "origin_md5": "0a289a581dc77c92bcb1d58a2ae637bb",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2716_long_term_productivity__bergeaud__cette__and_lecat__2016_config.json",
-  "md5": "508d6474228ef7a9235a6e9721b70ca2"
+  "md5": "1984231d0965be8bcc5b7bc243a86003"
 }

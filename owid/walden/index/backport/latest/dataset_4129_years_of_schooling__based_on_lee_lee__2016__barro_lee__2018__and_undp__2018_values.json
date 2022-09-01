@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4129",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:42:56.672137",
+  "date_accessed": "2022-09-01T07:48:21.549876",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4129_years_of_schooling__based_on_lee_lee__2016__barro_lee__2018__and_undp__2018_values.feather",
-  "md5": "64ad20bf568fc73d6f76577ea0d0ac24"
+  "md5": "19545957b001c3c94b34a16e09e4f514"
 }

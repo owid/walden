@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/243",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:34:14.523975",
+  "date_accessed": "2022-09-01T07:56:09.248464",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_243_education_expenditure_us_1949_2013__nces__2014_values.feather",
-  "md5": "d79528924243dfaba90b3dcbad01bdaa"
+  "md5": "b86288fc20365bae067073a5955ca62c"
 }

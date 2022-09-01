@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3075",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:59:13.546436",
+  "date_accessed": "2022-09-01T07:54:52.539807",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3075_year_of_last_rinderpest_case__oie__2018_values.feather",
-  "md5": "ec50066b2b201f6be2cbe1fe959d6aa5"
+  "md5": "924157850f9c5a97e778b519206bc226"
 }

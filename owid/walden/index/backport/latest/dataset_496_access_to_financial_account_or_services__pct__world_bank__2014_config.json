@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/496",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:33:05.395039",
+  "date_accessed": "2022-09-01T07:52:20.397976",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bb6001b4259031b8d6386d99eb66eaaf",
+  "origin_md5": "e4f2aaa87905a1807fd92a61d961b48b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_496_access_to_financial_account_or_services__pct__world_bank__2014_config.json",
-  "md5": "4f848de41db85adf50bc0fff50c098e5"
+  "md5": "293e066cf2be5510672d28b334441b6b"
 }

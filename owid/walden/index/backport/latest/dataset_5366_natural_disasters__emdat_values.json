@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5366",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:33:23.791287",
+  "date_accessed": "2022-09-01T07:50:51.213334",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5366_natural_disasters__emdat_values.feather",
-  "md5": "1879ccdce388c533bd3ab0f972b29d6f"
+  "md5": "25f04b4a9ae7a2434334bd96b2b0fd1b"
 }

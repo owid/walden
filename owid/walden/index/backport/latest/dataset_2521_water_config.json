@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2521",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:40:28.353188",
+  "date_accessed": "2022-09-01T07:33:45.621833",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fc82c73e441f02441c57557b40242be0",
+  "origin_md5": "105e96b21a8d2f3b978edb6a25dae152",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2521_water_config.json",
-  "md5": "d9adfed03dfcbe6e0f09552fa293e141"
+  "md5": "1c401cdb8822df1c426d0d7f6047f1ee"
 }

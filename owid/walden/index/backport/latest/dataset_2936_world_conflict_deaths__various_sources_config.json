@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2936",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:39:31.506525",
+  "date_accessed": "2022-09-01T07:56:16.053900",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ba4882c4bc3d9ea5c8c9e264fb0c7a86",
+  "origin_md5": "e9e598991cfaaf17588e877eb668555c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2936_world_conflict_deaths__various_sources_config.json",
-  "md5": "45a40555b03eda98ee619365d2f5d306"
+  "md5": "5cb91058f4f12b3d7ef0d073a5c501dd"
 }

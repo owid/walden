@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5508",
   "file_extension": "json",
-  "date_accessed": "2022-06-27T07:47:47.342698",
+  "date_accessed": "2022-09-01T07:48:28.292552",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "91ebbcde15f600d5daa4a3cd793be0d8",
+  "origin_md5": "9d4e748ca6aa00711c9be87c2882d23b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5508_indian_child_mortality_rate_by_gender_config.json",
-  "md5": "b0ea66f5f9fc12216cc049211b12da1b"
+  "md5": "56bac4ffb9cc666b81f1a7d04f30c42a"
 }

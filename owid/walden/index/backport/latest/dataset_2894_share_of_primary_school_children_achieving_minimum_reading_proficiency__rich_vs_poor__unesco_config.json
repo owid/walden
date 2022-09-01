@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2894",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:01:32.070689",
+  "date_accessed": "2022-09-01T07:48:27.240566",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5c32bc1cb48fc36a4f179838278d04f3",
+  "origin_md5": "6c55ed1cc347d20b5bd84844581d62a8",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2894_share_of_primary_school_children_achieving_minimum_reading_proficiency__rich_vs_poor__unesco_config.json",
-  "md5": "4b96eb0fa11965e62322f733554929cc"
+  "md5": "a7961594d7a127b377bac3dd5a5b6637"
 }

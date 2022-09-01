@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1891",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:38:26.048502",
+  "date_accessed": "2022-09-01T07:28:50.756829",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3a90bf9c4b9e4f3f0f44baec2a29be9b",
+  "origin_md5": "2307772205805c5b07610b52f8a9f95e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1891_fao_undernourishment_comparison_2010_vs__2012_config.json",
-  "md5": "64869934bbbf544cf34c0b7a0f92a111"
+  "md5": "a1c9b76f54351a10424a237c01d9b43f"
 }

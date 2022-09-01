@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/870",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:01:36.020313",
+  "date_accessed": "2022-09-01T07:59:03.950187",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5ea5325073e93a1b1282e006e6141cae",
+  "origin_md5": "b8bff1a56d2b20446d05ae1a4026f9e6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_870_clio_infra__demography_config.json",
-  "md5": "d72b05652c69886c696d1b4503f89c01"
+  "md5": "790f0e2c3c2b10f5c9680293bfd486ba"
 }

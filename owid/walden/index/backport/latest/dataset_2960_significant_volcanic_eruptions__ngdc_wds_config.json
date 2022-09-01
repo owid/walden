@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2960",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:08:47.645137",
+  "date_accessed": "2022-09-01T07:32:47.242724",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b5f8624f3e7088f37285508eaf0075e6",
+  "origin_md5": "c4c66bcf32c4e8fc797065337c3dc394",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2960_significant_volcanic_eruptions__ngdc_wds_config.json",
-  "md5": "8756fdae2df6893db655fecb67629f77"
+  "md5": "677d34808c9299a48b0e37e53488c293"
 }

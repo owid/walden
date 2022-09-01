@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3239",
   "file_extension": "feather",
-  "date_accessed": "2022-06-27T07:44:23.423586",
+  "date_accessed": "2022-09-01T07:26:17.767442",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3239_te_15_1_rulingparty_values.feather",
-  "md5": "32cb664b06d75fb2ebdd8c578b72b515"
+  "md5": "7e223a1c55d8792ea91065b3c3ec697a"
 }

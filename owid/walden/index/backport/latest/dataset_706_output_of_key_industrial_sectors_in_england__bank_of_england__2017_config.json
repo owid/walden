@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/706",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:08:58.427541",
+  "date_accessed": "2022-09-01T07:49:13.732023",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e86f774dbf4171c9c82eb2fa29e0c0c4",
+  "origin_md5": "21c0463df4603c87594c82058705b075",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_706_output_of_key_industrial_sectors_in_england__bank_of_england__2017_config.json",
-  "md5": "eeabac28f50ed1d02f8b6967049b5dee"
+  "md5": "fba40c8436393dd2cc96994159a5f3c9"
 }

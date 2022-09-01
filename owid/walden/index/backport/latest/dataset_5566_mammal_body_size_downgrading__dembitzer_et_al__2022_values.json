@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5566",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:51:28.406712",
+  "date_accessed": "2022-09-01T07:59:05.802300",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5566_mammal_body_size_downgrading__dembitzer_et_al__2022_values.feather",
-  "md5": "e3714b5c610f6a5601abd4706805dadb"
+  "md5": "14e2e0ed9ab1364a0c9eebcd54b0a4cb"
 }

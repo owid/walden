@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2700",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:26.415407",
+  "date_accessed": "2022-09-01T07:32:04.795409",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2700_drinking_habits_in_great_britain__uk_ons_values.feather",
-  "md5": "5a5330cc9c45546c5fd0bd617347bb52"
+  "md5": "91752cbacdde4b42c064e9d854fc40fd"
 }

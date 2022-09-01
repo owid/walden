@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5324",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:09:48.298220",
+  "date_accessed": "2022-09-01T07:59:20.123236",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5324_global_agricultural_production_by_farm_size__riccardi_et_al__2018_values.feather",
-  "md5": "cfd056ce94d7031999a069cfe7d15752"
+  "md5": "8a9a669e27c3d5fe7936a3df63080c9f"
 }

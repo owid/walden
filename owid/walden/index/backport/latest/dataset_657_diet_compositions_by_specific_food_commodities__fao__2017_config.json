@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/657",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:46:29.159194",
+  "date_accessed": "2022-09-01T07:42:53.424857",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4d9eb0d2837e07f298c9e334fbe42338",
+  "origin_md5": "bb01eda6caa2d4a1feb0a0351a26d43e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_657_diet_compositions_by_specific_food_commodities__fao__2017_config.json",
-  "md5": "734bf407abd9bd7ae96253bcbb50bf5e"
+  "md5": "93bc14b78bd1d217222b85e8be0c3ffb"
 }

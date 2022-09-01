@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3270",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:15:22.539298",
+  "date_accessed": "2022-09-01T07:52:29.341860",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "d90eee015a04bc198feb0c273c010c8b",
+  "origin_md5": "3aa3abe08de7a1d71b34eb9c16550583",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3270_share_of_women_in_top_income_groups__atkinson__casarico__and__voitchovsky__2018_config.json",
-  "md5": "3c7f7749449bbe21bf50d264c490599b"
+  "md5": "6f0bfac6f49d7f8ddce65680554d4ba3"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2666",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:58:54.030461",
+  "date_accessed": "2022-09-01T07:43:43.178696",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2666_economic_impacts_2vs1_5c__pretis_et_al_values.feather",
-  "md5": "14a298a60472c84ded1de33015ca6411"
+  "md5": "0b987ff09fb72df70c9d4520aea6b900"
 }

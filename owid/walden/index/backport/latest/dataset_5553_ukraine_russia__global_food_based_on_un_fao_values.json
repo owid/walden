@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5553",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:54:24.827701",
+  "date_accessed": "2022-09-01T07:32:44.786782",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5553_ukraine_russia__global_food_based_on_un_fao_values.feather",
-  "md5": "6d11d1796cc6c54da7562b0c4ee3317f"
+  "md5": "974e807ba8bb41572eaab6984a80570b"
 }

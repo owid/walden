@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2509",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:03:28.387229",
+  "date_accessed": "2022-09-01T07:59:17.614288",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "95a44ca0a5b057b4ce5d2ab09d1b7ef3",
+  "origin_md5": "f7ec99170f8c42c70322d7bf2bf0eb22",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2509_road_deaths_and_injuries__oecd_config.json",
-  "md5": "2dfeeb13c7bbee089d9cd0ba03bd9555"
+  "md5": "59bb3922ab5ceca8a1b6a72aa0d74a3b"
 }

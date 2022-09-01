@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2659",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:41:35.966219",
+  "date_accessed": "2022-09-01T07:40:28.162791",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2659_food_expenditure_in_the_usa__usda_values.feather",
-  "md5": "e87d5f59aad618b8f512648cd7198b12"
+  "md5": "1ea9ff29ea3d8190aefc856552dd11e5"
 }

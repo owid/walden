@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5256",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:54:30.291053",
+  "date_accessed": "2022-09-01T07:47:15.670485",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "8db5aa96ca1ded08ffde43f48b3fd7a5",
+  "origin_md5": "e9db90aaa36b6d0391fa9512e88e545b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5256_reconstruction_of_historical_global_extreme_poverty_rates__1820_2017__roser_and_hasell__2021__and_world_bank__2020_config.json",
-  "md5": "100a77d76ee4cd3226c742dc2529f52a"
+  "md5": "8914ee39abdab22389611e38151b7277"
 }

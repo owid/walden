@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2791",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:48:04.383176",
+  "date_accessed": "2022-09-01T07:35:08.775656",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "dad761f0e71d6c1460bab7853642dc8e",
+  "origin_md5": "a491d21468ef9b9c6a19421e9f96cd37",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2791_smallpox_cases_by_country_1920_1977_config.json",
-  "md5": "44fa71a59d6e9a7443fa482e9bb56fc0"
+  "md5": "fca0d9d6e6d8e3bebaee08632e79a9b8"
 }

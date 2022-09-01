@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3225",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:28:38.846341",
+  "date_accessed": "2022-09-01T07:34:34.921067",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "815dbcae2eafce9d4c67d5fcd5c5538f",
+  "origin_md5": "ca9ea02ee339f37b9c669ac87d4e6ced",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3225_public_and_private_education_expenditure__unesco__2019_config.json",
-  "md5": "32a8cd3f55b1a44b1cdad242564347c9"
+  "md5": "ef8b083aa1222f41cbfd1113f38100cf"
 }

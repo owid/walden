@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1836",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:01:40.291765",
+  "date_accessed": "2022-09-01T07:30:52.308573",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fb079abcd95e0845169557a88bf3575b",
+  "origin_md5": "1c437fe65a6c3306e40a04dc5d4d7617",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1836_us_measles_cases_and_deaths__owid__2017_config.json",
-  "md5": "b24ce3573afd4f6c12247ad08f0dc6e9"
+  "md5": "9361fa990f8d78fbec7079e8b5234d98"
 }

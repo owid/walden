@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5496",
   "file_extension": "json",
-  "date_accessed": "2022-06-16T09:20:11.644513",
+  "date_accessed": "2022-09-01T07:49:47.738028",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4fb41cf63653708dc47f1d7c6f0927d7",
+  "origin_md5": "f1a569538665ae56166eeb9b14748832",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5496_reported_guinea_worm_cases__who__2021_config.json",
-  "md5": "145991ba327e374925bf942e4e721401"
+  "md5": "abed93904371953e0b0bc508b88f44c4"
 }

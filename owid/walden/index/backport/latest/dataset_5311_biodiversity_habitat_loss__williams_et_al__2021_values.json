@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5311",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:31.305310",
+  "date_accessed": "2022-09-01T07:48:59.831392",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5311_biodiversity_habitat_loss__williams_et_al__2021_values.feather",
-  "md5": "11f4b85e05b1d450def549985b1574d6"
+  "md5": "47bc256ffdf103af7ebbe38e0efaaf72"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4142",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:39:38.424962",
+  "date_accessed": "2022-09-01T07:58:36.594721",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "7cbaa28e95be415b8dbac8b6678d116a",
+  "origin_md5": "e124d165b93c529c367d56b686eecabf",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4142_child_mortality_rates__complete_gapminder__v10__2017_config.json",
-  "md5": "d59192b60a96ac477dcb2c840fc47c66"
+  "md5": "2c0449b01e3bb968bec2e52429e7af5c"
 }

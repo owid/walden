@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2703",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:56:17.446572",
+  "date_accessed": "2022-09-01T07:25:41.640741",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5323aee17a55cb549817437e05574921",
+  "origin_md5": "c337cc3fbc0c1848b6297af93d6cd4ac",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2703_estimated_historical_literacy_rates__buringh_and_van_zanden__2009_config.json",
-  "md5": "3928a7ad5f82603b7b971e42c0226d43"
+  "md5": "4d468e761342856cd13114bf5fee3aec"
 }

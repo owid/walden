@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2780",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:54:58.743801",
+  "date_accessed": "2022-09-01T07:32:49.968343",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b832321f35d847f737168bfd90dba6bc",
+  "origin_md5": "08f186116d5b46106558e38dcb3d5dab",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2780_historical_index_of_human_development__prados_de_la_escosura_config.json",
-  "md5": "8add7c2aeb9a89f6bacb957683751d34"
+  "md5": "3ed844e881302e4a34a212b7dcb6a8dd"
 }

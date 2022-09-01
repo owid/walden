@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5059",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:53.745658",
+  "date_accessed": "2022-09-01T07:25:54.789344",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5059_food_supply__fao__2020_values.feather",
-  "md5": "c8bbe98e120082d37bdb2245e18d76f8"
+  "md5": "b97e065462c6dc87986bf55946491e07"
 }

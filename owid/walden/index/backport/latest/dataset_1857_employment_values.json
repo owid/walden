@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1857",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:02:08.589203",
+  "date_accessed": "2022-09-01T07:46:37.244026",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1857_employment_values.feather",
-  "md5": "39f27475e726399b9938d25eddb479e3"
+  "md5": "973b60cd25762fdeb711db34466ee7af"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/272",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:34.445878",
+  "date_accessed": "2022-09-01T07:29:17.944843",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_272_trust__world_value_survey_values.feather",
-  "md5": "256ac75f7fb65d13e25020605e98c9ea"
+  "md5": "41d2bd58d0db830e6e20e5617ee7c9ee"
 }

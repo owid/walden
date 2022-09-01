@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5404",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:02:20.852151",
+  "date_accessed": "2022-09-01T07:48:08.423065",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c35ee220202f3be4880942032e10182d",
+  "origin_md5": "186d42905b87144c06d240640921ff83",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5404_lead_regulation_on_paint__who__2021_config.json",
-  "md5": "02124f076013068d9d5409f89d7e8d1f"
+  "md5": "19f415cb916cc7093c37575a3ba0d2cf"
 }

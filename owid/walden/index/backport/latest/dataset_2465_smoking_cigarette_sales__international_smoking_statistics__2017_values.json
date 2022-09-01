@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2465",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:38:08.409043",
+  "date_accessed": "2022-09-01T07:36:40.874635",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2465_smoking_cigarette_sales__international_smoking_statistics__2017_values.feather",
-  "md5": "9926c981d548afeedf7bcb01a930d9ca"
+  "md5": "314198c1e1f19f1e01b10d617df658aa"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5249",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:09:53.213760",
+  "date_accessed": "2022-09-01T07:40:20.301623",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5249_agricultural_land_use_per_capita__fao__2021_values.feather",
-  "md5": "960d70202c27d4e488a48b3194048d70"
+  "md5": "989192d0e25390cf19f66ffc8800d4a0"
 }

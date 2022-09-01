@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3030",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:40:09.763192",
+  "date_accessed": "2022-09-01T07:29:22.994333",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3030_male_literacy_rate__cressy__1980__split_values.feather",
-  "md5": "e9d012ad36031a9521e98aa085b822ff"
+  "md5": "3451f38ff513ff5f73cb0e264fd8f7c8"
 }

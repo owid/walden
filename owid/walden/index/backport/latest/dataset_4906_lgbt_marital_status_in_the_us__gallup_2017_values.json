@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4906",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:15:10.024471",
+  "date_accessed": "2022-09-01T07:53:59.772048",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4906_lgbt_marital_status_in_the_us__gallup_2017_values.feather",
-  "md5": "6008dfe139f4b2991e26899a6a3f1044"
+  "md5": "3bd4f20d7c1a60164067e786e013aa62"
 }

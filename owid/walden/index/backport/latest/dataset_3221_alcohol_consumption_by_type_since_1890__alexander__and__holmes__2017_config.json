@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3221",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:50:11.822740",
+  "date_accessed": "2022-09-01T07:41:59.707123",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "7f3c7f73c8d04c71d3d3bf941011a40e",
+  "origin_md5": "e7970cad3fc474ec1161cbf64d526fb5",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3221_alcohol_consumption_by_type_since_1890__alexander__and__holmes__2017_config.json",
-  "md5": "a70d4ac79e4d65cffc9f1806933aecf7"
+  "md5": "e5414f7f6fb3773ba66d4e54d31d1118"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5175",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:35:32.584093",
+  "date_accessed": "2022-09-01T07:55:22.134489",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5175_living_planet_index__wwf__2020_values.feather",
-  "md5": "084548800ded881f081c477d0256a773"
+  "md5": "3e440c929912ae38274979b59f8992b5"
 }

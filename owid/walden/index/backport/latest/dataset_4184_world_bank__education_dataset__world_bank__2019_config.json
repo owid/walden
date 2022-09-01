@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4184",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:36:55.838505",
+  "date_accessed": "2022-09-01T07:28:42.416722",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9131ca47590278681592cf89a521b339",
+  "origin_md5": "efd7c4c35a371f1caca8d3ba7988c847",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4184_world_bank__education_dataset__world_bank__2019_config.json",
-  "md5": "840cdc3184fbb525c9a8c486d016d897"
+  "md5": "28a88bdb9c4f8199c72a0935349df4da"
 }

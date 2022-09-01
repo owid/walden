@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5258",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:44:32.849398",
+  "date_accessed": "2022-09-01T07:37:25.883283",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "df83fbb2475c35147c42ab14946ac9ef",
+  "origin_md5": "cfbd55830e8008baedd46a28953c8687",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5258_pale_factors_of_food_production__hong_et_al__2021_config.json",
-  "md5": "6d60ff748ab36601934ea756329338da"
+  "md5": "02a92c1bd0853a41ab454a6fa88159e3"
 }

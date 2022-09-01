@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3020",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:02:28.037490",
+  "date_accessed": "2022-09-01T07:30:45.730156",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "57f93f1239e48cc27a356fe342275f23",
+  "origin_md5": "932bedaad60888de5ac9cecbda07e03a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3020_total_merchandise_trade_as_a_share_of_gdp__world_bank__wdi__2016__split_config.json",
-  "md5": "3e25208627056118b5146cbf3afca2d2"
+  "md5": "61f20ec7f4c251b9f24d23eb73130d5c"
 }

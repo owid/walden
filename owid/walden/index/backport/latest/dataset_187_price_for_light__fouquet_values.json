@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/187",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:54:07.188201",
+  "date_accessed": "2022-09-01T07:50:56.073337",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_187_price_for_light__fouquet_values.feather",
-  "md5": "693ec6f0c42540350373fbf7e76e5cb2"
+  "md5": "8bf9c858fac3a63280e7a203a74a2dff"
 }

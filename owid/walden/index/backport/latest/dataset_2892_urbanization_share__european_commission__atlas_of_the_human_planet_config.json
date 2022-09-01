@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2892",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:03:22.066256",
+  "date_accessed": "2022-09-01T07:53:07.207564",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4c29ccd19c3f46acdfbbb14f1d267982",
+  "origin_md5": "58fe4901ba08e4e7d347cce44aef60ee",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2892_urbanization_share__european_commission__atlas_of_the_human_planet_config.json",
-  "md5": "7c167dc3a37e6a493535a7aa866d9a6d"
+  "md5": "2c362c1c977b50aa2f9a6f0ed3f95337"
 }

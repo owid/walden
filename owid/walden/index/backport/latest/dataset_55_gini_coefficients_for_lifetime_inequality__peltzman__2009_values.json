@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/55",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:03:03.420166",
+  "date_accessed": "2022-09-01T07:26:28.274314",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_55_gini_coefficients_for_lifetime_inequality__peltzman__2009_values.feather",
-  "md5": "ff5d012669869d482d8c9cd470c45e8a"
+  "md5": "89ae57d3165f3af8d3cc5076cf14b753"
 }

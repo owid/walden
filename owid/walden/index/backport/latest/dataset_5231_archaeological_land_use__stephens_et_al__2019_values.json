@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5231",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:44:07.210933",
+  "date_accessed": "2022-09-01T07:49:16.314960",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5231_archaeological_land_use__stephens_et_al__2019_values.feather",
-  "md5": "dcd95ac64959004abc1fe79d59533be9"
+  "md5": "b899ef021695d5686ebd38dffdd92601"
 }

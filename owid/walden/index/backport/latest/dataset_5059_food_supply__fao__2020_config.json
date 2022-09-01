@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5059",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:13:51.788943",
+  "date_accessed": "2022-09-01T07:25:52.968967",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "525294b507a7b2562bbd82db793b182d",
+  "origin_md5": "f44563f026b9f7cce4f166b02416ada1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5059_food_supply__fao__2020_config.json",
-  "md5": "22b6f35d9c97a3d37b9565548197e923"
+  "md5": "2ade0d30629b092133a80933565bcd2d"
 }

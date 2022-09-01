@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1846",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:42:09.778504",
+  "date_accessed": "2022-09-01T07:37:36.091472",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1846_teacher_absenteeism__bold_et_al__2017_values.feather",
-  "md5": "25882b22737e1d2c9c1b026ffeecbee7"
+  "md5": "265eaec1c716157bf74670b7d00dae96"
 }

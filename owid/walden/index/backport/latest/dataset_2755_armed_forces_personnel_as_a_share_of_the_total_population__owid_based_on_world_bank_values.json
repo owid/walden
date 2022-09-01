@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2755",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:08.615163",
+  "date_accessed": "2022-09-01T07:30:24.063918",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2755_armed_forces_personnel_as_a_share_of_the_total_population__owid_based_on_world_bank_values.feather",
-  "md5": "dc7b70acab0bf79668aba7a2635cf538"
+  "md5": "3bca9cbb91fa1f2040a7d2111c8a75f3"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5622",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:33:10.026102",
+  "date_accessed": "2022-09-01T07:47:17.169718",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5622_yougov__dietary_choices_of_brits_values.feather",
-  "md5": "922b2c72365baa22d89fff46d57f39bd"
+  "md5": "f69ccda96a2a5fb2c02ac41ca1e824a7"
 }

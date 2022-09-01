@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1886",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:41:55.202592",
+  "date_accessed": "2022-09-01T07:52:28.832555",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1886_minimum_reading_and_maths_proficiency__gem_report__2017_8_values.feather",
-  "md5": "2a88db68f5d10a73416a4c7e161c4a3f"
+  "md5": "5fb2d58817a2c98b67176fcf06396054"
 }

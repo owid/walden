@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2719",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:34:19.299241",
+  "date_accessed": "2022-09-01T07:56:15.527803",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2719_pieces_of_mail_and_number_of_post_offices__united_states_postal_service__2018_values.feather",
-  "md5": "29815cdbd3c0bc5d55c59713380be58b"
+  "md5": "4ca556b685960b2ece15bb3e365917d7"
 }

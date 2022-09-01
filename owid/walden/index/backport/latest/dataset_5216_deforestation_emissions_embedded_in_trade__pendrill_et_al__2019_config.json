@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5216",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:19:26.269970",
+  "date_accessed": "2022-09-01T07:46:18.664240",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e42463bb20caff56b59d2e171d8dccbc",
+  "origin_md5": "dcb872616ca118ceed81e991d72d5a18",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5216_deforestation_emissions_embedded_in_trade__pendrill_et_al__2019_config.json",
-  "md5": "a8213fd5750c15812fdc8501b272894c"
+  "md5": "9a779c5ba5a6721203366b70dbd81b53"
 }

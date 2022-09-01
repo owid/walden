@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5170",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:41:29.689723",
+  "date_accessed": "2022-09-01T07:49:49.301813",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5170_vaccination_confidence__figueiredo_et_al__2020_values.feather",
-  "md5": "6e0833d4430069f585ad29a41fb14dcc"
+  "md5": "d855212d2a9ec7b3e9d6abbfd8f4d3fd"
 }

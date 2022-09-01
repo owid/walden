@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2851",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:13:57.360595",
+  "date_accessed": "2022-09-01T07:31:31.560768",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "70a3ae0188ecd5c9d993c487db8c0cdf",
+  "origin_md5": "ccaed2a84201c73b42363e15960c539e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2851_plastic_imports_by_china__and__impact_of_ban__brooks_et_al__2018_config.json",
-  "md5": "5969dc07e739a02fb98d8ad886b7fd7c"
+  "md5": "3ede34d4bdbb68137de8cc1cb08a1560"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/247",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:03:37.060980",
+  "date_accessed": "2022-09-01T07:46:07.018835",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "73fff5f9d45ccaff51441eef4edc545e",
+  "origin_md5": "73f34786038743f419be297531b22983",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_247_learning_costs__j__doyne_farmer_and_francois_lafond__2016_config.json",
-  "md5": "1e82e9324d5c530dc57c99598e091782"
+  "md5": "6dad3b797afbeb2fb36151c1df2c44d0"
 }

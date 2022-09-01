@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5225",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:50:47.221033",
+  "date_accessed": "2022-09-01T07:48:23.647100",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5225_deforestation_in_trade__pendrill_values.feather",
-  "md5": "c7e25596d2f336a000da2467da014b7d"
+  "md5": "cae7aed2b1a9da7548ffa09288851353"
 }

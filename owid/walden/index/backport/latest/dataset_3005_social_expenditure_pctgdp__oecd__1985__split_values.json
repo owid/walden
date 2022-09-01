@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3005",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:12:02.645600",
+  "date_accessed": "2022-09-01T07:41:57.201676",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3005_social_expenditure_pctgdp__oecd__1985__split_values.feather",
-  "md5": "6c57c1adaa0ae7eea621f9ee8bfaa30d"
+  "md5": "926f554946ba59cc6f40324a73b474bc"
 }

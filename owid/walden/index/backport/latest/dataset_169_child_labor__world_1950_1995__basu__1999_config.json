@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/169",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:57:47.727751",
+  "date_accessed": "2022-09-01T07:57:44.073618",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "70995666f385e208112ab5d392ab8d71",
+  "origin_md5": "898bb19bfbd512e02214785b4e0eeff9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_169_child_labor__world_1950_1995__basu__1999_config.json",
-  "md5": "a67e0e7b8798436c35d95b4031f46116"
+  "md5": "cf2ba87e995594f00c26ac1b2d26acc2"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5477",
   "file_extension": "json",
-  "date_accessed": "2022-06-27T07:45:46.599667",
+  "date_accessed": "2022-09-01T07:46:59.939805",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e8cf647c842c3d5ce9772255b5a5d697",
+  "origin_md5": "41143a14540670c584ee62b290a2e56a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5477_dropouts_in_antidepressant_trials_by_cause__schalkwijk__2014_config.json",
-  "md5": "5a2b086cdf8bd476f887004e49974be8"
+  "md5": "8827bba6853ec94efc1fd060783dcb27"
 }

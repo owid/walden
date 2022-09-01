@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/88",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:54:01.750921",
+  "date_accessed": "2022-09-01T07:50:52.495242",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fda530f1e5d98cf960f089af22885e2a",
+  "origin_md5": "7ab10536be94a040b5f31be0162470fa",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_88_world_bank_economy__and__growth__world_bank_edstats__2015_config.json",
-  "md5": "014b95cd5c9f8e38c258d5ae3072eca0"
+  "md5": "fe7750c614814ba4df1f6821af2eebfc"
 }

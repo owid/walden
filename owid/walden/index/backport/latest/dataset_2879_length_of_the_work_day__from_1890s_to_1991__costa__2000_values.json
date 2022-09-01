@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2879",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:33:08.063991",
+  "date_accessed": "2022-09-01T07:55:03.846830",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2879_length_of_the_work_day__from_1890s_to_1991__costa__2000_values.feather",
-  "md5": "a43795cd36c9c5e4120791a6908cf99b"
+  "md5": "e0315baf6948f707df78d80da79c7a86"
 }

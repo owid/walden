@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2878",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:01:41.212185",
+  "date_accessed": "2022-09-01T07:54:44.778168",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "21769fcffd3cf667bbe30353650d19d0",
+  "origin_md5": "a9913d6b825e1d8712afedb40d46b73e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2878_plastic_bag_substitute_comparisons__danish_epa__2018_config.json",
-  "md5": "d6a2937caa24cc80a03dc65dc2e1cb8e"
+  "md5": "8d49290770f59a33df36f2cdc3992f81"
 }

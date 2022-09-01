@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3226",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:54:50.733669",
+  "date_accessed": "2022-09-01T07:28:51.685202",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "278cc8274ac01433a7c2034abf887337",
+  "origin_md5": "8f4b3c39363bf6f5873bba0bcba1eb7c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3226_average_harmonised_learning_outcome_score__2005_2015__altinok__angrist__and_patrinos__2018_config.json",
-  "md5": "43da4addc1db36631c813d53ae7df8a4"
+  "md5": "38b7056d1205f83c0a399f0b4f26ad04"
 }

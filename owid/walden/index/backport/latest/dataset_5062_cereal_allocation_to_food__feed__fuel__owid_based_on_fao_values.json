@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5062",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:11:09.149325",
+  "date_accessed": "2022-09-01T07:40:18.242118",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5062_cereal_allocation_to_food__feed__fuel__owid_based_on_fao_values.feather",
-  "md5": "cdd7c8b094a3c2962787a9eeef4ce9de"
+  "md5": "2790dabc2aeff74b7060acde63631a53"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/870",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:01:36.725174",
+  "date_accessed": "2022-09-01T07:59:04.628168",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_870_clio_infra__demography_values.feather",
-  "md5": "b282ace8e89d5912799d97d0610e004d"
+  "md5": "3a0c676d3987d10bb67848ed0b301638"
 }

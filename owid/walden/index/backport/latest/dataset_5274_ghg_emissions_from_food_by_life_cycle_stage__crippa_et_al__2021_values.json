@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5274",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:39:29.115462",
+  "date_accessed": "2022-09-01T07:43:48.299515",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5274_ghg_emissions_from_food_by_life_cycle_stage__crippa_et_al__2021_values.feather",
-  "md5": "4f9c97275eef630bf1c7f64aa5a7211a"
+  "md5": "375b14b39ba5a93fa2b946810e00b257"
 }

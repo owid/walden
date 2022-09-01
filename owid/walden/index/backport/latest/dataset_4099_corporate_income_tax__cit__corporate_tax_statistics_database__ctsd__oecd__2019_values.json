@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4099",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:36:10.723032",
+  "date_accessed": "2022-09-01T07:25:48.263536",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4099_corporate_income_tax__cit__corporate_tax_statistics_database__ctsd__oecd__2019_values.feather",
-  "md5": "89f2f9780c7f066c1ff7f47ebd781fd1"
+  "md5": "db9bb99392c085962760a16a9dc085d0"
 }

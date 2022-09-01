@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/962",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:47:28.404506",
+  "date_accessed": "2022-09-01T07:34:51.271519",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "69cd598441f41b00810dd941fb6c0aaf",
+  "origin_md5": "d73d0116a96fdb6e25b587ffc06ac832",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_962_land_use_map_by_area__owid_based_on_fao_config.json",
-  "md5": "99b59685142eda7e71d7119dfb383365"
+  "md5": "f5f404f96b33eff863ed96d136e12efe"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2784",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:54:03.777417",
+  "date_accessed": "2022-09-01T07:47:46.361703",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2784_health_provider_absence_rates__chaudhury__hammer__kremer__muralidharan__and_rogers__2006_values.feather",
-  "md5": "af5ffc30a6e54f8fc379406968f48e4b"
+  "md5": "160ae80a753c7167f63db73206abb028"
 }

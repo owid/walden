@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5741",
   "file_extension": "feather",
-  "date_accessed": "2022-08-31T00:21:01.254247",
+  "date_accessed": "2022-09-01T07:57:22.021487",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5741_income_classification__world_bank__2021_values.feather",
   "md5": "ca7ff18f456d11c5ed989ada47661678"
 }

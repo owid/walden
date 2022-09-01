@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1002",
   "file_extension": "json",
-  "date_accessed": "2022-06-28T17:01:13.143498",
+  "date_accessed": "2022-09-01T07:47:17.668535",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b3a4be4978ad7b5b6a60dad4de274a89",
+  "origin_md5": "a03d025a28977fa943dd5b02882f68d2",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1002_incidence_of_managerial_or_professional_jobs_and_collective_bargaining_by_gender__blau_and_kahn__2017_config.json",
-  "md5": "bafc946f8b45c4f9918f275d50191ef4"
+  "md5": "4c8ccdb483722cabe2d50b34d81c973b"
 }

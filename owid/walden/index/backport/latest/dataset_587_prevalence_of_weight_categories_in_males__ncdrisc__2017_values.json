@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/587",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:15:24.123138",
+  "date_accessed": "2022-09-01T07:48:46.296002",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_587_prevalence_of_weight_categories_in_males__ncdrisc__2017_values.feather",
-  "md5": "c8d433a473e209fde5dee9bfd6b76e5b"
+  "md5": "f2163c28b7218868400f0e4cd20f63d2"
 }

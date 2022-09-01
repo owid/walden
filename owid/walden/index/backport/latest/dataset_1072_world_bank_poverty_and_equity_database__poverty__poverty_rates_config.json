@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1072",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:34:44.162146",
+  "date_accessed": "2022-09-01T07:56:26.304747",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "533f1394920580b17fac2a1f4a3f7850",
+  "origin_md5": "cf18a8994dbd698dd6e8ecf3442df9d3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1072_world_bank_poverty_and_equity_database__poverty__poverty_rates_config.json",
-  "md5": "710d58c0557c08ef8e29839624b9f430"
+  "md5": "bc8a6c1def3292df7f58c84304743fb8"
 }

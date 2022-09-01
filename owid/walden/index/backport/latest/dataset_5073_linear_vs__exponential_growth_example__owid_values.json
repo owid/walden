@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5073",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:51:43.665770",
+  "date_accessed": "2022-09-01T07:27:22.114274",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5073_linear_vs__exponential_growth_example__owid_values.feather",
-  "md5": "ab2db362431116bfd74993d3e585c02a"
+  "md5": "0c1a21fac4dfdc88945cb657e6ca3f4a"
 }

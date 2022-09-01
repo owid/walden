@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2473",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:48:12.935385",
+  "date_accessed": "2022-09-01T07:36:16.687983",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9704e5b81efafa52cbe6cc03e15c755a",
+  "origin_md5": "344f36a6378c99bb38db1d2dc7648f22",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2473_smoking_prevalence_and_cigarette_consumption__ihme__ghdx__2012_config.json",
-  "md5": "08230589f1a6a4915bf29813aa6234f2"
+  "md5": "f772fbbc120e882077cbe4ec0f4efe4b"
 }

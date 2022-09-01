@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5347",
   "file_extension": "feather",
-  "date_accessed": "2022-06-27T07:46:33.215670",
+  "date_accessed": "2022-09-01T07:32:58.828375",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5347_statistical_review_of_world_energy__bp__2021_values.feather",
-  "md5": "1ffea6c15876f98db7e178662468e93a"
+  "md5": "b37fbb2abf2a22585b5b6c46ed44ccad"
 }

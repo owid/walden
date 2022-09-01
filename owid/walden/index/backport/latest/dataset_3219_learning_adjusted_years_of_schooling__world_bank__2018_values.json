@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3219",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:09:17.848815",
+  "date_accessed": "2022-09-01T07:41:48.054265",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3219_learning_adjusted_years_of_schooling__world_bank__2018_values.feather",
-  "md5": "1a3f37d2b092df54cf1937ddc90f2427"
+  "md5": "4ac90e648141c35a1f383a994c1f47fe"
 }

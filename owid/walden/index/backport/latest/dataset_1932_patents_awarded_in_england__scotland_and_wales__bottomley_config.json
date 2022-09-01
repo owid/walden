@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1932",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:28:33.539987",
+  "date_accessed": "2022-09-01T07:49:04.662243",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "cc98f1349486887ecef9659192220e85",
+  "origin_md5": "0f404b26bd06b5ca5b915ac20d001a02",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1932_patents_awarded_in_england__scotland_and_wales__bottomley_config.json",
-  "md5": "014bef609d0df0f0128c4587c529af21"
+  "md5": "577675ee2c0c873048567735fe896009"
 }

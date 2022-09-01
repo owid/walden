@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/275",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:44:04.716226",
+  "date_accessed": "2022-09-01T07:28:41.217677",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "701a574a1ed0efecbcb63f2bde9973ec",
+  "origin_md5": "0b74356bae622514cc40228ddf03ef10",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_275_human_development_index__undp_config.json",
-  "md5": "9b6152bc35e101d4ffd249101c88cc69"
+  "md5": "6a5ace08a3446c6f229832b15fa3cfd3"
 }

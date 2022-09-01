@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/554",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:57:58.050648",
+  "date_accessed": "2022-09-01T07:26:06.376136",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_554_world_development_indicators__environment_values.feather",
-  "md5": "4c74a47f86782e94fa15c1551bb36713"
+  "md5": "7bc13b00b100b669cbb826877e8bacb5"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3025",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:44:26.652432",
+  "date_accessed": "2022-09-01T07:30:16.042653",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "37d6e9896341e94364ab932bc4a67233",
+  "origin_md5": "cd07f4819041e2155ba607234780a98d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3025_total_merchandise_trade_as_share_of_gdp__cow_v_4_0_national__2016__split_config.json",
-  "md5": "eab531bf0816397967ec9ddcfb998f87"
+  "md5": "55d3a79c2656e6a1ab89b455db0f1b09"
 }

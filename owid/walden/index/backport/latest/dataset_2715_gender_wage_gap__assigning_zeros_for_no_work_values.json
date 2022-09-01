@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2715",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:47:15.903435",
+  "date_accessed": "2022-09-01T07:50:47.549903",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2715_gender_wage_gap__assigning_zeros_for_no_work_values.feather",
-  "md5": "0ab6f130e9f92997133fdaf7a7e45fad"
+  "md5": "ec23360c3aeb0cdbb863e7b647c57b03"
 }

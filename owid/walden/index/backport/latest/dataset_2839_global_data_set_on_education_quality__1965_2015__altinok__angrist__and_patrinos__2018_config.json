@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2839",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:03:31.602257",
+  "date_accessed": "2022-09-01T07:39:42.385634",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "90a554ec57ec3daa72bbcdc38509199f",
+  "origin_md5": "a4ce8ac581241f6ac2d0836640de508e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2839_global_data_set_on_education_quality__1965_2015__altinok__angrist__and_patrinos__2018_config.json",
-  "md5": "4c2509a463054f8c6d3f9741756790a1"
+  "md5": "38256ab36e0ea10ba97120d33e092d8a"
 }

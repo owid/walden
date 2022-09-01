@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4205",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:07:56.619533",
+  "date_accessed": "2022-09-01T07:58:46.029832",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "788a33418b1b1c1087ec1bbe9a0179e7",
+  "origin_md5": "bff14d4123c988304714b065ab12cd03",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4205_missing_plastic_budget__lebreton_et_al__2019_config.json",
-  "md5": "9a14aef284ebf3ba4d5fe0f9afeab7f4"
+  "md5": "eb2815a51f4aecfae00bd6fabc2e5b3c"
 }

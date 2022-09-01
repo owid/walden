@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3033",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:33:31.548713",
+  "date_accessed": "2022-09-01T07:44:20.567607",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3033_world_trade__upper_bound__pct_of_gdp__estevadeordal__frantz__and_taylor__2003__split_values.feather",
-  "md5": "c986430c534f2553336d6b0594b6b3c2"
+  "md5": "2059cce34c32140ceccbd1ad68f60e26"
 }

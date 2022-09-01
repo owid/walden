@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5311",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:13:30.722622",
+  "date_accessed": "2022-09-01T07:48:59.146073",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "15cac0d0aca07e109e5bc001f883eefe",
+  "origin_md5": "46965566d4e6135c9550d5e0a689b848",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5311_biodiversity_habitat_loss__williams_et_al__2021_config.json",
-  "md5": "5d3d122bc26e9d828c73f860896f3a4c"
+  "md5": "665479b5a59ae9577b9e2ce8310c65dc"
 }

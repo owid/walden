@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/245",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:41:12.270753",
+  "date_accessed": "2022-09-01T07:55:34.593031",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bc981646fe50df9dbc8ea9554d38d6b3",
+  "origin_md5": "87aa9b1bba3ecc9202ea5255c5c00f96",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_245_us_revenue_public_schools__us_bureau_of_the_census_and_nces__2017_config.json",
-  "md5": "f10a16639fbe26204959c79a6107617c"
+  "md5": "56895574220d7b5c7993c4e71199300e"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5642",
   "file_extension": "json",
-  "date_accessed": "2022-06-16T08:14:36.045376",
+  "date_accessed": "2022-09-01T07:31:09.950198",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9df572b741a8acb9fa830b769a30d093",
+  "origin_md5": "f67678a4f1d1287b9e92a04fa3745ff0",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5642_nasa__exoplanets_config.json",
-  "md5": "a067b57ace78d50dd20cfa95a859003c"
+  "md5": "b1a45e573ea7c0b85288fea0a6bcc63a"
 }

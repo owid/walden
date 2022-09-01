@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2573",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:09:43.137574",
+  "date_accessed": "2022-09-01T07:26:34.028674",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2573_environment__municipal_waste__generation_and_treatment_values.feather",
-  "md5": "7ccd49194248c6e8c30b2b70afd9d76c"
+  "md5": "0420673debad0d711b372be63d525eea"
 }

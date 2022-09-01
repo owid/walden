@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3240",
   "file_extension": "feather",
-  "date_accessed": "2022-06-27T07:45:56.678088",
+  "date_accessed": "2022-09-01T07:45:16.618980",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3240_te_15_1_inflation_values.feather",
-  "md5": "92bcda05e6411db1a6529d34519aadf4"
+  "md5": "6fd2b69606528716b8c1ceabb5ae1fc5"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/395",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:36:54.364581",
+  "date_accessed": "2022-09-01T07:49:13.231166",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_395_national_poverty_lines__jolliffe_and_prydz__2016_values.feather",
-  "md5": "2a3683579a6cafad733c06d98141f684"
+  "md5": "7958a5d81b0921542e21e37f41217953"
 }

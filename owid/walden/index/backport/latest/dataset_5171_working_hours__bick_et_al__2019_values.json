@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5171",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:12:01.081330",
+  "date_accessed": "2022-09-01T07:28:55.363873",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5171_working_hours__bick_et_al__2019_values.feather",
-  "md5": "b6c71a0d8c4a482caf771fe730b2e9a3"
+  "md5": "6a83aef555399ba683f20f8902fcf7e2"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1092",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:03:35.294176",
+  "date_accessed": "2022-09-01T07:40:38.046986",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1092_patent_and_publication_rates__owid_based_on_world_bank__and__un_values.feather",
-  "md5": "2f744ba1c77e7b95da95f7df27aa1ae1"
+  "md5": "ef680df62b207b6dc2465f7eea5d1ce3"
 }

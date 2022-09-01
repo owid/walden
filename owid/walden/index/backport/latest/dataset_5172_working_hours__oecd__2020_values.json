@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5172",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:31:58.391664",
+  "date_accessed": "2022-09-01T07:52:17.866625",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5172_working_hours__oecd__2020_values.feather",
-  "md5": "7d06bf1d3e616038fa2d58f30cb8a490"
+  "md5": "800791961dd645b2c9de1c5b11d811e2"
 }

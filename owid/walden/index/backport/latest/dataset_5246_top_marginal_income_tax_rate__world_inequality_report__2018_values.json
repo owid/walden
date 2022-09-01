@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5246",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:34:18.179376",
+  "date_accessed": "2022-09-01T07:35:11.357739",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5246_top_marginal_income_tax_rate__world_inequality_report__2018_values.feather",
-  "md5": "67d369f246c5299f93a3938dd5eeaed9"
+  "md5": "fd3f0f746e780d96a16187fdd9efd967"
 }

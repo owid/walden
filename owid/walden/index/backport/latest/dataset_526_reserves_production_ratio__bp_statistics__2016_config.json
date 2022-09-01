@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/526",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:56:13.586753",
+  "date_accessed": "2022-09-01T07:31:56.501662",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4740e1f87797bfabf94ee2a1ef6af49b",
+  "origin_md5": "abad6953c2093778a15ead078517d69c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_526_reserves_production_ratio__bp_statistics__2016_config.json",
-  "md5": "336db40484e31f24566faee0f689cf92"
+  "md5": "65674bb203057c6e582c8550a731ac55"
 }

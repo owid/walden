@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2520",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:09:51.589497",
+  "date_accessed": "2022-09-01T07:46:35.137885",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2520_number_and_percentage_of_current_smokers__by_sex__american_lung_association__2011_values.feather",
-  "md5": "c1d4550c536dbcc2464c55a9151b4a9c"
+  "md5": "c95660abd5a2b0daae7d9248e3924da9"
 }

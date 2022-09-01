@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2211",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:04:00.321992",
+  "date_accessed": "2022-09-01T07:46:02.025967",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "0eec0cbd65e34415cb86bbdd11ebe354",
+  "origin_md5": "6bbc5aaebd538f4df58cd43c3bd59f83",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2211_hiv_aids_and_tuberculosis_config.json",
-  "md5": "3cc52f9831b857d1dc7683fc82016a45"
+  "md5": "76ea115b7cfc5fcdf0786f984a302aaa"
 }

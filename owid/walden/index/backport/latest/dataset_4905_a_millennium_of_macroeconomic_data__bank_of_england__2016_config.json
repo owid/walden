@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4905",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:11:54.257629",
+  "date_accessed": "2022-09-01T07:55:05.979558",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "24f68eb0b06daddcc82e24417935ed63",
+  "origin_md5": "b009072a366c989eb268b3747ffa950c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4905_a_millennium_of_macroeconomic_data__bank_of_england__2016_config.json",
-  "md5": "f3f6b02e996e5adddbda54351db55083"
+  "md5": "f8859d0a7b3076d2a0601b144d4848c4"
 }

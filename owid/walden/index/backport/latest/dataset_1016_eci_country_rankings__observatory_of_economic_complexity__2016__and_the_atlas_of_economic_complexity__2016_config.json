@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1016",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:10:51.166014",
+  "date_accessed": "2022-09-01T07:29:34.960459",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f01bc6986a5d18077d366b2c6dedf311",
+  "origin_md5": "9b83e0ed89a62e1144f0443e224057a4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1016_eci_country_rankings__observatory_of_economic_complexity__2016__and_the_atlas_of_economic_complexity__2016_config.json",
-  "md5": "c705aef663fecafce4001d97ba52998b"
+  "md5": "24678e212e1b704bb56a1133dd0c0ea7"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2808",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:08:52.051979",
+  "date_accessed": "2022-09-01T07:49:58.775600",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ec2ed7241b08ccfdedf6472fb4a6906f",
+  "origin_md5": "28d08e48b9f8c89fbed758bb3aa13f56",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2808_days_and_hours_of_work_in_old_and_new_worlds__huberman_and_minns__2007_config.json",
-  "md5": "ed3148a7dc46d3dcc8892a0b26244291"
+  "md5": "59ab23cfad6c366b141be40396a16576"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5119",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:17:25.952513",
+  "date_accessed": "2022-09-01T07:31:11.480987",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5119_figure_13_5_gdp_values.feather",
-  "md5": "a17d5c1b09786bc07f1823437fbb4811"
+  "md5": "7166c76f76e58f9169d156ca172db80a"
 }

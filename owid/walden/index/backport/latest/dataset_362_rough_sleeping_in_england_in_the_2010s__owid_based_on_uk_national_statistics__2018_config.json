@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/362",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:51:28.950157",
+  "date_accessed": "2022-09-01T07:32:11.048093",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "d8e448bf492518c008abf74ebaf2e646",
+  "origin_md5": "cd28fb96944f4be4a4c704538d97a4f0",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_362_rough_sleeping_in_england_in_the_2010s__owid_based_on_uk_national_statistics__2018_config.json",
-  "md5": "c3016a79630c37ff991980090e0adb71"
+  "md5": "c9563612b753302534fb06733447681e"
 }

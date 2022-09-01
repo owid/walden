@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5622",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:33:09.613627",
+  "date_accessed": "2022-09-01T07:47:16.768845",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bb906b91e6bf75ec4bf99062d4b845c5",
+  "origin_md5": "95a8b5eb69ab762e8b1c9d6bfd855626",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5622_yougov__dietary_choices_of_brits_config.json",
-  "md5": "0a9480997db9eabb70c94db03ee3da60"
+  "md5": "027648d56e969911046b2698a0278b4b"
 }

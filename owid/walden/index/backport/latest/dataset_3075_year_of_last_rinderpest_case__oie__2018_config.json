@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3075",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:59:13.133907",
+  "date_accessed": "2022-09-01T07:54:52.149404",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c303837c72ed21235d13926c3d8a6144",
+  "origin_md5": "d1026bb27482d1fbc68916f39e831b3e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3075_year_of_last_rinderpest_case__oie__2018_config.json",
-  "md5": "bb1a33017f670f5b3f8fb7223023c1b4"
+  "md5": "469eb68276dc201eb8e3444f008142be"
 }

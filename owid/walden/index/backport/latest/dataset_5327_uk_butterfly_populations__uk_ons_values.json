@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5327",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:42:12.988150",
+  "date_accessed": "2022-09-01T07:31:58.855023",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5327_uk_butterfly_populations__uk_ons_values.feather",
-  "md5": "a6bd156a05d709fb08855778062dea84"
+  "md5": "b56e4e52382edde3df523e67c76565e2"
 }

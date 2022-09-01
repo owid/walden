@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/300",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T12:08:01.215351",
+  "date_accessed": "2022-09-01T07:49:49.854874",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "463bd40056da70e827329153a7c23ba0",
+  "origin_md5": "1b97292c18bbc80c2a0df3ddc1ab1691",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_300_tax_composition__arroyo_abad__and_p__lindert__2016_config.json",
-  "md5": "f1ce7a235340de6f3e0fb45d40c01b78"
+  "md5": "c6763eb7dcf1da55249ca352ea56a465"
 }

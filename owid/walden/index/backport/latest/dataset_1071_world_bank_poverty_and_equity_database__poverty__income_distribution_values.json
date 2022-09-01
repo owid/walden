@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1071",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:02:58.429856",
+  "date_accessed": "2022-09-01T07:34:49.732773",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1071_world_bank_poverty_and_equity_database__poverty__income_distribution_values.feather",
-  "md5": "88f530484c2ee3f800133ab570b340d3"
+  "md5": "80caf71e030bb03e45317ce5b0ab9716"
 }

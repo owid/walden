@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4185",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:38:25.057570",
+  "date_accessed": "2022-09-01T07:59:06.376156",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "31ea5166df2f1cbc271aa74244aecb65",
+  "origin_md5": "b3c22464a54b3ab5aa17cbdda22efbd9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4185_structure_of_general_government_expenditures_by_function__oecd__2017_config.json",
-  "md5": "ab815e08717bab2adb286e8e0a6a5eef"
+  "md5": "5f62c8d08cfea85e227a4cd862377c40"
 }

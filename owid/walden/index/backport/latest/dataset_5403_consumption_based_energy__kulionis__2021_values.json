@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5403",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:55:00.392577",
+  "date_accessed": "2022-09-01T07:28:32.631045",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5403_consumption_based_energy__kulionis__2021_values.feather",
-  "md5": "acbf1d826c93cf788718ad5ed6157778"
+  "md5": "af01d4c523efc5f84a64bb8c7ddcf77b"
 }

@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5664",
   "file_extension": "feather",
-  "date_accessed": "2022-08-31T07:24:50.507553",
+  "date_accessed": "2022-09-01T07:56:20.460678",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5664_democracy__owid_based_on_episodes_of_regime_transformation__v4_values.feather",
   "md5": "8d67d25db907842bbaac7c91b67763f6"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5368",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:10:55.857839",
+  "date_accessed": "2022-09-01T07:49:51.157067",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5368_covid_19_vaccine_dose_donations_to_covax_values.feather",
-  "md5": "5c7f7f6d3ccbf5af2650407a80086361"
+  "md5": "7fa42731371c2bc1306040487359884e"
 }

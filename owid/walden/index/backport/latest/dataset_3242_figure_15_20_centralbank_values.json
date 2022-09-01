@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3242",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:39.092449",
+  "date_accessed": "2022-09-01T07:50:04.423303",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3242_figure_15_20_centralbank_values.feather",
-  "md5": "63f07d9b2adb6393e383ce39e2f7b154"
+  "md5": "9e06ef889d96aa06a851232b42159d74"
 }

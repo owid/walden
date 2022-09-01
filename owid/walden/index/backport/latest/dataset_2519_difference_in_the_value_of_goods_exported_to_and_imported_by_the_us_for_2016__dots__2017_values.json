@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2519",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:49:52.561423",
+  "date_accessed": "2022-09-01T07:43:38.598871",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2519_difference_in_the_value_of_goods_exported_to_and_imported_by_the_us_for_2016__dots__2017_values.feather",
-  "md5": "81edd6314d540cb36c79c22509cdaaf3"
+  "md5": "046dcdf22ed7d8c60c74769eab250aec"
 }

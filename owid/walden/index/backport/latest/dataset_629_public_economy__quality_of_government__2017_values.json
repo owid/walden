@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/629",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:33:39.349132",
+  "date_accessed": "2022-09-01T07:34:58.695571",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_629_public_economy__quality_of_government__2017_values.feather",
-  "md5": "a8045bcfbf7315f7fef6777e0995aec6"
+  "md5": "d45a1e7bae0bd5e1c19439d1ad69b4c8"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/679",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:35:42.865114",
+  "date_accessed": "2022-09-01T07:29:32.241855",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_679_long_term_wheat_yields__fao__2017__and__bayliss_smith__1984_values.feather",
-  "md5": "d0241ba9bdec3e42178f9e9d94cf7a84"
+  "md5": "a5a4d57ece224b4efbb9572bbfddbbec"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/371",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:44:44.644628",
+  "date_accessed": "2022-09-01T07:31:25.229009",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_371_state_of_vaccine_confidence__larson_et_al__2016_values.feather",
-  "md5": "795893f499543744e3e1d02981517502"
+  "md5": "7b090d032040c4ff6016563e4310ca6a"
 }

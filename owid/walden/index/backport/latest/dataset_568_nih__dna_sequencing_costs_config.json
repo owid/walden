@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/568",
   "file_extension": "json",
-  "date_accessed": "2022-06-22T12:00:43.064070",
+  "date_accessed": "2022-09-01T07:30:12.094189",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4c13de49cd9a5e0278ed4f9d57da98d6",
+  "origin_md5": "024281f6114684aaa4c97803415b9572",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_568_nih__dna_sequencing_costs_config.json",
-  "md5": "2693e079a4700719dc1ea6ecd7ab0765"
+  "md5": "6f0f6cd410ee0955ea0f7794276c4ae2"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5528",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:41:15.605268",
+  "date_accessed": "2022-09-01T07:37:41.106064",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5528_estimated_malaria_deaths_values.feather",
-  "md5": "68f149e9c59a7e09dbea893f5aaa550c"
+  "md5": "47037a6c1e823079f198cad14cee1d66"
 }

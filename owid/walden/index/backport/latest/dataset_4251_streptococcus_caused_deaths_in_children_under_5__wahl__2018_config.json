@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4251",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:35:39.044750",
+  "date_accessed": "2022-09-01T07:48:14.432940",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f01e6f6917728d6798acb3e38b6652bb",
+  "origin_md5": "b2a2cecae8bcb6c0068b35d8a9b9dd5a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4251_streptococcus_caused_deaths_in_children_under_5__wahl__2018_config.json",
-  "md5": "21192ded465929c3959d219968b6fd98"
+  "md5": "a13484be741104fbdae46b9048298258"
 }

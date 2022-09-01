@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5554",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:54:08.074954",
+  "date_accessed": "2022-09-01T07:44:21.645849",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5554_ukraine_russia_fertilizers__based_on_un_fao_values.feather",
-  "md5": "834a4def463afaf582ed498aac88a4ee"
+  "md5": "b851b593f7a4c664e500d4d39ef160dc"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/623",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:47:52.482530",
+  "date_accessed": "2022-09-01T07:47:01.894299",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "640391afa0d21e9a0018285b3263c294",
+  "origin_md5": "c9205070ff8a0b40bc920f840714dd5d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_623_political_system__quality_of_government__2017_config.json",
-  "md5": "a2069bf2f924eb054a6fd168b9176e90"
+  "md5": "d657432b109994f34eb3999b78333432"
 }

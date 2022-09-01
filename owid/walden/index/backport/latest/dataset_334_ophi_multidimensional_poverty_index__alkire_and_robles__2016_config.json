@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/334",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:31:20.117766",
+  "date_accessed": "2022-09-01T07:43:02.532172",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e2ca0ed6bdf64fc3c2e471fb71bcb51e",
+  "origin_md5": "33a59a8ecb8810faeb419ab989d11a51",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_334_ophi_multidimensional_poverty_index__alkire_and_robles__2016_config.json",
-  "md5": "5e8bbe75d50a7c370fac66dc4643a988"
+  "md5": "f9ef6fb8cd767034aaf67ee713eecca7"
 }

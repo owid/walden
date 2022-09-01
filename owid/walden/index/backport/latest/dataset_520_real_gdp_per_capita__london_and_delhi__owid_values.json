@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/520",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:41:09.604461",
+  "date_accessed": "2022-09-01T07:46:33.202961",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_520_real_gdp_per_capita__london_and_delhi__owid_values.feather",
-  "md5": "444be4de0a98765149134533bc179ac4"
+  "md5": "38d327aba897d2b73c90237e905d9759"
 }

@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/374",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:46:21.623937",
+  "date_accessed": "2022-09-01T07:58:38.711180",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_374_so2_emissions_by_region__oecd__2014__and_klimont_et_al__2013_values.feather",
-  "md5": "52b2b5c3c8792af627a976ef42c00797"
+  "md5": "64114c00b5c1aad59292edb6c5412d98"
 }

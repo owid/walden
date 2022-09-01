@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3078",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:31:46.324825",
+  "date_accessed": "2022-09-01T07:43:33.653579",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3078_human_capital_index__world_bank__2018_values.feather",
-  "md5": "20300357ad2fbceea9f0ab59faeb8969"
+  "md5": "83966655ab19d08b88ef2638801513e1"
 }

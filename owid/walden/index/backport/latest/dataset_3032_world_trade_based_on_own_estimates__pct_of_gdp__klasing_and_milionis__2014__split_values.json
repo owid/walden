@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3032",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:10:57.849643",
+  "date_accessed": "2022-09-01T07:39:48.198980",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3032_world_trade_based_on_own_estimates__pct_of_gdp__klasing_and_milionis__2014__split_values.feather",
-  "md5": "e5fba02f6d1d7a095168efba08de65a0"
+  "md5": "988b08e07166e82799ffc773ff6e9bed"
 }

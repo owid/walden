@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5640",
   "file_extension": "json",
-  "date_accessed": "2022-06-16T08:13:06.670241",
+  "date_accessed": "2022-09-01T07:48:57.234709",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "58db0279cffc1bd1552ae73a9bfa1509",
+  "origin_md5": "c5299ced18ad932ddb0cfdf30b883b3f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5640_csis__nasa_budget_history_config.json",
-  "md5": "353598c47714c79f7c6d267f63586b07"
+  "md5": "49941d07f7b6a11ad899117874e66013"
 }

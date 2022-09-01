@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2759",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:08:07.139470",
+  "date_accessed": "2022-09-01T07:30:39.910865",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2759_gapminder_ignorance_test_results__gapminder_values.feather",
-  "md5": "66412e60e5277e4bc10f6aaaafc8185b"
+  "md5": "086b6808854f710f8199b21554ff0bf3"
 }

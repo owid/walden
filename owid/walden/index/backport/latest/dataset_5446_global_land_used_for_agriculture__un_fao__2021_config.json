@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5446",
   "file_extension": "json",
-  "date_accessed": "2022-06-27T07:47:55.718586",
+  "date_accessed": "2022-09-01T07:49:09.473845",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ebac6ef1f4dc8f2676ae049b6d6eecd3",
+  "origin_md5": "4c84c332b233901ef57c8b8be1a4fae7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5446_global_land_used_for_agriculture__un_fao__2021_config.json",
-  "md5": "df487370970674a62bd2765541bf3360"
+  "md5": "242abf7b5206a091c37f2b7f7c0b0af4"
 }

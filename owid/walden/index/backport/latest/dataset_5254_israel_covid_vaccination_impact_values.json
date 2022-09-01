@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5254",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:11:13.237726",
+  "date_accessed": "2022-09-01T07:56:13.460826",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5254_israel_covid_vaccination_impact_values.feather",
-  "md5": "b4dc3a6d20d9b24dfa2ef07cb4461319"
+  "md5": "95e903dc679e2fb60cacaf6c9a6d1793"
 }

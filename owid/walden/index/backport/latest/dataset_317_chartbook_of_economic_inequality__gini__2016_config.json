@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/317",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:34:19.745126",
+  "date_accessed": "2022-09-01T07:58:43.197351",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f9698b1d6398384641111c69df35e784",
+  "origin_md5": "693b2e37068141924f89e98ef8eb4749",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_317_chartbook_of_economic_inequality__gini__2016_config.json",
-  "md5": "c779fff0a597fdad427fc45eaddc3595"
+  "md5": "2be51a81f34b8c43fadf1358c4df1ac1"
 }

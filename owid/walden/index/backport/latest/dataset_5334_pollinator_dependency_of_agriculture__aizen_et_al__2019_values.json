@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5334",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:44:45.749239",
+  "date_accessed": "2022-09-01T07:58:59.913612",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5334_pollinator_dependency_of_agriculture__aizen_et_al__2019_values.feather",
-  "md5": "c86513721b7f20eeb245acffea528cb6"
+  "md5": "9df60a3feedb8e06bc44f99446f63d92"
 }

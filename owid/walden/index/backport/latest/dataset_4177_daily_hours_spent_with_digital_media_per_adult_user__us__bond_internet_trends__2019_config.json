@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4177",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:39:10.702085",
+  "date_accessed": "2022-09-01T07:32:11.984345",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e01b8a5eafeccc44ff3b097704650650",
+  "origin_md5": "f621ca3627f1198949670eea96b5d3e4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4177_daily_hours_spent_with_digital_media_per_adult_user__us__bond_internet_trends__2019_config.json",
-  "md5": "f0e61892d2637c948d2f19f24bd5d8b6"
+  "md5": "c283680e2600bac77f2232b350a5f5b9"
 }

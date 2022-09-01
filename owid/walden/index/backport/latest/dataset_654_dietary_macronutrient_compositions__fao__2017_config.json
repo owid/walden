@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/654",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T09:02:15.258466",
+  "date_accessed": "2022-09-01T07:27:30.641342",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "be78bce3b8f7007ca6612e958ef64ed7",
+  "origin_md5": "b3360c15449a44193d48f4b45fac73ff",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_654_dietary_macronutrient_compositions__fao__2017_config.json",
-  "md5": "0cace9da7fecf2182802aa5865baf56a"
+  "md5": "11ab2975d7e1552a2dd3aec958ce422b"
 }

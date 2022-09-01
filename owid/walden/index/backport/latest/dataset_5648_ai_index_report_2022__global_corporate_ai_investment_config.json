@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5648",
   "file_extension": "json",
-  "date_accessed": "2022-07-07T00:01:23.204767",
+  "date_accessed": "2022-09-01T07:32:40.474485",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "79367fb7e1703b5f587fdbde03009fc2",
+  "origin_md5": "75d88958dbf176f9ddbb01310fe19cd7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5648_ai_index_report_2022__global_corporate_ai_investment_config.json",
-  "md5": "295eafd340854e2b261395453286fbe6"
+  "md5": "cdb14520128f50e635e0583acaa1d091"
 }

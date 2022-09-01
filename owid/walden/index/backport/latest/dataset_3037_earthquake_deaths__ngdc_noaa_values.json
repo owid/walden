@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3037",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:54:10.563814",
+  "date_accessed": "2022-09-01T07:33:57.001481",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3037_earthquake_deaths__ngdc_noaa_values.feather",
-  "md5": "fe1ca4e84377d84090e263303b6dd50a"
+  "md5": "ffb9096ea91b250f2b9b480ee9bea848"
 }

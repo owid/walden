@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/318",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:15:19.367173",
+  "date_accessed": "2022-09-01T07:38:01.341455",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_318_incomes_across_the_distribution_database__gini__2016_values.feather",
-  "md5": "58118294855bb7b9a80e681ab7177f22"
+  "md5": "f02430eea8f6f8d629050763576b6083"
 }

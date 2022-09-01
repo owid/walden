@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2707",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:57:21.824742",
+  "date_accessed": "2022-09-01T07:28:30.032129",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2707_split_of_exports_to_different_country_groups__owid_calculations_based_on_fouquin_and_hugot__cepii_2016__dyadic_data_values.feather",
-  "md5": "7a3d38870a44232106debce2b04474c9"
+  "md5": "5f098672904b8ce93dfd769aec5670b0"
 }

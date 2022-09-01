@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2952",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T09:00:54.830037",
+  "date_accessed": "2022-09-01T07:39:28.405761",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2952_extreme_poverty_share_to_2030__crespo_cuaresma__2018_values.feather",
-  "md5": "880283f9530ac867c7061c6b775f490b"
+  "md5": "1cd25625607e45a458668eda9d380482"
 }

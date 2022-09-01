@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2785",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T08:59:19.944447",
+  "date_accessed": "2022-09-01T07:42:42.343734",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2785_time_that_doctors_spend_with_a_patient__das__hammer__and_leonard__2008_values.feather",
-  "md5": "3d479e1ee2339a8edf16134eaafe4387"
+  "md5": "600791e3942f6a94e5ca39f265a37ea3"
 }

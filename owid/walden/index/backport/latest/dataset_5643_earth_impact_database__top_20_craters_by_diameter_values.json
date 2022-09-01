@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5643",
   "file_extension": "feather",
-  "date_accessed": "2022-06-16T08:18:06.338759",
+  "date_accessed": "2022-09-01T07:28:03.157199",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5643_earth_impact_database__top_20_craters_by_diameter_values.feather",
-  "md5": "c2739b44bd52174cb62964fcabd47a6f"
+  "md5": "c0f142e4b56b2061ab74d0f1aeb86c00"
 }

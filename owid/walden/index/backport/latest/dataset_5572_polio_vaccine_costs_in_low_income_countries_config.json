@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5572",
   "file_extension": "json",
-  "date_accessed": "2022-06-10T08:40:18.369615",
+  "date_accessed": "2022-09-01T07:55:09.412808",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4a916ef6ce811565ee9f3fb5afdcc46a",
+  "origin_md5": "84d7b2226a73f5394426560302fe6e53",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5572_polio_vaccine_costs_in_low_income_countries_config.json",
-  "md5": "79904f4cc688d547ac954c584902937f"
+  "md5": "c58928919cad85089cd611c81e5a12ff"
 }

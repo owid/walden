@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/990",
   "file_extension": "feather",
-  "date_accessed": "2022-06-10T12:13:59.746333",
+  "date_accessed": "2022-09-01T07:47:59.988813",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_990_solid_fuel_use_for_cooking_by_region__bonjour_et_al__2013_values.feather",
-  "md5": "fc8dd9b12ece8e8ff03fc8663125fe0b"
+  "md5": "eed44ae68bff0ea7492e59b65ef0bf10"
 }
