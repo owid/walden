@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5755_vegetable_oil_yields__fao_values",
+  "name": "Vegetable oil yields (FAO)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5755",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-02T14:40:26.122239",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "f7a66dc34a692fd0f3c9a466ba2b9340"
+}

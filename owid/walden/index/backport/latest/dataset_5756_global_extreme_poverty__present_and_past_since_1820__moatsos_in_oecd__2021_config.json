@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5756_global_extreme_poverty__present_and_past_since_1820__moatsos_in_oecd__2021_config",
+  "name": "Grapher metadata for dataset_5756_global_extreme_poverty__present_and_past_since_1820__moatsos_in_oecd__2021",
+  "description": "Soon to be uploaded to Utrecht University open repository. Plans to update to 2017 PPP are not clear yet.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5756",
+  "file_extension": "json",
+  "date_accessed": "2022-09-02T17:16:33.179747",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "469c3a81386920f6b79c1f0e7ffb5671",
+  "md5": "3b5326e5dacef5465d301f2426a4a175"
+}
