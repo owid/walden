@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/369",
   "file_extension": "feather",
-  "date_accessed": "2022-09-01T07:39:24.344364",
-  "is_public": true,
+  "date_accessed": "2022-09-01T23:32:20.891192",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_369_long_run_series_of_health_expenditure__world_bank__wdi__2017_values.feather",
   "md5": "63564bfafd8e2c78adfab633e566587f"
 }

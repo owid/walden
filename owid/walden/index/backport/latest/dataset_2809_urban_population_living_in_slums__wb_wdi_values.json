@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2809",
   "file_extension": "feather",
-  "date_accessed": "2022-09-01T07:50:55.017403",
-  "is_public": true,
+  "date_accessed": "2022-09-01T23:40:12.086687",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2809_urban_population_living_in_slums__wb_wdi_values.feather",
   "md5": "02108c37c698adb3648dd0bbf1a04163"
 }
