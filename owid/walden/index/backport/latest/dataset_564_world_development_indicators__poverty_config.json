@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/564",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:59:23.482582",
-  "is_public": true,
+  "date_accessed": "2022-09-02T06:01:47.021350",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "1e370cf18680f9596d604b92e7fc6619",
+  "origin_md5": "63c783def97f0ec7f9df4ff4a01c43a3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_564_world_development_indicators__poverty_config.json",
-  "md5": "b254214d5cee60cdbce674d9b5fe0f40"
+  "md5": "9f236a89c33c61f162bcd113b0676bb7"
 }
