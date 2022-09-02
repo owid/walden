@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5637",
   "file_extension": "json",
-  "date_accessed": "2022-09-02T00:00:30.904200",
+  "date_accessed": "2022-09-02T02:29:29.673109",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9f0f6f28b32d1c6b980767e9c19b9857",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5637_world_development_indicators__world_bank__2022_05_26_config.json",
-  "md5": "5081596d0b7d30feea9e7809d7c8da37"
+  "origin_md5": "46a1446449f6725960d9fca3e43af810",
+  "md5": "22f52722138508935920e6fb5e16b328"
 }

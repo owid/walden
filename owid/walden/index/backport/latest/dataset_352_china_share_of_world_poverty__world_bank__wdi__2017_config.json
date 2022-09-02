@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_352_china_share_of_world_poverty__world_bank__wdi__2017_config",
+  "name": "Grapher metadata for dataset_352_china_share_of_world_poverty__world_bank__wdi__2017",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/352",
+  "file_extension": "json",
+  "date_accessed": "2022-09-02T01:03:43.285822",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c0d1dab4fa5da0dfd4e3317932edcd97",
+  "md5": "aa3c1925b1ce970f7f824ececa514742"
+}
