@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5756",
   "file_extension": "feather",
-  "date_accessed": "2022-09-02T18:01:03.788200",
+  "date_accessed": "2022-09-02T19:43:47.728573",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5756_global_extreme_poverty__present_and_past_since_1820__moatsos_in_oecd__2021_values.feather",
-  "md5": "d0af51b1c8f217a084b3599ca3ab02e2"
+  "md5": "03f2369b6c214a06acb9cca19819060a"
 }
