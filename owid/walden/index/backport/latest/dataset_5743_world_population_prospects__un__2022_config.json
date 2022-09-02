@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5743_world_population_prospects__un__2022_config",
+  "name": "Grapher metadata for dataset_5743_world_population_prospects__un__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5743",
+  "file_extension": "json",
+  "date_accessed": "2022-09-02T11:00:11.499750",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d7ddf3fe350960e03be2ed2ffa9b9c77",
+  "md5": "55a3e23a63dd960cb87685970787c948"
+}
