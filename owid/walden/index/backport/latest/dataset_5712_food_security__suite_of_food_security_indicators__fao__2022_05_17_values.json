@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5712_food_security__suite_of_food_security_indicators__fao__2022_05_17_values",
+  "name": "Food Security: Suite of Food Security Indicators (FAO, 2022-05-17)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5712",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-03T04:15:32.828766",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5712_food_security__suite_of_food_security_indicators__fao__2022_05_17_values.feather",
+  "md5": "7c1490e92dc81f569dbb2e9ed18829df"
+}

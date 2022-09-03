@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5669_un_sdg__2022_07_07_config",
+  "name": "Grapher metadata for dataset_5669_un_sdg__2022_07_07",
+  "description": "The United Nations Sustainable Development Goal (SDG) dataset is the primary collection of data tracking progress towards the SDG indicators, compiled from officially-recognized international sources.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5669",
+  "file_extension": "json",
+  "date_accessed": "2022-09-03T04:17:15.749345",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "e952ac7da7e275890ed2e76e5828c2d4",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5669_un_sdg__2022_07_07_config.json",
+  "md5": "17af42f37f56a409854ea79af23ed137"
+}
