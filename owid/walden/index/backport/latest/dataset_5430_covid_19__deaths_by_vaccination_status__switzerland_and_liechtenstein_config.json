@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5430",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:13:03.550830",
+  "date_accessed": "2022-09-05T08:35:19.583692",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f44b18af03916018ba1978f79869000e",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5430_covid_19__deaths_by_vaccination_status__switzerland_and_liechtenstein_config.json",
-  "md5": "ed41effd99771201b8aabd07823e8e83"
+  "origin_md5": "200b27786c364a5de7e005dd2315564a",
+  "md5": "c3e024f493a948a608a181f8effc9049"
 }
