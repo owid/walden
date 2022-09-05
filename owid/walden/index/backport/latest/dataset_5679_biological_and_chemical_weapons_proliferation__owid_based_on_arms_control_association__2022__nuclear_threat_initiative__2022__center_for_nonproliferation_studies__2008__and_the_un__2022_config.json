@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5679_biological_and_chemical_weapons_proliferation__owid_based_on_arms_control_association__2022__nuclear_threat_initiative__2022__center_for_nonproliferation_studies__2008__and_the_un__2022_config",
+  "name": "Grapher metadata for dataset_5679_biological_and_chemical_weapons_proliferation__owid_based_on_arms_control_association__2022__nuclear_threat_initiative__2022__center_for_nonproliferation_studies__2008__and_the_un__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5679",
+  "file_extension": "json",
+  "date_accessed": "2022-09-05T12:08:23.465054",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ac944e043cf0c7040aabe719c049b7da",
+  "md5": "00a825646f2c4614dddbe4c91197bf41"
+}
