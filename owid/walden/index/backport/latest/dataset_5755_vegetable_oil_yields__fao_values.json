@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5755",
   "file_extension": "feather",
-  "date_accessed": "2022-09-02T18:00:50.626162",
-  "is_public": false,
+  "date_accessed": "2022-09-05T07:21:45.655498",
+  "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5755_vegetable_oil_yields__fao_values.feather",
   "md5": "f7a66dc34a692fd0f3c9a466ba2b9340"
 }
