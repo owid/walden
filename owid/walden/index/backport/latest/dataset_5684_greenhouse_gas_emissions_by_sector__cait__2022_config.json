@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5684",
   "file_extension": "json",
-  "date_accessed": "2022-09-06T14:48:39.054685",
+  "date_accessed": "2022-09-06T14:54:04.122713",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "7527038ad2cf70881ea8db01140ea64f",
-  "md5": "51ca0d26e064dd4c586ebddef7713c66"
+  "origin_md5": "5a8e75bc39d44af706bd9b22b33c3ce2",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5684_greenhouse_gas_emissions_by_sector__cait__2022_config.json",
+  "md5": "74d936b970be7e77fbeaf846bba20eca"
 }
