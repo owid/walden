@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5534",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:21:36.472977",
+  "date_accessed": "2022-09-06T08:10:29.374567",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "27ad9b64881ffa206c45399ef6e19fde",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5534_nuclear_weapons_tests__arms_control_association__2020_config.json",
-  "md5": "25ae31a6fffb92c70c3faa2fc06ad054"
+  "origin_md5": "a44e7639bdc9a57861da1bb632179da0",
+  "md5": "8127896d41c4bc8f852ac5334020bd8c"
 }

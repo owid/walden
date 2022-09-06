@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5538",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:57:51.164393",
+  "date_accessed": "2022-09-06T08:38:45.373503",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "dbaae2749d4325ac4f60ea091a4479a3",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5538_nuclear_weapons_proliferation__owid_based_on_bleek__2017__nuclear_threat_initiative__2022_config.json",
-  "md5": "ace9367ef153f7acc8b76debe8128112"
+  "origin_md5": "8102b26df66ef352c497b2044a5557e5",
+  "md5": "e034ffd6da5659ad606d47aeb9dbe0f2"
 }
