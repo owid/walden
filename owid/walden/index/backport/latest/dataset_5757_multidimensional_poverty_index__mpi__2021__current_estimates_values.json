@@ -6,8 +6,8 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5757",
   "file_extension": "feather",
-  "date_accessed": "2022-09-06T14:33:14.688011",
-  "is_public": false,
+  "date_accessed": "2022-09-06T14:37:57.081981",
+  "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "md5": "3ca45d551fff9c0d2d9e857e9cec1efe"
