@@ -1,15 +1,14 @@
 {
   "namespace": "backport",
   "short_name": "dataset_5757_multidimensional_poverty_index__mpi__2021__current_estimates_values",
-  "name": "Multidimensional Poverty Index - MPI (2021) \u2013 Current estimates",
+  "name": "Multidimensional Poverty Index (MPI) 2021 \u2013 Current estimates",
   "description": "2022 release is expected for mid-October",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5757",
   "file_extension": "feather",
-  "date_accessed": "2022-09-06T14:21:35.622443",
+  "date_accessed": "2022-09-06T14:29:42.371451",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5757_multidimensional_poverty_index__mpi__2021__current_estimates_values.feather",
   "md5": "3ca45d551fff9c0d2d9e857e9cec1efe"
 }
