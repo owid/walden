@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5684_greenhouse_gas_emissions_by_sector__cait__2022_config",
+  "name": "Grapher metadata for dataset_5684_greenhouse_gas_emissions_by_sector__cait__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5684",
+  "file_extension": "json",
+  "date_accessed": "2022-09-06T14:48:39.054685",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "7527038ad2cf70881ea8db01140ea64f",
+  "md5": "51ca0d26e064dd4c586ebddef7713c66"
+}

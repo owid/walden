@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5686_methane_emissions_by_sector__cait__2022_values",
+  "name": "Methane emissions by sector (CAIT, 2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5686",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-06T14:49:56.396150",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "b9c7936de920911bafe30d0ab2e9d94b"
+}

@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5687_nitrous_oxide_emissions_by_sector__cait__2022_config",
+  "name": "Grapher metadata for dataset_5687_nitrous_oxide_emissions_by_sector__cait__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5687",
+  "file_extension": "json",
+  "date_accessed": "2022-09-06T14:49:27.272980",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c02653675ec16182a9290a92a84b0ec0",
+  "md5": "adfda4a4dc12a609d23530469308d197"
+}
