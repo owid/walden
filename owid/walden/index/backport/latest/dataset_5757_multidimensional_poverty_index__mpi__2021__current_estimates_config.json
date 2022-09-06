@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5757_multidimensional_poverty_index__mpi__2021__current_estimates_config",
+  "name": "Grapher metadata for dataset_5757_multidimensional_poverty_index__mpi__2021__current_estimates",
+  "description": "2022 release is expected for mid-October",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5757",
+  "file_extension": "json",
+  "date_accessed": "2022-09-06T14:19:14.580929",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c95fcc1f455e407dbbfd449c33744be1",
+  "md5": "a76f4a924a12d5e738cbfe23bbc05fda"
+}
