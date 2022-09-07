@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2958",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:29:13.530414",
+  "date_accessed": "2022-09-07T15:39:46.830184",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "197b6caf5577672056455f4d910b001e",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2958_precipitation_anomaly_in_us__noaa_config.json",
-  "md5": "116117a5bd28b455bfa554c17eb0bd6d"
+  "origin_md5": "e6d029aba515de22998ce88ee9c3ebb2",
+  "md5": "4f5449019b9f4b6c5e11264e0ca54931"
 }
