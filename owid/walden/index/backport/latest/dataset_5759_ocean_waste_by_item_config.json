@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5759_ocean_waste_by_item_config",
+  "name": "Grapher metadata for dataset_5759_ocean_waste_by_item",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5759",
+  "file_extension": "json",
+  "date_accessed": "2022-09-08T12:01:14.638102",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b9827c5a6d19a69fa38852ac60a77be7",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5759_ocean_waste_by_item_config.json",
+  "md5": "929243884f4f7471050c6abee91305e0"
+}

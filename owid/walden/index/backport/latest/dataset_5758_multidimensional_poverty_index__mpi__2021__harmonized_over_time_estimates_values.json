@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5758_multidimensional_poverty_index__mpi__2021__harmonized_over_time_estimates_values",
+  "name": "Multidimensional Poverty Index (MPI) 2021 \u2013 Harmonized over time estimates",
+  "description": "2022 release is expected for mid-October",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5758",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-08T17:24:49.301832",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5758_multidimensional_poverty_index__mpi__2021__harmonized_over_time_estimates_values.feather",
+  "md5": "76ec6efd86557f005709c888fbb68192"
+}
