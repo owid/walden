@@ -63,11 +63,13 @@
 #    Sex: Both
 #
 # 3. Wait for the data to be prepared and for a download link to be sent
-import click
-import os
 import glob
+import os
+
+import click
 import pandas as pd
 from structlog import get_logger
+
 from owid.walden import add_to_catalog
 
 LOCAL_PATH = "/Users/fionaspooner/Documents/temp/gbd_2021/"
