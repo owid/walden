@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5690_production__value_of_agricultural_production__fao__2022_05_17_values",
+  "name": "Production: Value of Agricultural Production (FAO, 2022-05-17)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5690",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-08T12:29:28.889348",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "e74825e8e86ac03978d33b25b3d9be37"
+}
