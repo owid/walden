@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/701",
   "file_extension": "feather",
-  "date_accessed": "2022-09-08T08:21:20.267727",
+  "date_accessed": "2022-09-08T12:00:25.709791",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_701_gold_prices__laurence__and__williamson__2017_values.feather",
   "md5": "d402aaa17b66d526a4c0a6427474998f"
 }
