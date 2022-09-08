@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5761",
   "file_extension": "json",
-  "date_accessed": "2022-09-08T16:19:17.655676",
+  "date_accessed": "2022-09-08T16:23:11.467490",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "dcb830314382c957f522613c848d10cb",
-  "md5": "816fa082ed22cb1446f85bea9c871216"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5761_ocean_waste_global_top10_config.json",
+  "md5": "85324a37f2f4f1d1b32a7cae09a08a37"
 }
