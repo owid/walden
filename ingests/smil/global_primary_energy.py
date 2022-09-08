@@ -6,6 +6,7 @@ This script will load the local file and uploads it to the S3 walden bucket.
 from pathlib import Path
 
 import click
+
 from owid.walden import Dataset
 
 
