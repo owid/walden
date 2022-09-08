@@ -63,12 +63,15 @@
 #    Sex: Both
 #
 # 3. Wait for the data to be prepared and for a download link to be sent
-
 import click
-from owid.walden import add_to_catalog
 import os
 import glob
 import pandas as pd
+from structlog import get_logger
+from owid.walden import add_to_catalog
+
+
+log = get_logger()
 
 
 @click.command()
@@ -80,8 +83,9 @@ import pandas as pd
 )
 def main(upload: bool) -> None:
     names = ["gbd_cause", "gbd_risk", "gbd_prevalence", "gbd_child_mortality", "gbd_mental_health"]
-    descriptions = ["Deaths and DALYs", "Risk factors", "Prevalence and incidence", "Mental health"]
+    descriptions = ["Deaths and DALYs", "Risk factors", "Prevalence and incidence", "Child mortality", "Mental health"]
     for name, description in zip(names, descriptions):
+        log.info("Combining data for:", df_name=name)
         outpath = combine_csvs(name=name, inpath="/Users/fionaspooner/Documents/temp/gbd_2021/gbd_cause/csv/")
         metadata = {
             "namespace": "ihme_gbd",
@@ -93,6 +97,7 @@ def main(upload: bool) -> None:
             "file_extension": "feather",
             "license_url": "https://www.healthdata.org/data-tools-practices/data-practices/terms-and-conditions",
         }
+        log.info("Adding data to catalog:", df_name=name)
         add_to_catalog(metadata=metadata, outpath=outpath, upload=upload, public=False)
 
 
@@ -101,10 +106,9 @@ def combine_csvs(name: str, inpath: str) -> str:
     files = os.path.join(inpath, "*.csv")
     # list of merged files returned
     files = glob.glob(files)
-    print("Resultant CSV after joining all CSV files at a particular location...")
     # joining files with concat and read_csv
     df = pd.concat(map(pd.read_csv, files), ignore_index=True)
-    outpath = f"inpath/{name}.feather"
+    outpath = f"{inpath}/{name}.feather"
     df.to_feather(outpath)
     return str
 
