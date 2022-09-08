@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5759",
   "file_extension": "feather",
-  "date_accessed": "2022-09-08T11:43:02.402979",
+  "date_accessed": "2022-09-08T12:01:15.100893",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5759_ocean_waste_by_item_values.feather",
   "md5": "0ea284caf177e680e33f903f5ad7a492"
 }
