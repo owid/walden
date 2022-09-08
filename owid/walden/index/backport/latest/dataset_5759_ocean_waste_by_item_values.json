@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5759_ocean_waste_by_item_values",
+  "name": "ocean_waste_by_item",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5759",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-08T11:43:02.402979",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "0ea284caf177e680e33f903f5ad7a492"
+}

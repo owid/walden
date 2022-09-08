@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/653",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:05:17.516325",
+  "date_accessed": "2022-09-08T10:07:52.893958",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "922841d0fcdcdf79ed225c4a02b3db17",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_653_crude_oil_consumption_vs__price__bp_statistics__2016_config.json",
-  "md5": "604b835f3be6aceca030d09b0667ae51"
+  "origin_md5": "61a9777a0411b468dad4b4ab34c83938",
+  "md5": "6a3d7208580549e69e50853cb1f7778e"
 }
