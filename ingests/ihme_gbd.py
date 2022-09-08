@@ -70,6 +70,7 @@ import pandas as pd
 from structlog import get_logger
 from owid.walden import add_to_catalog
 
+LOCAL_PATH = "/Users/fionaspooner/Documents/temp/gbd_2021/"
 
 log = get_logger()
 
@@ -86,19 +87,21 @@ def main(upload: bool) -> None:
     descriptions = ["Deaths and DALYs", "Risk factors", "Prevalence and incidence", "Child mortality", "Mental health"]
     for name, description in zip(names, descriptions):
         log.info("Combining data for:", df_name=name)
-        outpath = combine_csvs(name=name, inpath="/Users/fionaspooner/Documents/temp/gbd_2021/gbd_cause/csv/")
+        outpath = combine_csvs(name=name, inpath=f"{LOCAL_PATH}{name}/csv/")
         metadata = {
             "namespace": "ihme_gbd",
-            "short_name": "%s" % (name),
-            "description": "%s" % (description),
+            "short_name": name,
+            "name": "Institute for Health Metrics and Evaluation - Global Burden of Disease (2019)",
+            "description": description,
             "publication_year": 2019,
             "source_name": "Institute for Health Metrics and Evaluation - Global Burden of Disease Collaborative Network",
             "url": "https://vizhub.healthdata.org/gbd-results/",
+            "source_data_url": "https://unstats.un.org/sdgapi/swagger/",
             "file_extension": "feather",
             "license_url": "https://www.healthdata.org/data-tools-practices/data-practices/terms-and-conditions",
         }
         log.info("Adding data to catalog:", df_name=name)
-        add_to_catalog(metadata=metadata, outpath=outpath, upload=upload, public=False)
+        add_to_catalog(metadata=metadata, filename=outpath, upload=upload, public=False)
 
 
 def combine_csvs(name: str, inpath: str) -> str:
@@ -108,9 +111,9 @@ def combine_csvs(name: str, inpath: str) -> str:
     files = glob.glob(files)
     # joining files with concat and read_csv
     df = pd.concat(map(pd.read_csv, files), ignore_index=True)
-    outpath = f"{inpath}/{name}.feather"
+    outpath = f"{inpath}{name}.feather"
     df.to_feather(outpath)
-    return str
+    return outpath
 
 
 if __name__ == "__main__":
