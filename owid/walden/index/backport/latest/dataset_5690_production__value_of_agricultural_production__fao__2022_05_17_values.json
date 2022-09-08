@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5690",
   "file_extension": "feather",
-  "date_accessed": "2022-09-08T12:29:28.889348",
+  "date_accessed": "2022-09-08T12:33:40.988328",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "md5": "e74825e8e86ac03978d33b25b3d9be37"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5690_production__value_of_agricultural_production__fao__2022_05_17_values.feather",
+  "md5": "026bcd31e684c5c7e168afdf7617415a"
 }
