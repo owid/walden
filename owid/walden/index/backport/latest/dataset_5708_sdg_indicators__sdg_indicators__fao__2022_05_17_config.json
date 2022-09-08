@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5708_sdg_indicators__sdg_indicators__fao__2022_05_17_config",
+  "name": "Grapher metadata for dataset_5708_sdg_indicators__sdg_indicators__fao__2022_05_17",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5708",
+  "file_extension": "json",
+  "date_accessed": "2022-09-08T12:49:56.601535",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "ca1465c923adc32ef30cb36e23458b5c",
+  "md5": "33bd22ca5d9620dd9c20513e510e8ed2"
+}
