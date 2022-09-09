@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2812",
   "file_extension": "feather",
-  "date_accessed": "2022-09-09T14:39:43.973163",
+  "date_accessed": "2022-09-09T18:00:43.879927",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2812_ozone_and_chlorine_projections_to_2100__scientific_assessment_2014_values.feather",
   "md5": "f07e9d4cfcae3d469a4fcb34a44ab617"
 }
