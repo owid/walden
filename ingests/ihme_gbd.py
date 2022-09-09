@@ -63,16 +63,17 @@
 #    Sex: Both
 #
 # 3. Wait for the data to be prepared and for a download link to be sent
+#
+# 4. Save in adjacent folders called 'gbd_cause', 'gbd_risk', 'gbd_prevalence', gbd_child_mortality' & 'gbd_mental_health'
 import glob
 import os
 
 import click
 import pandas as pd
+from owid.catalog.frames import repack_frame
 from structlog import get_logger
 
 from owid.walden import add_to_catalog
-
-LOCAL_PATH = "/Users/fionaspooner/Documents/temp/gbd_2021/"
 
 log = get_logger()
 
@@ -84,12 +85,13 @@ log = get_logger()
     type=bool,
     help="Upload dataset to Walden",
 )
-def main(upload: bool) -> None:
+@click.argument("path")
+def main(path: str, upload: bool) -> None:
     names = ["gbd_cause", "gbd_risk", "gbd_prevalence", "gbd_child_mortality", "gbd_mental_health"]
     descriptions = ["Deaths and DALYs", "Risk factors", "Prevalence and incidence", "Child mortality", "Mental health"]
     for name, description in zip(names, descriptions):
         log.info("Combining data for:", df_name=name)
-        outpath = combine_csvs(name=name, inpath=f"{LOCAL_PATH}{name}/csv/")
+        outpath = combine_csvs(name=name, inpath=f"{path}{name}/csv/")
         metadata = {
             "namespace": "ihme_gbd",
             "short_name": name,
@@ -114,6 +116,7 @@ def combine_csvs(name: str, inpath: str) -> str:
     # joining files with concat and read_csv
     df = pd.concat(map(pd.read_csv, files), ignore_index=True)
     outpath = f"{inpath}{name}.feather"
+    df = repack_frame(df)
     df.to_feather(outpath)
     return outpath
 
