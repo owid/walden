@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5743",
   "file_extension": "json",
-  "date_accessed": "2022-09-02T12:46:14.461345",
+  "date_accessed": "2022-09-09T13:13:01.538801",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "330fe53e4f4a138d96efbc4bcd3e35cd",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5743_world_population_prospects__un__2022_config.json",
-  "md5": "ed43b3b77ce0d6842dec26aa09c4ea6e"
+  "origin_md5": "6923137ceadca0a8d78f1b3e3a9e4ce9",
+  "md5": "e5c590d72a7f466df64284524cc2d332"
 }
