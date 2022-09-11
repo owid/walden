@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4903",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:14:40.268866",
+  "date_accessed": "2022-09-10T20:17:24.093624",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ca3418563e93da614f74629218038eca",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4903_same_sex_marriage_law__pew_research_center__cfr_config.json",
-  "md5": "7dba0dd3ed834c3d6bf8bd4f6e0274a2"
+  "origin_md5": "21be6a82e927f252744b4d751dc9968a",
+  "md5": "4eb05e67a2fea47210a0ef975da788de"
 }
