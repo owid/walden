@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5414",
   "file_extension": "feather",
-  "date_accessed": "2022-09-12T09:02:31.335468",
+  "date_accessed": "2022-09-12T13:30:29.465137",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5414_covid_19__deaths_by_vaccination_status__chile_values.feather",
   "md5": "a34195c6e85da49f4258a84d7a794f76"
 }
