@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_852_drug_overdose_deaths_in_the_us__cdc_wonder_config",
+  "name": "Grapher metadata for dataset_852_drug_overdose_deaths_in_the_us__cdc_wonder",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/852",
+  "file_extension": "json",
+  "date_accessed": "2022-09-12T11:26:36.429009",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b3a9ca4bf21e967e44ff9cc49797bd7c",
+  "md5": "8ed52a6c6a981fd2b3225f5051a45ee4"
+}
