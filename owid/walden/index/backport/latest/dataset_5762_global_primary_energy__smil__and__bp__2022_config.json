@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5762_global_primary_energy__smil__and__bp__2022_config",
+  "name": "Grapher metadata for dataset_5762_global_primary_energy__smil__and__bp__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5762",
+  "file_extension": "json",
+  "date_accessed": "2022-09-12T16:19:37.295827",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "3b604f7c2a2e18dbf34d8a9c67f892ac",
+  "md5": "9c70dfb45db6b58c93dfee7912ef5bca"
+}
