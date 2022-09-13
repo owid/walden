@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5764_allocation_of_cereals_to_food__feed_and_fuel_config",
+  "name": "Grapher metadata for dataset_5764_allocation_of_cereals_to_food__feed_and_fuel",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5764",
+  "file_extension": "json",
+  "date_accessed": "2022-09-13T15:29:19.280983",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c6213dc304c85c9d76ed48106ce55a98",
+  "md5": "09665197b1f70b7ed202cc0cc17ee145"
+}
