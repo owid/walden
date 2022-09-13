@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5765",
   "file_extension": "json",
-  "date_accessed": "2022-09-13T17:34:29.845417",
+  "date_accessed": "2022-09-13T18:02:46.581092",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "511384b1802c8b29978ff75d778c886d",
-  "md5": "430039ad091dcf7d5ebd36553dbf87f2"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5765_computer_chess_elo_ratings__chess_com__ssdf__2022_config.json",
+  "md5": "21a2e84df645c89849bb40a33b8fb0e0"
 }
