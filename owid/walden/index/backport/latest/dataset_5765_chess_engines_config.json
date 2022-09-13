@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5765_chess_engines_config",
+  "name": "Grapher metadata for dataset_5765_chess_engines",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5765",
+  "file_extension": "json",
+  "date_accessed": "2022-09-13T16:31:38.479949",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "6b36a3633cea6c930694511836317293",
+  "md5": "95b3dd73f8fade050003b4d60dad6a6a"
+}
