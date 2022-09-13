@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5656_ai_index_report__2022__to_be_replaced_values",
+  "name": "AI Index Report (2022) \u2014 to be replaced",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5656",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-13T12:35:42.140966",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "49285222be238b1bcab729e97914a295"
+}

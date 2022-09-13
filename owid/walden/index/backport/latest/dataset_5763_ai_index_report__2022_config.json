@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5763_ai_index_report__2022_config",
+  "name": "Grapher metadata for dataset_5763_ai_index_report__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5763",
+  "file_extension": "json",
+  "date_accessed": "2022-09-13T12:37:15.063044",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fb412118621072689b1cb4e36e79d338",
+  "md5": "a64ecee0d8ace1251e43b2d46542fb41"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5763_ai_index_13sep22_country_standardized_values",
+  "name": "AI_index_13Sep22_country_standardized",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5763",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-13T12:36:26.196476",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "2665807b09f25231abbca87cf29e8cba"
+}
