@@ -1,6 +1,6 @@
 namespace: rff
-short_name: world_carbon_pricing_sources
-name: World Carbon Pricing Database Sources (2022)
+short_name: world_carbon_pricing__sources
+name: World Carbon Pricing Database - Sources
 source_name: Resources for the Future
 publication_year: 2022
 publication_date: 2022-09-14
