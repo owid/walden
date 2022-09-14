@@ -2,7 +2,8 @@ namespace: rff
 short_name: world_carbon_pricing_sources
 name: World Carbon Pricing Database Sources (2022)
 source_name: Resources for the Future
-publication_year: 2022-09-14
+publication_year: 2022
+publication_date: 2022-09-14
 file_extension: zip
 url: https://github.com/g-dolphin/WorldCarbonPricingDatabase
 license_url: https://github.com/g-dolphin/WorldCarbonPricingDatabase#license
