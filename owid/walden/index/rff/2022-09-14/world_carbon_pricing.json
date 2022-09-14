@@ -1,7 +1,7 @@
 {
   "namespace": "rff",
   "short_name": "world_carbon_pricing",
-  "name": "World Carbon Pricing Database (2022)",
+  "name": "World Carbon Pricing Database",
   "description": "Dolphin, G., Pollitt, M. and Newbery, D. 2020. The political economy of carbon pricing: a panel analysis. Oxford Economic Papers 72(2): 472-500.\n",
   "source_name": "Resources for the Future",
   "url": "https://github.com/g-dolphin/WorldCarbonPricingDatabase",
@@ -14,5 +14,5 @@
   "publication_year": 2022,
   "publication_date": "2022-09-14",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/rff/2022-09-14/world_carbon_pricing.zip",
-  "md5": "7eb49f6726bc0671f94d58d527248990"
+  "md5": "5bb04e12474bafc92759bf37be8b2e97"
 }
