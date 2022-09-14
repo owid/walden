@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5767_world_inequality_database__wid__2022__pretax_income_config",
+  "name": "Grapher metadata for dataset_5767_world_inequality_database__wid__2022__pretax_income",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5767",
+  "file_extension": "json",
+  "date_accessed": "2022-09-14T15:00:46.212474",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c56f5118ef636e4b23c88557a0794117",
+  "md5": "be2522b7abb1aee20c6d5f5e0697e734"
+}

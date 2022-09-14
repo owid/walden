@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5767_world_inequality_database__wid__2022__pretax_income_values",
+  "name": "World Inequality Database (WID) 2022 - Pretax income",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5767",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-14T15:00:48.443942",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "a9d808a0c428da7e319f249e1d535417"
+}
