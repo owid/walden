@@ -3,10 +3,10 @@ import tempfile
 from pathlib import Path
 
 import click
-from owid.walden import Dataset
+from shared import WCPD_DATA_DIR, WCPD_URL, extract_data_from_remote_zip_folder
 from structlog import get_logger
 
-from shared import WCPD_DATA_DIR, WCPD_URL, extract_data_from_remote_zip_folder
+from owid.walden import Dataset
 
 log = get_logger()
 
@@ -22,7 +22,7 @@ def main(upload: bool) -> None:
     metadata = Dataset.from_yaml(Path(__file__).parent / "world_carbon_pricing.meta.yml")
 
     # Download zipped repository, extract data from files, and concatenated them into one dataframe.
-    log.info("Download data from source.")
+    log.info("Download data.")
     data = extract_data_from_remote_zip_folder(zip_url=WCPD_URL, path_to_folder=WCPD_DATA_DIR)
 
     with tempfile.NamedTemporaryFile() as temp_file:
