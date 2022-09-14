@@ -11,7 +11,8 @@
   "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License",
   "is_public": true,
   "version": "2022-09-14",
-  "publication_year": "2022-09-14",
+  "publication_year": 2022,
+  "publication_date": "2022-09-14",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/rff/2022-09-14/world_carbon_pricing_sources.zip",
-  "md5": "e2ea1d438edaf2e5cdd993c2cb338102"
+  "md5": "9cd868770e0a116924537e0b7d4c6093"
 }
