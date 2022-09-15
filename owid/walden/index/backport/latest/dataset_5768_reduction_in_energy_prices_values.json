@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5768_reduction_in_energy_prices_values",
+  "name": "Reduction in energy prices",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5768",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-14T19:28:51.965572",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "bf541e0dc463cb27eeb9d5ebc4ac92b6"
+}

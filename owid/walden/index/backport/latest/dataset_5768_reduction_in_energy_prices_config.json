@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5768_reduction_in_energy_prices_config",
+  "name": "Grapher metadata for dataset_5768_reduction_in_energy_prices",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5768",
+  "file_extension": "json",
+  "date_accessed": "2022-09-14T19:28:51.952438",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "d71718d47b86faa27aaae5d248512dd9",
+  "md5": "b049e5b235563dc8d0d2650f2c1df2c8"
+}
