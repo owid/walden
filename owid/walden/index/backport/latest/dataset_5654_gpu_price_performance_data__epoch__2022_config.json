@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5654",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:19:09.815971",
+  "date_accessed": "2022-09-15T11:32:32.900785",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "27f3d7ae5a4f1e39e0a3eba503ce7d41",
+  "origin_md5": "6a0f27f66fc1aef365c9887ef678a787",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5654_gpu_price_performance_data__epoch__2022_config.json",
-  "md5": "a3d044a2ef12e08b7b5b75dedc03cedd"
+  "md5": "1b6d3aac116ef66e68a1223b72542120"
 }

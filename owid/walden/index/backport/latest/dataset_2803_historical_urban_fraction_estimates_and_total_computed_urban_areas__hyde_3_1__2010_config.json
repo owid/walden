@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2803",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:27:49.073170",
+  "date_accessed": "2022-09-15T11:34:02.364075",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9feaf4d60a4f2a5006f228d133bd6243",
+  "origin_md5": "5674cf5dd407cf8c5aea9dd7a178e108",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2803_historical_urban_fraction_estimates_and_total_computed_urban_areas__hyde_3_1__2010_config.json",
-  "md5": "ac2f3a2721bb4c16a2e192207132f5e1"
+  "md5": "6bba2e4a51220273cc460b40c563b722"
 }

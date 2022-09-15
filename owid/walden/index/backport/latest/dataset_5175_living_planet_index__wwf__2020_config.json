@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5175",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:18:27.750988",
+  "date_accessed": "2022-09-15T11:24:44.195977",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a9f597588817da94f67dc90f3c3e2c22",
+  "origin_md5": "d038843da547c28857a20e8e1b933c29",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5175_living_planet_index__wwf__2020_config.json",
-  "md5": "53efd33ab18503a07c8e4de5df848453"
+  "md5": "e55b3e5b83ca34f556ffebbcf7888b66"
 }

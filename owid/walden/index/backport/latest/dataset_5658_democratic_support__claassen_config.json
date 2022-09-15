@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5658",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:14:49.118072",
+  "date_accessed": "2022-09-15T11:16:58.627661",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "85726f51053a38c34432af7ba0d28381",
+  "origin_md5": "2591fc2d881a6c077b2761a5631076f1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5658_democratic_support__claassen_config.json",
-  "md5": "8f81b3d9682c3783bbb40b9cf8d233fa"
+  "md5": "ee68de11d1117e3ee2fbaf9e937c1cc8"
 }

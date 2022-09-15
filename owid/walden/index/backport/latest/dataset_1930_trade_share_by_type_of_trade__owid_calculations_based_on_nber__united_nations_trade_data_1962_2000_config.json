@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1930",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:28:37.551005",
+  "date_accessed": "2022-09-15T11:18:31.740157",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e487287ea3ddf14aed8e659d27520104",
+  "origin_md5": "3ea36b0e15ace03fa4c9c111e87a34b1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1930_trade_share_by_type_of_trade__owid_calculations_based_on_nber__united_nations_trade_data_1962_2000_config.json",
-  "md5": "80d3384a375df5edd3bde3793ba300f9"
+  "md5": "a931956e6ecef99accfcba0b15b58a2a"
 }

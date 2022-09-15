@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/488",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:39:36.544242",
+  "date_accessed": "2022-09-15T11:02:16.116153",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2b1917d16fd345b533493028f40c651f",
+  "origin_md5": "87246b043089112f0fbfaa0e84b47bbc",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_488_prevalence_of_undernourishment_in_developing_countries__fao__food_security_indicators__2017_config.json",
-  "md5": "2c528b3d3ee3db8fe16c6616f0e585a4"
+  "md5": "678494a4406ad386d5a8b990c3cf7e56"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2593",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:54:20.009652",
+  "date_accessed": "2022-09-15T11:10:42.058135",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "41f4b3f600b90bc723a94a9569c3418c",
+  "origin_md5": "65b50040bb01bef78721e51afef339d6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2593_labour__lfs_by_sex_and_age__indicators_config.json",
-  "md5": "7249e9765767ec87b215130a1e37b443"
+  "md5": "dc18b0a9a0722047b8afb8558ab92514"
 }

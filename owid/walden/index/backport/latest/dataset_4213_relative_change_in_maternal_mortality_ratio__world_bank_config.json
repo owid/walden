@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4213",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:15:00.775741",
+  "date_accessed": "2022-09-15T11:11:56.504402",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5a6b1a4eb4ea43ad0ec51f66e6623586",
+  "origin_md5": "000f94b0bae653d5c16e55e0dfb8675c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4213_relative_change_in_maternal_mortality_ratio__world_bank_config.json",
-  "md5": "082be0d05b8404ec5875e97e8b7d5be4"
+  "md5": "16f9f7f53f956f2e3233a1ca99ba7a3b"
 }

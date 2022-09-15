@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/66",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:40:50.180806",
+  "date_accessed": "2022-09-15T11:07:21.508916",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2b5eb56d2469d5e71f6ba1a2746d4103",
+  "origin_md5": "9cea1206b96053752cfc7abf32bfbbb4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_66_labour_cost_ratio__45_54_year_old_population__2009__oecd__2012_config.json",
-  "md5": "3e05bde6c1408d9bf9c0073752ee8449"
+  "md5": "e5aba85366c882342e73348776536359"
 }

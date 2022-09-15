@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5651",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:20:07.333297",
+  "date_accessed": "2022-09-15T11:33:49.110412",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "180bab4f63a13255c201ee2a7617b3df",
+  "origin_md5": "4f7e07d36c93e6ccd346036796433628",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5651_food_affordability__world_bank__fao__2022_config.json",
-  "md5": "8da5553e862753c557044f3d70fa60a1"
+  "md5": "2d2e76203d8849ba042d8d4998e9e2d7"
 }

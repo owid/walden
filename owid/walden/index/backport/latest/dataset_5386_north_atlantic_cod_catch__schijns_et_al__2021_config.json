@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5386",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:12:44.196303",
+  "date_accessed": "2022-09-15T11:18:37.875691",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "121bde5c3eaa9602cc2ef2224ab2e81f",
+  "origin_md5": "1a41bb126035909d7e9f35395ba16f80",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5386_north_atlantic_cod_catch__schijns_et_al__2021_config.json",
-  "md5": "ee3e8bc61f6603977a1083e9e793a6f0"
+  "md5": "7df52b8a22612b7f45c6e171012504ed"
 }

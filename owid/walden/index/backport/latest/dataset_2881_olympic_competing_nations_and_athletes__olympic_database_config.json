@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2881",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:46:12.504616",
+  "date_accessed": "2022-09-15T11:10:39.140025",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "6dab16bd0078403be67a7dc5a8738ba4",
+  "origin_md5": "7665a4fa1ce61edc7274f5d3deb52c29",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2881_olympic_competing_nations_and_athletes__olympic_database_config.json",
-  "md5": "3d998c321b8e8ead3159738e2193b100"
+  "md5": "dd8e0b140980b37cf748940536b914bb"
 }

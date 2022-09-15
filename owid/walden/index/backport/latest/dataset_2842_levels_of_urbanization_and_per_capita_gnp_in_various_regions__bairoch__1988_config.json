@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2842",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:58:50.863758",
+  "date_accessed": "2022-09-15T11:16:44.171863",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bac1521a2c68e70d02e33296c81045a5",
+  "origin_md5": "6debbff0babe6591834f6e41545c8f22",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2842_levels_of_urbanization_and_per_capita_gnp_in_various_regions__bairoch__1988_config.json",
-  "md5": "436e16a3aeca77ecdc68a76118f8ae23"
+  "md5": "54554b065c52924e6b77067009e2a931"
 }

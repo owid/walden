@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2553",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:39:56.932173",
+  "date_accessed": "2022-09-15T11:13:58.486104",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4156d0e8f6d34dff1157bd2d5ca07622",
+  "origin_md5": "b64c558b5ffbb5fde7afc38d786fa3a6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2553_productivity__level_of_gdp_per_capita_and_productivity_config.json",
-  "md5": "44ad8baf24f151d00f0396e61f6249bf"
+  "md5": "fdf44cf912d5db1b6115a5af56088bd9"
 }

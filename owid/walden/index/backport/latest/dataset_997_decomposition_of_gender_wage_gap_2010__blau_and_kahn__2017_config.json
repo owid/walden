@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/997",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:35:05.775866",
+  "date_accessed": "2022-09-15T11:16:00.970529",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "77d486592d0c872ac0242add19eeaa33",
+  "origin_md5": "05d4c506714901ab027b7bbba2627146",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_997_decomposition_of_gender_wage_gap_2010__blau_and_kahn__2017_config.json",
-  "md5": "6a1bb4e31c8260c83fff73e758a4c70a"
+  "md5": "b27a50fc92d52587147fb682ed7353f9"
 }

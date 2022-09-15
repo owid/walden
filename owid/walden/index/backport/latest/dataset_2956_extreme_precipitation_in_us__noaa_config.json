@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2956",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:52:01.791480",
+  "date_accessed": "2022-09-15T11:02:01.097559",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "1b1c33be4b67329165b1656d5f551b78",
+  "origin_md5": "324553bac8ceb38ab97bc7ea42343b2d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2956_extreme_precipitation_in_us__noaa_config.json",
-  "md5": "1b05955783fe242e2bbfc54a4f963388"
+  "md5": "a57f3af91e2bd446b4e9f3cefbe4fc66"
 }

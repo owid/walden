@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2482",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:47:11.762801",
+  "date_accessed": "2022-09-15T11:07:30.602364",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bb5b91d1f7fc312cca49b137de23596e",
+  "origin_md5": "25063b7fd3a4dd54b514e064194f6b66",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2482_gini_coefficient__equivalized_income_after_tax_and_transfers__chartbook_of_economic_inequality__2017_config.json",
-  "md5": "82ef86651fa5c4bf4a2f366f1dcc96c5"
+  "md5": "16865cd2e4ca710659b414a04f506f82"
 }

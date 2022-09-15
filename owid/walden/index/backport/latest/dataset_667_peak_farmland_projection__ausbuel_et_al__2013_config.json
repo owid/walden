@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/667",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:55:20.780019",
+  "date_accessed": "2022-09-15T11:27:46.718011",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e67f9fe0874c3898a623f34114116b3f",
+  "origin_md5": "0a906971ff1dcad4001194be18ae6ffe",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_667_peak_farmland_projection__ausbuel_et_al__2013_config.json",
-  "md5": "5dd1ba20cabf3bd540699d93cf1f772a"
+  "md5": "3b1971db3dbca68a38153c38843558d1"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1871",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:38:05.013252",
+  "date_accessed": "2022-09-15T11:02:50.065790",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b33fdd69de502efcb44c43539a679c40",
+  "origin_md5": "fa2faaefbc9359496cf3ef669d0c299e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1871_womens_weekly_earnings_as_a_percentage_of_mens__bureau_of_labor_statistics__2017_config.json",
-  "md5": "a44c63dc342aca3e12981701280fcba4"
+  "md5": "d813ef29bb3b790af1b17248993fe43a"
 }

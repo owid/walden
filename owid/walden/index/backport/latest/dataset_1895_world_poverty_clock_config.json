@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1895",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:59:25.100119",
+  "date_accessed": "2022-09-15T11:32:36.945193",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9fb8a5684184174b86b7c9aeb6130e70",
+  "origin_md5": "54ba46f642726cc4eff56dd74ada4ea5",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1895_world_poverty_clock_config.json",
-  "md5": "c22b0208e1086ee8431441c789687ab6"
+  "md5": "543c0938572355689b58dc3533730c6e"
 }

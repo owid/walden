@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5373",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:16:25.886867",
+  "date_accessed": "2022-09-15T11:05:45.403921",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bb03b6ff85279fa8154c95f62a2b1f7b",
+  "origin_md5": "4f90655316bdef6b9bfe29220e84d320",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5373_environmental_impacts_of_seafood__gephart_et_al__2021_config.json",
-  "md5": "f0b65abfff9b28e4b2816774c202251f"
+  "md5": "c3c3b3ad93796b0b8edb4956b6ed7675"
 }

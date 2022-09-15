@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2498",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:54:40.025703",
+  "date_accessed": "2022-09-15T11:06:41.636341",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "47f570352b20ec97f6de4225b739e11f",
+  "origin_md5": "95fbf55f6fce04fc12bfd5af84e2d2c9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2498_fishery_catch_breakdown__pauly_and_zeller__2016_config.json",
-  "md5": "4f641f8b1a4ec7fb55b032fcd3dbe923"
+  "md5": "c802b32708dfbab074459fd2f512e978"
 }

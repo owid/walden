@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1834",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:59:11.451629",
+  "date_accessed": "2022-09-15T11:02:04.065381",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2679b9cb7c256c13616abd32acfa417d",
+  "origin_md5": "784b412c180e3df0953cb26c53834862",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1834_global_smallpox_cases_config.json",
-  "md5": "4f175c00300006aed8556fd5d43ac2fe"
+  "md5": "fb91bc3aab3d0a57c3f4dcdebe5d9477"
 }

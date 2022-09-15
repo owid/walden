@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5263",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:20:43.904390",
+  "date_accessed": "2022-09-15T11:13:19.341344",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "d2316680235515af8ba61d2b70d918f3",
+  "origin_md5": "f94a5fc070008d2f96290fed91e8fa62",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5263_international_whaling_commissions_members_by_year_config.json",
-  "md5": "f4afadab94784d106baeab306dcdb39b"
+  "md5": "ab679fb380fdc2a67025ad12c5fd797b"
 }

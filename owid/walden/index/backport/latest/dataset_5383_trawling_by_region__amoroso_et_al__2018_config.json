@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5383",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:18:05.769757",
+  "date_accessed": "2022-09-15T11:19:17.954724",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "05d5d7d28c6ce0113a1390e985d4b1d5",
+  "origin_md5": "104624e935e6a1cd62a3718d6bd0954f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5383_trawling_by_region__amoroso_et_al__2018_config.json",
-  "md5": "9c7d22b84227832363fed3ee468bd5fa"
+  "md5": "aba95d81071d603799236a56c8d5e3f8"
 }

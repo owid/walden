@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5283",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:15:31.530568",
+  "date_accessed": "2022-09-15T11:26:50.437318",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f049a2121ce6e670a05e7bcb569c76b5",
+  "origin_md5": "12346088e8b0e9a89ce8255b17c38a73",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5283_number_of_extinctions_since_1500__iucn_red_list_config.json",
-  "md5": "baeefeef0ea0841e3becf71940ff51ec"
+  "md5": "c8998f2cb90a1104b31ce69365270f35"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2898",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:04:03.628485",
+  "date_accessed": "2022-09-15T11:05:52.658629",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a4ec8e00c0cbed3fb72d0f559f153ee8",
+  "origin_md5": "6e90015ffc0df8170e90d642b6281897",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2898_city_populations__1950_2035__un_urbanization_prospects__2018_config.json",
-  "md5": "b0ce1ce24f37d3e826e21ef06164cdd0"
+  "md5": "1aced6f6816e02131cea5e4b2f2ef8d7"
 }

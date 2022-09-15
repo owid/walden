@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/942",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:50:06.306051",
+  "date_accessed": "2022-09-15T11:12:40.378739",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "421d6acb1b435eafa759d8b2875c7ce8",
+  "origin_md5": "6026c25afdf0e0eb45c2af323f8c2017",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_942_violent_discipline__unicef__2017_config.json",
-  "md5": "2ca5e5e9d76ad78f8bdd5659d8ea9457"
+  "md5": "a93c6e50e00787b66b7df45f1feae537"
 }

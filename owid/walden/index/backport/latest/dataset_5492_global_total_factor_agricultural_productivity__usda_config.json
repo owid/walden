@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5492",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:13:26.463358",
+  "date_accessed": "2022-09-15T11:18:38.931274",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "8ed30972bcd8f31c4e092028e8ea7af5",
+  "origin_md5": "6e7fd72169c9de15ba5e02a254887cef",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5492_global_total_factor_agricultural_productivity__usda_config.json",
-  "md5": "af1af9549c0463deb8a42898286ea7d3"
+  "md5": "81f452cbe0b5c163744d0f86ec14a5d6"
 }

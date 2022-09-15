@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5389",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:14:30.724030",
+  "date_accessed": "2022-09-15T11:20:41.671713",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "36b9f9926175b4438d65eedd4855068f",
+  "origin_md5": "1bf07937562ca9db41c1625921c61e8a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5389_fish_catch_in_the_uk__thurstan_et_al__2009_config.json",
-  "md5": "2a51851404bc7b27394ea62d95e88cde"
+  "md5": "f346d5a9e7a16114a3f475c2f4222d91"
 }

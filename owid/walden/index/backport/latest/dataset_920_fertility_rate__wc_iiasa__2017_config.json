@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/920",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:29:21.686489",
+  "date_accessed": "2022-09-15T11:18:08.090366",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "944320ebe900ce34ea8d4670a4c9dd40",
+  "origin_md5": "6bf1ad0bd030936bc00d3720701c8c27",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_920_fertility_rate__wc_iiasa__2017_config.json",
-  "md5": "cfae2fcd4c3fc79722492c99cbf7a6eb"
+  "md5": "eec1dbf4a3b9de3068cdb99da775fa8e"
 }

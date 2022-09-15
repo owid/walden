@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5403",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:13:45.250054",
+  "date_accessed": "2022-09-15T11:05:06.135619",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "8a4dbb4a4a2d557c17455c089eea2a59",
+  "origin_md5": "644306dc53b48de2955107a3ccf9a49d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5403_consumption_based_energy__kulionis__2021_config.json",
-  "md5": "bcdcc2e04086bc72de524ebd0267ae34"
+  "md5": "bf368f226ca4cbb2358f9cca24b75de7"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/327",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:31:06.820379",
+  "date_accessed": "2022-09-15T11:15:20.827487",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3a308bd01585ae8dce68711485a6560a",
+  "origin_md5": "75913df2fa085692b82d4ea23ca250a7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_327_oecd__consumption_tax_trends_2016_config.json",
-  "md5": "e535ff6cd11c932cc7841b02dc116e89"
+  "md5": "c5d3d6f071ec8160abfd36e92e64da6f"
 }

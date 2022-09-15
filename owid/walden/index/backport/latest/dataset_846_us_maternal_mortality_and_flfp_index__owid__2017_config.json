@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/846",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:48:25.331937",
+  "date_accessed": "2022-09-15T11:21:45.627386",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "8f95c4f025e214b3a6c4a3d9d1eb086b",
+  "origin_md5": "0166b6eeb83af1e9037ff10464efea51",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_846_us_maternal_mortality_and_flfp_index__owid__2017_config.json",
-  "md5": "4ef9df6776623f2239cd83b6fc1073df"
+  "md5": "59dfa530c9fc04498e5ce4cbc3106fd2"
 }

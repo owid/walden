@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5333",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:24:13.514497",
+  "date_accessed": "2022-09-15T11:08:19.266351",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "1f966daef9c2884d795320e2c42431a4",
+  "origin_md5": "81e61d4719ff995ac0abcb46c787168d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5333_historical_estimates_of_number_of_people_living_at_different_income_thresholds_globally__owid_based_on_maddison_project_database_2020__gcip_and_van_zanden_et_al__2014_config.json",
-  "md5": "c3edf968b9e1ec28f4d26991cb5fd39c"
+  "md5": "eced7ff955da9a38a35c71bf587a5b4e"
 }

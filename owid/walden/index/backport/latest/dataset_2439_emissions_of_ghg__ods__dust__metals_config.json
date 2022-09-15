@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2439",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:39:38.541013",
+  "date_accessed": "2022-09-15T11:02:51.021654",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e23d2960cb9395ea7fd1a72ac4d85dd0",
+  "origin_md5": "7ec5a3275f6a61c6d4a41c96c79cad50",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2439_emissions_of_ghg__ods__dust__metals_config.json",
-  "md5": "5d12ce60c979272880afbb891afa4e6f"
+  "md5": "858e777798f44014b9d2677c65e031fb"
 }

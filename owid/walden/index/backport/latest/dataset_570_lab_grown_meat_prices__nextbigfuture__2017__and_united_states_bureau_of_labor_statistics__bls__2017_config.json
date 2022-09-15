@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/570",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:25:21.386220",
+  "date_accessed": "2022-09-15T11:21:01.728487",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9a2e9190b715a17ae4752d763ca2aa2f",
+  "origin_md5": "553740d520f49de8b35a67850d2837bb",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_570_lab_grown_meat_prices__nextbigfuture__2017__and_united_states_bureau_of_labor_statistics__bls__2017_config.json",
-  "md5": "388fcd7240e140c06d56f03c6a246ab5"
+  "md5": "b22cab6061f63ed55dae270e2f300f0a"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/944",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:00:42.730463",
+  "date_accessed": "2022-09-15T11:18:03.867565",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "79022e621dd04904c693d0afda1af4e2",
+  "origin_md5": "4c77ccd3dd77a5b9bac24692c8fa96db",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_944_income_classification__world_bank__2017_config.json",
-  "md5": "66af5494df92bc43d54a87e3786ffe60"
+  "md5": "81e203da03a7390d72f94ca8d031486a"
 }

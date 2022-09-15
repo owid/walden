@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4194",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:58:58.380165",
+  "date_accessed": "2022-09-15T11:34:10.406261",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "76f5b595ceb9bfc77535f7ec6d260e0b",
+  "origin_md5": "33e4ab8152309d4a46fbcaea19c5b659",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4194_whale_populations__pershing_et_al__2010_config.json",
-  "md5": "3f2e538ad4cc274f5048f23a52b97f6b"
+  "md5": "922ff5ebcf2984b287ffefeea76918c8"
 }

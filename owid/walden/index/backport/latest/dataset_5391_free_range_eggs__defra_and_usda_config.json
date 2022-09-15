@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5391",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:12:20.201632",
+  "date_accessed": "2022-09-15T11:04:08.398273",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e27d47dfd93cc1bf32ee1d4e09eee231",
+  "origin_md5": "ce6d2b5bd840a7a48d7ee69812c9fe0f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5391_free_range_eggs__defra_and_usda_config.json",
-  "md5": "164484d93a83631aa0573e4550bf5bdd"
+  "md5": "0876105d1f25de754bf599ff1d47c860"
 }

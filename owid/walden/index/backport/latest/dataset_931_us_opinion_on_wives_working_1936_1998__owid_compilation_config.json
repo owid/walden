@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/931",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:40:28.685830",
+  "date_accessed": "2022-09-15T11:30:55.984483",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b06da65ca9aace8f8a64448950618b14",
+  "origin_md5": "56ac086d79c012cb3a6db951d63c0295",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_931_us_opinion_on_wives_working_1936_1998__owid_compilation_config.json",
-  "md5": "c30cf5475d2749ae000ae2c9da750403"
+  "md5": "eb81b121f5e3c15bfac3a6044dbc6452"
 }

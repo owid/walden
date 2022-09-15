@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4118",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:54:48.636512",
+  "date_accessed": "2022-09-15T11:06:42.740009",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "8b01a9ed3ce08af2bb5af3c247d68f55",
+  "origin_md5": "6ad0a6297a2728fafa0e9c803cc861e9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4118_world_press_freedom_index__reporters_sans_frontieres__2022_config.json",
-  "md5": "f868b4862bc4151f57fdd892776baa74"
+  "md5": "2c428f46697eb3cf1ccc3694e9c200dc"
 }

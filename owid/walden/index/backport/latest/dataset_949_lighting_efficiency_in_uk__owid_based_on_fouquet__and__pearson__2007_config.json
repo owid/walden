@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/949",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:02:04.326621",
+  "date_accessed": "2022-09-15T11:17:24.995002",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3afdb7e68f4e9fe131545c5618704ebe",
+  "origin_md5": "f292b37e54195f11b1b3f50e45037c5a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_949_lighting_efficiency_in_uk__owid_based_on_fouquet__and__pearson__2007_config.json",
-  "md5": "47b8cdeaa8e6263711d433b3452d2b37"
+  "md5": "567341202a20ab65a08c59448ea79845"
 }

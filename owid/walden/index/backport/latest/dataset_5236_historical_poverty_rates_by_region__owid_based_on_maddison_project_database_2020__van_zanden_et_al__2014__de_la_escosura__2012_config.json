@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5236",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:14:39.075616",
+  "date_accessed": "2022-09-15T11:23:19.152709",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c851b70fe928fccc7007cde6dbb195ca",
+  "origin_md5": "1b34f8a31491f9a50398a738364b401f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5236_historical_poverty_rates_by_region__owid_based_on_maddison_project_database_2020__van_zanden_et_al__2014__de_la_escosura__2012_config.json",
-  "md5": "d70d4f5f6bc5a0586b1bb595dac613a3"
+  "md5": "0adc1039a26c34b6ba7d24b282f95fa7"
 }

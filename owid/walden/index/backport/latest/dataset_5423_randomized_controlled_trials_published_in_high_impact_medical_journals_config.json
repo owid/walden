@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5423",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:48:01.744689",
+  "date_accessed": "2022-09-15T11:17:08.379630",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "95c64b0dfaefef9416540875880ef100",
+  "origin_md5": "b518bdce23107f9d3c9f692c3a15cd83",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5423_randomized_controlled_trials_published_in_high_impact_medical_journals_config.json",
-  "md5": "792b1366e14504d08d41b7646e1b7cf4"
+  "md5": "5ca1d796cbd836ffa52eb9d35c7c495c"
 }

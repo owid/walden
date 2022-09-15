@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5240",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:13:46.672077",
+  "date_accessed": "2022-09-15T11:31:22.042144",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "03a9d940733e01e1bf6f0027e4d17c7d",
+  "origin_md5": "cc0c7b28facff9fb9c62295f999bdd3e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5240_labour_force_dependency_ratio__iiasc_config.json",
-  "md5": "280d01e9b4be88dda1866a4df0f799bb"
+  "md5": "c6f7199a875bd43d575a6655cf9577d1"
 }

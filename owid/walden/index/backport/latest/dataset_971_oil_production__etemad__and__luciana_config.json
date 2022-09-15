@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/971",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:00:50.225623",
+  "date_accessed": "2022-09-15T11:13:14.339461",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a509e9aacfb45859aebc0dfc44a9cad4",
+  "origin_md5": "917f8f45d4679c63544e17b970c6cebd",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_971_oil_production__etemad__and__luciana_config.json",
-  "md5": "b2669d41dbb4cd458fe7af41683c7a6a"
+  "md5": "ce5d64dada184b8e588e1b20156265b4"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2702",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:02:30.979808",
+  "date_accessed": "2022-09-15T11:12:08.103412",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "58cb211d8f0f23944f37eca69bf62189",
+  "origin_md5": "257e1ccb16461ddf3d61a10a589cb9f3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2702_literacy_in_england__by_sex__schofield__1973__houston__1982__cressy__1980_config.json",
-  "md5": "85472ca4986e051c8c41cf1a88831f7c"
+  "md5": "599e1a12b5295b275f8e81ecf1000d27"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/316",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:05:13.990071",
+  "date_accessed": "2022-09-15T11:19:44.730892",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2201734c440b49c25f1e0269aa3a3e38",
+  "origin_md5": "b40acf35515506a996e3df2b9f8a5eb9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_316_subnational_inequality__oecd_based_on_royuela_et_al__2014_config.json",
-  "md5": "d2c6cefc7d1d1dbdd3f7804224f71ae0"
+  "md5": "12b4d6eed8033c1f25a290f99d954820"
 }

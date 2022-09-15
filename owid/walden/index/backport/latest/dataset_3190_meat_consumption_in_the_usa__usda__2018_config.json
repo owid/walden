@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3190",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:24:21.759745",
+  "date_accessed": "2022-09-15T11:17:04.283172",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ddcd44de6064eaa41c5d633b98395c04",
+  "origin_md5": "9878263487d75e1c65072b1d26284ef3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3190_meat_consumption_in_the_usa__usda__2018_config.json",
-  "md5": "6187c22497e1c1146802960fd4057e48"
+  "md5": "4a73dc012e5f94192c4d4e1869c3892b"
 }

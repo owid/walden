@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2792",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:38:01.932906",
+  "date_accessed": "2022-09-15T11:31:02.272783",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a3aebe3dea2eaf016de0aa66d7a7e0a7",
+  "origin_md5": "13af747af280fe46a3840014369da06d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2792_smallpox_cases_reported_and_revised__fenner_et_al__1988_config.json",
-  "md5": "85d0fa475953569cfb094b93186eb759"
+  "md5": "10c311c0abd36f329209f65e188d6396"
 }

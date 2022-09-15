@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5215",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:10:33.639202",
+  "date_accessed": "2022-09-15T11:13:33.757862",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ff9eb590bc4da330fd5f114cc0f9cb83",
+  "origin_md5": "82c5a220de31e47a3a334fc16b5961f8",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5215_tropical_deforestation_by_country_or_region__pendrill_et_al__2019_config.json",
-  "md5": "42ad0450c96d2b88793831591ca493ed"
+  "md5": "ad6e2660230949e12d854b7f16ecc277"
 }

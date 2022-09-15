@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5194",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:13:59.956883",
+  "date_accessed": "2022-09-15T11:16:11.100107",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b808a08cd2dc13d6205ebfedce2dccff",
+  "origin_md5": "5cfcc8ead3b74c96e8eadc628a1f7101",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5194_figure_15_6_united_states_decades_config.json",
-  "md5": "865aa0b95363e7211c6df5afabcf3dd9"
+  "md5": "3814bd044eb56e71557e8486cbf0893b"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/234",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:14:07.824264",
+  "date_accessed": "2022-09-15T11:10:17.077154",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bf65a85772271a566be3739823d25a60",
+  "origin_md5": "53a94915e8e7e85d86f37e25cd7737ed",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_234_working_hours_data__huberman__and__minns__2007_config.json",
-  "md5": "da4d000470087a101f5bafe0d241ddcf"
+  "md5": "d7be6098b01a99acc3a5e099ed01d105"
 }

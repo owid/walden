@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3094",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:58:33.384205",
+  "date_accessed": "2022-09-15T11:25:37.174245",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bae5db9fd43fac0ebdd7b2543f2cde64",
+  "origin_md5": "c0ec5b1b012167e63c910cafb85a8407",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3094_global_preferences_survey__gps__falk__becker__dohmen__enke__huffman__and_sunde__2018_config.json",
-  "md5": "dc83a340ca4b2fb65f0b0cb19d5304d7"
+  "md5": "69ed98fe596b33d38aa9aa16a3becc23"
 }

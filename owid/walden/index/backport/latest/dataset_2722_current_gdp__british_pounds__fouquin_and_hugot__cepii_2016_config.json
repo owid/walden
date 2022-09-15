@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2722",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:47:41.223473",
+  "date_accessed": "2022-09-15T11:09:12.967568",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "1ee4351755e1d363b2d353b3215ac06c",
+  "origin_md5": "89c70e152cfaf21fe2df59f1c7b74c6b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2722_current_gdp__british_pounds__fouquin_and_hugot__cepii_2016_config.json",
-  "md5": "40e997beb4526e335faf6fbabb6d45ea"
+  "md5": "d02b057a644153e2085ca0ce11d1f586"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/698",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:49:52.612760",
+  "date_accessed": "2022-09-15T11:29:38.072872",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5cd6648846991c5ae212aa843a3dd49e",
+  "origin_md5": "eb3721bf9b4400a9ab27b64deae546e2",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_698_agriculture_in_england_1270_1870__bank_of_england__2017_config.json",
-  "md5": "4154bb3db31931a0a6946c41811a7bdb"
+  "md5": "ebb72ca18b428f1146b6525ca97d451e"
 }

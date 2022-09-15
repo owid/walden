@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5368",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:12:17.030587",
+  "date_accessed": "2022-09-15T11:22:00.662260",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ae83298bb1cef31193ae43957e86d019",
+  "origin_md5": "594290bdf071781241558800cde61f77",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5368_covid_19_vaccine_dose_donations_to_covax_config.json",
-  "md5": "5cbd0619ebf6f70e0f78c4c576101552"
+  "md5": "c82f1cd47a9833e76b4bc6265fa28b67"
 }

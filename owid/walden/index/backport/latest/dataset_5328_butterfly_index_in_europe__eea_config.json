@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5328",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:12:28.411784",
+  "date_accessed": "2022-09-15T11:05:37.864192",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "576406a53415e77e071c11694c318948",
+  "origin_md5": "e77e33d784671e5e09a7a0ce6f40984f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5328_butterfly_index_in_europe__eea_config.json",
-  "md5": "7ed04830aabc095efcf036ec0387e246"
+  "md5": "f32c28020c7d1dd82b751a738ed57826"
 }

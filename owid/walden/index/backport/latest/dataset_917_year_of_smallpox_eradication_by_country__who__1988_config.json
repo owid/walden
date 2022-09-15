@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/917",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:34:40.956824",
+  "date_accessed": "2022-09-15T11:10:10.662042",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f11853e15daa7986e09895d49cb66d56",
+  "origin_md5": "0a141d23a6d0dea84acc896593b3ab66",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_917_year_of_smallpox_eradication_by_country__who__1988_config.json",
-  "md5": "a500260dd4cd21bf68418c375398d96c"
+  "md5": "5254f7e23010a47830cb4db6190ae4c7"
 }

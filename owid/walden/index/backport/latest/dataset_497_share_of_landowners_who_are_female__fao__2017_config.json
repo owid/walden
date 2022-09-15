@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/497",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:45:21.044765",
+  "date_accessed": "2022-09-15T11:32:28.888969",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "508e75322fb8372e2b7b179465051c8f",
+  "origin_md5": "cf4f532e28cb7aab6c5cf310510db628",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_497_share_of_landowners_who_are_female__fao__2017_config.json",
-  "md5": "0d20d6423a89483b63cd98f6292a16c9"
+  "md5": "0dd190efe7507c15df3fd2085bf8f341"
 }

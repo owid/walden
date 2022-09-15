@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3192",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:16:22.123870",
+  "date_accessed": "2022-09-15T11:01:59.233455",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b1108f3aa977ba37c55b499780c2e016",
+  "origin_md5": "9859dd1827085af1f0924dec37c96126",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3192_meat_consumption_in_eu28__oecd__2018_config.json",
-  "md5": "8113b5064f40571e2f8d17e678e65216"
+  "md5": "45c2e516f466d716d5d2d838704dd307"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/963",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:58:29.658696",
+  "date_accessed": "2022-09-15T11:32:35.070308",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "d51710d475edb4a2b87f9f19b5d09bf4",
+  "origin_md5": "24fbf56ae85625f98c181e9bd81ba8da",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_963_educational_outcomes__hanushek_and_woessmann__2012_config.json",
-  "md5": "0888e57a0df985881f9bbdfbd42741e5"
+  "md5": "43d7609ac6f4f6fc877747fcabfd8a9d"
 }

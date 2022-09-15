@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2828",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:58:53.096484",
+  "date_accessed": "2022-09-15T11:21:34.114836",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "cbed3bb169309f3b1bb841c0b4447315",
+  "origin_md5": "402d935ee7bbea76f45fb99d4ccb48a3",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2828_global_revenue_statistics_database__oecd__2018_config.json",
-  "md5": "9f33296571b128bff51358fcc750d698"
+  "md5": "2b3219867e95738857440e8cca99c227"
 }

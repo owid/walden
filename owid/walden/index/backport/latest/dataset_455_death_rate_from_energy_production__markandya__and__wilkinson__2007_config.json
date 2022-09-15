@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/455",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:46:25.803113",
+  "date_accessed": "2022-09-15T11:18:55.766080",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "470211cfbca261a2a3b61a6c5df26446",
+  "origin_md5": "ef1c157b2bca79f831ff531e055aa150",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_455_death_rate_from_energy_production__markandya__and__wilkinson__2007_config.json",
-  "md5": "dfc8a0589f196775485a2b552b94778f"
+  "md5": "3f37ed995c7a6cb86c0a4d0637f42533"
 }

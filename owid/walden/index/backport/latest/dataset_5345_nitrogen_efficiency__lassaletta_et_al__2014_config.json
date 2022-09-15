@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5345",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:20:21.565185",
+  "date_accessed": "2022-09-15T11:14:35.060682",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ae5fac15bed10d7555e9fa0c00ba74ba",
+  "origin_md5": "a170e7354a9cccdfbf2835bf6f9cdb1d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5345_nitrogen_efficiency__lassaletta_et_al__2014_config.json",
-  "md5": "2f6ad3583e3d762d0d053603fe097fcb"
+  "md5": "ea423218cb7e5b4837f4ec740b0f1089"
 }

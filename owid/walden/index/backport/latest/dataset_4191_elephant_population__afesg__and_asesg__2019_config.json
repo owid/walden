@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4191",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:16:32.531601",
+  "date_accessed": "2022-09-15T11:23:43.369551",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "13084b02605cdce8178cbcb5bec35fa8",
+  "origin_md5": "2c231cc954e80c7a596411ea40b7ecc8",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4191_elephant_population__afesg__and_asesg__2019_config.json",
-  "md5": "429c4ae33123742eec953dc0966a02e5"
+  "md5": "99707862d24b6e9b166b33901dfa814c"
 }

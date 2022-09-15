@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2760",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:36:46.600013",
+  "date_accessed": "2022-09-15T11:08:09.202421",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2e1cc9ac8722ecf2e5edf3d928ed10a9",
+  "origin_md5": "0393ec04d331b562731b115950d5583e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2760_terrain_ruggedness_index__nunn_and_puga__2012_config.json",
-  "md5": "5acb13c84c9f5857819089b2e8ea2f8d"
+  "md5": "1aba8754783e47d8dc4cf656d572a352"
 }

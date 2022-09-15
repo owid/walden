@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1903",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:05:03.539965",
+  "date_accessed": "2022-09-15T11:15:08.396607",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3a583bacb664c9d0fb7e8a2bae4048d0",
+  "origin_md5": "6fbd508c090bbfadcfc2cc0b5245ea6d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1903_mineral_production__bgs__2016_config.json",
-  "md5": "ce47418a2a359e3ec49f8119f85fe43e"
+  "md5": "20f5536a96850195cd1b032c49b1c880"
 }

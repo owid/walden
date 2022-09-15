@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3009",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:04:45.057801",
+  "date_accessed": "2022-09-15T11:29:34.800950",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5f649b30f6a4418837707181594642d5",
+  "origin_md5": "b40deaca2d59d09a1143f8b4adfeef29",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3009_share_of_agriculture_in_gdp_at_current_prices__herrendorf_et_al__and_ggdc_10_data__split_config.json",
-  "md5": "364f2822f4c948ec4d48aa00cc759409"
+  "md5": "6e8b0b9d0348aa642ada7d48166c12b8"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5307",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:19:47.480828",
+  "date_accessed": "2022-09-15T11:25:43.292802",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "bc2c7d8ce6787205d2cfcc8402568893",
+  "origin_md5": "510cdf045e462e9a0e706468c95d4851",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5307_attainable_yields__mueller_et_al__2012_config.json",
-  "md5": "bff9d5105b493d60e329195da4da4594"
+  "md5": "f151627f4605945689221fc6c4d32d51"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2497",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:54:56.143830",
+  "date_accessed": "2022-09-15T11:16:24.028532",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "49e3a8e9e58fd17e6910b353d1231e0f",
+  "origin_md5": "45a7e42255c709e4d8fe15c829902f85",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2497_german_road_deaths_and_accidents__destatis_config.json",
-  "md5": "95d671d696f5d8d66a7f9d192f6f47fc"
+  "md5": "1af37cfbad165aa07f42d5827ea2bfe5"
 }

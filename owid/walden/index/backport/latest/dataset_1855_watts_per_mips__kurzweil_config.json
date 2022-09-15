@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1855",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:56:25.226765",
+  "date_accessed": "2022-09-15T11:10:08.592084",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c1c16a480f4e79904df36f10f7d2228a",
+  "origin_md5": "6c24ed6b3ca14f23d7207ee0c3173c20",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1855_watts_per_mips__kurzweil_config.json",
-  "md5": "5429b395516a7576192e675b1912e06c"
+  "md5": "05202b97551c2bae3b7cfcb679a0f749"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/563",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:42:02.914420",
+  "date_accessed": "2022-09-15T11:21:05.107004",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "609203d7f2773ea77804c73955b5ce4e",
+  "origin_md5": "6380d7a0bc6033aabe87a7342d95f2b4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_563_world_development_indicators__health_config.json",
-  "md5": "c386a4bc0d9c6912d0e2546515337085"
+  "md5": "0a2d57574f565c0e89f2bdf0eb2187f0"
 }

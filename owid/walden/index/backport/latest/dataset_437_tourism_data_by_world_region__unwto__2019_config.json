@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/437",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:30:49.142048",
+  "date_accessed": "2022-09-15T11:12:07.141546",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "449b82ba88071ac21106af0700b47ef5",
+  "origin_md5": "d9313fa8d77a6b16c0cba96ef1d4d21e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_437_tourism_data_by_world_region__unwto__2019_config.json",
-  "md5": "8448d6690c0179d7d1864e60a3d9d454"
+  "md5": "602d4164ca4789952c27d7e9a6db8eae"
 }

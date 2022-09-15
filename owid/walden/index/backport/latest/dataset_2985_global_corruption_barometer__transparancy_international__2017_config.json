@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2985",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:59:22.374620",
+  "date_accessed": "2022-09-15T11:23:17.173807",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "a450a8fa171b56b9aeccc10a5726f84b",
+  "origin_md5": "bb95f0dda22c7852a8638644f475d718",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2985_global_corruption_barometer__transparancy_international__2017_config.json",
-  "md5": "3a9123efb65d004678a0d2cce25763cb"
+  "md5": "92cbc3f53e2e68c1e98a5d7b9c71ebb9"
 }

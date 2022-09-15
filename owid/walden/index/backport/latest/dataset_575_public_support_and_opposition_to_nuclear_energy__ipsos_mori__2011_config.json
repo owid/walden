@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/575",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:03:11.974579",
+  "date_accessed": "2022-09-15T11:29:21.360233",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9c37fbc9af542257807c1a3bb5ac67cf",
+  "origin_md5": "572cc5cbc2a173cca6f5c325a32a45dc",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_575_public_support_and_opposition_to_nuclear_energy__ipsos_mori__2011_config.json",
-  "md5": "68269a0bea45c89f9f190df7f4631ebf"
+  "md5": "dd701c8762c164f07c3bd13c3015ee6a"
 }

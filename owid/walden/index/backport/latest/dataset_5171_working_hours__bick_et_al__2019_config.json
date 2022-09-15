@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5171",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:13:35.650829",
+  "date_accessed": "2022-09-15T11:31:31.094283",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4bbfd7913c0f2abc09b26ca908529592",
+  "origin_md5": "0470895e2b61b61848ce05eca4d51c00",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5171_working_hours__bick_et_al__2019_config.json",
-  "md5": "3b4b6b5cd3d1784fa3848963d67cc16d"
+  "md5": "9f202621cabc20fe1a130fcc0c130191"
 }

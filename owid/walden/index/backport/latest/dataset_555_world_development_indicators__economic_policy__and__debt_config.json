@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/555",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:50:20.117821",
+  "date_accessed": "2022-09-15T11:10:52.462116",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "7b416da7875ab50076a8fdff9b03f4b5",
+  "origin_md5": "7668228268d857a65c850fb3f4ed51d7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_555_world_development_indicators__economic_policy__and__debt_config.json",
-  "md5": "ece0ed6f00f34c63ecfac18f7687cda9"
+  "md5": "9ae2b85bbd0701e1edb61929350937ef"
 }

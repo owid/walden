@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2877",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:35:00.467225",
+  "date_accessed": "2022-09-15T11:13:07.363986",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5ca07c44f0946f8b796f942b90a8e9aa",
+  "origin_md5": "84c4c9e719af2cd286f08efecfb70dd6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2877_length_of_the_workday_in_1880__atack_and_bateman__1992_config.json",
-  "md5": "5f9d6d0149edbf1b653e7f510b9ef563"
+  "md5": "0c3ccd44038a882206a223a4bc7a6caf"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2476",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:03:49.412883",
+  "date_accessed": "2022-09-15T11:17:09.315228",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "185357c7fb68f83410b01429062cda13",
+  "origin_md5": "59bf31d491608b55af4dd0e73dd34855",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2476_change_in_global_hunger_index__1992_2017__listed_2017__global_hunger_index_2017_config.json",
-  "md5": "7d1e8c1f05ffa28411f98f6fa9e3e829"
+  "md5": "58360bb309478bd1d3fbb9f03880125b"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2807",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:31:12.019670",
+  "date_accessed": "2022-09-15T11:03:53.390989",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2d1501139e66245e8cf7eefe11cd6f1b",
+  "origin_md5": "458d6da8b36f3f6ec42e6189686e93ed",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2807_gdp_per_capita_indexed_at_1950__maddison_project_data__2018_config.json",
-  "md5": "c4f7f7135158f4e4e4db070065aafffa"
+  "md5": "96f90321b6465fb166e8110646d5e938"
 }

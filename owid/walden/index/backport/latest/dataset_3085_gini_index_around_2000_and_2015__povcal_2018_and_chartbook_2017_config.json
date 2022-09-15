@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3085",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:20:04.905289",
+  "date_accessed": "2022-09-15T11:19:22.011616",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4c842fe55c34de6b913ca4d163e427ab",
+  "origin_md5": "a6893ffa735263ee32be63ee015d47e6",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3085_gini_index_around_2000_and_2015__povcal_2018_and_chartbook_2017_config.json",
-  "md5": "15eecb62da7840068e1df42abc9111c1"
+  "md5": "e33d2dae83e0c1256b9b280207597703"
 }

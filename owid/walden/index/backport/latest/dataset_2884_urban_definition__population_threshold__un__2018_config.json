@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2884",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:40:16.183125",
+  "date_accessed": "2022-09-15T11:19:01.634221",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ec5b3946e3d3cb5a5f2b0936c2b3e7f3",
+  "origin_md5": "a2278cd547966c4d8769b95675b899ce",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2884_urban_definition__population_threshold__un__2018_config.json",
-  "md5": "7b438f807f70b1f3991fbb3bb0f1fa10"
+  "md5": "71fc45bcd35020675126c3087d42044c"
 }

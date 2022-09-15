@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/235",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:29:30.590092",
+  "date_accessed": "2022-09-15T11:06:18.363577",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "5bced63f8984d017f7a95bf384b5a884",
+  "origin_md5": "ba4fef88edef742bbc248189d645cdb9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_235_world_happiness_report__2022_config.json",
-  "md5": "1d4b8250aad8348eaf53ae36b62128dc"
+  "md5": "44f6640aba1d6b245650d5a42e32c3de"
 }

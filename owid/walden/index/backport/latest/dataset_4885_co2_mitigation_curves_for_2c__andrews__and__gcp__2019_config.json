@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4885",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:39:51.615183",
+  "date_accessed": "2022-09-15T11:03:54.368098",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "35efc867d06362a3dda8aa6d671735bf",
+  "origin_md5": "c66aaf27471de84c6e50fb9132f3fdc5",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4885_co2_mitigation_curves_for_2c__andrews__and__gcp__2019_config.json",
-  "md5": "479b6fc795d765a718c29dbb953ec1c9"
+  "md5": "780eeaa5b007079d86c39973a41ed8af"
 }

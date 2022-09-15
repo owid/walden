@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/972",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:26:23.908097",
+  "date_accessed": "2022-09-15T11:12:26.254927",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "03818b4d4a4505ceffc108e69922da29",
+  "origin_md5": "3a3489f13d2e3448f07dca35a823bf6e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_972_gas_production__etemad__and__luciana_config.json",
-  "md5": "f55fd7d6c51e9cc92fc14a71ff334d2a"
+  "md5": "69ac03fc3384022082d64b58e9c49fd4"
 }

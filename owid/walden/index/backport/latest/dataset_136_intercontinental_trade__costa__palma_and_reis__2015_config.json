@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/136",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:44:24.170487",
+  "date_accessed": "2022-09-15T11:35:05.135718",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f623531391991d57ae9ea60a69e1bf85",
+  "origin_md5": "9cbf982936be957557e0b1104f1e38f4",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_136_intercontinental_trade__costa__palma_and_reis__2015_config.json",
-  "md5": "82ae97d0e1d7d231940cb493b351b8aa"
+  "md5": "b2c925274568cb67dfc16a8170284b08"
 }

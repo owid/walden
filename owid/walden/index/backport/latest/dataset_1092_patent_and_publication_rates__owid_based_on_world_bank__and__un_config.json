@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1092",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:40:37.343476",
+  "date_accessed": "2022-09-15T11:20:52.686531",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fb1a9b8c3032abd8702da91d58784eb8",
+  "origin_md5": "8e42d5e900bd7d15568dfbba87280e8a",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1092_patent_and_publication_rates__owid_based_on_world_bank__and__un_config.json",
-  "md5": "b08e4a7df17ea168ec51f85380eb26c6"
+  "md5": "ebe3b558a85ca3a2ac77c3fe730630b5"
 }

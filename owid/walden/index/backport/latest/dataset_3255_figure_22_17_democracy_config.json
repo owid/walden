@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3255",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:23:19.924573",
+  "date_accessed": "2022-09-15T11:14:18.277073",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "ec58925adb966e7d1ea9934a20113c20",
+  "origin_md5": "a4e4952786278d31c708f5e3e5899cf8",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3255_figure_22_17_democracy_config.json",
-  "md5": "087daa9ba6ca3cf348c2289fc221a16b"
+  "md5": "8f5ca9650584953e72a51009cff0a3d7"
 }

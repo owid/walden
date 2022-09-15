@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2762",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:05:53.553759",
+  "date_accessed": "2022-09-15T11:17:19.238925",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c1359ff194657f65243844829e52bd9c",
+  "origin_md5": "2535ebc5aa35f6e703103f6d03e4ef8e",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2762_cross_country_literacy_rates__world_bank__cia_world_factbook__and_other_sources_config.json",
-  "md5": "d62c672a3023d366f6088691e103268f"
+  "md5": "8f1f03ba9f31b9a6423e2c9cc704947d"
 }

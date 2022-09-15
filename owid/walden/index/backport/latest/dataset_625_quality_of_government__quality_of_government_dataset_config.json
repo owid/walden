@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/625",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:48:29.208244",
+  "date_accessed": "2022-09-15T11:24:03.514993",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "4652606b522e54e52497f280795498bd",
+  "origin_md5": "1dc28848988eb305311fbeee5df1da20",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_625_quality_of_government__quality_of_government_dataset_config.json",
-  "md5": "6a7ebd8f5bdd00b8f8d1b2ab5e23b90d"
+  "md5": "e5b0fe3e0f3abe6247bc44076c07c44d"
 }

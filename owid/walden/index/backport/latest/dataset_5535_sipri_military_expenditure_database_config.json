@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5535",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:20:48.666910",
+  "date_accessed": "2022-09-15T11:21:25.940954",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "570c5422b421d86fdb7e4dd67428f67e",
+  "origin_md5": "368db2b8960c13676d881bfdeffcc945",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5535_sipri_military_expenditure_database_config.json",
-  "md5": "2563ac973e4c1c2dd8703490a2b54f1c"
+  "md5": "b79c6da3b2e02bb40f3dc01191b3ef71"
 }

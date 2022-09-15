@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/852",
   "file_extension": "json",
-  "date_accessed": "2022-09-12T13:33:10.308866",
+  "date_accessed": "2022-09-15T11:26:38.993945",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "7f8dfa434e5719b1760e83f64a1bedf5",
+  "origin_md5": "693d9c9303ec6498fdae931f770c08ed",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_852_drug_overdose_deaths_in_the_us__cdc_wonder_config.json",
-  "md5": "b747d2540961139f4effac28173f9d86"
+  "md5": "4b3c5c6f02253daee56ea8600ec2a494"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5575",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:34:03.573822",
+  "date_accessed": "2022-09-15T11:04:35.022709",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "af3d6443c43c4688017360bcbf830393",
+  "origin_md5": "7c61d62920d4ff837e48f32f0f05c5e9",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5575_united_nations_sustainable_development_goals__united_nations__2022_04_config.json",
-  "md5": "29c7a4e08f239b880ac8d72a79da7a89"
+  "md5": "854a25b1bdb99fceb603b54d60b53dc2"
 }

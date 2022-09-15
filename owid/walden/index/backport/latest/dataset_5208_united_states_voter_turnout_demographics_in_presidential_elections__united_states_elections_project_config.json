@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5208",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T08:03:26.077972",
+  "date_accessed": "2022-09-15T11:18:30.683685",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "80267ed4fde841f5836874595fd53f09",
+  "origin_md5": "bfbcd735f3b7a771aa4b69c71878f8d1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5208_united_states_voter_turnout_demographics_in_presidential_elections__united_states_elections_project_config.json",
-  "md5": "ab2a89aa623c72cf711fcffc70fb21b0"
+  "md5": "34db3f1f3ac78bcbe49180b4b4520a41"
 }

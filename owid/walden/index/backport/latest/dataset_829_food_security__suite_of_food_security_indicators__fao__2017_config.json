@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/829",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:55:25.780709",
+  "date_accessed": "2022-09-15T11:18:35.970954",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f6cc0b95fb3d141cef12f11b97b4d67c",
+  "origin_md5": "6f800ead5b45be8a4dade2371ac078e1",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_829_food_security__suite_of_food_security_indicators__fao__2017_config.json",
-  "md5": "cfe63c3d3aed574a19ed761199090d80"
+  "md5": "8f813303f5c294dd23a11da2ade1882f"
 }

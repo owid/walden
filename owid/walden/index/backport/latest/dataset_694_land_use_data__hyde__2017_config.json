@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/694",
   "file_extension": "json",
-  "date_accessed": "2022-09-08T12:01:57.488206",
+  "date_accessed": "2022-09-15T11:05:13.719348",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "de3847b4ae77118da8bb773e61a7d511",
+  "origin_md5": "d79f5db1ea0d4fdb463bb708400c8fec",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_694_land_use_data__hyde__2017_config.json",
-  "md5": "fdeeffa77796de96065ecbd56e5a1a90"
+  "md5": "2ef2e102e558818ad8549df84cb82934"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5225",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:15:55.385070",
+  "date_accessed": "2022-09-15T11:06:55.977272",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b028f53873fa9f98b1067ac9e1a6c51a",
+  "origin_md5": "5cb0e45bfa76b8476d4f037f9f29347b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5225_deforestation_in_trade__pendrill_config.json",
-  "md5": "e3a54e32b50e231a6cd774cc60ce8656"
+  "md5": "367af169283dc6e972962aa346ed54b0"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5558",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:16:37.196685",
+  "date_accessed": "2022-09-15T11:15:12.697560",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "cc691282bb2ad961e47dfc7ec6967265",
+  "origin_md5": "dc3b4b8dc749c17b70f38578e8b7949b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5558_ukraine_russia_food_exports_with_fuel_and_feed_context__un_fao_config.json",
-  "md5": "f5956051eea30e03662d7dc906c72e21"
+  "md5": "5cbaf5ae331679929bbb68c58d4295fa"
 }

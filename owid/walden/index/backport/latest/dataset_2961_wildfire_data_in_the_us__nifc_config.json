@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2961",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:49:03.679896",
+  "date_accessed": "2022-09-15T11:29:20.350457",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "604c1da450c0534d34db8cbd01e5455b",
+  "origin_md5": "38638dc894f38885199f4e7ab331c7de",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2961_wildfire_data_in_the_us__nifc_config.json",
-  "md5": "0846ff283af3d17b9fd96daaf36ab43f"
+  "md5": "574127ed4f1bc6c8c72db8afbb2241ce"
 }

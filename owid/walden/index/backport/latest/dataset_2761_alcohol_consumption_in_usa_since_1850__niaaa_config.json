@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2761",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:31:20.559923",
+  "date_accessed": "2022-09-15T11:20:38.761545",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "3fc40f28df29c2e875cfa558031540f6",
+  "origin_md5": "7fbb3a3197e93f16e48c473874403b00",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2761_alcohol_consumption_in_usa_since_1850__niaaa_config.json",
-  "md5": "c314b8469d7300699597d44030af5a99"
+  "md5": "132c90cc60940f464c051498b4304164"
 }

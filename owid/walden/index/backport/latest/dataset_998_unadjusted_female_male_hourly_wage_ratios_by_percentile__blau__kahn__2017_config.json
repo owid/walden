@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/998",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:53:00.711212",
+  "date_accessed": "2022-09-15T11:28:12.491422",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "449c98f791e2b6b4a5a85a89763a1806",
+  "origin_md5": "46c5e5e7e1957ff911fa8aead5ee6f05",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_998_unadjusted_female_male_hourly_wage_ratios_by_percentile__blau__kahn__2017_config.json",
-  "md5": "cfee79e50e258259d29f5db0cc1b0cfc"
+  "md5": "7a1faacab5c05d9fba17e42c5353120e"
 }

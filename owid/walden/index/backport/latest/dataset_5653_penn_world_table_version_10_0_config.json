@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5653",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:47:48.021667",
+  "date_accessed": "2022-09-15T11:03:18.469592",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9457dad59a304384808189c1f1f4447a",
+  "origin_md5": "d2ea2c11ca813f3a6b0fe6621f7e7ebb",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5653_penn_world_table_version_10_0_config.json",
-  "md5": "8c253153e848695b5f55a069c35c3a56"
+  "md5": "0889d003a696a590516985c67eb1cd9e"
 }

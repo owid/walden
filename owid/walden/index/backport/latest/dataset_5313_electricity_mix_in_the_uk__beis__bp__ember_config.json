@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5313",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T16:20:50.189121",
+  "date_accessed": "2022-09-15T11:09:18.312036",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "166ff91f1995582ef9517671f418638b",
+  "origin_md5": "2a45d321dc75a863e6d2623b9606a98f",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5313_electricity_mix_in_the_uk__beis__bp__ember_config.json",
-  "md5": "f3262ace02e41af7257335da12d61eab"
+  "md5": "3bed074b5c202888130b24cac0c91986"
 }

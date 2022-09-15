@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4117",
   "file_extension": "json",
-  "date_accessed": "2022-09-01T07:53:21.772862",
+  "date_accessed": "2022-09-15T11:23:15.883776",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c7842cd29f7f45b97a5a053f3136b1d5",
+  "origin_md5": "752a23b6a791bef9112b5120c429626d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4117_child_deaths_by_life_stage__owid_based_on_un_igme_config.json",
-  "md5": "fa178a9d04bef35698bf1dd070691144"
+  "md5": "d8b1094237c52972b88ef1b404416564"
 }
