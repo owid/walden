@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5685",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:14:54.470779",
+  "date_accessed": "2022-09-16T18:04:02.725100",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "00b5d70665a4bf9961d1ca2d77608008",
+  "origin_md5": "24a4b67cf363081a062b494c3582db7b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5685_carbon_dioxide_emissions_by_sector__cait__2022_config.json",
-  "md5": "04a653c28aaea88757999ed0b27f7f3a"
+  "md5": "d80148141e19aca8457f5975654a996b"
 }
