@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5411",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:17:27.939031",
+  "date_accessed": "2022-09-17T17:52:34.486014",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "93d810264b12e12b9c786d92ddfeaf5d",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5411_lead_blood_concentrations_in_lmic__ericson_et_al__2021_config.json",
-  "md5": "beb8a093ddd34d9164f0239bb93a53ff"
+  "origin_md5": "d78c79ccd416817c4215f43788e27960",
+  "md5": "5f2c355024b21b82e37dd1ec2526330b"
 }
