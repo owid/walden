@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5771_world_inequality_database__wid_config",
+  "name": "Grapher metadata for dataset_5771_world_inequality_database__wid",
+  "description": "Will be updated after WID's revision of the method to merge long run series for some countries (esp. Europe). Several countries do not have data before 1981 because of this.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5771",
+  "file_extension": "json",
+  "date_accessed": "2022-09-19T15:57:49.347384",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9bc06b2b1874e60603a43b413b1e7fa1",
+  "md5": "aafec82fe66891bd272c17c7396e6f69"
+}

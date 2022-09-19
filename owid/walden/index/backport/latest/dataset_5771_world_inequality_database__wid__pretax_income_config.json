@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5771_world_inequality_database__wid__pretax_income_config",
+  "name": "Grapher metadata for dataset_5771_world_inequality_database__wid__pretax_income",
+  "description": "Will be updated after WID's revision of the method to merge long run series for some countries (esp. Europe). Several countries do not have data before 1981 because of this.",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5771",
+  "file_extension": "json",
+  "date_accessed": "2022-09-19T16:05:01.701201",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "15cbd7a6147c3af2aa6a917faefc1286",
+  "md5": "15bbaca5d2f0793edfae9c50820f5b87"
+}
