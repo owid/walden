@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5773_key_indicators_config",
+  "name": "Grapher metadata for dataset_5773_key_indicators",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5773",
+  "file_extension": "json",
+  "date_accessed": "2022-09-20T11:53:04.413860",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b5e9ad7100c347197ce7f9f38b5266fd",
+  "md5": "c3e7b38945e6200eb0f76d8b418324bc"
+}
