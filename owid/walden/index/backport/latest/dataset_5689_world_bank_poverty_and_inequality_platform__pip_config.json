@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5689",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:12:00.830710",
+  "date_accessed": "2022-09-20T16:58:46.220247",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f449c0454fbf0c53dd6fc267150ab032",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5689_world_bank_poverty_and_inequality_platform__pip_config.json",
-  "md5": "41baedc6be900631baf72d50c922211a"
+  "origin_md5": "6c251d683dd19246847c170be47c9ad6",
+  "md5": "378c72552b139182cdde47833024c97b"
 }
