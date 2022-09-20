@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5773_key_indicators_values",
+  "name": "Key Indicators",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5773",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-20T12:12:55.544194",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "f7f0d93b359cb0afe28719a3712660f3"
+}
