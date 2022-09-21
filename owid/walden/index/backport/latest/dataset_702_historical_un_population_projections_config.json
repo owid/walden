@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/702",
   "file_extension": "json",
-  "date_accessed": "2022-09-21T10:52:25.499593",
+  "date_accessed": "2022-09-21T13:18:49.216658",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c9d1d5704c51ccd4df5b4419e52fcf62",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_702_historical_un_population_projections_config.json",
-  "md5": "778e2f2f72399f813a448bb5719ed433"
+  "origin_md5": "3abd9446f6863b7f135941702f61fdf3",
+  "md5": "6f94a272aeab59fe29b9c18c286bfcb1"
 }

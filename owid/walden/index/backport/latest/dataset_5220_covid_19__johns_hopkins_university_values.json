@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5220",
   "file_extension": "feather",
-  "date_accessed": "2022-09-21T06:01:51.939746",
+  "date_accessed": "2022-09-21T16:54:28.182594",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5220_covid_19__johns_hopkins_university_values.feather",
-  "md5": "f18aca30c117d93c91a811181410220f"
+  "md5": "e23112ab8dd19e0f1950c366ed968b1e"
 }
