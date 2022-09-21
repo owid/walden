@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5771",
   "file_extension": "feather",
-  "date_accessed": "2022-09-20T19:44:26.999736",
+  "date_accessed": "2022-09-21T00:01:03.107473",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5771_world_inequality_database__wid__pretax_income_values.feather",
   "md5": "012a86888426b1f202ae8e2d8d0bc563"
 }
