@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5771",
   "file_extension": "json",
-  "date_accessed": "2022-09-20T00:00:48.225856",
+  "date_accessed": "2022-09-20T19:44:24.493568",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9a12dab24d9ccf75372ae294eaeebacf",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5771_world_inequality_database__wid__pretax_income_config.json",
-  "md5": "ee2ef9e6f62bb9952e1e23112479877c"
+  "origin_md5": "8897128344cd8ea40e62f54f7694ad49",
+  "md5": "618a2bc4e351ed0327c4aeb7ae26c185"
 }

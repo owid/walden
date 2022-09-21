@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5096",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:18:49.294894",
+  "date_accessed": "2022-09-20T21:35:17.724769",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "f1a674b2bfab837a914517cf4881ade2",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5096_covid_19_model_estimates__ihme__2022_config.json",
-  "md5": "c5dae753c010e8e41d09ea0124e74ad8"
+  "origin_md5": "5e93acb6e89c34f7e0f1b7efbe30d888",
+  "md5": "3f6e13f3b2fd9e2e0a65502b96170688"
 }
