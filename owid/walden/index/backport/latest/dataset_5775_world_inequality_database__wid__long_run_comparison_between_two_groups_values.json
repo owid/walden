@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5775_world_inequality_database__wid__long_run_comparison_between_two_groups_values",
+  "name": "World Inequality Database (WID) - Long-run comparison between two groups",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5775",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-21T01:39:42.031856",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "88c38c58bfb5461676b4717858ddfa7a"
+}

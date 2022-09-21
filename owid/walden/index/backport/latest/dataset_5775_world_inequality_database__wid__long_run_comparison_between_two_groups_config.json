@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5775_world_inequality_database__wid__long_run_comparison_between_two_groups_config",
+  "name": "Grapher metadata for dataset_5775_world_inequality_database__wid__long_run_comparison_between_two_groups",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5775",
+  "file_extension": "json",
+  "date_accessed": "2022-09-21T01:39:42.011422",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "623f5c7555f8844bad9d6ce2a8ef1794",
+  "md5": "5aec33c674a4304a1af3b370a9d22bc1"
+}
