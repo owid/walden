@@ -65,6 +65,8 @@
 # 3. Wait for the data to be prepared and for a download link to be sent
 #
 # 4. Save in adjacent folders called 'gbd_cause', 'gbd_risk', 'gbd_prevalence', gbd_child_mortality' & 'gbd_mental_health'
+
+# run using: python -m ihme_gbd /Users/fionaspooner/Documents/temp/gbd_2021/ --skip-upload
 import glob
 import os
 
@@ -85,6 +87,7 @@ log = get_logger()
     type=bool,
     help="Upload dataset to Walden",
 )
+# Path to
 @click.argument("path")
 def main(path: str, upload: bool) -> None:
     names = ["gbd_cause", "gbd_risk", "gbd_prevalence", "gbd_child_mortality", "gbd_mental_health"]
@@ -95,7 +98,7 @@ def main(path: str, upload: bool) -> None:
         metadata = {
             "namespace": "ihme_gbd",
             "short_name": name,
-            "name": "Institute for Health Metrics and Evaluation - Global Burden of Disease (2019)",
+            "name": f"Institute for Health Metrics and Evaluation - Global Burden of Disease (2019) - {description}",
             "description": description,
             "publication_year": 2019,
             "source_name": "Institute for Health Metrics and Evaluation - Global Burden of Disease Collaborative Network",
