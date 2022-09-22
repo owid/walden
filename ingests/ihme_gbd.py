@@ -85,6 +85,7 @@ log = get_logger()
     type=bool,
     help="Upload dataset to Walden",
 )
+# Path to
 @click.argument("path")
 def main(path: str, upload: bool) -> None:
     names = ["gbd_cause", "gbd_risk", "gbd_prevalence", "gbd_child_mortality", "gbd_mental_health"]
@@ -95,7 +96,7 @@ def main(path: str, upload: bool) -> None:
         metadata = {
             "namespace": "ihme_gbd",
             "short_name": name,
-            "name": "Institute for Health Metrics and Evaluation - Global Burden of Disease (2019)",
+            "name": f"Institute for Health Metrics and Evaluation - Global Burden of Disease (2019) - {description}",
             "description": description,
             "publication_year": 2019,
             "source_name": "Institute for Health Metrics and Evaluation - Global Burden of Disease Collaborative Network",
