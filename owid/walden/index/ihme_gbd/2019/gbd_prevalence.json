@@ -1,7 +1,7 @@
 {
   "namespace": "ihme_gbd",
   "short_name": "gbd_prevalence",
-  "name": "Institute for Health Metrics and Evaluation - Global Burden of Disease (2019)",
+  "name": "Institute for Health Metrics and Evaluation - Global Burden of Disease (2019) - Prevalence and incidence",
   "description": "Prevalence and incidence",
   "source_name": "Institute for Health Metrics and Evaluation - Global Burden of Disease Collaborative Network",
   "url": "https://vizhub.healthdata.org/gbd-results/",
