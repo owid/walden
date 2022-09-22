@@ -65,6 +65,8 @@
 # 3. Wait for the data to be prepared and for a download link to be sent
 #
 # 4. Save in adjacent folders called 'gbd_cause', 'gbd_risk', 'gbd_prevalence', gbd_child_mortality' & 'gbd_mental_health'
+
+# run using: python -m ihme_gbd /Users/fionaspooner/Documents/temp/gbd_2021/ --skip-upload
 import glob
 import os
 
