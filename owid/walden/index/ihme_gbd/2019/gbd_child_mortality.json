@@ -1,7 +1,7 @@
 {
   "namespace": "ihme_gbd",
   "short_name": "gbd_child_mortality",
-  "name": "Institute for Health Metrics and Evaluation - Global Burden of Disease (2019)",
+  "name": "Institute for Health Metrics and Evaluation - Global Burden of Disease (2019) - Child mortality",
   "description": "Child mortality",
   "source_name": "Institute for Health Metrics and Evaluation - Global Burden of Disease Collaborative Network",
   "url": "https://vizhub.healthdata.org/gbd-results/",
