@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5776",
   "file_extension": "feather",
-  "date_accessed": "2022-09-23T07:53:28.638867",
+  "date_accessed": "2022-09-23T11:31:06.718984",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "md5": "c45c880ccd89c1307dca3c02a6278175"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5776_cdc_estimate_of_annual_influenza_deaths_by_country_values.feather",
+  "md5": "e2396e81be4feca27c35615025ee2138"
 }
