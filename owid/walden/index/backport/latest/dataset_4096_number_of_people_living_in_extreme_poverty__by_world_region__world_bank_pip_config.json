@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4096",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:29:27.662878",
+  "date_accessed": "2022-09-23T12:20:30.286038",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "1a1812890696b2a1df7acd0f2ee0c1e1",
+  "origin_md5": "aceb80a25c41c9862c53427ced357811",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4096_number_of_people_living_in_extreme_poverty__by_world_region__world_bank_pip_config.json",
-  "md5": "9d1fe36417e21b20b33b1087cac4353d"
+  "md5": "fc1341b6b7454300aa48a05cb8b98555"
 }
