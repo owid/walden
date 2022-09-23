@@ -2,15 +2,14 @@
   "namespace": "backport",
   "short_name": "dataset_5776_cdc_estimate_of_annual_influenza_deaths_by_country_config",
   "name": "Grapher metadata for dataset_5776_cdc_estimate_of_annual_influenza_deaths_by_country",
-  "description": "",
+  "description": "https://github.com/owid/notebooks/tree/cdc_flu/FionaSpooner/cdc_influenza",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5776",
   "file_extension": "json",
-  "date_accessed": "2022-09-22T17:31:14.758181",
+  "date_accessed": "2022-09-23T07:53:28.611685",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b6efbf11fd888a6bb3e28b583edf580a",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5776_cdc_estimate_of_annual_influenza_deaths_by_country_config.json",
-  "md5": "e956bb397ae9498b0c2b0e60c37a4251"
+  "origin_md5": "9c9d47509ef63c5e649edda4356b734c",
+  "md5": "43cd3fe47da6ea026f83a39e8b1ebe83"
 }
