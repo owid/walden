@@ -1,5 +1,5 @@
-namespace: who_vaccination
-short_name: who
+namespace: who
+short_name: who_vaccination
 name: WHO Immunization Data (2022)
 source_name: WHO/UNICEF
 publication_date: 2022-07-17
