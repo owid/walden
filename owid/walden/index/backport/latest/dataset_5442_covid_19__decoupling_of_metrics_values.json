@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5442",
   "file_extension": "feather",
-  "date_accessed": "2022-09-24T01:20:14.050427",
+  "date_accessed": "2022-09-24T05:41:53.066152",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "md5": "f5e46efaac740c8c3443be6952d601d4"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5442_covid_19__decoupling_of_metrics_values.feather",
+  "md5": "a5ed34db4c46b0d9fb888117fd9dc916"
 }
