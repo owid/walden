@@ -28,7 +28,7 @@ clean:
 	@echo '==> Deleting all downloaded data'
 	rm -rf ~/.owid/walden
 
-test: check-formatting lint check-typing unittest
+test: check-formatting lint check-typing unittest audit
 
 lint: .venv
 	@echo '==> Linting'
