@@ -7,7 +7,6 @@
   "url": "https://population.un.org/wpp/Download/",
   "file_extension": "zip",
   "date_accessed": "2022-09-09",
-  "source_data_url": "https://unstats.un.org/sdgapi/swagger/",
   "license_url": "http://creativecommons.org/licenses/by/3.0/igo/",
   "license_name": "CC BY 3.0 IGO",
   "is_public": true,

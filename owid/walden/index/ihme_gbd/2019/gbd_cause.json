@@ -7,7 +7,6 @@
   "url": "https://vizhub.healthdata.org/gbd-results/",
   "file_extension": "feather",
   "date_accessed": "2022-09-22",
-  "source_data_url": "https://unstats.un.org/sdgapi/swagger/",
   "license_url": "https://www.healthdata.org/data-tools-practices/data-practices/terms-and-conditions",
   "is_public": true,
   "version": "2019",
