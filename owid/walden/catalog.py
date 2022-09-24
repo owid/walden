@@ -302,5 +302,4 @@ def create(filename) -> None:
     Create directory to file. E.g., for filename 'a/b/c/file.csv' it will make sure 'a/b/c' exists.
     """
     parent_dir = path.dirname(filename)
-    if not path.isdir(parent_dir):
-        makedirs(parent_dir)
+    makedirs(parent_dir, exist_ok=True)
