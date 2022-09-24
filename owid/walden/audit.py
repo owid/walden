@@ -39,10 +39,15 @@ def audit_doc(filename: str, document: dict, schema: dict) -> None:
     print(Path(filename).relative_to(catalog.INDEX_DIR))
     jsonschema.validate(document, schema)
 
-    if "source_data_url" in document:
-        check_url(document["source_data_url"], strict=False)
     if "owid_data_url" in document:
         check_url(document["owid_data_url"])
+        if "source_data_url" in document:
+            check_url(document["source_data_url"], strict=False)
+    else:
+        if "source_data_url" not in document:
+            raise Exception(f"No source_data_url or owid_data_url in: {filename}")
+
+        check_url(document["source_data_url"])
 
 
 def check_url(url: str, strict: bool = True) -> None:
@@ -53,6 +58,8 @@ def check_url(url: str, strict: bool = True) -> None:
         resp = requests.head(url)
         status_code = resp.status_code
     except requests.exceptions.SSLError:
+        status_code = None
+    except requests.exceptions.ConnectionError:
         status_code = None
 
     if status_code not in (200, 301, 302):
