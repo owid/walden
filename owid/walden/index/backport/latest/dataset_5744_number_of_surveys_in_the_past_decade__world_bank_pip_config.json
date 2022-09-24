@@ -2,15 +2,14 @@
   "namespace": "backport",
   "short_name": "dataset_5744_number_of_surveys_in_the_past_decade__world_bank_pip_config",
   "name": "Grapher metadata for dataset_5744_number_of_surveys_in_the_past_decade__world_bank_pip",
-  "description": "Version 20220609_2011_02_02_PROD\nThey will update it  to 2017 PPP this fall in 2022, setting a new international poverty line of $2.15 https://blogs.worldbank.org/opendata/updating-international-poverty-line-2017-ppps",
+  "description": "Version 20220909_2011_02_02_PROD\nThey will update it  to 2017 PPP this fall in 2022, setting a new international poverty line of $2.15 https://blogs.worldbank.org/opendata/updating-international-poverty-line-2017-ppps",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5744",
   "file_extension": "json",
-  "date_accessed": "2022-09-23T14:03:28.919437",
+  "date_accessed": "2022-09-23T18:46:34.797736",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "252b9db3aec2e340c3b414aee22b58fc",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5744_number_of_surveys_in_the_past_decade__world_bank_pip_config.json",
-  "md5": "fe18441f608c75ac0f0723da5f60935b"
+  "origin_md5": "8d23f61cf09fb3f4a282c2dea63704f8",
+  "md5": "1521900abfb8e7f96d39cf243160f01a"
 }
