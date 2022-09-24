@@ -6,7 +6,9 @@
 #
 
 import concurrent.futures
+import warnings
 from pathlib import Path
+from typing import Optional
 
 import click
 import jsonschema
@@ -38,16 +40,27 @@ def audit_doc(filename: str, document: dict, schema: dict) -> None:
     jsonschema.validate(document, schema)
 
     if "source_data_url" in document:
-        check_url(document["source_data_url"])
+        check_url(document["source_data_url"], strict=False)
     if "owid_data_url" in document:
         check_url(document["owid_data_url"])
 
 
-def check_url(url: str) -> None:
+def check_url(url: str, strict: bool = True) -> None:
     "Make sure the URL is still valid."
-    resp = requests.head(url)
-    if resp.status_code not in (200, 301, 302):
-        raise InvalidOrExpiredUrl(url)
+    status_code: Optional[int]
+
+    try:
+        resp = requests.head(url)
+        status_code = resp.status_code
+    except requests.exceptions.SSLError:
+        status_code = None
+
+    if status_code not in (200, 301, 302):
+        if strict:
+            raise InvalidOrExpiredUrl(url)
+        else:
+            warnings.warn(f"Invalid or expired URL: {url}")
+            return
 
 
 class InvalidOrExpiredUrl(Exception):
