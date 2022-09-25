@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5777",
   "file_extension": "json",
-  "date_accessed": "2022-09-25T15:04:37.929580",
+  "date_accessed": "2022-09-25T18:03:22.246324",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "c0cffe26cb3199ef1c8148b0e2a643ef",
-  "md5": "f67b60ea0869d0155f24f29085d74fe6"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5777_influenza_vaccination_rates_in_over_65s__oecd_config.json",
+  "md5": "11707849091433cd70fe2de2c6afff9b"
 }

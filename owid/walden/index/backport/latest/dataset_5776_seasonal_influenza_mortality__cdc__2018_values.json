@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5776",
   "file_extension": "feather",
-  "date_accessed": "2022-09-25T14:46:57.642259",
+  "date_accessed": "2022-09-25T18:02:18.235084",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "md5": "c45c880ccd89c1307dca3c02a6278175"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5776_seasonal_influenza_mortality__cdc__2018_values.feather",
+  "md5": "e2396e81be4feca27c35615025ee2138"
 }
