@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5776_seasonal_influenza_mortality__cdc__2018_values",
+  "name": "Seasonal influenza mortality \u2013\u00a0CDC (2018)",
+  "description": "https://github.com/owid/notebooks/tree/cdc_flu/FionaSpooner/cdc_influenza",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5776",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-25T14:46:57.642259",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "c45c880ccd89c1307dca3c02a6278175"
+}
