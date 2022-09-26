@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5332",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:02:21.723954",
+  "date_accessed": "2022-09-26T10:35:05.355902",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5332_water_and_sanitation__who_wash__2021_values.feather",
-  "md5": "3b622d9fb3d2127a97d0453074863ff1"
+  "md5": "c25dfe47ac2e2645b8f72c376dcf4e15"
 }

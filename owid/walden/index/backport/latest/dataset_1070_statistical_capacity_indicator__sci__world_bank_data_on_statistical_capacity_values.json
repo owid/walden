@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1070",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:08:21.226069",
+  "date_accessed": "2022-09-26T10:28:02.208672",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1070_statistical_capacity_indicator__sci__world_bank_data_on_statistical_capacity_values.feather",
-  "md5": "d74aa153386058f81a97f65dd8d5b49a"
+  "md5": "b555f9ca4da4237316f7e6873c706e58"
 }
