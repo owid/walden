@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5234",
   "file_extension": "feather",
-  "date_accessed": "2022-09-25T12:02:06.062769",
+  "date_accessed": "2022-09-26T07:18:39.048435",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5234_covid_19__vaccinations_values.feather",
-  "md5": "723d6c7661f02c38b39534c534d53164"
+  "md5": "f4810f52c0ba6468743161ecb63d1b0e"
 }
