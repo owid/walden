@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5740",
   "file_extension": "json",
-  "date_accessed": "2022-09-27T12:00:51.526338",
+  "date_accessed": "2022-09-27T13:58:30.536682",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "6e6d530e6546a40636ce3678239af4f6",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5740_who_vaccination_schedule__2021_config.json",
-  "md5": "021fc2c3b738d87a55d1fca63bedbe93"
+  "origin_md5": "eb2550e5dbba0226399f4191c88ee30d",
+  "md5": "5e469e91eaf09aa6a8424f8728853323"
 }
