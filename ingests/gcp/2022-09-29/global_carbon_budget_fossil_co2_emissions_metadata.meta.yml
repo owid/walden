@@ -1,6 +1,6 @@
 namespace: gcp
-short_name: global_carbon_budget_national_flat_metadata
-name: Global Carbon Budget - Metadata for national long-term data
+short_name: global_carbon_budget_fossil_co2_emissions_metadata
+name: Global Carbon Budget - Metadata for fossil fuels CO2 emissions dataset
 source_name: Global Carbon Project
 version: 2022-09-29
 publication_year: 2022
@@ -11,4 +11,4 @@ file_extension: json
 license_url: https://www.icos-cp.eu/data-services/about-data-portal/data-license
 license_name: CC BY 4.0
 description: |
-  Metadata for the flat national data (json file).
+  Metadata for the fossil fuel CO2 dataset (json file).
