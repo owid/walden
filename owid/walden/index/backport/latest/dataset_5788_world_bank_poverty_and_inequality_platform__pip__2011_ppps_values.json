@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5788_world_bank_poverty_and_inequality_platform__pip__2011_ppps_values",
+  "name": "World Bank Poverty and Inequality Platform (PIP) - 2011 PPPs",
+  "description": "When created new datasets with PIP data, please be aware that the main dataset to use is the 2017 PPPs version. This is being used mainly to keep old posts alive before a complete transition to 2017 PPPs",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5788",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-29T09:44:22.625037",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "7d635ea7ea9a4e89fa12cb2b19046bc6"
+}

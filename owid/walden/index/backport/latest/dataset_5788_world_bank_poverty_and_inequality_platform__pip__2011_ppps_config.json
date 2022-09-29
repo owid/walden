@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5788_world_bank_poverty_and_inequality_platform__pip__2011_ppps_config",
+  "name": "Grapher metadata for dataset_5788_world_bank_poverty_and_inequality_platform__pip__2011_ppps",
+  "description": "When created new datasets with PIP data, please be aware that the main dataset to use is the 2017 PPPs version. This is being used mainly to keep old posts alive before a complete transition to 2017 PPPs",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5788",
+  "file_extension": "json",
+  "date_accessed": "2022-09-29T09:44:20.786500",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "9fdfa7ac5c7e1698d34785803122ce9a",
+  "md5": "16c6e754c9ba04dda99ef1ba0fcaa192"
+}
