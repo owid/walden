@@ -2,14 +2,13 @@
   "namespace": "backport",
   "short_name": "dataset_5689_world_bank_poverty_and_inequality_platform__pip_values",
   "name": "World Bank Poverty and Inequality Platform (PIP)",
-  "description": "Version 20220909_2011_02_02_PROD\nWill soon be updated to 2017 PPPs",
+  "description": "Version 20220909_2011_02_02_PROD\nWill be updated to 2017 PPPs soon",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5689",
   "file_extension": "feather",
-  "date_accessed": "2022-09-29T11:40:47.910227",
+  "date_accessed": "2022-09-29T11:57:34.011494",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5689_world_bank_poverty_and_inequality_platform__pip_values.feather",
   "md5": "95d832ad614df9ab635f3fc33ceabd65"
 }
