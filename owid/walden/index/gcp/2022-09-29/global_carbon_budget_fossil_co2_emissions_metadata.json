@@ -1,8 +1,8 @@
 {
   "namespace": "gcp",
-  "short_name": "global_carbon_budget_national_flat_metadata",
-  "name": "Global Carbon Budget - Metadata for national long-term data",
-  "description": "Metadata for the flat national data (json file).\n",
+  "short_name": "global_carbon_budget_fossil_co2_emissions_metadata",
+  "name": "Global Carbon Budget - Metadata for fossil fuels CO2 emissions dataset",
+  "description": "Metadata for the fossil fuel CO2 dataset (json file).\n",
   "source_name": "Global Carbon Project",
   "url": "https://www.globalcarbonproject.org/carbonbudget/index.htm",
   "file_extension": "json",
@@ -14,6 +14,6 @@
   "version": "2022-09-29",
   "publication_year": 2022,
   "publication_date": "2022-04-26",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/gcp/2022-09-29/global_carbon_budget_national_flat_metadata.json",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/gcp/2022-09-29/global_carbon_budget_fossil_co2_emissions_metadata.json",
   "md5": "67cb7207ed8b38d6aaba398978522d17"
 }

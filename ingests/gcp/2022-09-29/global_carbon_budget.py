@@ -11,13 +11,14 @@ CURRENT_DIR = Path(__file__).parent
 # List of metadata files with the information (including download URLs) of data files to download.
 METADATA_FILES = [
     # Global data (official spreadsheet), containing world data from 1959 until today.
-    CURRENT_DIR / "global_carbon_budget_global_full.meta.yml",
+    CURRENT_DIR / "global_carbon_budget_global.meta.yml",
     # National data (official spreadsheet), containing national data from 1959 until today.
-    CURRENT_DIR / "global_carbon_budget_national_full.meta.yml",
-    # National data (flat csv file), containing national data from 1750 until today.
-    CURRENT_DIR / "global_carbon_budget_national_flat.meta.yml",
-    # Metadata for the flat national data (json file).
-    CURRENT_DIR / "global_carbon_budget_national_flat_metadata.meta.yml",
+    CURRENT_DIR / "global_carbon_budget_national.meta.yml",
+    # Fossil CO2 emissions dataset (long csv file), containing global and national data on fossil fuel CO2 emissions
+    # from 1750 until today..
+    CURRENT_DIR / "global_carbon_budget_fossil_co2_emissions.meta.yml",
+    # Metadata for fossil fuels CO2 emissions dataset.
+    CURRENT_DIR / "global_carbon_budget_fossil_co2_emissions_metadata.meta.yml",
 ]
 
 

@@ -1,6 +1,6 @@
 namespace: gcp
-short_name: global_carbon_budget_national_flat
-name: Global Carbon Budget - National long-term data
+short_name: global_carbon_budget_fossil_co2_emissions
+name: Global Carbon Budget - Fossil CO2 emissions dataset
 source_name: Global Carbon Project
 version: 2022-09-29
 publication_year: 2022
@@ -11,4 +11,4 @@ file_extension: csv
 license_url: https://www.icos-cp.eu/data-services/about-data-portal/data-license
 license_name: CC BY 4.0
 description: |
-  National data (flat csv file), containing national data from 1750 until today.
+  Fossil CO2 emissions dataset (long csv file), containing global and national data on fossil fuel CO2 emissions from 1750 until today.
