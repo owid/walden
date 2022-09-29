@@ -1,0 +1,14 @@
+namespace: gcp
+short_name: global_carbon_budget_national_flat
+name: Global Carbon Budget - National long-term data
+source_name: Global Carbon Project
+version: 2022-09-29
+publication_year: 2022
+publication_date: 2022-04-26
+url: https://www.globalcarbonproject.org/carbonbudget/index.htm
+source_data_url: https://zenodo.org/record/5569235/files/GCB2021v34_MtCO2_flat.csv
+file_extension: csv
+license_url: https://www.icos-cp.eu/data-services/about-data-portal/data-license
+license_name: CC BY 4.0
+description: |
+  National data (flat csv file), containing national data from 1750 until today.
