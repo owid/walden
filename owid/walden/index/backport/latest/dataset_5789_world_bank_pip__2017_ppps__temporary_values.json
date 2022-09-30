@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5789_world_bank_pip__2017_ppps__temporary_values",
+  "name": "World Bank PIP - 2017 PPPs (TEMPORARY)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5789",
+  "file_extension": "feather",
+  "date_accessed": "2022-09-30T15:52:57.876408",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "38e84ea0731aa7d224d0c71bfbbbafd0"
+}
