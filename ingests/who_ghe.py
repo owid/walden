@@ -13,7 +13,6 @@ from structlog import get_logger
 from owid.walden import Dataset, add_to_catalog
 
 log = get_logger()
-# get the name of each of the causes of death so we can iterate through them
 
 
 @click.command()
