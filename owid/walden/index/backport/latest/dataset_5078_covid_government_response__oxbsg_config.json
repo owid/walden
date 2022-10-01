@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5078",
   "file_extension": "json",
-  "date_accessed": "2022-09-30T00:02:15.744585",
+  "date_accessed": "2022-09-30T23:44:12.368857",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "9f882c65516796c9083f7b66aad596de",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5078_covid_government_response__oxbsg_config.json",
-  "md5": "4bf16516932ace8aa1dfe2225283be65"
+  "origin_md5": "46dc050a0ca45cdb3dd4783459c51346",
+  "md5": "4abf91a3c8da2aacb44cf40b5e2402bd"
 }
