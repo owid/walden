@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5661",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:01:01.098667",
+  "date_accessed": "2022-10-02T09:54:32.920313",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "06cb4b26a6282a25a3e245604c573d87",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5661_sector_of_notable_ai_systems_data__sevilla_et_al__2022_config.json",
-  "md5": "5a89eb9b76f05a7357c75c2d5512d397"
+  "origin_md5": "19c56c583309296581bddf771b46f5ea",
+  "md5": "6db6d4d7d2a1c69b9cfffcd7ea18fba9"
 }

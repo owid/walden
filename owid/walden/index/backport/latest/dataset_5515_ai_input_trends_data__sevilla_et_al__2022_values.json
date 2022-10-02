@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5515",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:19:56.473567",
+  "date_accessed": "2022-10-02T09:21:58.543177",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5515_ai_input_trends_data__sevilla_et_al__2022_values.feather",
-  "md5": "a0f9b04c7a13baaded94f4d222f00c01"
+  "md5": "f5a4ba278c35964ca6299ff9a8c6b30c"
 }
