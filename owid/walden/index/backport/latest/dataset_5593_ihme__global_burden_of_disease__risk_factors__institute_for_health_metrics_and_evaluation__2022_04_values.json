@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5593",
   "file_extension": "feather",
-  "date_accessed": "2022-09-26T10:33:30.207500",
+  "date_accessed": "2022-10-05T16:57:50.598319",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5593_ihme__global_burden_of_disease__risk_factors__institute_for_health_metrics_and_evaluation__2022_04_values.feather",
-  "md5": "4a31d75ed114008bf286b82cb15f890d"
+  "md5": "4f0920ae041c58dda9ca5960c50fd08c"
 }
