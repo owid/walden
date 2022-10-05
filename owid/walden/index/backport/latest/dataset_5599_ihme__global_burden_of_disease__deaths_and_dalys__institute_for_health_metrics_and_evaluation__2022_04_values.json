@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5599",
   "file_extension": "feather",
-  "date_accessed": "2022-10-05T13:25:49.853083",
+  "date_accessed": "2022-10-05T14:07:09.196924",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5599_ihme__global_burden_of_disease__deaths_and_dalys__institute_for_health_metrics_and_evaluation__2022_04_values.feather",
   "md5": "981c2bf90530d5ea4b37520037f359ae"
 }
