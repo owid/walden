@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5596",
   "file_extension": "feather",
-  "date_accessed": "2022-10-06T13:02:39.224240",
+  "date_accessed": "2022-10-06T13:09:57.262336",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5596_ihme__global_burden_of_disease__prevalence__and__incidence__institute_for_health_metrics_and_evaluation__2022_04_values.feather",
   "md5": "96a8753da2637fa66823bc38a123e51a"
 }
