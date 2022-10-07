@@ -2,7 +2,11 @@ import tempfile
 from pathlib import Path
 
 import click
-from shared import WCPD_SUBNATIONAL_DATA_DIR, WCPD_URL, extract_data_from_remote_zip_folder
+from shared import (
+    WCPD_SUBNATIONAL_DATA_DIR,
+    WCPD_URL,
+    extract_data_from_remote_zip_folder,
+)
 from structlog import get_logger
 
 from owid.walden import Dataset
