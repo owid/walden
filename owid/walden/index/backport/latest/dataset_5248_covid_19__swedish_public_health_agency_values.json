@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5248",
   "file_extension": "feather",
-  "date_accessed": "2022-10-07T11:20:19.824880",
+  "date_accessed": "2022-10-07T11:26:14.632659",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5248_covid_19__swedish_public_health_agency_values.feather",
   "md5": "e85115f1b2f5d315836a448cd304e1a2"
 }
