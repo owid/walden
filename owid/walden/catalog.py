@@ -181,21 +181,33 @@ class Dataset:
     def relative_base(self):
         return path.join(self.namespace, self.version, f"{self.short_name}")
 
+    def _download(self, filename: str, quiet: bool) -> None:
+        # actually get it
+        url = self.owid_data_url or self.source_data_url
+        if not url:
+            raise Exception(f"dataset {self.name} has neither source_data_url nor owid_data_url")
+        if self.is_public:
+            files.download(url, filename, expected_md5=self.md5, quiet=quiet)
+        else:
+            owid_cache.download(url, filename, expected_md5=self.md5, quiet=quiet)
+
     def ensure_downloaded(self, quiet=False) -> str:
         "Download it if it hasn't already been downloaded. Return the local file path."
-        filename = self.local_path
-        if not path.exists(filename):
-            # make the parent folder
-            create(filename)
+        # if we don't have md5, download it as `name.tmp.ext` first, calculate its checksum
+        # and then rename to `name.[md5].ext`
+        if not self.md5:
+            tmp_filename = self.short_name + ".tmp"
+            self._download(tmp_filename, quiet)
 
-            # actually get it
-            url = self.owid_data_url or self.source_data_url
-            if not url:
-                raise Exception(f"dataset {self.name} has neither source_data_url nor owid_data_url")
-            if self.is_public:
-                files.download(url, filename, expected_md5=self.md5, quiet=quiet)
-            else:
-                owid_cache.download(url, filename, expected_md5=self.md5, quiet=quiet)
+            self.md5 = files.checksum(tmp_filename)
+            filename = self.local_path
+            create(filename)
+            shutil.move(tmp_filename, filename)
+        else:
+            filename = self.local_path
+            if not path.exists(filename):
+                create(filename)
+                self._download(filename, quiet)
 
         return filename
 
@@ -224,7 +236,8 @@ class Dataset:
 
     @property
     def local_path(self) -> str:
-        return path.join(CACHE_DIR, f"{self.relative_base}.{self.file_extension}")
+        assert self.md5, "md5 is required"
+        return path.join(CACHE_DIR, f"{self.relative_base}.{self.md5}.{self.file_extension}")
 
     def to_dict(self) -> Dict[str, Any]:
         ...
