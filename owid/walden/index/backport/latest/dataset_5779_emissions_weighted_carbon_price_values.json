@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5779_emissions_weighted_carbon_price_values",
+  "name": "Emissions-weighted carbon price",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5779",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-10T10:26:36.022743",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "cf617503446b21d49c41d7f86c6a1342"
+}

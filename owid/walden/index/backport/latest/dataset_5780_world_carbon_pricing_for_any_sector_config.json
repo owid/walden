@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5780_world_carbon_pricing_for_any_sector_config",
+  "name": "Grapher metadata for dataset_5780_world_carbon_pricing_for_any_sector",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5780",
+  "file_extension": "json",
+  "date_accessed": "2022-10-10T10:47:42.923413",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "04a01385342e0052e57e1e43f3c0e62c",
+  "md5": "acb9b5dcd584c26587d39ae56c3fedf5"
+}
