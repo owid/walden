@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5795",
   "file_extension": "feather",
-  "date_accessed": "2022-10-10T11:57:13.545038",
+  "date_accessed": "2022-10-10T12:01:41.936900",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5795_same_sex_marriage_around_the_world__pew_research_center_values.feather",
   "md5": "338e90fd3a4835d34f6951c599f64ade"
 }

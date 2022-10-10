@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4903",
   "file_extension": "json",
-  "date_accessed": "2022-10-10T11:12:25.270980",
+  "date_accessed": "2022-10-10T12:00:25.352336",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c57785d50700eb7260c2b5f3a3d4894a",
+  "origin_md5": "aa9986d2f2ccc172dc7122a116861072",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4903_marriage_equality__global_comparisons__council_on_foreign_relations_config.json",
-  "md5": "a93ea8d2f44ea022f820aa30f5b71bca"
+  "md5": "2ecc9673a6b6292c99ce54a496565385"
 }

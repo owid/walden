@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5795",
   "file_extension": "json",
-  "date_accessed": "2022-10-10T11:57:13.529258",
+  "date_accessed": "2022-10-10T12:01:41.537909",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "37de427544c31f1e17b63a7b483f2ff5",
-  "md5": "6bc3d14f21e28e6936046ec600f31f7c"
+  "origin_md5": "8ff7779c4caaf9217b1c47bfaadddc58",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5795_same_sex_marriage_around_the_world__pew_research_center_config.json",
+  "md5": "18c6a72370c720377658a9137a64bfca"
 }
