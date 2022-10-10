@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5795_same_sex_marriage_around_the_world__pew_research_center_config",
+  "name": "Grapher metadata for dataset_5795_same_sex_marriage_around_the_world__pew_research_center",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5795",
+  "file_extension": "json",
+  "date_accessed": "2022-10-10T11:57:13.529258",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "37de427544c31f1e17b63a7b483f2ff5",
+  "md5": "6bc3d14f21e28e6936046ec600f31f7c"
+}
