@@ -193,21 +193,23 @@ class Dataset:
 
     def ensure_downloaded(self, quiet=False) -> str:
         "Download it if it hasn't already been downloaded. Return the local file path."
-        # if we don't have md5, download it as `name.tmp.ext` first, calculate its checksum
-        # and then rename to `name.[md5].ext`
-        if not self.md5:
-            tmp_filename = self.short_name + ".tmp"
-            self._download(tmp_filename, quiet)
+        filename = self.local_path
 
-            self.md5 = files.checksum(tmp_filename)
-            filename = self.local_path
-            create(filename)
-            shutil.move(tmp_filename, filename)
+        if self.md5 and path.exists(filename) and files.checksum(filename) == self.md5:
+            # if path.exists(filename):
+            return filename
         else:
-            filename = self.local_path
-            if not path.exists(filename):
-                create(filename)
-                self._download(filename, quiet)
+            # make the parent folder
+            create(filename)
+
+            # actually get it
+            url = self.owid_data_url or self.source_data_url
+            if not url:
+                raise Exception(f"dataset {self.name} has neither source_data_url nor owid_data_url")
+            if self.is_public:
+                files.download(url, filename, expected_md5=self.md5, quiet=quiet)
+            else:
+                owid_cache.download(url, filename, expected_md5=self.md5, quiet=quiet)
 
         return filename
 
@@ -236,8 +238,7 @@ class Dataset:
 
     @property
     def local_path(self) -> str:
-        assert self.md5, "md5 is required"
-        return path.join(CACHE_DIR, f"{self.relative_base}.{self.md5}.{self.file_extension}")
+        return path.join(CACHE_DIR, f"{self.relative_base}.{self.file_extension}")
 
     def to_dict(self) -> Dict[str, Any]:
         ...
