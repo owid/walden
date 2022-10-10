@@ -10,6 +10,8 @@ WCPD_URL = "https://github.com/g-dolphin/WorldCarbonPricingDatabase/archive/refs
 WCPD_DATA_DIR = "WorldCarbonPricingDatabase-master/_dataset/data/CO2/national/"
 # Path to the sources of the data at the national level.
 WCPD_SOURCES_DIR = "WorldCarbonPricingDatabase-master/_dataset/sources/CO2/national/"
+# Path (from the root of the repository) to the data at the sub-national level.
+WCPD_SUBNATIONAL_DATA_DIR = "WorldCarbonPricingDatabase-master/_dataset/data/CO2/subnational/"
 
 
 def extract_data_from_remote_zip_folder(zip_url: str, path_to_folder: str) -> pd.DataFrame:
