@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5800",
   "file_extension": "json",
-  "date_accessed": "2022-10-11T14:45:02.336180",
+  "date_accessed": "2022-10-11T14:49:53.006986",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "1a469653d63f075de3bd8bdf66a057a6",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5800_national_poverty_lines__jolliffe_et_al__2022_config.json",
-  "md5": "ab13f18c72dd6439fe931d99f2c644f3"
+  "origin_md5": "c28ab2ef9feef06e878e9c6524d98bb6",
+  "md5": "24e2b895bfd71657920d5574f2b7392b"
 }
