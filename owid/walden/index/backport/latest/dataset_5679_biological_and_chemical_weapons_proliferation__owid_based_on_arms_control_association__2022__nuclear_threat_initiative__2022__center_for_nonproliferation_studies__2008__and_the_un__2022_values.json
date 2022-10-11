@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5679",
   "file_extension": "feather",
-  "date_accessed": "2022-10-11T10:32:45.734637",
+  "date_accessed": "2022-10-11T11:07:54.187807",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5679_biological_and_chemical_weapons_proliferation__owid_based_on_arms_control_association__2022__nuclear_threat_initiative__2022__center_for_nonproliferation_studies__2008__and_the_un__2022_values.feather",
   "md5": "b258cfbb5110163a99e145cec6cce886"
 }
