@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5800_national_poverty_lines__jolliffe_et_al__2022_values",
+  "name": "National poverty lines (Jolliffe et al., 2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5800",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-11T13:05:17.474294",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "c8b3fb792611fe49e324a077e1e05a17"
+}
