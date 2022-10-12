@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2965",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:19:57.634238",
-  "is_public": true,
+  "date_accessed": "2022-10-07T11:12:48.568692",
+  "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2965_prevalence_of_undernourishment_since_2000__faostats__2018_values.feather",
-  "md5": "56ddb383e8b14589e023d6755c1dba38"
+  "md5": "62ee9d00bcbaaea4d05d180d757c0333"
 }
