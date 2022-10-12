@@ -181,22 +181,11 @@ class Dataset:
     def relative_base(self):
         return path.join(self.namespace, self.version, f"{self.short_name}")
 
-    def _download(self, filename: str, quiet: bool) -> None:
-        # actually get it
-        url = self.owid_data_url or self.source_data_url
-        if not url:
-            raise Exception(f"dataset {self.name} has neither source_data_url nor owid_data_url")
-        if self.is_public:
-            files.download(url, filename, expected_md5=self.md5, quiet=quiet)
-        else:
-            owid_cache.download(url, filename, expected_md5=self.md5, quiet=quiet)
-
     def ensure_downloaded(self, quiet=False) -> str:
-        "Download it if it hasn't already been downloaded. Return the local file path."
+        "Download it if it hasn't already been downloaded and matches checksum. Return the local file path."
         filename = self.local_path
 
         if self.md5 and path.exists(filename) and files.checksum(filename) == self.md5:
-            # if path.exists(filename):
             return filename
         else:
             # make the parent folder
