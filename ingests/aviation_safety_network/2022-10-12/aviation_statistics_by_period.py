@@ -13,29 +13,32 @@ import numpy as np
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from owid.walden import Dataset, add_to_catalog, files
-
 from shared import CURRENT_DIR
+
+from owid.walden import Dataset, add_to_catalog, files
 
 # Name of Walden dataset for aviation statistics by period.
 WALDEN_DATASET_NAME_PERIOD = "aviation_statistics_by_period"
 # Name of Walden dataset for aviation statistics by nature.
 WALDEN_DATASET_NAME_NATURE = "aviation_statistics_by_nature"
 
+
 def get_aviation_data(url: str) -> pd.DataFrame:
     # Extract HTML content from the URL.
-    html_content = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}).content
+    html_content = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}).content
     # Parse HTML content.
     soup = BeautifulSoup(html_content, "html.parser")
 
     # The page contains a table with data, extract table header.
-    columns = [column.get_text() for column in soup.find_all('th', attrs={'class': 'defaultheader'})]
+    columns = [column.get_text() for column in soup.find_all("th", attrs={"class": "defaultheader"})]
 
     # Extract all data points from the table.
-    raw_data = [row.get_text() for row in soup.find_all("td", attrs={'class': ['listcaption', 'listdata']})]
+    raw_data = [row.get_text() for row in soup.find_all("td", attrs={"class": ["listcaption", "listdata"]})]
 
     # Reshape data points to be in rows, and create a dataframe.
-    df = pd.DataFrame(np.array(raw_data).reshape(int(len(raw_data) / len(columns)), len(columns)), columns=columns).astype(int)
+    df = pd.DataFrame(
+        np.array(raw_data).reshape(int(len(raw_data) / len(columns)), len(columns)), columns=columns
+    ).astype(int)
 
     return df
 
