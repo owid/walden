@@ -41,7 +41,7 @@ def main(upload: bool) -> None:
             z.extractall(temp_dir)
             csv_file = f"IHME_GBD_2019_U5M_{start_year}_{end_year}_CT_RT_Y2021M09D01.CSV"
             df = pd.read_csv(os.path.join(temp_dir, csv_file))
-            df = df[df["location_name"].isin(locations)]
+            df = df[df["location_id"].isin(locations)]
             df_all.append(df)
 
         dataset = pd.concat(df_all)
@@ -61,7 +61,7 @@ def get_location_hierachies():
     lh = xl.parse("Sheet1")
     # We only want the global, some of the high level regions and the country level data, levels 0,1 and 3
     lh = lh[lh["Level"].isin([0, 1, 3])]
-    locations = lh["Location Nam"].to_list()
+    locations = lh["Location ID"].to_list()
     return locations
 
 
