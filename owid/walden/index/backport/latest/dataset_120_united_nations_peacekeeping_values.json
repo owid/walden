@@ -2,14 +2,13 @@
   "namespace": "backport",
   "short_name": "dataset_120_united_nations_peacekeeping_values",
   "name": "United Nations Peacekeeping",
-  "description": "",
+  "description": "Number of missions was constructed with https://github.com/owid/notebooks/tree/main/EdouardMathieu/un_peacekeeping_missions",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/120",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:11:27.829475",
+  "date_accessed": "2022-10-12T11:33:18.370461",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_120_united_nations_peacekeeping_values.feather",
-  "md5": "d9409c243fc2b7b290ed968fbc85fe67"
+  "md5": "f23f7e0f5da5d6ad580971738fb3913c"
 }
