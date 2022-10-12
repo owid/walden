@@ -6,16 +6,14 @@ Specifically, extract data from two pages:
 
 """
 
-import tempfile
-
 import click
 import numpy as np
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from shared import CURRENT_DIR
+from shared import CURRENT_DIR, add_dataframe_with_metadata_to_catalog
 
-from owid.walden import Dataset, add_to_catalog, files
+from owid.walden import Dataset
 
 # Name of Walden dataset for aviation statistics by period.
 WALDEN_DATASET_NAME_PERIOD = "aviation_statistics_by_period"
@@ -54,31 +52,6 @@ def get_aviation_data(url: str) -> pd.DataFrame:
     ).astype(int)
 
     return df
-
-
-def add_dataframe_with_metadata_to_catalog(df: pd.DataFrame, metadata: Dataset, upload: bool) -> None:
-    """Add a dataframe with metadata to Walden catalog as a csv file, and create the corresponding Walden index file.
-
-    Note: This function stores a csv file, and hence the 'file_extension' field in the metadata file should be 'csv'.
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-        Dataframe to be uploaded.
-    metadata : Dataset
-        Content of the Walden metadata yaml file (with, for example, the extension of the data file to be created).
-    upload : bool
-        True to upload data to Walden bucket.
-
-    """
-    # Store dataframe in a temporary file.
-    with tempfile.NamedTemporaryFile() as _temp_file:
-        # Save data in a temporary file.
-        df.to_csv(_temp_file.name)
-        # Add file checksum to metadata.
-        metadata.md5 = files.checksum(_temp_file.name)
-        # Create walden index file and upload to s3 (if upload is True).
-        add_to_catalog(metadata, _temp_file.name, upload=upload)
 
 
 @click.command()
