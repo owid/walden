@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5798_world_carbon_pricing_for_any_sector__2022_values",
+  "name": "World carbon pricing for any sector (2022)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5798",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-12T15:13:14.711709",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "157f748ac73ff365519cc8f5cd26bccf"
+}

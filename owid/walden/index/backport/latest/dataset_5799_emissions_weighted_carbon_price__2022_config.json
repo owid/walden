@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5799_emissions_weighted_carbon_price__2022_config",
+  "name": "Grapher metadata for dataset_5799_emissions_weighted_carbon_price__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5799",
+  "file_extension": "json",
+  "date_accessed": "2022-10-12T15:13:36.105053",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "222de2655c78adae12a92481641830de",
+  "md5": "9eae96f2cceea0818533773bbfb39442"
+}
