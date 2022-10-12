@@ -1,5 +1,5 @@
 namespace: aviation_safety_network
-short_name: statistics_by_period
+short_name: aviation_statistics_by_period
 name: Aviation statistics by period
 source_name: Aviation Safety Network
 publication_year: 2022
