@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5800_national_poverty_lines__jolliffe_et_al__2022_config",
+  "name": "Grapher metadata for dataset_5800_national_poverty_lines__jolliffe_et_al__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5800",
+  "file_extension": "json",
+  "date_accessed": "2022-10-11T15:01:59.229390",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c28ab2ef9feef06e878e9c6524d98bb6",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5800_national_poverty_lines__jolliffe_et_al__2022_config.json",
+  "md5": "85a10b482320a482bbf604f6552eee03"
+}
