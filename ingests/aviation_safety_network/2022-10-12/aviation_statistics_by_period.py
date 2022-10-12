@@ -24,6 +24,19 @@ WALDEN_DATASET_NAME_NATURE = "aviation_statistics_by_nature"
 
 
 def get_aviation_data(url: str) -> pd.DataFrame:
+    """Extract data table from a specific page of the Aviation Safety Network web site.
+
+    Parameters
+    ----------
+    url : str
+        URL of the page containing a data table.
+
+    Returns
+    -------
+    df : pd.DataFrame
+        Extracted data.
+
+    """
     # Extract HTML content from the URL.
     html_content = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}).content
     # Parse HTML content.
@@ -44,8 +57,23 @@ def get_aviation_data(url: str) -> pd.DataFrame:
 
 
 def add_dataframe_with_metadata_to_catalog(df: pd.DataFrame, metadata: Dataset, upload: bool) -> None:
+    """Add a dataframe with metadata to Walden catalog as a csv file, and create the corresponding Walden index file.
+
+    Note: This function stores a csv file, and hence the 'file_extension' field in the metadata file should be 'csv'.
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        Dataframe to be uploaded.
+    metadata : Dataset
+        Content of the Walden metadata yaml file (with, for example, the extension of the data file to be created).
+    upload : bool
+        True to upload data to Walden bucket.
+
+    """
+    # Store dataframe in a temporary file.
     with tempfile.NamedTemporaryFile() as _temp_file:
-        # Save data in a temporary feather file.
+        # Save data in a temporary file.
         df.to_csv(_temp_file.name)
         # Add file checksum to metadata.
         metadata.md5 = files.checksum(_temp_file.name)
@@ -65,13 +93,11 @@ def main(upload: bool) -> None:
     dataset_by_period = Dataset.from_yaml(CURRENT_DIR / f"{WALDEN_DATASET_NAME_PERIOD}.meta.yml")
     dataset_by_nature = Dataset.from_yaml(CURRENT_DIR / f"{WALDEN_DATASET_NAME_NATURE}.meta.yml")
 
-    # Fetch data on total accidents/fatalities.
+    # Fetch data on total accidents/fatalities, by period or by nature.
     period_df = get_aviation_data(url=dataset_by_period.url)
-
-    # Fetch data on the nature of the accidents/fatalities.
     nature_df = get_aviation_data(url=dataset_by_nature.url)
 
-    # Add data to Walden catalog and metadata to Walden index.
+    # Add the two data files to Walden catalog and metadata to Walden index.
     add_dataframe_with_metadata_to_catalog(df=period_df, metadata=dataset_by_period, upload=upload)
     add_dataframe_with_metadata_to_catalog(df=nature_df, metadata=dataset_by_nature, upload=upload)
 
