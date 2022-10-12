@@ -41,7 +41,7 @@ def main(upload: bool) -> None:
             z.extractall(temp_dir)
             csv_file = f"IHME_GBD_2019_U5M_{start_year}_{end_year}_CT_RT_Y2021M09D01.CSV"
             df = pd.read_csv(os.path.join(temp_dir, csv_file))
-            df[df["location_name"].isin(locations)]
+            df = df[df["location_name"].isin(locations)]
             df_all.append(df)
 
         dataset = pd.concat(df_all)
