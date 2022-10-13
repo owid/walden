@@ -2,7 +2,7 @@ namespace: un
 short_name: un_igme
 name: Youth Mortality Rates - UN IGME (2019)
 source_name: OWID based on United Nations Inter-agency Group for Child Mortality Estimation (2019)
-publication_date: 2021
+publication_date: "2019"
 url: https://childmortality.org/data
 file_extension: csv
 license_url: https://www.unicef.org/legal#terms-of-use
