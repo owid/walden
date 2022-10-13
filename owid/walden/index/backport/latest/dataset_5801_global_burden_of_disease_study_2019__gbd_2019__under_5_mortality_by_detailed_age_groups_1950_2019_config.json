@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5801_global_burden_of_disease_study_2019__gbd_2019__under_5_mortality_by_detailed_age_groups_1950_2019_config",
+  "name": "Grapher metadata for dataset_5801_global_burden_of_disease_study_2019__gbd_2019__under_5_mortality_by_detailed_age_groups_1950_2019",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5801",
+  "file_extension": "json",
+  "date_accessed": "2022-10-13T13:46:36.002598",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fbcae1a91439db37011bb9d34d7936e3",
+  "md5": "8268cc86e5ab5834a82c68af6032fd67"
+}
