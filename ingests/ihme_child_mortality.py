@@ -5,6 +5,7 @@ import zipfile
 from pathlib import Path
 from typing import List
 
+
 import click
 import pandas as pd
 import requests
@@ -48,7 +49,6 @@ def main(upload: bool) -> None:
         dataset.to_feather(data_file)
         add_to_catalog(metadata, data_file, upload=upload)
 
-
 def get_location_hierachies():
     """
     Download the location hierachies spreadsheet so that we can filter out the small sub-national regions and the higher level regions we don't want.
@@ -61,7 +61,6 @@ def get_location_hierachies():
     lh = lh[lh["Level"].isin([0, 1, 3])]
     locations = lh["Location ID"].to_list()
     return locations
-
 
 def get_number_and_rates(start_year: int, end_year: int, temp_dir: str, locations: List[str]) -> pd.DataFrame:
     """
@@ -89,7 +88,6 @@ def get_probability_death(start_year: int, end_year: int, temp_dir: str, locatio
     df = pd.read_csv(os.path.join(temp_dir, csv_file))
     df_prob = df[df["location_id"].isin(locations)]
     return df_prob
-
 
 if __name__ == "__main__":
     main()
