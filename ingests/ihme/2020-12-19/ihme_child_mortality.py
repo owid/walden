@@ -16,6 +16,8 @@ from owid.walden.catalog import Dataset
 
 log = get_logger()
 
+BASE_URL = "https://ghdx.healthdata.org/sites/default/files/record-attached-files/"
+
 
 @click.command()
 @click.option(
@@ -53,7 +55,7 @@ def get_location_hierachies():
     """
     Download the location hierachies spreadsheet so that we can filter out the small sub-national regions and the higher level regions we don't want.
     """
-    location_hierachies = "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2019_GBD_LOCATION_HIERARCHY_Y2022M06D29.XLSX"
+    location_hierachies = f"{BASE_URL}IHME_GBD_2019_GBD_LOCATION_HIERARCHY_Y2022M06D29.XLSX"
     r = requests.get(location_hierachies).content
     xl = pd.ExcelFile(r)
     lh = xl.parse("Sheet1")
@@ -67,7 +69,7 @@ def get_number_and_rates(start_year: int, end_year: int, temp_dir: str, location
     """
     Download the data on the number and rate of child mortality.
     """
-    url = f"https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2019_U5M_{start_year}_{end_year}_CT_RT_0.zip"
+    url = f"{BASE_URL}IHME_GBD_2019_U5M_{start_year}_{end_year}_CT_RT_0.zip"
     r = requests.get(url)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall(temp_dir)
@@ -81,7 +83,7 @@ def get_probability_death(start_year: int, end_year: int, temp_dir: str, locatio
     """
     Download the data on the probability of death for different age groups of children.
     """
-    url = f"https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2019_U5M_{start_year}_{end_year}_POD_0.zip"
+    url = f"{BASE_URL}IHME_GBD_2019_U5M_{start_year}_{end_year}_POD_0.zip"
     r = requests.get(url)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall(temp_dir)
