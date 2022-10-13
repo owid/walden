@@ -6,7 +6,7 @@
   "source_name": "IHME, Global Burden of Disease (2019)",
   "url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2019-gbd-2019-under-5-mortality-detailed-age-groups-1950-2019",
   "file_extension": "feather",
-  "date_accessed": "2022-10-12",
+  "date_accessed": "2022-10-13",
   "license_url": "https://www.healthdata.org/Data-tools-practices/data-practices/ihme-free-charge-non-commercial-user-agreement",
   "license_name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
   "is_public": true,
@@ -14,5 +14,5 @@
   "publication_year": 2020,
   "publication_date": "2020-12-19",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/ihme_gbd/2020-12-19/child_mortality.feather",
-  "md5": "47c8ee99af3a8da7dc271e46ce5fe46b"
+  "md5": "9cb4502a78e86bd26d576616dbc3230b"
 }
