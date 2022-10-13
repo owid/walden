@@ -1,14 +1,14 @@
 {
   "namespace": "backport",
-  "short_name": "dataset_5175_living_planet_index__wwf__2020_values",
-  "name": "Living Planet Index \u2013 WWF (2020)",
+  "short_name": "dataset_5175_living_planet_index__wwf__2022_values",
+  "name": "Living Planet Index \u2013 WWF (2022)",
   "description": "",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5175",
   "file_extension": "feather",
-  "date_accessed": "2022-10-13T03:19:23.337575",
+  "date_accessed": "2022-10-13T04:21:10.303789",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "md5": "d332c8dd557d4a148cb2f0445fb1d1e3"
+  "md5": "0861f5471bc8dca6519165673445d979"
 }
