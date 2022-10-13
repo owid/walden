@@ -8,9 +8,10 @@ from typing import Any, Optional, Union
 
 import pandas as pd
 
+from owid.walden import files
+
 from .catalog import Dataset
 from .ui import log
-from owid.walden import files
 
 
 ########################################################################################################################
@@ -37,9 +38,7 @@ def has_index(df: pd.DataFrame) -> bool:
     return df_has_index
 
 
-def to_file(
-    df: pd.DataFrame, file_path: Union[str, Path], overwrite: bool = True, **kwargs: Any
-) -> None:
+def to_file(df: pd.DataFrame, file_path: Union[str, Path], overwrite: bool = True, **kwargs: Any) -> None:
     """Save dataframe to file.
 
     This function wraps all pandas df.to_* methods, e.g. df.to_csv() or df.to_parquet(), with the following advantages:
@@ -75,9 +74,7 @@ def to_file(
 
     # Avoid overwriting an existing file unless explicitly stated.
     if file_path.is_file() and not overwrite:
-        raise FileExistsError(
-            "Failed to save dataframe because file exists and 'overwrite' is False."
-        )
+        raise FileExistsError("Failed to save dataframe because file exists and 'overwrite' is False.")
 
     # Available output methods (some of them may need additional dependencies to work).
     output_methods = {
@@ -97,23 +94,21 @@ def to_file(
         "xml": df.to_xml,
     }
     if extension not in output_methods:
-        raise ValueError(
-            f"Failed saving dataframe because of an unknown file extension: {extension}"
-        )
+        raise ValueError(f"Failed saving dataframe because of an unknown file extension: {extension}")
     # Select the appropriate storing method.
     save_function = output_methods[extension]
 
     # Decide whether dataframe should be stored with or without an index, if:
     # * The storing method allows for an 'index' argument.
     # * The argument "index" is not explicitly given.
-    if ("index" in inspect.signature(save_function).parameters) and (
-        "index" not in kwargs
-    ):
+    if ("index" in inspect.signature(save_function).parameters) and ("index" not in kwargs):
         # Make 'index' False to avoid storing index if dataframe has a dummy index.
         kwargs["index"] = has_index(df=df)
 
     # Save file using the chosen save function and the appropriate arguments.
     save_function(file_path, **kwargs)
+
+
 ########################################################################################################################
 
 
