@@ -39,15 +39,12 @@ def audit_doc(filename: str, document: dict, schema: dict) -> None:
     print(Path(filename).relative_to(catalog.INDEX_DIR))
     jsonschema.validate(document, schema)
 
-    if "owid_data_url" in document:
-        check_url(document["owid_data_url"])
-        if "source_data_url" in document:
-            check_url(document["source_data_url"], strict=False)
-    else:
-        if "source_data_url" not in document:
-            raise Exception(f"No source_data_url or owid_data_url in: {filename}")
+    if "owid_data_url" not in document:
+        raise Exception(f"Missing 'owid_data_url' in {filename}")
 
-        check_url(document["source_data_url"])
+    check_url(document["owid_data_url"])
+    if "source_data_url" in document:
+        check_url(document["source_data_url"], strict=False)
 
 
 def check_url(url: str, strict: bool = True) -> None:
