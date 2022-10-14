@@ -18,21 +18,21 @@ METADATA_PATH = (CURRENT_DIR / "aviation_statistics").with_suffix(".meta.yml")
 
 # Define columns to select from sheet and how to rename them.
 COLUMNS = {
-    'Accidents \n(excl. suicide, sabotage, hijackings etc.) Year': 'year',
-    'Accidents ': 'accidents_excluding_hijaking_etc',
-    'Fatalities': 'fatalities_excluding_hijaking_etc',
-    'Accidents \n(incl. suicide, sabotage, hijackings etc.) Accidents ': 'accidents_including_hijaking_etc',
-    'Fatalities.1': 'fatalities_including_hijaking_etc',
-    'Accidents with passenger flights \n(incl. suicide, sabotage, hijackings etc.) Accidents ': 'accidents_with_passenger_flights_including_hijaking_etc',
-    'Fatalities.2': 'fatalities_with_passenger_flights_including_hijaking_etc',
-    'Accidents with passenger + cargo flights\n(incl. suicide, sabotage, hijackings etc.) Accidents ': 'accidents_with_passenger_and_cargo_flights_including_hijaking_etc',
-    'Fatalities.3': 'fatalities_with_passenger_and_cargo_flights_including_hijaking_etc',
+    "Accidents \n(excl. suicide, sabotage, hijackings etc.) Year": "year",
+    "Accidents ": "accidents_excluding_hijaking_etc",
+    "Fatalities": "fatalities_excluding_hijaking_etc",
+    "Accidents \n(incl. suicide, sabotage, hijackings etc.) Accidents ": "accidents_including_hijaking_etc",
+    "Fatalities.1": "fatalities_including_hijaking_etc",
+    "Accidents with passenger flights \n(incl. suicide, sabotage, hijackings etc.) Accidents ": "accidents_with_passenger_flights_including_hijaking_etc",
+    "Fatalities.2": "fatalities_with_passenger_flights_including_hijaking_etc",
+    "Accidents with passenger + cargo flights\n(incl. suicide, sabotage, hijackings etc.) Accidents ": "accidents_with_passenger_and_cargo_flights_including_hijaking_etc",
+    "Fatalities.3": "fatalities_with_passenger_and_cargo_flights_including_hijaking_etc",
     # 'World air traffic (departures)': '',
     # '1 accident \nper x flights': '',
     # 'fatal accidents \nper mln flights': '',
     # '5-year \nmoving avg': '',
-    'Corporate jets (civilian) Accidents ': 'accidents_with_corporate_jets',
-    'Fatalities.4': 'fatalities_with_corporate_jets',
+    "Corporate jets (civilian) Accidents ": "accidents_with_corporate_jets",
+    "Fatalities.4": "fatalities_with_corporate_jets",
     # 'moving 5 year average # of accidents': '',
 }
 
