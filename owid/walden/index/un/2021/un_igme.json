@@ -8,6 +8,7 @@
   "file_extension": "csv",
   "date_accessed": "2022-10-13",
   "source_data_url": "https://childmortality.org/wp-content/uploads/2021/09/UNIGME-2021.csv",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/un/2021/un_igme.csv",
   "license_url": "https://www.unicef.org/legal#terms-of-use",
   "is_public": true,
   "version": "2021",
