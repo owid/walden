@@ -2,15 +2,14 @@
   "namespace": "backport",
   "short_name": "dataset_5689_world_bank_poverty_and_inequality_platform__pip_config",
   "name": "Grapher metadata for dataset_5689_world_bank_poverty_and_inequality_platform__pip",
-  "description": "Version 20220909_2011_02_02_PROD\nWill be updated to 2017 PPPs soon",
+  "description": "Version 20220909_2017_01_02_PROD",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5689",
   "file_extension": "json",
-  "date_accessed": "2022-10-11T10:13:21.420387",
+  "date_accessed": "2022-10-16T15:44:41.474173",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "fe046c0cf12faa26f70f02473567de74",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5689_world_bank_poverty_and_inequality_platform__pip_config.json",
-  "md5": "b2a6a8965b9a15c9a692faed7f8c6f34"
+  "origin_md5": "e8278937323aa4cb0d28d54ea1b7cf8d",
+  "md5": "451df3a30b343793da3cb7aa22f86728"
 }
