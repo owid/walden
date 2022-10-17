@@ -182,9 +182,12 @@ class Dataset:
         return path.join(self.namespace, self.version, f"{self.short_name}")
 
     def ensure_downloaded(self, quiet=False) -> str:
-        "Download it if it hasn't already been downloaded. Return the local file path."
+        "Download it if it hasn't already been downloaded and matches checksum. Return the local file path."
         filename = self.local_path
-        if not path.exists(filename):
+
+        if self.md5 and path.exists(filename) and files.checksum(filename) == self.md5:
+            return filename
+        else:
             # make the parent folder
             create(filename)
 

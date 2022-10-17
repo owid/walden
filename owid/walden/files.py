@@ -87,7 +87,8 @@ def download(url: str, filename: str, expected_md5: Optional[str] = None, quiet:
             if os.path.exists(filename):
                 os.remove(filename)
             raise ChecksumDoesNotMatch(
-                f"for file downloaded from {url}:\n\twalden index checksum = {expected_md5}\n\tdownloaded checksum = {md5}"
+                f"for file downloaded from {url}. Is your walden repository up to date?\n\twalden index checksum = {expected_md5}\n\tdownloaded checksum = {md5}"
+                ""
             )
 
     shutil.move(tmp_filename, filename)
