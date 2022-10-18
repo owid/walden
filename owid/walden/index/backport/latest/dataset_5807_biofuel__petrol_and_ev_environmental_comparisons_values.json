@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5807_biofuel__petrol_and_ev_environmental_comparisons_values",
+  "name": "Biofuel, petrol and EV environmental comparisons",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5807",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-18T03:30:38.722350",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "50b53a07f7daddc9290377b297fe4755"
+}
