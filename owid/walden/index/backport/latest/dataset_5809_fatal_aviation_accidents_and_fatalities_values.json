@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5809_fatal_aviation_accidents_and_fatalities_values",
+  "name": "Fatal aviation accidents and fatalities",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5809",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-18T15:11:16.429870",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "8ee81a0c4c13b53bf4a50985007fd1f0"
+}
