@@ -1,0 +1,13 @@
+namespace: farmer_lafond
+short_name: technology_cost
+name: Technology cost
+source_name: J. Doyne Farmer and François Lafond (2016)
+version: 2022-10-20
+publication_year: 2016
+publication_date: 2016-01-06
+url: http://www.sciencedirect.com/science/article/pii/S0048733315001699
+source_data_url: 
+file_extension: csv
+license_url: 
+license_name: CC BY
+description: |
