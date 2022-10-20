@@ -16,6 +16,7 @@ from owid.walden.ingest import add_to_catalog
 # Path to metadata file.
 METADATA_PATH = Path(__file__).with_suffix(".meta.yml")
 
+
 @click.command()
 @click.option(
     "--upload/--skip-upload",
