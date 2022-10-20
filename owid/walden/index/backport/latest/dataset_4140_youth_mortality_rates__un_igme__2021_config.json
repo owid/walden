@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4140",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:08:00.827383",
+  "date_accessed": "2022-10-20T08:51:48.919040",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "714da6d5acf3daa93dbe206965761c79",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4140_youth_mortality_rates__un_igme__2021_config.json",
-  "md5": "12226fa60d1d24e1c534eb56b9038fa6"
+  "origin_md5": "e95408dea62d8619e697b28d0503ed02",
+  "md5": "5cccc02c07fd005f134d8e7acdc18959"
 }
