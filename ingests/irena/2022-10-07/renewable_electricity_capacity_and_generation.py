@@ -8,6 +8,7 @@ The ingested data is an xlsm file with different sheets.
 from pathlib import Path
 
 import click
+
 from owid.walden import Dataset
 
 
@@ -19,9 +20,7 @@ from owid.walden import Dataset
     help="Upload dataset to Walden",
 )
 def main(upload: bool) -> None:
-    metadata = Dataset.from_yaml(
-        Path(__file__).parent / "renewable_electricity_capacity_and_generation.meta.yml"
-    )
+    metadata = Dataset.from_yaml(Path(__file__).parent / "renewable_electricity_capacity_and_generation.meta.yml")
 
     # Download dataset from source_data_url.
     dataset = Dataset.download_and_create(metadata)
