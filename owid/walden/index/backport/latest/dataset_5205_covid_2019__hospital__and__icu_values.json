@@ -6,10 +6,9 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5205",
   "file_extension": "feather",
-  "date_accessed": "2022-10-19T18:00:42.867911",
+  "date_accessed": "2022-10-20T05:44:44.815498",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5205_covid_2019__hospital__and__icu_values.feather",
-  "md5": "9083bcb0e0cfb270f975414dbf16dfb9"
+  "md5": "086bee515fefa7142e9459c04e4bb316"
 }
