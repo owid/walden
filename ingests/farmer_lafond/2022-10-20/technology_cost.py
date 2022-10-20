@@ -5,15 +5,16 @@ https://www.sciencedirect.com/science/article/pii/S0048733315001699
 
 """
 
+from pathlib import Path
+
 import click
 import pandas as pd
 
 from owid.walden import Dataset
 from owid.walden.ingest import add_to_catalog
-from shared import CURRENT_DIR
 
 # Path to metadata file.
-METADATA_PATH = (CURRENT_DIR / "technology_costs").with_suffix(".meta.yml")
+METADATA_PATH = Path(__file__).with_suffix(".meta.yml")
 
 @click.command()
 @click.option(
