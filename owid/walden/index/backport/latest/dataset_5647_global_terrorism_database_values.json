@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5647",
   "file_extension": "feather",
-  "date_accessed": "2022-10-21T16:59:20.563904",
+  "date_accessed": "2022-10-21T18:03:11.185327",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5647_global_terrorism_database_values.feather",
   "md5": "c9d1518d4b7fac689c2437a46b39d4c0"
 }
