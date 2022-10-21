@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5647",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:03:01.727499",
+  "date_accessed": "2022-10-21T16:59:20.450135",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c7a3351f2f5f87371670456dba92d756",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5647_global_terrorism_database_config.json",
-  "md5": "c105d21732fe1a900915671b84d3e247"
+  "origin_md5": "aa4256a984202fe1aa67e8ebb2aa7bf9",
+  "md5": "5a204706467ec018e645ee79b47bb8e8"
 }
