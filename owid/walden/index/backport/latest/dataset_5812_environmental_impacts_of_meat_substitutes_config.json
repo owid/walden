@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5812_environmental_impacts_of_meat_substitutes_config",
+  "name": "Grapher metadata for dataset_5812_environmental_impacts_of_meat_substitutes",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5812",
+  "file_extension": "json",
+  "date_accessed": "2022-10-24T11:50:30.741603",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b3a0d44946e1d5cffe307744add62a69",
+  "md5": "fee0153eb49329a025890e3cb07eba66"
+}

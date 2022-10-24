@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5811_renewable_electricity_capacity_by_technology_config",
+  "name": "Grapher metadata for dataset_5811_renewable_electricity_capacity_by_technology",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5811",
+  "file_extension": "json",
+  "date_accessed": "2022-10-24T08:46:57.329146",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "880adc11c50cc3d2f2983281e31332b3",
+  "md5": "c9713830115fb6bd52cba8de432a52d2"
+}

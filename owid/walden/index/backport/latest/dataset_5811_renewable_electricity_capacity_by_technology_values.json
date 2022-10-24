@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5811_renewable_electricity_capacity_by_technology_values",
+  "name": "Renewable electricity capacity by technology",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5811",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-24T08:46:57.342462",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "8ee81a0c4c13b53bf4a50985007fd1f0"
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5810_number_of_stunted__wasted_and_underweight_children_values",
+  "name": "Number of stunted, wasted and underweight children",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5810",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-24T08:46:26.247329",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "8ee81a0c4c13b53bf4a50985007fd1f0"
+}

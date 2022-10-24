@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5413",
   "file_extension": "json",
-  "date_accessed": "2022-09-24T11:46:43.143832",
+  "date_accessed": "2022-10-24T07:46:29.853377",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "cb4720e85e6f9abe15fbcc3e87ac0d9d",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5413_covid_19__deaths_by_vaccination_status__united_states_config.json",
-  "md5": "d3dd42376ea96189e2671e46c45d7427"
+  "origin_md5": "c651d6793e6d4bbfb03ecd4e7d049f69",
+  "md5": "0b503b67c33d0e05ca5579b76665ec03"
 }
