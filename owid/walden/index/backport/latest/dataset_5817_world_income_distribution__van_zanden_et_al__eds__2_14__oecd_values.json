@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5817_world_income_distribution__van_zanden_et_al__eds__2_14__oecd_values",
+  "name": "World Income Distribution - van Zanden et al. (eds.) (2-14), OECD",
+  "description": "Backported",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5817",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-24T16:22:23.715252",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "9807f4724d2b835ac2998c3977f7a5e3"
+}

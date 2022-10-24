@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5817_world_income_distribution__van_zanden_et_al__eds__2_14__oecd_config",
+  "name": "Grapher metadata for dataset_5817_world_income_distribution__van_zanden_et_al__eds__2_14__oecd",
+  "description": "Backported",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5817",
+  "file_extension": "json",
+  "date_accessed": "2022-10-24T16:22:23.690567",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "fc433be3cc7844dc3d18766dfc1f70e5",
+  "md5": "fe693ee7ad98cd049a9e717d853a4d9d"
+}
