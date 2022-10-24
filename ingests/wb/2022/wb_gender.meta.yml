@@ -1,0 +1,12 @@
+namespace: genderstats
+short_name: wb_gender
+name: Gender Statistics - World Bank (latest)
+source_name: dummy source
+publication_year: 2022
+url: https://genderdata.worldbank.org/
+source_data_url: https://databank.worldbank.org/data/download/Gender_Stats_csv.zip
+file_extension: zip
+license_url: https://datacatalog.worldbank.org/public-licenses#cc-by
+license_name: CC BY 4.0
+description: |
+  The World Bank's Gender Data Portal makes the latest gender statistics accessible through compelling narratives and data visualizations to improve the understanding of gender data and facilitate analyses that inform policy choices.
