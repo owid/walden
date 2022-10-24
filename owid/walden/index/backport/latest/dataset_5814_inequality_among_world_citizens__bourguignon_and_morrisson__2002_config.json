@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5814",
   "file_extension": "json",
-  "date_accessed": "2022-10-24T15:59:36.719369",
+  "date_accessed": "2022-10-24T16:06:04.083552",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "dcee2dcb90dac003e299f44abe6b8fac",
-  "md5": "dce27b86b868c55d2670fc69737822c1"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5814_inequality_among_world_citizens__bourguignon_and_morrisson__2002_config.json",
+  "md5": "1658aced2c9a18e4bc729ef1354e296b"
 }
