@@ -2,15 +2,14 @@
   "namespace": "backport",
   "short_name": "dataset_5814_inequality_among_world_citizens__bourguignon_and_morrisson__2002_config",
   "name": "Grapher metadata for dataset_5814_inequality_among_world_citizens__bourguignon_and_morrisson__2002",
-  "description": "",
+  "description": "Backported from http://ourworldindata.org/roser/graphs/GlobalInequalityBetweenWorldCitizensAndItsComponents1820to1992/GlobalInequalityBetweenWorldCitizensAndItsComponents1820to1992.csv",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5814",
   "file_extension": "json",
-  "date_accessed": "2022-10-24T15:25:38.056914",
+  "date_accessed": "2022-10-24T15:34:06.739542",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "99bdd46588bd4af3362860ac1582c6a8",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5814_inequality_among_world_citizens__bourguignon_and_morrisson__2002_config.json",
-  "md5": "8a45275f8799a00b6f4bdea31df4a622"
+  "origin_md5": "e6bc2f8c5d6ce47d160ece997cd331da",
+  "md5": "dc9683b649aafe396f269679af51bc3f"
 }
