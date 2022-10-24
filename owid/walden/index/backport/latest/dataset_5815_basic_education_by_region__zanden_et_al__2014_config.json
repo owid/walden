@@ -2,15 +2,14 @@
   "namespace": "backport",
   "short_name": "dataset_5815_basic_education_by_region__zanden_et_al__2014_config",
   "name": "Grapher metadata for dataset_5815_basic_education_by_region__zanden_et_al__2014",
-  "description": "Backported from http://ourworldindata.org/roser/graphs/SchoolAttended_byWorldRegion_Since1870/SchoolAttended_byWorldRegion_Since1870.csv",
+  "description": "Backported",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5815",
   "file_extension": "json",
-  "date_accessed": "2022-10-24T15:52:45.223002",
+  "date_accessed": "2022-10-24T15:59:46.482329",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "39b32f5639953b5356b659da092e5c44",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5815_basic_education_by_region__zanden_et_al__2014_config.json",
-  "md5": "0c11edfcbe602dec4e00a5cc6b649f5f"
+  "origin_md5": "938fb10729990ed0c35b8cec5b4f9e62",
+  "md5": "6d5880e7aeb39939cbfdc3a6c7591eb2"
 }

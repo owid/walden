@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5816_income_inequality__gini_coefficient__in_the_us__luxembourg_income_study_config",
+  "name": "Grapher metadata for dataset_5816_income_inequality__gini_coefficient__in_the_us__luxembourg_income_study",
+  "description": "Backported",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5816",
+  "file_extension": "json",
+  "date_accessed": "2022-10-24T15:59:57.602574",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b50ada462572473021d110c9e31d0110",
+  "md5": "378595fdac38a8198b1338570b80b3de"
+}
