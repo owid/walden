@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5818",
   "file_extension": "feather",
-  "date_accessed": "2022-10-24T19:53:56.767995",
+  "date_accessed": "2022-10-24T20:06:30.243094",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5818_algorithmic_efficiency_data__openai__2020_values.feather",
   "md5": "782c2eb2c0572d6c4569eb2488f8bfb2"
 }
