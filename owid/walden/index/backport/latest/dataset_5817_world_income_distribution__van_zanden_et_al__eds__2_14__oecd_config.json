@@ -6,10 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5817",
   "file_extension": "json",
-  "date_accessed": "2022-10-24T16:22:23.690567",
+  "date_accessed": "2022-10-24T16:32:52.291054",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "origin_md5": "fc433be3cc7844dc3d18766dfc1f70e5",
-  "md5": "fe693ee7ad98cd049a9e717d853a4d9d"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5817_world_income_distribution__van_zanden_et_al__eds__2_14__oecd_config.json",
+  "md5": "e53e219b58084ed5d5e2287834a71b4c"
 }
