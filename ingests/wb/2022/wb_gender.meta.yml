@@ -1,4 +1,4 @@
-namespace: genderstats
+namespace: wb
 short_name: wb_gender
 name: Gender Statistics - World Bank (latest)
 source_name: dummy source
