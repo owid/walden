@@ -1,0 +1,18 @@
+{
+  "namespace": "genderstats",
+  "short_name": "wb_gender",
+  "name": "Gender Statistics - World Bank (latest)",
+  "description": "The World Bank's Gender Data Portal makes the latest gender statistics accessible through compelling narratives and data visualizations to improve the understanding of gender data and facilitate analyses that inform policy choices.\n",
+  "source_name": "dummy source",
+  "url": "https://genderdata.worldbank.org/",
+  "file_extension": "zip",
+  "date_accessed": "2022-10-25",
+  "source_data_url": "https://databank.worldbank.org/data/download/Gender_Stats_csv.zip",
+  "license_url": "https://datacatalog.worldbank.org/public-licenses#cc-by",
+  "license_name": "CC BY 4.0",
+  "is_public": true,
+  "version": "2022",
+  "publication_year": 2022,
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/genderstats/2022/wb_gender.zip",
+  "md5": "13b79aadd4dc5ffdd39aa6408a7dbf07"
+}
