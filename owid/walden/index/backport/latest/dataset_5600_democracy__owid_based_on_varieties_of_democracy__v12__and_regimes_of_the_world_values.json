@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5600",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:24:40.076440",
+  "date_accessed": "2022-10-25T15:38:25.923504",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5600_democracy__owid_based_on_varieties_of_democracy__v12__and_regimes_of_the_world_values.feather",
-  "md5": "0e207147d58b2ec1d4ecf5422ff2d110"
+  "md5": "06d51b4e5ff9a563a42c27ea6877ef2e"
 }
