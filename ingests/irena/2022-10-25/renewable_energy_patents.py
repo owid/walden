@@ -15,9 +15,9 @@ from pathlib import Path
 
 import click
 import pandas as pd
+
 from owid.walden import Dataset
 from owid.walden.ingest import add_to_catalog
-
 
 # Path to metadata file.
 METADATA_PATH = Path(__file__).with_suffix(".meta.yml")
