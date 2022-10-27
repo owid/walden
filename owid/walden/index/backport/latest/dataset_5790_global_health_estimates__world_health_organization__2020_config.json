@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5790_global_health_estimates__world_health_organization__2020_config",
+  "name": "Grapher metadata for dataset_5790_global_health_estimates__world_health_organization__2020",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5790",
+  "file_extension": "json",
+  "date_accessed": "2022-10-27T12:12:51.303508",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "4915e99be6432a14af44679f61ca9403",
+  "md5": "67beebf88c81e7cd06d4742d7f98685f"
+}
