@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5819_nuclear_warhead_inventories__federation_of_american_scientists_values",
+  "name": "Nuclear warhead inventories \u2013 Federation of American Scientists",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5819",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-26T19:29:57.070345",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "3679127f1fff3f9cd8153ff137fa5dbb"
+}
