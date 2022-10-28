@@ -87,7 +87,7 @@ def update_metadata_new_version(dataset: Dataset) -> Dataset:
     year = datetime.strptime(dataset.date_accessed, "%Y-%m-%d").year
     dataset.version = dataset.date_accessed
     dataset.publication_year = year
-    dataset.name += f"({year})"
+    dataset.name += f" ({year})"
     return dataset
 
 
