@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5757",
   "file_extension": "json",
-  "date_accessed": "2022-10-11T10:11:49.413252",
+  "date_accessed": "2022-10-28T14:52:58.773379",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2a5aaf6c60c67421de4d28db7ff811bc",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5757_multidimensional_poverty_index__mpi__2021__current_estimates_config.json",
-  "md5": "0888994994171318c5bd2787a7d1652d"
+  "origin_md5": "533cd77a44ed2e4231ea94bea96d8662",
+  "md5": "ee9c161349ad00eb489b32b1a7f130d7"
 }

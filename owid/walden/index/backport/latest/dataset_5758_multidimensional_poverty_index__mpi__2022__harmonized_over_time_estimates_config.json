@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5758_multidimensional_poverty_index__mpi__2022__harmonized_over_time_estimates_config",
+  "name": "Grapher metadata for dataset_5758_multidimensional_poverty_index__mpi__2022__harmonized_over_time_estimates",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5758",
+  "file_extension": "json",
+  "date_accessed": "2022-10-28T15:04:19.693001",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "93dcb484b95733825f0ee20aae2a13a5",
+  "md5": "6c0696b5adffdec2fbdbd99839f63d5a"
+}
