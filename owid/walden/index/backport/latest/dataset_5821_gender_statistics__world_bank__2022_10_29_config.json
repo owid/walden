@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5821_gender_statistics__world_bank__2022_10_29_config",
+  "name": "Grapher metadata for dataset_5821_gender_statistics__world_bank__2022_10_29",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5821",
+  "file_extension": "json",
+  "date_accessed": "2022-10-29T20:44:18.545400",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "b5b9d6ecc88a39635b0f45e6be0b2595",
+  "md5": "b5cf74e6a43687f87ea74a3fc7a4e413"
+}
