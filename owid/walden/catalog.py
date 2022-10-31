@@ -232,8 +232,8 @@ class Dataset:
     def to_dict(self) -> Dict[str, Any]:
         ...
 
-    def needs_update(self) -> bool:
-        "Return True if the local file is out of date."
+    def has_changed_from_last_version(self) -> bool:
+        "Return True if the local dataset is different than last dataset version in Walden."
         if self.md5:
             try:
                 dataset_last = Catalog().find_latest(namespace=self.namespace, short_name=self.short_name)
