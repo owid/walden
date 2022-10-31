@@ -232,6 +232,20 @@ class Dataset:
     def to_dict(self) -> Dict[str, Any]:
         ...
 
+    def needs_update(self) -> bool:
+        "Return True if the local file is out of date."
+        if self.md5:
+            try:
+                dataset_last = Catalog().find_latest(namespace=self.namespace, short_name=self.short_name)
+            except ValueError:
+                return True
+            return dataset_last.md5 != self.md5
+        else:
+            raise ValueError(
+                "no md5 to check! Make sure you have correctly created the dataset. See methods `download_and_create`,"
+                " `copy_and_create`"
+            )
+
 
 class Catalog:
     def __init__(self):
