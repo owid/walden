@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5573",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:23:28.032011",
+  "date_accessed": "2022-10-29T18:02:45.626966",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5573_polio_reported_and_estimated_cases_values.feather",
-  "md5": "ee6c2d47bdff8279f0098f56f72c1f03"
+  "md5": "66c5cd346c23e05274665c122af02f37"
 }

@@ -2,15 +2,15 @@
   "namespace": "backport",
   "short_name": "dataset_4096_number_of_people_living_in_extreme_poverty__by_world_region__world_bank_pip_config",
   "name": "Grapher metadata for dataset_4096_number_of_people_living_in_extreme_poverty__by_world_region__world_bank_pip",
-  "description": "Version 20220909_2011_02_02_PROD\nThey will update it  to 2017 PPP this fall in 2022, setting a new international poverty line of $2.15 https://blogs.worldbank.org/opendata/updating-international-poverty-line-2017-ppps",
+  "description": "Version 20220909_2017_01_02_PROD",
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4096",
   "file_extension": "json",
-  "date_accessed": "2022-10-11T10:12:09.301041",
+  "date_accessed": "2022-10-16T18:00:27.588501",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "2dd7661d8a823882cb4fe932134e2183",
+  "origin_md5": "95ab99556de56d0e44491a90fdd509c7",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4096_number_of_people_living_in_extreme_poverty__by_world_region__world_bank_pip_config.json",
-  "md5": "98f5fa6681ea968834c52c2e09ab6b27"
+  "md5": "340eb0bc2e612de6319be731baf043cf"
 }

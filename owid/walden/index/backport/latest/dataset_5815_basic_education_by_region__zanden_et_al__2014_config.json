@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5815_basic_education_by_region__zanden_et_al__2014_config",
+  "name": "Grapher metadata for dataset_5815_basic_education_by_region__zanden_et_al__2014",
+  "description": "Backported",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5815",
+  "file_extension": "json",
+  "date_accessed": "2022-10-24T16:04:49.847474",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "938fb10729990ed0c35b8cec5b4f9e62",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5815_basic_education_by_region__zanden_et_al__2014_config.json",
+  "md5": "7dc62b1cb519abd611d0346322528134"
+}

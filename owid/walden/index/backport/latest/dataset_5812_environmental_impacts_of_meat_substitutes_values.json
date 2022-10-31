@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5812_environmental_impacts_of_meat_substitutes_values",
+  "name": "Environmental impacts of meat substitutes",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5812",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-28T06:02:49.910542",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5812_environmental_impacts_of_meat_substitutes_values.feather",
+  "md5": "3975e1796c6e21d1855be317398d4e9a"
+}

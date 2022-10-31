@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5661_researcher_affiliation_notable_ai_systems_data__sevilla_et_al__2022_config",
+  "name": "Grapher metadata for dataset_5661_researcher_affiliation_notable_ai_systems_data__sevilla_et_al__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5661",
+  "file_extension": "json",
+  "date_accessed": "2022-10-26T10:00:37.327701",
+  "is_public": false,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "c3083d2a51e0fc850ab19cf1a39c0aec",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5661_researcher_affiliation_notable_ai_systems_data__sevilla_et_al__2022_config.json",
+  "md5": "120f387565e184068beb3181a24f2480"
+}
