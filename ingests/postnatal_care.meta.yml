@@ -6,8 +6,9 @@ publication_year: 2022
 publication_date: 2022-09-19
 url: https://databank.worldbank.org/source/health-nutrition-and-population-statistics/Series/SH.STA.PNVC.ZS#
 source_data_url: 
-file_extension: .csv
+file_extension: csv
 license_url: https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets
 license_name: Creative Commons BY 4.0
 description: |
   Percentage of women with a postnatal checkup in the first two days after birth.
+owid_data_url: https://walden.nyc3.digitaloceanspaces.com/postnatal_care/2022-09-19/postnatal_care.csv
