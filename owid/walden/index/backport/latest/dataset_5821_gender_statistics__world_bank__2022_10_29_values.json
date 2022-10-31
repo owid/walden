@@ -1,0 +1,15 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5821_gender_statistics__world_bank__2022_10_29_values",
+  "name": "Gender Statistics - World Bank (2022-10-29)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5821",
+  "file_extension": "feather",
+  "date_accessed": "2022-10-31T09:43:35.058867",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5821_gender_statistics__world_bank__2022_10_29_values.feather",
+  "md5": "f0599cfc2a4bd84c2149a8a86eca0c2b"
+}

@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5757_multidimensional_poverty_index__mpi__2022__current_estimates_config",
+  "name": "Grapher metadata for dataset_5757_multidimensional_poverty_index__mpi__2022__current_estimates",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5757",
+  "file_extension": "json",
+  "date_accessed": "2022-10-28T18:02:55.439636",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "2b327ec76392618e510b16a672d591b3",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5757_multidimensional_poverty_index__mpi__2022__current_estimates_config.json",
+  "md5": "7b1a8c0425c0845ddb38536d5fac8cd1"
+}

@@ -39,7 +39,7 @@ def main(upload: bool) -> None:
     if needs_to_be_updated(dataset):
         log.info("Update needed! Updating dataset...")
         # Update version, publication year
-        update_metadata_new_version(dataset)
+        update_metadata_with_version(dataset)
 
         # upload it to S3
         if upload:
@@ -77,7 +77,7 @@ def needs_to_be_updated(dataset: Dataset) -> bool:
         return True
 
 
-def update_metadata_new_version(dataset: Dataset) -> Dataset:
+def update_metadata_with_version(dataset: Dataset) -> Dataset:
     """Update metadata of the dataset with new version.
 
     It uses dataset.date_accessed to update the following fields:
@@ -99,7 +99,7 @@ def update_metadata_new_version(dataset: Dataset) -> Dataset:
     year = datetime.strptime(dataset.date_accessed, "%Y-%m-%d").year
     dataset.version = dataset.date_accessed
     dataset.publication_year = year
-    dataset.name += f" ({year})"
+    dataset.name += f" ({dataset.date_accessed})"
     return dataset
 
 
