@@ -25,7 +25,7 @@ LOCAL_PATH = "/Users/fionaspooner/Downloads/Data_Extract_From_Health_Nutrition_a
 def main(upload: bool) -> None:
     metadata = Dataset.from_yaml(Path(__file__).parent / "postnatal_care.meta.yml")
 
-    add_to_catalog(metadata=metadata, filename=LOCAL_PATH, upload=upload, public=False)
+    add_to_catalog(metadata=metadata, filename=LOCAL_PATH, upload=upload)
 
 
 if __name__ == "__main__":
