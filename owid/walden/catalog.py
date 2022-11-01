@@ -232,6 +232,34 @@ class Dataset:
     def to_dict(self) -> Dict[str, Any]:
         ...
 
+    def has_changed_from_last_version(self) -> bool:
+        """Check if local dataset is different to latest available version in Walden.
+
+        Retrieves last version of the dataset in Walden and compares it to the current version. Comparison is done by
+        string comparing the MD5 checksums of the two datasets.
+
+        Parameters
+        ----------
+        dataset : Dataset
+            Dataset that was just retrieved.
+
+        Returns
+        -------
+        bool
+            True if dataset in Walden is different to the self.
+        """
+        if self.md5:
+            try:
+                dataset_last = Catalog().find_latest(namespace=self.namespace, short_name=self.short_name)
+            except ValueError:
+                return True
+            return dataset_last.md5 != self.md5
+        else:
+            raise ValueError(
+                "no md5 to check! Make sure you have correctly created the dataset. See methods `download_and_create`,"
+                " `copy_and_create`"
+            )
+
 
 class Catalog:
     def __init__(self):
