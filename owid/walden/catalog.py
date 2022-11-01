@@ -236,6 +236,27 @@ class Dataset:
         # Return False because the file was not uploaded
         return False
 
+    def upload_and_save(self, upload: bool, public: bool = False, check_changed: bool = True) -> None:
+        """Update index and upload dataset if required.
+
+        Parameters
+        ----------
+        upload : bool
+            Set to True to upload dataset to Walden.
+        public: bool
+            If True, the file will be uploaded to the public database. Otherwise, it will be uploaded to the private database. Defaults to False.
+        check_changed: bool
+            If True, the file will only be uploaded if it has changed since the last upload. Defaults to False.
+        """
+        # Upload dataset
+        if upload:
+            is_uploaded = self.upload(public=public, check_changed=check_changed)
+            if is_uploaded:
+                self.save()
+        else:
+            # Save index
+            self.save()
+
     def delete_from_remote(self) -> None:
         """
         Delete the file from the remote cache on S3.
