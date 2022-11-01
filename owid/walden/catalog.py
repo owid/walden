@@ -12,6 +12,7 @@ from typing import Any, Dict, Iterator, List, Literal, Optional, Tuple, Union
 
 import yaml
 from dataclasses_json import dataclass_json
+from structlog import get_logger
 
 from . import files, owid_cache
 
@@ -26,6 +27,8 @@ INDEX_DIR = path.abspath(path.join(BASE_DIR, "index"))
 
 # the JSONschema that they must match
 SCHEMA_FILE = path.join(BASE_DIR, "schema.json")
+
+log = get_logger()
 
 
 @dataclass_json
@@ -202,7 +205,7 @@ class Dataset:
 
         return filename
 
-    def upload(self, public: bool = False, check_changed: bool = False) -> None:
+    def upload(self, public: bool = False, check_changed: bool = False) -> bool:
         """Copy the local file to our cache. It updates the `owid_data_url` field.
 
         Arguments:
@@ -211,6 +214,11 @@ class Dataset:
             If True, the file will be uploaded to the public database. Otherwise, it will be uploaded to the private database. Defaults to False.
         check_changed: bool
             If True, the file will only be uploaded if it has changed since the last upload. Defaults to False.
+
+        Returns:
+        --------
+        bool:
+            True if the file was uploaded, False otherwise.
         """
         if (check_changed and self.has_changed_from_last_version()) or not check_changed:
             # download the file to the local cache if we don't have it already
@@ -223,7 +231,35 @@ class Dataset:
             # remember how to access it
             self.owid_data_url = cache_url
 
+            # Set attribute to public
             self.is_public = public
+
+            # Return True because the file was uploaded
+            return True
+        # Return False because the file was not uploaded
+        return False
+
+    def upload_and_save(self, upload: bool, public: bool = False, check_changed: bool = True) -> None:
+        """Update index and upload dataset if required.
+
+        Parameters
+        ----------
+        upload : bool
+            Set to True to upload dataset to Walden.
+        public: bool
+            If True, the file will be uploaded to the public database. Otherwise, it will be uploaded to the private database. Defaults to False.
+        check_changed: bool
+            If True, the file will only be uploaded if it has changed since the last upload. Defaults to False.
+        """
+        # Upload dataset
+        if upload:
+            is_uploaded = self.upload(public=public, check_changed=check_changed)
+            if is_uploaded:
+                self.save()
+        else:
+            # Save index
+            if (check_changed and self.has_changed_from_last_version()) or not check_changed:
+                self.save()
 
     def delete_from_remote(self) -> None:
         """
@@ -259,13 +295,22 @@ class Dataset:
             try:
                 dataset_last = Catalog().find_latest(namespace=self.namespace, short_name=self.short_name)
             except ValueError:
-                return True
-            return dataset_last.md5 != self.md5
+                is_different = True
+            else:
+                is_different = dataset_last.md5 != self.md5
         else:
             raise ValueError(
                 "no md5 to check! Make sure you have correctly created the dataset. See methods `download_and_create`,"
                 " `copy_and_create`"
             )
+
+        # Logging
+        if is_different:
+            log.info("Updating dataset!")
+        else:
+            log.info("Update not needed.")
+
+        return is_different
 
 
 class Catalog:
