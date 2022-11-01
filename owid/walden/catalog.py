@@ -202,7 +202,7 @@ class Dataset:
 
         return filename
 
-    def upload(self, public: bool = False, check_changed: bool = False) -> None:
+    def upload(self, public: bool = False, check_changed: bool = False) -> bool:
         """Copy the local file to our cache. It updates the `owid_data_url` field.
 
         Arguments:
@@ -211,6 +211,11 @@ class Dataset:
             If True, the file will be uploaded to the public database. Otherwise, it will be uploaded to the private database. Defaults to False.
         check_changed: bool
             If True, the file will only be uploaded if it has changed since the last upload. Defaults to False.
+
+        Returns:
+        --------
+        bool:
+            True if the file was uploaded, False otherwise.
         """
         if (check_changed and self.has_changed_from_last_version()) or not check_changed:
             # download the file to the local cache if we don't have it already
@@ -223,7 +228,35 @@ class Dataset:
             # remember how to access it
             self.owid_data_url = cache_url
 
+            # Set attribute to public
             self.is_public = public
+
+            # Return True because the file was uploaded
+            return True
+        # Return False because the file was not uploaded
+        return False
+
+    def upload_and_save(self, upload: bool, public: bool = False, check_changed: bool = True) -> None:
+        """Update index and upload dataset if required.
+
+        Parameters
+        ----------
+        upload : bool
+            Set to True to upload dataset to Walden.
+        public: bool
+            If True, the file will be uploaded to the public database. Otherwise, it will be uploaded to the private database. Defaults to False.
+        check_changed: bool
+            If True, the file will only be uploaded if it has changed since the last upload. Defaults to False.
+        """
+        # Upload dataset
+        if upload:
+            is_uploaded = self.upload(public=public, check_changed=check_changed)
+            if is_uploaded:
+                self.save()
+        else:
+            # Save index
+            if (check_changed and self.has_changed_from_last_version()) or not check_changed:
+                self.save()
 
     def delete_from_remote(self) -> None:
         """
