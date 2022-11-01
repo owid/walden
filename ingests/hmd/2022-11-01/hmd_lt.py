@@ -37,13 +37,14 @@ def main(upload: bool, local_data_file: str) -> None:
     # Load metadata
     dataset = Dataset.from_yaml(METADATA_PATH)
 
+    # Update version, publication year
+    update_metadata_with_version(dataset)
+
+    # Add local data file to dataset
+    dataset = Dataset.copy_and_create(str(local_data_file), dataset)
+
     if needs_to_be_updated(dataset):
         log.info("Update needed! Updating dataset...")
-        # Update version, publication year
-        update_metadata_with_version(dataset)
-
-        # Add local data file to dataset
-        dataset = Dataset.copy_and_create(str(local_data_file), dataset)
 
         # Upload it to S3
         if upload:
