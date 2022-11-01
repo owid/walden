@@ -255,7 +255,8 @@ class Dataset:
                 self.save()
         else:
             # Save index
-            self.save()
+            if (check_changed and self.has_changed_from_last_version()) or not check_changed:
+                self.save()
 
     def delete_from_remote(self) -> None:
         """
