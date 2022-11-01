@@ -202,21 +202,28 @@ class Dataset:
 
         return filename
 
-    def upload(self, public: bool = False) -> None:
+    def upload(self, public: bool = False, check_changed: bool = False) -> None:
+        """Copy the local file to our cache. It updates the `owid_data_url` field.
+
+        Arguments:
+        ----------
+        public: bool
+            If True, the file will be uploaded to the public database. Otherwise, it will be uploaded to the private database. Defaults to False.
+        check_changed: bool
+            If True, the file will only be uploaded if it has changed since the last upload. Defaults to False.
         """
-        Copy the local file to our cache. It updates the `owid_data_url` field.
-        """
-        # download the file to the local cache if we don't have it already
-        self.ensure_downloaded()
+        if (check_changed and self.has_changed_from_last_version()) or not check_changed:
+            # download the file to the local cache if we don't have it already
+            self.ensure_downloaded()
 
-        # add it to our remote cache of data files
-        dest_path = f"{self.relative_base}.{self.file_extension}"
-        cache_url = owid_cache.upload(self.local_path, dest_path, public=public)
+            # add it to our remote cache of data files
+            dest_path = f"{self.relative_base}.{self.file_extension}"
+            cache_url = owid_cache.upload(self.local_path, dest_path, public=public)
 
-        # remember how to access it
-        self.owid_data_url = cache_url
+            # remember how to access it
+            self.owid_data_url = cache_url
 
-        self.is_public = public
+            self.is_public = public
 
     def delete_from_remote(self) -> None:
         """
@@ -231,6 +238,34 @@ class Dataset:
 
     def to_dict(self) -> Dict[str, Any]:
         ...
+
+    def has_changed_from_last_version(self) -> bool:
+        """Check if local dataset is different to latest available version in Walden.
+
+        Retrieves last version of the dataset in Walden and compares it to the current version. Comparison is done by
+        string comparing the MD5 checksums of the two datasets.
+
+        Parameters
+        ----------
+        dataset : Dataset
+            Dataset that was just retrieved.
+
+        Returns
+        -------
+        bool
+            True if dataset in Walden is different to the self.
+        """
+        if self.md5:
+            try:
+                dataset_last = Catalog().find_latest(namespace=self.namespace, short_name=self.short_name)
+            except ValueError:
+                return True
+            return dataset_last.md5 != self.md5
+        else:
+            raise ValueError(
+                "no md5 to check! Make sure you have correctly created the dataset. See methods `download_and_create`,"
+                " `copy_and_create`"
+            )
 
 
 class Catalog:
