@@ -43,7 +43,7 @@ def main(upload: bool, local_data_file: str) -> None:
     # Add local data file to dataset
     dataset = Dataset.copy_and_create(str(local_data_file), dataset)
 
-    if needs_to_be_updated(dataset):
+    if dataset.has_changed_from_last_version():
         log.info("Update needed! Updating dataset...")
 
         # Upload it to S3
@@ -54,30 +54,6 @@ def main(upload: bool, local_data_file: str) -> None:
         dataset.save()
     else:
         log.info("No update needed!")
-
-
-def needs_to_be_updated(dataset: Dataset) -> bool:
-    """Check if dataset needs to be updated.
-
-    Retrieves last version of the dataset in Walden and compares it to the current version. Comparison is done by
-    string comparing the MD5 checksums of the two datasets.
-
-    Parameters
-    ----------
-    dataset : Dataset
-        Dataset that was just retrieved.
-
-    Returns
-    -------
-    bool
-        True if dataset in Walden is outdated and a new version is needed.
-    """
-    log.info("Checking if dataset needs to be updated...")
-    try:
-        dataset_last = Catalog().find_latest(namespace=dataset.namespace, short_name=dataset.short_name)
-    except ValueError:
-        return True
-    return dataset_last.md5 != dataset.md5
 
 
 def update_metadata_with_version(dataset: Dataset) -> Dataset:
