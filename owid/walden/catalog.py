@@ -12,6 +12,7 @@ from typing import Any, Dict, Iterator, List, Literal, Optional, Tuple, Union
 
 import yaml
 from dataclasses_json import dataclass_json
+from structlog import get_logger
 
 from . import files, owid_cache
 
@@ -26,6 +27,8 @@ INDEX_DIR = path.abspath(path.join(BASE_DIR, "index"))
 
 # the JSONschema that they must match
 SCHEMA_FILE = path.join(BASE_DIR, "schema.json")
+
+log = get_logger()
 
 
 @dataclass_json
@@ -292,13 +295,21 @@ class Dataset:
             try:
                 dataset_last = Catalog().find_latest(namespace=self.namespace, short_name=self.short_name)
             except ValueError:
-                return True
-            return dataset_last.md5 != self.md5
+                is_different = True
+            is_different = dataset_last.md5 != self.md5
         else:
             raise ValueError(
                 "no md5 to check! Make sure you have correctly created the dataset. See methods `download_and_create`,"
                 " `copy_and_create`"
             )
+
+        # Logging
+        if is_different:
+            log.info("Updating dataset!")
+        else:
+            log.info("Update not needed.")
+
+        return is_different
 
 
 class Catalog:
