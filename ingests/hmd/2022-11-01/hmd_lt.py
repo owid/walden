@@ -11,7 +11,7 @@ from pathlib import Path
 import click
 from structlog import get_logger
 
-from owid.walden import Catalog, Dataset
+from owid.walden import Dataset
 
 log = get_logger()
 
