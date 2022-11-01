@@ -26,34 +26,8 @@ def main(upload: bool) -> None:
     # Update version
     dataset.version = dataset.date_accessed
 
-    # Upload dataset
+    # Upload dataset (dataset will only be updated if it has actually changed since last available version)
     dataset.upload_and_save(upload=upload, public=True)
-
-
-def needs_to_be_updated(dataset: Dataset) -> bool:
-    """Check if dataset needs to be updated.
-
-    Retrieves last version of the dataset in Walden and compares it to the current version. Comparison is done by
-    string comparing the MD5 checksums of the two datasets.
-
-    TODO: move to class method of Dataset.
-
-    Parameters
-    ----------
-    dataset : Dataset
-        Dataset that was just retrieved.
-
-    Returns
-    -------
-    bool
-        True if dataset in Walden is outdated and a new version is needed.
-    """
-    log.info("Checking if dataset needs to be updated...")
-    try:
-        dataset_last = Catalog().find_latest(namespace=dataset.namespace, short_name=dataset.short_name)
-        return dataset_last.md5 != dataset.md5
-    except ValueError:
-        return True
 
 
 if __name__ == "__main__":

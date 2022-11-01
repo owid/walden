@@ -1,5 +1,5 @@
 namespace: papers
-short_name: papers_zijdeman2015
+short_name: zijdeman_et_al_2015
 name: Life Expectancy at Birth (Total) - Zijdeman et al. (2015)
 source_name: Zijdeman et al. (2015) (via clio-infra.eu)
 version: overwritten_in_code
@@ -16,13 +16,13 @@ description: |
 
   The sources used are:
 
-  - UN World Population Project: http://esa.un.org/wpp/
-  - Human Mortality Database: http://www.mortality.org
-  - GAPMINDER: http://www.gapminder.org
-  - OECD: http://stats.oecd.org
-  - Montevideo-Oxford Latin America Economic History Database: http://www.lac.ox.ac.uk/moxlad-database
-  - ONS: http://www.ons.gov.uk/ons/datasets-and-tables/index.html
-  - Australian Bureau of Statistics: http://www.abs.gov.au/ausstats/abs@.nsf/web+pages/statistics?opendocument#from-banner=LN
+  - <a href="http://esa.un.org/wpp/">UN World Population Project</a>.
+  - <a href="Human Mortality Database">http://www.mortality.org</a>.
+  - <a href="Gapminder">http://www.gapminder.org</a>.
+  - <a href="OECD">http://stats.oecd.org</a>.
+  - <a href="http://www.lac.ox.ac.uk/moxlad-database">Montevideo-Oxford Latin America Economic History Database</a>.
+  - <a href="ONS">http://www.ons.gov.uk/ons/datasets-and-tables/index.html</a>.
+  - <a href="Australian Bureau of Statistics">http://www.abs.gov.au/ausstats/abs@.nsf/web+pages/statistics?opendocument#from-banner=LN</a>.
   - Kannisto, V., Nieminen, M. & Turpeinen, O. (1999). Finnish Life Tables since 1751, Demographic Research, 1(1), DOI: 10.4054/DemRes.1999.1.1
 
   For specifics concerning (selections of) the sources, see the R-file below, with which the dataset was created.
@@ -30,7 +30,7 @@ description: |
   Link to paper can be found at https://clio-infra.eu/docs/Total_life_expectancy.docx.
 
 access_notes: |
-  This dataset is updated are irregular times. The source maintains and updates the dataset file using the same URL. Therefore, data releases for different timestamps are not available in the source.
+  This dataset is updated at irregular times. The source maintains and updates the dataset file using the same URL. Therefore, data releases for different timestamps are not available in the source.
 
 # add notes:
 # omit source_data_url
