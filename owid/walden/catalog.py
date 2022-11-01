@@ -296,7 +296,8 @@ class Dataset:
                 dataset_last = Catalog().find_latest(namespace=self.namespace, short_name=self.short_name)
             except ValueError:
                 is_different = True
-            is_different = dataset_last.md5 != self.md5
+            else:
+                is_different = dataset_last.md5 != self.md5
         else:
             raise ValueError(
                 "no md5 to check! Make sure you have correctly created the dataset. See methods `download_and_create`,"
