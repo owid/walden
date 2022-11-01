@@ -43,12 +43,8 @@ def main(upload: bool, local_data_file: str) -> None:
     # Add local data file to dataset
     dataset = Dataset.copy_and_create(str(local_data_file), dataset)
 
-    # Upload it to S3
-    if upload:
-        dataset.upload(public=True, check_changed=True)
-
-    # Update PUBLIC walden index with metadata
-    dataset.save()
+    # Upload it to S3 (optionally) and save index
+    dataset.upload_and_save(upload=upload, public=True, check_changed=True)
 
 
 def update_metadata_with_version(dataset: Dataset) -> Dataset:
