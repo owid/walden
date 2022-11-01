@@ -202,21 +202,28 @@ class Dataset:
 
         return filename
 
-    def upload(self, public: bool = False) -> None:
+    def upload(self, public: bool = False, check_changed: bool = False) -> None:
+        """Copy the local file to our cache. It updates the `owid_data_url` field.
+
+        Arguments:
+        ----------
+        public: bool
+            If True, the file will be uploaded to the public database. Otherwise, it will be uploaded to the private database. Defaults to False.
+        check_changed: bool
+            If True, the file will only be uploaded if it has changed since the last upload. Defaults to False.
         """
-        Copy the local file to our cache. It updates the `owid_data_url` field.
-        """
-        # download the file to the local cache if we don't have it already
-        self.ensure_downloaded()
+        if (check_changed and self.has_changed_from_last_version()) or not check_changed:
+            # download the file to the local cache if we don't have it already
+            self.ensure_downloaded()
 
-        # add it to our remote cache of data files
-        dest_path = f"{self.relative_base}.{self.file_extension}"
-        cache_url = owid_cache.upload(self.local_path, dest_path, public=public)
+            # add it to our remote cache of data files
+            dest_path = f"{self.relative_base}.{self.file_extension}"
+            cache_url = owid_cache.upload(self.local_path, dest_path, public=public)
 
-        # remember how to access it
-        self.owid_data_url = cache_url
+            # remember how to access it
+            self.owid_data_url = cache_url
 
-        self.is_public = public
+            self.is_public = public
 
     def delete_from_remote(self) -> None:
         """
