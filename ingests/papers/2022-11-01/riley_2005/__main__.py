@@ -8,7 +8,7 @@ To understand for which walden datasets this code has been used note the followi
 
 That is, this code may have generated several walden datasets versions.
 
-To find which code generated your dataset version "YYYY-MM-DD", look for the code version closes in time with that version
+To find which code generated your dataset version "YYYY-MM-DD", look for the code version closest in time with that version
 backwards.
 """
 
