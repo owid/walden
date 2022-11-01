@@ -23,19 +23,11 @@ def main(upload: bool) -> None:
     # download dataset from source_data_url and add the local file to Walden's cache in ~/.owid/walden
     dataset = Dataset.download_and_create(metadata)
 
-    if needs_to_be_updated(dataset):
-        log.info("Update needed! Updating dataset...")
-        # Update version, publication year
-        dataset.version = dataset.date_accessed
+    # Update version
+    dataset.version = dataset.date_accessed
 
-        # upload it to S3
-        if upload:
-            dataset.upload(public=True)
-
-        # update PUBLIC walden index with metadata
-        dataset.save()
-    else:
-        log.info("No update needed!")
+    # Upload dataset
+    dataset.upload_and_save(upload=upload, public=True)
 
 
 def needs_to_be_updated(dataset: Dataset) -> bool:
