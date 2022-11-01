@@ -1,5 +1,5 @@
 namespace: papers
-short_name: papers_riley2005
+short_name: riley_2005
 name: Estimates of Regional and Global Life Expectancy, 1800-2001 - Riley (2005)
 source_name: Riley (2005)
 version: overwritten_in_code
