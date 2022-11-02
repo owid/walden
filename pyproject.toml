@@ -20,9 +20,9 @@ beautifulsoup4 = "^4.11.1"
 structlog = "^21.5.0"
 owid-datautils = {git = "https://github.com/owid/owid-datautils-py.git", rev = "v0.5.0-alpha"}
 owid-catalog = "^0.3.0"
+pyrsistent = "^0.19.1"
 
 [tool.poetry.dev-dependencies]
-mypy = "^0.910"
 pytest = "^6.2.4"
 watchdog = "^2.1.3"
 PyYAML = "^5.4.1"
@@ -37,6 +37,7 @@ jupytext = "^1.13.7"
 jupyter_nbextensions_configurator = "^0.4.1"
 types-PyYAML = "^6.0.5"
 isort = "^5.10.1"
+pyright = "^1.1.278"
 
 [tool.isort]
 profile = "black"

@@ -64,10 +64,10 @@ def _stream_to_file(
         file.write(chunk)
         md5.update(chunk)
         if display_progress:
-            progress.update(task_id, advance=len(chunk))
+            progress.update(task_id, advance=len(chunk))  # type: ignore
 
     if display_progress:
-        progress.stop()
+        progress.stop()  # type: ignore
 
     return md5.hexdigest()
 
