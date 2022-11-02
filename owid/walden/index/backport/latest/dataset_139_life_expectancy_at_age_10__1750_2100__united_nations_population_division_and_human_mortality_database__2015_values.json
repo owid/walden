@@ -6,9 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/139",
   "file_extension": "feather",
-  "date_accessed": "2022-11-02T16:56:15.193329",
+  "date_accessed": "2022-11-02T17:00:54.599463",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_139_life_expectancy_at_age_10__1750_2100__united_nations_population_division_and_human_mortality_database__2015_values.feather",
   "md5": "68bc5fc995e92670bb5dd5811a4b3e2c"
 }
