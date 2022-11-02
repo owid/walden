@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5763",
   "file_extension": "feather",
-  "date_accessed": "2022-10-30T12:02:45.876766",
+  "date_accessed": "2022-11-01T16:59:56.068268",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5763_ai_index_report__2022_values.feather",
-  "md5": "365fb602cc0ae945c883a941bf299226"
+  "md5": "0844f9a2564eefd7ec15e4c19f52435a"
 }
