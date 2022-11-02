@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5157",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:29:39.294886",
+  "date_accessed": "2022-11-02T20:13:44.740068",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "aa299d1c6352924459057a028824d430",
+  "origin_md5": "2b96a54e14505b7d55224c0da23a7c23",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5157_gdp_growth_from_previous_year__2020_q2__eurostat__oecd__national_sources_config.json",
-  "md5": "0810d373afd1927425ca1b81d3d19220"
+  "md5": "966ddfa1658a5310245dfa6059160521"
 }

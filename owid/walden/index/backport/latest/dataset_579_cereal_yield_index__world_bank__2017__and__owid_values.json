@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/579",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:27:44.784056",
+  "date_accessed": "2022-11-02T20:16:31.422424",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_579_cereal_yield_index__world_bank__2017__and__owid_values.feather",
-  "md5": "e6da1435e7c9e6c663ece6216073da09"
+  "md5": "db81409772529f4ddf6552aa9e143a82"
 }

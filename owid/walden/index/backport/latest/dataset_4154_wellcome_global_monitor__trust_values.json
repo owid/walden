@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/4154",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:09:58.257380",
+  "date_accessed": "2022-11-02T20:15:11.555801",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_4154_wellcome_global_monitor__trust_values.feather",
-  "md5": "41ff5709628096dcbac2cd52db4f5256"
+  "md5": "398923c5c8927d0c3464a3402a999496"
 }

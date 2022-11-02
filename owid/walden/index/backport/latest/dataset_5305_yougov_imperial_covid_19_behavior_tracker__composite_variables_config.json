@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5305",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:15:39.010866",
+  "date_accessed": "2022-11-02T20:15:27.906637",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "563797797c31e4381c29586ec6d2778b",
+  "origin_md5": "f69ab874f1973cfdb6d846f47220215d",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5305_yougov_imperial_covid_19_behavior_tracker__composite_variables_config.json",
-  "md5": "656098cdcb8d47853e35cea425df3b46"
+  "md5": "f996634a460db79354acd5b2cd580cd4"
 }

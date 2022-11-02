@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/666",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:22:28.217148",
+  "date_accessed": "2022-11-02T20:16:36.943041",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_666_half_index__land_use__alexander_et_al__2016_values.feather",
-  "md5": "183cacc013e0e1c123918141c8d586e9"
+  "md5": "c331c0c24b4069d92400e84d2cdca22b"
 }

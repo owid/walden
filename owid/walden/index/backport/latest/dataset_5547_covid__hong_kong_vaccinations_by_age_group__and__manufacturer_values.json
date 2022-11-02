@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5547",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:33:50.645978",
+  "date_accessed": "2022-11-02T20:13:56.481548",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5547_covid__hong_kong_vaccinations_by_age_group__and__manufacturer_values.feather",
-  "md5": "1673063d5ae5d9e585eba6f2fe4160cf"
+  "md5": "8478eb034eefb7294af2220065af655e"
 }

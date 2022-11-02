@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5213",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:15:58.481339",
+  "date_accessed": "2022-11-02T20:16:33.735966",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5213_swedish_covid_19_deaths_comparison_values.feather",
-  "md5": "2e7f7255c584265dbde040f55115dd70"
+  "md5": "309c889661acbb9135c5dcdc33d1edfc"
 }

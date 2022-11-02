@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/975",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:22:30.433132",
+  "date_accessed": "2022-11-02T20:13:10.146230",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_975_long_term_per_capita_fossil_fuels__owid_based_on_un__gapminder__bp__etemad__and__luciana_values.feather",
-  "md5": "a10bc5c4494c1b3821bb53f9693ca7e6"
+  "md5": "507ff0fde35af4ad93d7f8d5ef4fb41e"
 }

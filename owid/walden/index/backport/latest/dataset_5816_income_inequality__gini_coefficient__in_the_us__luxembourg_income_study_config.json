@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5816",
   "file_extension": "json",
-  "date_accessed": "2022-10-24T16:05:46.032757",
+  "date_accessed": "2022-11-02T20:14:22.426721",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "b50ada462572473021d110c9e31d0110",
+  "origin_md5": "fc2e730ff4117fdd536df5a1d903bec0",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5816_income_inequality__gini_coefficient__in_the_us__luxembourg_income_study_config.json",
-  "md5": "df35c90c250edb61a1ca79f4e40eb73c"
+  "md5": "a19c1af98f9b01431f6f0f9623877409"
 }

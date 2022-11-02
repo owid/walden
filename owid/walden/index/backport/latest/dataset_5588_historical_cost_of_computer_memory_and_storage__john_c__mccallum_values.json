@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5588",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:12:28.871412",
+  "date_accessed": "2022-11-02T20:16:44.214814",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5588_historical_cost_of_computer_memory_and_storage__john_c__mccallum_values.feather",
-  "md5": "7468cdf19038c06c5e7fac5598f687f2"
+  "md5": "c607ffcd0b726394462a02fc4d1e6dd9"
 }

@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5318",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:05:07.355381",
+  "date_accessed": "2022-11-02T20:14:02.018029",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "00c0a1342c2393b2580872441a6a90ee",
+  "origin_md5": "3700f9cabef9c62b0f789dddf857e17b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5318_global_agricultural_productivity_config.json",
-  "md5": "e2fec84b18a28c169a30a48da329220a"
+  "md5": "27367bc3bc26f22e8c860c26a0e0b728"
 }

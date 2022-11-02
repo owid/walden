@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/695",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:08:58.061035",
+  "date_accessed": "2022-11-02T20:13:34.967331",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_695_meat_conversion_efficiencies__alexander_et_al__2016_values.feather",
-  "md5": "6099d5a6342b98992d0dc2ca848f7406"
+  "md5": "e7b32d32939af42bf13e93285e0f9dff"
 }
