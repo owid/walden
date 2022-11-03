@@ -182,6 +182,7 @@ class Dataset:
 
     @property
     def relative_base(self):
+        assert self.version
         return path.join(self.namespace, self.version, f"{self.short_name}")
 
     def ensure_downloaded(self, quiet=False) -> str:
