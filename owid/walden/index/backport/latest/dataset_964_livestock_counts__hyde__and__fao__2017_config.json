@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/964",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:03:32.262529",
+  "date_accessed": "2022-11-02T20:12:35.261760",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "dcc0ca338955f1e39119a64ff0e0766f",
+  "origin_md5": "66846d149b02db7c88d816f03dea8270",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_964_livestock_counts__hyde__and__fao__2017_config.json",
-  "md5": "94f52123dfc73be4d6afd731e95e9f43"
+  "md5": "989fe5670a8b4acf2fc98bd0123d92b0"
 }

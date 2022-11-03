@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/1033",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:14:14.753787",
+  "date_accessed": "2022-11-02T20:12:07.281520",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_1033_antibiotic_use_in_livestock__european_commission__and__van_boeckel_et_al_values.feather",
-  "md5": "d428e46e9946a4d979a0bc3f5338652f"
+  "md5": "af21f9a4fc81fde694e6f7deb2d70970"
 }

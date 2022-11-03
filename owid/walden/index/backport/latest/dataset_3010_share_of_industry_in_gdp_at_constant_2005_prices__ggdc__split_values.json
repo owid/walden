@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3010",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:02:15.458858",
+  "date_accessed": "2022-11-02T20:16:18.497812",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3010_share_of_industry_in_gdp_at_constant_2005_prices__ggdc__split_values.feather",
-  "md5": "a11b8892e2d43f777d3819f3426e9169"
+  "md5": "702cf12fc7b5bd6d0a55f72f51aa32a7"
 }

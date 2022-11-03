@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2936",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:04:20.066063",
+  "date_accessed": "2022-11-02T20:14:05.533284",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2936_world_conflict_deaths__various_sources_values.feather",
-  "md5": "0c156520d708c2b5f9cdc4a955611fb3"
+  "md5": "2fddd9b6cec1e86096b136d643fe1360"
 }

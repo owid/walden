@@ -47,7 +47,7 @@ def add_to_catalog(
     elif (dataframe is not None) and (filename is None):
         # Get output file extension from metadata.
         if type(metadata) == dict:
-            file_extension = metadata["file_extension"]
+            file_extension = metadata["file_extension"]  # type: ignore
         else:
             file_extension = metadata.file_extension  # type: ignore
 

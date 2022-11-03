@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5436",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:26:53.968605",
+  "date_accessed": "2022-11-02T20:13:47.481390",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5436_biosafety_level_4_facilities_values.feather",
-  "md5": "4f096154fd046e91dbf474b6f3a5b983"
+  "md5": "985abf216aa89d927871b94b4c2be357"
 }

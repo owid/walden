@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5318",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:05:07.778420",
+  "date_accessed": "2022-11-02T20:14:02.478981",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5318_global_agricultural_productivity_values.feather",
-  "md5": "2e415ad7ef9d419b8d2a06cea73b2d44"
+  "md5": "b7ed41df394b1f919138736c7a8b448c"
 }

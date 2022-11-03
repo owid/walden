@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/671",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:05:51.193604",
+  "date_accessed": "2022-11-02T20:13:01.171016",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_671_fao_2030_50_projections_of_arable_land__fao__2017_values.feather",
-  "md5": "573fbf7de75671eb3a171768ca20aafb"
+  "md5": "e0c5c3eb56d2f4ba16ae14ad1245838e"
 }

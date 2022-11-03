@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/3010",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:02:15.002211",
+  "date_accessed": "2022-11-02T20:16:18.058483",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "58c673d10ff219052c357b3375d9ea0e",
+  "origin_md5": "5f370ab477b4eb7b07d6149df5e5128c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_3010_share_of_industry_in_gdp_at_constant_2005_prices__ggdc__split_config.json",
-  "md5": "0b3bfcd24a1534822f4c684b429a296b"
+  "md5": "94fd4da606c42cbd44eaff5c1156d69f"
 }

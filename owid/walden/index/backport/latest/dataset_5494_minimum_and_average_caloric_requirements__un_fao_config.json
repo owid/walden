@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5494",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:18:22.291295",
+  "date_accessed": "2022-11-02T20:13:51.446492",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "34480c48e131afb015766b207e40e1c5",
+  "origin_md5": "006c95cb129343f25e014fd690570365",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5494_minimum_and_average_caloric_requirements__un_fao_config.json",
-  "md5": "85c3e363636d15775690828294558da6"
+  "md5": "69f09e50bcf6d6a62e2eaec269de9f9a"
 }

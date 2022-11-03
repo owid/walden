@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5251",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:07:19.614737",
+  "date_accessed": "2022-11-02T20:12:57.571268",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "319819301e1904e2551779ad866d0232",
+  "origin_md5": "c66c85b9f92fbaee02be23c6a835801b",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5251_covid_19__israel__confirmed_cases_by_age_config.json",
-  "md5": "9dd042a0eed8b22f8f8eae86be49e304"
+  "md5": "9976a5f5778f8f82e5fd2d63485b726d"
 }

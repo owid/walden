@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/924",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:14:13.740639",
+  "date_accessed": "2022-11-02T20:13:19.468531",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_924_fertilizer_use_per_hectare_of_land__fao__and__federico_values.feather",
-  "md5": "3793614ed6ad0fe024f20ad641677511"
+  "md5": "9b2355eb51cc343b7e2594ef728389e1"
 }
