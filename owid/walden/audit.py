@@ -42,8 +42,8 @@ def audit_doc(filename: str, document: dict, schema: dict) -> None:
     if "owid_data_url" not in document:
         raise Exception(f"Missing 'owid_data_url' in {filename}")
 
-    check_url(document["owid_data_url"])
-    if "source_data_url" in document:
+    if "source_data_url" in document and document.get("is_public", True):
+        check_url(document["owid_data_url"])
         check_url(document["source_data_url"], strict=False)
 
 
