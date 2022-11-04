@@ -6,11 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5392",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:28:14.519389",
+  "date_accessed": "2022-11-04T15:47:38.071282",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "d90ee4040d3517925c3bc3c45181b55d",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5392_international_monetary_fund__world_economic_outlook_config.json",
-  "md5": "f7429d9f778cbeb7046aa5ec30bba498"
+  "origin_md5": "a6d48217a2b1128af6b6caac29925c95",
+  "md5": "b7ed156688554af5a2ea268844c7364b"
 }
