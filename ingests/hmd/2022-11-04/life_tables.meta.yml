@@ -1,10 +1,10 @@
 namespace: hmd
-short_name: hmd_lt
+short_name: life_tables
 name: Life Tables - Human Mortality Database
 source_name: Human Mortality Database
 version: overwritten_in_code
 url: https://www.mortality.org/Data/ZippedDataFiles
-source_data_url: 
+source_data_url:
 file_extension: zip
 license_url: https://www.mortality.org/Data/UserAgreement
 license_name: CC BY 4.0
