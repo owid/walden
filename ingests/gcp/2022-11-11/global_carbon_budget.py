@@ -3,9 +3,9 @@
 from pathlib import Path
 
 import click
+from etl.paths import DATA_DIR
 
 from owid.walden import Dataset
-from etl.paths import DATA_DIR
 
 # TODO: Change to public on November 11 (date of public release).
 PUBLIC = False
