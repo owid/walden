@@ -1,6 +1,6 @@
 namespace: gcp
 short_name: global_carbon_budget_fossil_co2_emissions
-name: Global Carbon Budget - Fossil CO2 emissions dataset
+name: Global Carbon Budget - Fossil CO2 emissions
 source_name: Global Carbon Project
 publication_year: 2022
 publication_date: 2022-11-11
