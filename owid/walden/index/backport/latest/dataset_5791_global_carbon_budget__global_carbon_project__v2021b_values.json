@@ -1,0 +1,14 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5791_global_carbon_budget__global_carbon_project__v2021b_values",
+  "name": "Global Carbon Budget (Global Carbon Project, v2021b)",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5791",
+  "file_extension": "feather",
+  "date_accessed": "2022-11-10T22:44:14.301759",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "md5": "c78e4c86a1abc1020ba20cd3b1be2efa"
+}
