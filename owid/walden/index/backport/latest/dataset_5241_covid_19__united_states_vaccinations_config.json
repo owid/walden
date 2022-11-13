@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5241",
   "file_extension": "json",
-  "date_accessed": "2022-11-12T18:01:30.634368",
+  "date_accessed": "2022-11-13T18:01:58.179554",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "c74ade6e40fd9c2cff33f34b9356c487",
+  "origin_md5": "55c02d1d4504c4a97f0d5b85dd996f5c",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5241_covid_19__united_states_vaccinations_config.json",
-  "md5": "99fb85b6c0284ded84bd1aaef9e97e16"
+  "md5": "019cc7b6316ba37b9ede27a25e118c1c"
 }
