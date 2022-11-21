@@ -3,7 +3,7 @@
   "short_name": "wb_gender",
   "name": "Gender Statistics - World Bank (2022-10-29)",
   "description": "The World Bank's Gender Data Portal makes the latest gender statistics accessible through compelling narratives and data visualizations to improve the understanding of gender data and facilitate analyses that inform policy choices.\n",
-  "source_name": "World Bank, Gender Statistics",
+  "source_name": "World Bank, Gender Statistics (based on multiple sources)",
   "url": "https://genderdata.worldbank.org/",
   "file_extension": "zip",
   "date_accessed": "2022-10-29",
