@@ -1,7 +1,7 @@
 namespace: wb
 short_name: wb_gender
 name: Gender Statistics - World Bank
-source_name: World Bank, Gender Statistics
+source_name: World Bank, Gender Statistics (based on multiple sources)
 version: overwritten_in_code
 url: https://genderdata.worldbank.org/
 source_data_url: https://databank.worldbank.org/data/download/Gender_Stats_csv.zip
