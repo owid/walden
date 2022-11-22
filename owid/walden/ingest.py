@@ -60,6 +60,6 @@ def add_to_catalog(
             metadata.md5 = files.checksum(temp_file)  # type: ignore
             # Run the function again, but now fetching the data from the temporary file instead of the dataframe.
             # This time the function will create the walden index file and upload to s3 (if upload is True).
-            add_to_catalog(metadata=metadata, filename=temp_file, upload=upload)
+            add_to_catalog(metadata=metadata, filename=temp_file, upload=upload, public=public)
     else:
         raise ValueError("Use either 'filename' or 'dataframe' argument, but not both.")
