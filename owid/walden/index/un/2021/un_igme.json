@@ -6,12 +6,12 @@
   "source_name": "OWID based on United Nations Inter-agency Group for Child Mortality Estimation (2021)",
   "url": "https://childmortality.org/data",
   "file_extension": "csv",
-  "date_accessed": "2022-10-13",
+  "date_accessed": "2022-11-24",
   "source_data_url": "https://childmortality.org/wp-content/uploads/2021/09/UNIGME-2021.csv",
-  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/un/2021/un_igme.csv",
   "license_url": "https://www.unicef.org/legal#terms-of-use",
   "is_public": true,
   "version": "2021",
   "publication_date": "2021",
-  "md5": "30a5e2e4f9679b1867bb534dc5e3fe8b"
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/un/2021/un_igme.csv",
+  "md5": "31d5ac6bc805f1e0cf2bb4ccd37c9b1b"
 }
