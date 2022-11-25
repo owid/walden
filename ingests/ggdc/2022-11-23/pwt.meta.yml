@@ -1,5 +1,5 @@
 namespace: ggdc
-short_name: ggdc_pwt
+short_name: pwt
 name: Penn World Table version 10.0
 source_name: Feenstra et al. (2015), Penn World Table 10.0
 publication_year: 2021
