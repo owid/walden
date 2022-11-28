@@ -13,7 +13,7 @@ default:
 	@echo
 
 .venv: pyproject.toml poetry.toml poetry.lock
-	poetry install
+	poetry install || poetry install
 	touch $@
 
 audit: .venv
