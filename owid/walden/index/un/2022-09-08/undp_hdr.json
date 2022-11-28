@@ -1,0 +1,19 @@
+{
+  "namespace": "un",
+  "short_name": "undp_hdr",
+  "name": "Human Development Report - UNDP (2021-22)",
+  "description": "The 2021/2022 Human Development Report is the latest in the series of global Human Development Reports published by the United Nations Development Programme (UNDP) \nsince 1990 as independent and analytically and empirically grounded discussions of major development issues, trends and policies.\n\nAdditional resources related to the 2021/2022 Human Development Report can be found online at http://hdr.undp.org. Resources on the website include digital versions \nand translations of the Report and the overview in more than 10 languages, an interactive web version of the Report, a set of background papers and think pieces \ncommissioned for the Report, interactive data visualizations and databases of human development indicators, full explanations of the sources and methodologies used \nin the Report\u2019s composite indices, country insights and other background materials, and previous global, regional and national Human Development Reports. Corrections \nand addenda are also available online.\n\nTechnical notes may be found at https://hdr.undp.org/sites/default/files/2021-22_HDR/hdr2021-22_technical_notes.pdf.\n",
+  "source_name": "UNDP, Human Development Report (2021-22)",
+  "url": "https://hdr.undp.org/",
+  "file_extension": "zip",
+  "date_accessed": "2022-11-28",
+  "source_data_url": "https://hdr.undp.org/sites/default/files/2021-22_HDR/HDR21-22_Composite_indices_complete_time_series.csv",
+  "license_url": "https://hdr.undp.org/copyright-and-terms-use",
+  "license_name": "CC BY 3.0 IGO",
+  "is_public": true,
+  "version": "2022-09-08",
+  "publication_year": 2022,
+  "publication_date": "2022-09-08",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/un/2022-09-08/undp_hdr.zip",
+  "md5": "e6733b313d704f45b13ae75ddb4a338e"
+}
