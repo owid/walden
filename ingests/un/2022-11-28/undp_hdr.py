@@ -18,7 +18,7 @@ from owid.walden import Dataset, files, add_to_catalog
 log = get_logger()
 
 
-METADATA_URL = "https://hdr.undp.org/sites/default/files/2021-22_HDR/HDR21-22_Composite_indices_metadata.xlsx"
+URL_METADATA = "https://hdr.undp.org/sites/default/files/2021-22_HDR/HDR21-22_Composite_indices_metadata.xlsx"
 
 
 @click.command()
@@ -35,17 +35,25 @@ def main(upload: bool) -> None:
         # Prepare data file
         data_filename = prepare_datafile(dataset.metadata, tmp_dir)
         # Add to catalog
-        add_to_catalog(dataset, data_filename, upload=upload, public=True)
+        # print(data_filename)
+        # print(files.checksum(data_filename))
+        # add_to_catalog(dataset, data_filename, upload=upload, public=True)
 
 
 def prepare_datafile(metadata, directory: str) -> str:
     # Download data
-    DATA_URL = metadata["source_data_url"]
-    files.download(DATA_URL, os.path.join(directory, "data.csv"))
+    URL_DATA = metadata["source_data_url"]
+    PATH_DATA = os.path.join(directory, "data.csv")
+    files.download(URL_DATA, PATH_DATA)
+    print(files.checksum(PATH_DATA))
     # Download metadata
-    files.download(METADATA_URL, os.path.join(directory, "metadata.csv"))
+    PATH_METADATA = os.path.join(directory, "metadata.xlsx")
+    files.download(URL_METADATA, PATH_METADATA)
+    print(files.checksum(PATH_METADATA))
     # Compress
     directory_zipped = compress_directory(directory, "undp_hdr")
+    print(directory_zipped)
+    print(files.checksum(directory_zipped))  # This changes!
     return directory_zipped
 
 
