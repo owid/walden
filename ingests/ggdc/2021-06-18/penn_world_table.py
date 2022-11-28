@@ -15,11 +15,7 @@ from owid.walden import Dataset
     help="Upload dataset to Walden",
 )
 def main(upload: bool) -> None:
-<<<<<<< HEAD:ingests/ggdc/2021-06-18/penn_world_table.py
     metadata = Dataset.from_yaml(Path(__file__).parent / "penn_world_table.meta.yml")
-=======
-    metadata = Dataset.from_yaml(Path(__file__).parent / "ggdc_pwt.meta.yml")
->>>>>>> 3f685239f83b51fe98abe5340a1970878966ae80:ingests/ggdc/2021-01-15/ggdc_pwt.py
 
     # download dataset from source_data_url and add the local file to Walden's cache in ~/.owid/walden
     dataset = Dataset.download_and_create(metadata)
