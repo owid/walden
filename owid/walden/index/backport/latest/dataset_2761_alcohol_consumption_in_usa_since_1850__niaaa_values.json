@@ -6,10 +6,10 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/2761",
   "file_extension": "feather",
-  "date_accessed": "2022-09-15T11:20:39.188944",
+  "date_accessed": "2022-11-28T16:14:14.389897",
   "is_public": true,
   "version": "latest",
   "publication_date": "latest",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_2761_alcohol_consumption_in_usa_since_1850__niaaa_values.feather",
-  "md5": "f72e0ec4f2d0691337ee01fd8520e6c0"
+  "md5": "4403fb17b9469ec9ae253509ba42d4d4"
 }
