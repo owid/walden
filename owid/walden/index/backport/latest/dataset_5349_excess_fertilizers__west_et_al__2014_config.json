@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5349",
   "file_extension": "json",
-  "date_accessed": "2022-09-15T11:17:06.282421",
+  "date_accessed": "2022-11-30T12:29:18.634935",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "e0873a83d4f3ffe1d00d6a0937997044",
+  "origin_md5": "c3d60adec8b6301fae418176ba1948ba",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5349_excess_fertilizers__west_et_al__2014_config.json",
-  "md5": "8a75d8cfdb9c2f57f4ceddc8ceffb608"
+  "md5": "8b5d22e371ab178e1842f8cfabf8c633"
 }
