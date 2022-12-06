@@ -6,11 +6,11 @@
   "source_name": "Our World in Data catalog backport",
   "url": "https://owid.cloud/admin/datasets/5429",
   "file_extension": "json",
-  "date_accessed": "2022-11-28T16:10:30.298117",
+  "date_accessed": "2022-12-06T11:00:53.335419",
   "is_public": false,
   "version": "latest",
   "publication_date": "latest",
-  "origin_md5": "722fe1a34f52aa4849ab7843ca192f69",
+  "origin_md5": "0910dad9e5cccffbc5daa57118e21ee5",
   "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5429_excess_mortality_estimates__the_economist__2022_config.json",
-  "md5": "4941b09fbef334d8afdb6f63d85472e9"
+  "md5": "3812da12a6e1662a592b60338c13407e"
 }
