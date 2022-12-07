@@ -1,0 +1,16 @@
+{
+  "namespace": "backport",
+  "short_name": "dataset_5827_natural_disasters__em_dat__2022_config",
+  "name": "Grapher metadata for dataset_5827_natural_disasters__em_dat__2022",
+  "description": "",
+  "source_name": "Our World in Data catalog backport",
+  "url": "https://owid.cloud/admin/datasets/5827",
+  "file_extension": "json",
+  "date_accessed": "2022-12-07T10:41:41.469435",
+  "is_public": true,
+  "version": "latest",
+  "publication_date": "latest",
+  "origin_md5": "5be2eaa76d775ac5e540f5e113afce94",
+  "owid_data_url": "https://walden.nyc3.digitaloceanspaces.com/backport/latest/dataset_5827_natural_disasters__em_dat__2022_config.json",
+  "md5": "7091e27254810a140c24a48c5729ab48"
+}
