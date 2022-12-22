@@ -4,7 +4,7 @@ from pathlib import Path
 
 import click
 import pandas as pd
-from owid.catalog.frames import repack_frame
+from owid.repack import repack_frame
 
 from owid.walden import add_to_catalog
 from owid.walden.catalog import Dataset

@@ -8,7 +8,7 @@ from typing import List
 import click
 import pandas as pd
 import requests
-from owid.catalog.frames import repack_frame
+from owid.repack import repack_frame
 from structlog import get_logger
 
 from owid.walden import add_to_catalog

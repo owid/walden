@@ -2,11 +2,11 @@
 name = "walden"
 version = "0.1.0"
 description = ""
-authors = ["Lars Yencken <lars@ourworldindata.org>"]
+authors = ["Our World In Data <tech@ourworldindata.org>"]
 packages = [{ include = "owid" }]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.8.1"
 jsonschema = "^3.2.0"
 click = "^8.0.1"
 sh = "^1.14.2"
@@ -19,8 +19,8 @@ rich = "^12.1.0"
 beautifulsoup4 = "^4.11.1"
 structlog = "^21.5.0"
 owid-datautils = {git = "https://github.com/owid/owid-datautils-py.git", tag = "v0.5.1-alpha"}
-owid-catalog = "^0.3.0"
 pyrsistent = "^0.19.1"
+owid-repack = "^0.1.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
