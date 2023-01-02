@@ -1,6 +1,6 @@
 # walden
 
-![build status](https://github.com/owid/walden/actions/workflows/python-package.yml/badge.svg)
+[![Build status](https://badge.buildkite.com/edcdffa923dfa79116d64f028a0ed069cfbe879a4e9924a0b8.svg)](https://buildkite.com/our-world-in-data/walden-unit-tests)
 
 _A prototype catalog of all upstream datasets used to build Our World In Data._
 
